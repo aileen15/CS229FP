@@ -1,0 +1,205 @@
+stateFIPS,State,Year,Value,Stability
+1,Alabama,2011,11.90%,1
+1,Alabama,2012,13.50%,1
+1,Alabama,2013,13.60%,1
+1,Alabama,2014,14.60%,1
+2,Alaska,2011,14.00%,1
+2,Alaska,2012,14.00%,1
+2,Alaska,2013,14.80%,1
+2,Alaska,2014,12.40%,1
+4,Arizona,2011,14.10%,1
+4,Arizona,2012,13.50%,1
+4,Arizona,2013,14.60%,1
+4,Arizona,2014,14.30%,1
+5,Arkansas,2011,14.20%,1
+5,Arkansas,2012,12.60%,1
+5,Arkansas,2013,13.10%,1
+5,Arkansas,2014,13.30%,1
+6,California,2011,14.00%,1
+6,California,2012,14.40%,1
+6,California,2013,14.40%,1
+6,California,2014,12.70%,1
+8,Colorado,2011,12.90%,1
+8,Colorado,2012,12.90%,1
+8,Colorado,2013,13.50%,1
+8,Colorado,2014,12.20%,1
+9,Connecticut,2011,14.80%,1
+9,Connecticut,2012,14.30%,1
+9,Connecticut,2013,16.60%,1
+9,Connecticut,2014,14.10%,1
+10,Delaware,2011,14.00%,1
+10,Delaware,2012,13.60%,1
+10,Delaware,2013,15.40%,1
+10,Delaware,2014,14.40%,1
+11,District of Columbia,2011,15.80%,1
+11,District of Columbia,2012,14.70%,1
+11,District of Columbia,2013,17.50%,1
+11,District of Columbia,2014,17.20%,1
+12,Florida,2011,12.30%,1
+12,Florida,2012,12.60%,1
+12,Florida,2013,13.50%,1
+12,Florida,2014,12.20%,1
+13,Georgia,2011,14.10%,1
+13,Georgia,2012,13.00%,1
+13,Georgia,2013,14.00%,1
+13,Georgia,2014,13.80%,1
+15,Hawaii,2011,16.20%,1
+15,Hawaii,2012,14.30%,1
+15,Hawaii,2013,16.60%,1
+15,Hawaii,2014,16.20%,1
+16,Idaho,2011,13.20%,1
+16,Idaho,2012,11.60%,1
+16,Idaho,2013,12.90%,1
+16,Idaho,2014,12.30%,1
+17,Illinois,2011,13.50%,1
+17,Illinois,2012,12.50%,1
+17,Illinois,2013,12.00%,1
+17,Illinois,2014,14.00%,1
+18,Indiana,2011,13.90%,1
+18,Indiana,2012,13.00%,1
+18,Indiana,2013,15.30%,1
+18,Indiana,2014,14.60%,1
+19,Iowa,2011,11.80%,1
+19,Iowa,2012,11.70%,1
+19,Iowa,2013,12.20%,1
+19,Iowa,2014,13.20%,1
+20,Kansas,2011,12.90%,1
+20,Kansas,2012,11.90%,1
+20,Kansas,2013,13.40%,1
+20,Kansas,2014,13.60%,1
+21,Kentucky,2011,15.00%,1
+21,Kentucky,2012,16.00%,1
+21,Kentucky,2013,14.20%,1
+21,Kentucky,2014,16.90%,1
+22,Louisiana,2011,11.10%,1
+22,Louisiana,2012,12.10%,1
+22,Louisiana,2013,12.30%,1
+22,Louisiana,2014,12.50%,1
+23,Maine,2011,16.80%,1
+23,Maine,2012,14.90%,1
+23,Maine,2013,16.20%,1
+23,Maine,2014,16.40%,1
+24,Maryland,2011,13.80%,1
+24,Maryland,2012,13.40%,1
+24,Maryland,2013,13.90%,1
+24,Maryland,2014,13.50%,1
+25,Massachusetts,2011,15.30%,1
+25,Massachusetts,2012,15.50%,1
+25,Massachusetts,2013,16.80%,1
+25,Massachusetts,2014,17.60%,1
+26,Michigan,2011,14.80%,1
+26,Michigan,2012,15.50%,1
+26,Michigan,2013,16.60%,1
+26,Michigan,2014,15.30%,1
+27,Minnesota,2011,10.90%,1
+27,Minnesota,2012,11.30%,1
+27,Minnesota,2013,11.90%,1
+27,Minnesota,2014,11.80%,1
+28,Mississippi,2011,12.40%,1
+28,Mississippi,2012,11.70%,1
+28,Mississippi,2013,12.50%,1
+28,Mississippi,2014,12.50%,1
+29,Missouri,2011,13.80%,1
+29,Missouri,2012,14.40%,1
+29,Missouri,2013,15.70%,1
+29,Missouri,2014,14.50%,1
+30,Montana,2011,13.40%,1
+30,Montana,2012,13.70%,1
+30,Montana,2013,13.20%,1
+30,Montana,2014,13.40%,1
+31,Nebraska,2011,11.50%,1
+31,Nebraska,2012,10.80%,1
+31,Nebraska,2013,11.20%,1
+31,Nebraska,2014,12.20%,1
+32,Nevada,2011,13.80%,1
+32,Nevada,2012,11.60%,1
+32,Nevada,2013,11.40%,1
+32,Nevada,2014,12.30%,1
+33,New Hampshire,2011,15.40%,1
+33,New Hampshire,2012,14.10%,1
+33,New Hampshire,2013,16.70%,1
+33,New Hampshire,2014,14.10%,1
+34,New Jersey,2011,13.00%,1
+34,New Jersey,2012,12.40%,1
+34,New Jersey,2013,13.60%,1
+34,New Jersey,2014,12.40%,1
+35,New Mexico,2011,15.30%,1
+35,New Mexico,2012,13.30%,1
+35,New Mexico,2013,14.50%,1
+35,New Mexico,2014,14.40%,1
+36,New York,2011,14.50%,1
+36,New York,2012,13.80%,1
+36,New York,2013,14.90%,1
+36,New York,2014,15.00%,1
+37,North Carolina,2011,13.20%,1
+37,North Carolina,2012,11.70%,1
+37,North Carolina,2013,13.10%,1
+37,North Carolina,2014,11.50%,1
+38,North Dakota,2011,11.50%,1
+38,North Dakota,2012,10.50%,1
+38,North Dakota,2013,12.30%,1
+38,North Dakota,2014,12.20%,1
+39,Ohio,2011,13.60%,1
+39,Ohio,2012,14.00%,1
+39,Ohio,2013,14.20%,1
+39,Ohio,2014,15.00%,1
+40,Oklahoma,2011,14.40%,1
+40,Oklahoma,2012,14.00%,1
+40,Oklahoma,2013,14.60%,1
+40,Oklahoma,2014,14.30%,1
+41,Oregon,2011,16.70%,1
+41,Oregon,2012,16.90%,1
+41,Oregon,2013,18.20%,1
+41,Oregon,2014,16.60%,1
+42,Pennsylvania,2011,12.90%,1
+42,Pennsylvania,2012,13.50%,1
+42,Pennsylvania,2013,14.20%,1
+42,Pennsylvania,2014,14.30%,1
+44,Rhode Island,2011,16.30%,1
+44,Rhode Island,2012,15.90%,1
+44,Rhode Island,2013,17.40%,1
+44,Rhode Island,2014,15.20%,1
+45,South Carolina,2011,12.90%,1
+45,South Carolina,2012,13.10%,1
+45,South Carolina,2013,13.40%,1
+45,South Carolina,2014,13.10%,1
+46,South Dakota,2011,11.20%,1
+46,South Dakota,2012,10.90%,1
+46,South Dakota,2013,11.80%,1
+46,South Dakota,2014,11.20%,1
+47,Tennessee,2011,10.40%,1
+47,Tennessee,2012,11.00%,1
+47,Tennessee,2013,11.30%,1
+47,Tennessee,2014,14.40%,1
+48,Texas,2011,12.30%,1
+48,Texas,2012,10.90%,1
+48,Texas,2013,12.60%,1
+48,Texas,2014,11.10%,1
+49,Utah,2011,13.50%,1
+49,Utah,2012,12.90%,1
+49,Utah,2013,14.10%,1
+49,Utah,2014,13.40%,1
+50,Vermont,2011,15.80%,1
+50,Vermont,2012,15.00%,1
+50,Vermont,2013,16.40%,1
+50,Vermont,2014,16.50%,1
+51,Virginia,2011,12.80%,1
+51,Virginia,2012,13.40%,1
+51,Virginia,2013,13.60%,1
+51,Virginia,2014,12.70%,1
+53,Washington,2011,14.40%,1
+53,Washington,2012,15.00%,1
+53,Washington,2013,15.80%,1
+53,Washington,2014,14.80%,1
+54,West Virginia,2011,12.00%,1
+54,West Virginia,2012,12.70%,1
+54,West Virginia,2013,13.60%,1
+54,West Virginia,2014,14.50%,1
+55,Wisconsin,2011,11.90%,1
+55,Wisconsin,2012,11.10%,1
+55,Wisconsin,2013,14.90%,1
+55,Wisconsin,2014,12.70%,1
+56,Wyoming,2011,13.40%,1
+56,Wyoming,2012,12.30%,1
+56,Wyoming,2013,14.10%,1
+56,Wyoming,2014,12.00%,1
