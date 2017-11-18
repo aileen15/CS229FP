@@ -1,0 +1,759 @@
+measure label,year,state,county,fips,value,numerator,denominator
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Baldwin County,1003,0.032264046,174,5393
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Calhoun County,1015,0.039032258,121,3100
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Elmore County,1051,0.04820513,94,1950
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Etowah County,1055,0.013616213,43,3158
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Houston County,1069,0.038374718,85,2215
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Jefferson County,1073,0.032433122,508,15663
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Lauderdale County,1077,0.068842202,154,2237
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Lee County,1081,0.065299921,172,2634
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Limestone County,1083,0.021772152,43,1975
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Madison County,1089,0.059452474,506,8511
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Marshall County,1095,0.020982882,38,1811
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Mobile County,1097,0.023327805,211,9045
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Montgomery County,1101,0.047667004,284,5958
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Morgan County,1103,0.027959809,64,2289
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Shelby County,1117,0.014399689,74,5139
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Talladega County,1121,0.093610093,230,2457
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Tuscaloosa County,1125,0.020954305,83,3961
+Senior Unemployment Rate (1y Avg.),2014, Alabama,Walker County,1127,0,0,1714
+Senior Unemployment Rate (1y Avg.),2014, Alaska,Anchorage Municipality,2020,0.027152022,182,6703
+Senior Unemployment Rate (1y Avg.),2014, Alaska,Fairbanks North Star Borough,2090,0,0,2116
+Senior Unemployment Rate (1y Avg.),2014, Alaska,Matanuska-Susitna Borough,2170,0.104808874,255,2433
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Apache County,4001,0,0,708
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Cochise County,4003,0.030688623,82,2672
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Coconino County,4005,0,0,2823
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Maricopa County,4013,0.044850461,4016,89542
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Mohave County,4015,0.054161441,259,4782
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Navajo County,4017,0.098203592,164,1670
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Pima County,4019,0.043900833,1066,24282
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Pinal County,4021,0.064749144,493,7614
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Yavapai County,4025,0.091282777,644,7055
+Senior Unemployment Rate (1y Avg.),2014, Arizona,Yuma County,4027,0.062556051,279,4460
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Benton County,5007,0.016396845,79,4818
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Craighead County,5031,0,0,2612
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Faulkner County,5045,0.023199024,38,1638
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Garland County,5051,0.081256069,251,3089
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Jefferson County,5069,0.032484077,51,1570
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Pulaski County,5119,0.030318871,348,11478
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Saline County,5125,0.019051479,47,2467
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Sebastian County,5131,0.020083103,58,2888
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,Washington County,5143,0.019103773,81,4240
+Senior Unemployment Rate (1y Avg.),2014, Arkansas,White County,5145,0.055995476,99,1768
+Senior Unemployment Rate (1y Avg.),2014, California,Alameda County,6001,0.061647896,2392,38801
+Senior Unemployment Rate (1y Avg.),2014, California,Butte County,6007,0.056469772,326,5773
+Senior Unemployment Rate (1y Avg.),2014, California,Contra Costa County,6013,0.057464149,1671,29079
+Senior Unemployment Rate (1y Avg.),2014, California,El Dorado County,6017,0.090612665,528,5827
+Senior Unemployment Rate (1y Avg.),2014, California,Fresno County,6019,0.02937826,490,16679
+Senior Unemployment Rate (1y Avg.),2014, California,Humboldt County,6023,0.051354758,163,3174
+Senior Unemployment Rate (1y Avg.),2014, California,Imperial County,6025,0.055265125,148,2678
+Senior Unemployment Rate (1y Avg.),2014, California,Kern County,6029,0.046130143,509,11034
+Senior Unemployment Rate (1y Avg.),2014, California,Kings County,6031,0,0,1897
+Senior Unemployment Rate (1y Avg.),2014, California,Los Angeles County,6037,0.060620885,13507,222811
+Senior Unemployment Rate (1y Avg.),2014, California,Madera County,6039,0.030444127,85,2792
+Senior Unemployment Rate (1y Avg.),2014, California,Marin County,6041,0.025356982,396,15617
+Senior Unemployment Rate (1y Avg.),2014, California,Mendocino County,6045,0,0,3449
+Senior Unemployment Rate (1y Avg.),2014, California,Merced County,6047,0.036987223,165,4461
+Senior Unemployment Rate (1y Avg.),2014, California,Monterey County,6053,0.01178871,104,8822
+Senior Unemployment Rate (1y Avg.),2014, California,Napa County,6055,0.075933613,366,4820
+Senior Unemployment Rate (1y Avg.),2014, California,Nevada County,6057,0.064921014,300,4621
+Senior Unemployment Rate (1y Avg.),2014, California,Orange County,6059,0.047451802,3810,80292
+Senior Unemployment Rate (1y Avg.),2014, California,Placer County,6061,0.04287529,405,9446
+Senior Unemployment Rate (1y Avg.),2014, California,Riverside County,6065,0.054127011,2366,43712
+Senior Unemployment Rate (1y Avg.),2014, California,Sacramento County,6067,0.064953342,1754,27004
+Senior Unemployment Rate (1y Avg.),2014, California,San Bernardino County,6071,0.070774458,2249,31777
+Senior Unemployment Rate (1y Avg.),2014, California,San Diego County,6073,0.058698066,4018,68452
+Senior Unemployment Rate (1y Avg.),2014, California,San Francisco County,6075,0.03290572,749,22762
+Senior Unemployment Rate (1y Avg.),2014, California,San Joaquin County,6077,0.032424241,428,13200
+Senior Unemployment Rate (1y Avg.),2014, California,San Luis Obispo County,6079,0.082716368,648,7834
+Senior Unemployment Rate (1y Avg.),2014, California,San Mateo County,6081,0.048090145,1084,22541
+Senior Unemployment Rate (1y Avg.),2014, California,Santa Barbara County,6083,0.05166911,599,11593
+Senior Unemployment Rate (1y Avg.),2014, California,Santa Clara County,6085,0.044280712,1833,41395
+Senior Unemployment Rate (1y Avg.),2014, California,Santa Cruz County,6087,0.042914171,387,9018
+Senior Unemployment Rate (1y Avg.),2014, California,Shasta County,6089,0.064893827,327,5039
+Senior Unemployment Rate (1y Avg.),2014, California,Solano County,6095,0.035904519,364,10138
+Senior Unemployment Rate (1y Avg.),2014, California,Sonoma County,6097,0.038084313,664,17435
+Senior Unemployment Rate (1y Avg.),2014, California,Stanislaus County,6099,0.134422719,1382,10281
+Senior Unemployment Rate (1y Avg.),2014, California,Sutter County,6101,0.02720785,61,2242
+Senior Unemployment Rate (1y Avg.),2014, California,Tulare County,6107,0.071862347,568,7904
+Senior Unemployment Rate (1y Avg.),2014, California,Ventura County,6111,0.058538843,1391,23762
+Senior Unemployment Rate (1y Avg.),2014, California,Yolo County,6113,0.07228554,241,3334
+Senior Unemployment Rate (1y Avg.),2014, California,Yuba County,6115,0,0,1263
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Adams County,8001,0.056519698,482,8528
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Arapahoe County,8005,0.01850464,321,17347
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Boulder County,8013,0.03032336,226,7453
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Denver County,8031,0.038882922,543,13965
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Douglas County,8035,0.053954881,397,7358
+Senior Unemployment Rate (1y Avg.),2014, Colorado,El Paso County,8041,0.085714288,1017,11865
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Jefferson County,8059,0.02988182,488,16331
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Larimer County,8069,0.068488114,559,8162
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Mesa County,8077,0.064473338,243,3769
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Pueblo County,8101,0.065896928,234,3551
+Senior Unemployment Rate (1y Avg.),2014, Colorado,Weld County,8123,0.045883548,316,6887
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Fairfield County,9001,0.082443565,2772,33623
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Hartford County,9003,0.045451108,1202,26446
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Litchfield County,9005,0.026127648,201,7693
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Middlesex County,9007,0.024435554,171,6998
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,New Haven County,9009,0.070535749,1992,28241
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,New London County,9011,0.020729167,199,9600
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Tolland County,9013,0.031864673,162,5084
+Senior Unemployment Rate (1y Avg.),2014, Connecticut,Windham County,9015,0.043326039,99,2285
+Senior Unemployment Rate (1y Avg.),2014, Delaware,Kent County,10001,0.018691588,68,3638
+Senior Unemployment Rate (1y Avg.),2014, Delaware,New Castle County,10003,0.017012419,237,13931
+Senior Unemployment Rate (1y Avg.),2014, Delaware,Sussex County,10005,0.078176878,777,9939
+Senior Unemployment Rate (1y Avg.),2014, District of Columbia,District of Columbia,11001,0.036783077,633,17209
+Senior Unemployment Rate (1y Avg.),2014, Florida,Alachua County,12001,0.018703703,101,5400
+Senior Unemployment Rate (1y Avg.),2014, Florida,Bay County,12005,0.019855112,74,3727
+Senior Unemployment Rate (1y Avg.),2014, Florida,Brevard County,12009,0.062226359,1137,18272
+Senior Unemployment Rate (1y Avg.),2014, Florida,Broward County,12011,0.080881134,4395,54339
+Senior Unemployment Rate (1y Avg.),2014, Florida,Charlotte County,12015,0.064575016,566,8765
+Senior Unemployment Rate (1y Avg.),2014, Florida,Citrus County,12017,0.061775148,261,4225
+Senior Unemployment Rate (1y Avg.),2014, Florida,Clay County,12019,0.068127677,286,4198
+Senior Unemployment Rate (1y Avg.),2014, Florida,Collier County,12021,0.053891771,727,13490
+Senior Unemployment Rate (1y Avg.),2014, Florida,Duval County,12031,0.036855727,655,17772
+Senior Unemployment Rate (1y Avg.),2014, Florida,Escambia County,12033,0.042505257,283,6658
+Senior Unemployment Rate (1y Avg.),2014, Florida,Flagler County,12035,0.060845755,200,3287
+Senior Unemployment Rate (1y Avg.),2014, Florida,Hernando County,12053,0.03141848,169,5379
+Senior Unemployment Rate (1y Avg.),2014, Florida,Highlands County,12055,0.04247991,148,3484
+Senior Unemployment Rate (1y Avg.),2014, Florida,Hillsborough County,12057,0.053686444,1492,27791
+Senior Unemployment Rate (1y Avg.),2014, Florida,Indian River County,12061,0.018689893,103,5511
+Senior Unemployment Rate (1y Avg.),2014, Florida,Lake County,12069,0.03457335,329,9516
+Senior Unemployment Rate (1y Avg.),2014, Florida,Lee County,12071,0.048835956,1267,25944
+Senior Unemployment Rate (1y Avg.),2014, Florida,Leon County,12073,0.013956861,77,5517
+Senior Unemployment Rate (1y Avg.),2014, Florida,Manatee County,12081,0.045019157,517,11484
+Senior Unemployment Rate (1y Avg.),2014, Florida,Marion County,12083,0.052375764,625,11933
+Senior Unemployment Rate (1y Avg.),2014, Florida,Martin County,12085,0.100300901,800,7976
+Senior Unemployment Rate (1y Avg.),2014, Florida,Miami-Dade County,12086,0.043023586,2884,67033
+Senior Unemployment Rate (1y Avg.),2014, Florida,Okaloosa County,12091,0.035355486,183,5176
+Senior Unemployment Rate (1y Avg.),2014, Florida,Orange County,12095,0.042707108,980,22947
+Senior Unemployment Rate (1y Avg.),2014, Florida,Osceola County,12097,0.126388893,637,5040
+Senior Unemployment Rate (1y Avg.),2014, Florida,Palm Beach County,12099,0.03469608,1834,52859
+Senior Unemployment Rate (1y Avg.),2014, Florida,Pasco County,12101,0.056346536,653,11589
+Senior Unemployment Rate (1y Avg.),2014, Florida,Pinellas County,12103,0.034862556,1130,32413
+Senior Unemployment Rate (1y Avg.),2014, Florida,Polk County,12105,0.040289562,679,16853
+Senior Unemployment Rate (1y Avg.),2014, Florida,Santa Rosa County,12113,0.01011378,40,3955
+Senior Unemployment Rate (1y Avg.),2014, Florida,Sarasota County,12115,0.044865098,730,16271
+Senior Unemployment Rate (1y Avg.),2014, Florida,Seminole County,12117,0.04079498,429,10516
+Senior Unemployment Rate (1y Avg.),2014, Florida,St. Johns County,12109,0.048014391,347,7227
+Senior Unemployment Rate (1y Avg.),2014, Florida,St. Lucie County,12111,0.079930998,695,8695
+Senior Unemployment Rate (1y Avg.),2014, Florida,Volusia County,12127,0.05860398,895,15272
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Barrow County,13013,0.058148433,76,1307
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Bartow County,13015,0.06745784,108,1601
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Bibb County,13021,0.064674176,132,2041
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Carroll County,13045,0.027058147,47,1737
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Chatham County,13051,0.056349207,355,6300
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Cherokee County,13057,0.072014928,386,5360
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Clarke County,13059,0.033978663,86,2531
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Clayton County,13063,0.058035713,221,3808
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Cobb County,13067,0.044647262,724,16216
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Columbia County,13073,0.019964974,57,2855
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Coweta County,13077,0.022311212,78,3496
+Senior Unemployment Rate (1y Avg.),2014, Georgia,DeKalb County,13089,0.039999999,571,14275
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Dougherty County,13095,0.146728009,287,1956
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Douglas County,13097,0.029712616,61,2053
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Fayette County,13113,0.074640289,249,3336
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Floyd County,13115,0.061910376,105,1696
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Forsyth County,13117,0.059580229,176,2954
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Fulton County,13121,0.057377476,1097,19119
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Gwinnett County,13135,0.021310132,338,15861
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Hall County,13139,0.024099151,105,4357
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Henry County,13151,0.018181818,64,3520
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Houston County,13153,0.051870324,104,2005
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Liberty County,13179,0.211494252,92,435
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Lowndes County,13185,0.033050045,70,2118
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Muscogee County,13215,0.022317596,78,3495
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Richmond County,13245,0.038198404,134,3508
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Troup County,13285,0.124912284,178,1425
+Senior Unemployment Rate (1y Avg.),2014, Georgia,Walton County,13297,0.137734309,169,1227
+Senior Unemployment Rate (1y Avg.),2014, Hawaii,Hawaii County,15001,0.011797477,72,6103
+Senior Unemployment Rate (1y Avg.),2014, Hawaii,Honolulu County,15003,0.025466152,758,29765
+Senior Unemployment Rate (1y Avg.),2014, Hawaii,Kauai County,15007,0.060971409,177,2903
+Senior Unemployment Rate (1y Avg.),2014, Hawaii,Maui County,15009,0.015253101,91,5966
+Senior Unemployment Rate (1y Avg.),2014, Idaho,Ada County,16001,0.041293092,327,7919
+Senior Unemployment Rate (1y Avg.),2014, Idaho,Bannock County,16005,0.020109689,33,1641
+Senior Unemployment Rate (1y Avg.),2014, Idaho,Bonneville County,16019,0.006810443,12,1762
+Senior Unemployment Rate (1y Avg.),2014, Idaho,Canyon County,16027,0,0,3899
+Senior Unemployment Rate (1y Avg.),2014, Idaho,Kootenai County,16055,0.192906857,582,3017
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Adams County,17001,0.01979346,46,2324
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Champaign County,17019,0.008092485,42,5190
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Cook County,17031,0.053918593,6304,116917
+Senior Unemployment Rate (1y Avg.),2014, Illinois,DeKalb County,17037,0.02476269,60,2423
+Senior Unemployment Rate (1y Avg.),2014, Illinois,DuPage County,17043,0.032463331,903,27816
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Kane County,17089,0.019422693,253,13026
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Kankakee County,17091,0,0,2344
+Senior Unemployment Rate (1y Avg.),2014, Illinois,LaSalle County,17099,0.003016591,6,1989
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Lake County,17097,0.081524201,1442,17688
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Macon County,17115,0.073695734,202,2741
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Madison County,17119,0.073741287,476,6455
+Senior Unemployment Rate (1y Avg.),2014, Illinois,McHenry County,17111,0.037031658,255,6886
+Senior Unemployment Rate (1y Avg.),2014, Illinois,McLean County,17113,0.013520541,52,3846
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Peoria County,17143,0.075409062,318,4217
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Rock Island County,17161,0.0211838,68,3210
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Sangamon County,17167,0.020028323,99,4943
+Senior Unemployment Rate (1y Avg.),2014, Illinois,St. Clair County,17163,0.014459789,89,6155
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Tazewell County,17179,0.027404621,102,3722
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Vermilion County,17183,0.035911601,65,1810
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Will County,17197,0.049043868,654,13335
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Williamson County,17199,0.02747792,56,2038
+Senior Unemployment Rate (1y Avg.),2014, Illinois,Winnebago County,17201,0.067863978,461,6793
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Allen County,18003,0.037973285,344,9059
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Clark County,18019,0.013986014,44,3146
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Delaware County,18035,0.031949934,97,3036
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Elkhart County,18039,0.043305438,207,4780
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Floyd County,18043,0,0,2175
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Hamilton County,18057,0.028223783,225,7972
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Hendricks County,18063,0.057210032,219,3828
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Howard County,18067,0.057633586,151,2620
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Johnson County,18081,0.011249694,46,4089
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Kosciusko County,18085,0,0,2325
+Senior Unemployment Rate (1y Avg.),2014, Indiana,LaPorte County,18091,0.067951322,201,2958
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Lake County,18089,0.057380758,634,11049
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Madison County,18095,0.055063915,168,3051
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Marion County,18097,0.08130081,1490,18327
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Monroe County,18105,0.014330497,64,4466
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Porter County,18127,0.03325364,153,4601
+Senior Unemployment Rate (1y Avg.),2014, Indiana,St. Joseph County,18141,0.048837211,357,7310
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Tippecanoe County,18157,0,0,3318
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Vanderburgh County,18163,0.052228726,232,4442
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Vigo County,18167,0.07181029,215,2994
+Senior Unemployment Rate (1y Avg.),2014, Indiana,Wayne County,18177,0.020755721,39,1879
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Black Hawk County,19013,0.042666666,128,3000
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Dubuque County,19061,0.012151067,37,3045
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Johnson County,19103,0.035808321,136,3798
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Linn County,19113,0.011529332,68,5898
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Polk County,19153,0.037262209,380,10198
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Pottawattamie County,19155,0.044044945,98,2225
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Scott County,19163,0.00343879,15,4362
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Story County,19169,0.015934067,29,1820
+Senior Unemployment Rate (1y Avg.),2014, Iowa,Woodbury County,19193,0.010432767,27,2588
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Butler County,20015,0,0,1508
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Douglas County,20045,0,0,2609
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Johnson County,20091,0.02765581,422,15259
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Leavenworth County,20103,0,0,1478
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Riley County,20161,0.035003018,58,1657
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Sedgwick County,20173,0.043007821,473,10998
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Shawnee County,20177,0.055883046,237,4241
+Senior Unemployment Rate (1y Avg.),2014, Kansas,Wyandotte County,20209,0.078548051,264,3361
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Boone County,21015,0.113704823,302,2656
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Bullitt County,21029,0.038506418,33,857
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Campbell County,21037,0.009544008,18,1886
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Christian County,21047,0,0,907
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Daviess County,21059,0,0,2011
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Fayette County,21067,0.027721222,177,6385
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Hardin County,21093,0,0,2208
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Jefferson County,21111,0.042037345,860,20458
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Kenton County,21117,0.06287045,297,4724
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Madison County,21151,0.052076466,79,1517
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Pike County,21195,0.086866595,84,967
+Senior Unemployment Rate (1y Avg.),2014, Kentucky,Warren County,21227,0.003145891,8,2543
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Bossier Parish,22015,0.018512899,61,3295
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Caddo Parish,22017,0.039945323,263,6584
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Calcasieu Parish,22019,0.022435898,112,4992
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,East Baton Rouge Parish,22033,0.03875896,411,10604
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Jefferson Parish,22051,0.044220958,598,13523
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Lafayette Parish,22055,0.0231272,138,5967
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Lafourche Parish,22057,0.020642202,45,2180
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Orleans Parish,22071,0.064645387,484,7487
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Ouachita Parish,22073,0.017375033,65,3741
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Rapides Parish,22079,0.034519956,96,2781
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,St. Landry Parish,22097,0,0,1756
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,St. Tammany Parish,22103,0.029415542,229,7785
+Senior Unemployment Rate (1y Avg.),2014, Louisiana,Tangipahoa Parish,22105,0.003237743,7,2162
+Senior Unemployment Rate (1y Avg.),2014, Maine,Androscoggin County,23001,0.021905424,63,2876
+Senior Unemployment Rate (1y Avg.),2014, Maine,Aroostook County,23003,0.003467707,8,2307
+Senior Unemployment Rate (1y Avg.),2014, Maine,Cumberland County,23005,0.015768319,153,9703
+Senior Unemployment Rate (1y Avg.),2014, Maine,Kennebec County,23011,0.046833578,159,3395
+Senior Unemployment Rate (1y Avg.),2014, Maine,Penobscot County,23019,0.034194164,143,4182
+Senior Unemployment Rate (1y Avg.),2014, Maine,York County,23031,0.02491565,192,7706
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Allegany County,24001,0.039202657,59,1505
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Anne Arundel County,24003,0.02637903,472,17893
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Baltimore County,24005,0.034881581,947,27149
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Baltimore city,24510,0.05833032,807,13835
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Calvert County,24009,0,0,1613
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Carroll County,24013,0.046511628,230,4945
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Cecil County,24015,0.052854124,100,1892
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Charles County,24017,0.014338235,39,2720
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Frederick County,24021,0.019837398,122,6150
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Harford County,24025,0.05784674,425,7347
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Howard County,24027,0.02146264,189,8806
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Montgomery County,24031,0.030374089,1101,36248
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Prince George's County,24033,0.062265247,1608,25825
+Senior Unemployment Rate (1y Avg.),2014, Maryland,St. Mary's County,24037,0,0,1817
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Washington County,24043,0.031285878,109,3484
+Senior Unemployment Rate (1y Avg.),2014, Maryland,Wicomico County,24045,0.077160493,225,2916
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Barnstable County,25001,0.058267716,740,12700
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Berkshire County,25003,0.057462957,318,5534
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Bristol County,25005,0.016718913,224,13398
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Essex County,25009,0.055967111,1375,24568
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Franklin County,25011,0,0,3037
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Hampden County,25013,0.036064152,416,11535
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Hampshire County,25015,0.002787905,13,4663
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Middlesex County,25017,0.046534766,2432,52262
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Norfolk County,25021,0.053679414,1367,25466
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Plymouth County,25023,0.049914237,873,17490
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Suffolk County,25025,0.054971818,790,14371
+Senior Unemployment Rate (1y Avg.),2014, Massachusetts,Worcester County,25027,0.047920626,1135,23685
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Allegan County,26005,0.009430256,24,2545
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Bay County,26017,0.007221955,15,2077
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Berrien County,26021,0.023784015,111,4667
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Calhoun County,26025,0.10991168,224,2038
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Clinton County,26037,0.022792023,32,1404
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Eaton County,26045,0.029223379,73,2498
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Genesee County,26049,0.043666668,262,6000
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Grand Traverse County,26055,0,0,2391
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Ingham County,26065,0.041429732,204,4924
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Isabella County,26073,0.072026804,86,1194
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Jackson County,26075,0.006845053,22,3214
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Kalamazoo County,26077,0.024561403,126,5130
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Kent County,26081,0.048064515,596,12400
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Lapeer County,26087,0.073513515,68,925
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Lenawee County,26091,0.006882989,14,2034
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Livingston County,26093,0.05648008,224,3966
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Macomb County,26099,0.032018743,492,15366
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Marquette County,26103,0.115740739,75,648
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Midland County,26111,0.012379643,18,1454
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Monroe County,26115,0.038195856,94,2461
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Muskegon County,26121,0.035634745,128,3592
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Oakland County,26125,0.041630611,1347,32356
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Ottawa County,26139,0.064848483,428,6600
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Saginaw County,26145,0.028113332,128,4553
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Shiawassee County,26155,0.063680895,91,1429
+Senior Unemployment Rate (1y Avg.),2014, Michigan,St. Clair County,26147,0.037530266,124,3304
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Van Buren County,26159,0.007246377,12,1656
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Washtenaw County,26161,0.046436526,417,8980
+Senior Unemployment Rate (1y Avg.),2014, Michigan,Wayne County,26163,0.0639681,1909,29843
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Anoka County,27003,0.02381284,171,7181
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Blue Earth County,27013,0.08211679,90,1096
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Carver County,27019,0.006320542,14,2215
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Dakota County,27037,0.043527737,459,10545
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Hennepin County,27053,0.031820554,976,30672
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Olmsted County,27109,0.031534262,104,3298
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Ramsey County,27123,0.014547367,166,11411
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Rice County,27131,0.014866204,30,2018
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Scott County,27139,0.021819679,53,2429
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Sherburne County,27141,0,0,1593
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,St. Louis County,27137,0.052920964,231,4365
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Stearns County,27145,0.043683916,157,3594
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Washington County,27163,0.031383473,169,5385
+Senior Unemployment Rate (1y Avg.),2014, Minnesota,Wright County,27171,0.009719626,26,2675
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,DeSoto County,28033,0.027080394,96,3545
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Forrest County,28035,0.050381679,99,1965
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Harrison County,28047,0.107719034,434,4029
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Hinds County,28049,0,0,4809
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Jackson County,28059,0,0,2028
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Madison County,28089,0,0,1912
+Senior Unemployment Rate (1y Avg.),2014, Mississippi,Rankin County,28121,0.011476664,45,3921
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Boone County,29019,0.024786986,96,3873
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Buchanan County,29021,0.02896007,66,2279
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Cape Girardeau County,29031,0.050266903,113,2248
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Cass County,29037,0.044491526,105,2360
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Clay County,29047,0.021112865,107,5068
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Cole County,29051,0.04039735,61,1510
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Franklin County,29071,0.024289643,53,2182
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Greene County,29077,0.023217475,169,7279
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Jackson County,29095,0.02132456,350,16413
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Jasper County,29097,0.010243632,37,3612
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Jefferson County,29099,0.015045561,71,4719
+Senior Unemployment Rate (1y Avg.),2014, Missouri,Platte County,29165,0,0,2038
+Senior Unemployment Rate (1y Avg.),2014, Missouri,St. Charles County,29183,0.059440192,567,9539
+Senior Unemployment Rate (1y Avg.),2014, Missouri,St. Louis County,29189,0.0236843,689,29091
+Senior Unemployment Rate (1y Avg.),2014, Missouri,St. Louis city,29510,0.076862589,391,5087
+Senior Unemployment Rate (1y Avg.),2014, Montana,Cascade County,30013,0.033075299,94,2842
+Senior Unemployment Rate (1y Avg.),2014, Montana,Gallatin County,30031,0.029827315,57,1911
+Senior Unemployment Rate (1y Avg.),2014, Montana,Missoula County,30063,0.074878447,231,3085
+Senior Unemployment Rate (1y Avg.),2014, Montana,Yellowstone County,30111,0.019586507,108,5514
+Senior Unemployment Rate (1y Avg.),2014, Nebraska,Douglas County,31055,0.009696492,123,12685
+Senior Unemployment Rate (1y Avg.),2014, Nebraska,Lancaster County,31109,0.010706058,79,7379
+Senior Unemployment Rate (1y Avg.),2014, Nebraska,Sarpy County,31153,0,0,3562
+Senior Unemployment Rate (1y Avg.),2014, Nevada,Clark County,32003,0.091342069,4085,44722
+Senior Unemployment Rate (1y Avg.),2014, Nevada,Washoe County,32031,0.079255365,860,10851
+Senior Unemployment Rate (1y Avg.),2014, New Hampshire,Grafton County,33009,0.008045679,31,3853
+Senior Unemployment Rate (1y Avg.),2014, New Hampshire,Hillsborough County,33011,0.058553386,663,11323
+Senior Unemployment Rate (1y Avg.),2014, New Hampshire,Merrimack County,33013,0.035145164,161,4581
+Senior Unemployment Rate (1y Avg.),2014, New Hampshire,Rockingham County,33015,0.00967118,95,9823
+Senior Unemployment Rate (1y Avg.),2014, New Hampshire,Strafford County,33017,0.010638298,35,3290
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Atlantic County,34001,0.102673225,772,7519
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Bergen County,34003,0.057296753,1936,33789
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Burlington County,34005,0.04847965,735,15161
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Camden County,34007,0.043406866,608,14007
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Cape May County,34009,0.078879207,335,4247
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Cumberland County,34011,0.089483157,348,3889
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Essex County,34013,0.063709438,1284,20154
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Gloucester County,34015,0.048794966,411,8423
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Hudson County,34017,0.045774646,546,11928
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Hunterdon County,34019,0.074459724,379,5090
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Mercer County,34021,0.0451249,504,11169
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Middlesex County,34023,0.050572734,1117,22087
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Monmouth County,34025,0.066623516,1441,21629
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Morris County,34027,0.066055954,1197,18121
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Ocean County,34029,0.090228543,1820,20171
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Passaic County,34031,0.076078899,1026,13486
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Salem County,34033,0.018907564,36,1904
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Somerset County,34035,0.037278749,377,10113
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Sussex County,34037,0.012104095,60,4957
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Union County,34039,0.076999083,1091,14169
+Senior Unemployment Rate (1y Avg.),2014, New Jersey,Warren County,34041,0.095773794,315,3289
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Bernalillo County,35001,0.064705096,972,15022
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Chaves County,35005,0.035098154,59,1681
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Doña Ana County,35013,0.016949153,82,4838
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Lea County,35025,0,0,1595
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,McKinley County,35031,0.042886317,63,1469
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Otero County,35035,0.106912442,116,1085
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,San Juan County,35045,0.056236081,202,3592
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Sandoval County,35043,0.17718941,609,3437
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Santa Fe County,35049,0.030873494,205,6640
+Senior Unemployment Rate (1y Avg.),2014, New Mexico,Valencia County,35061,0.056703508,118,2081
+Senior Unemployment Rate (1y Avg.),2014, New York,Albany County,36001,0.046621934,403,8644
+Senior Unemployment Rate (1y Avg.),2014, New York,Bronx County,36005,0.076492146,1461,19100
+Senior Unemployment Rate (1y Avg.),2014, New York,Broome County,36007,0.026052104,130,4990
+Senior Unemployment Rate (1y Avg.),2014, New York,Cattaraugus County,36009,0.018099548,32,1768
+Senior Unemployment Rate (1y Avg.),2014, New York,Cayuga County,36011,0,0,2490
+Senior Unemployment Rate (1y Avg.),2014, New York,Chautauqua County,36013,0.052965313,142,2681
+Senior Unemployment Rate (1y Avg.),2014, New York,Chemung County,36015,0.060213063,130,2159
+Senior Unemployment Rate (1y Avg.),2014, New York,Clinton County,36019,0,0,1915
+Senior Unemployment Rate (1y Avg.),2014, New York,Dutchess County,36027,0.029922891,260,8689
+Senior Unemployment Rate (1y Avg.),2014, New York,Erie County,36029,0.045241877,1054,23297
+Senior Unemployment Rate (1y Avg.),2014, New York,Jefferson County,36045,0.035495181,81,2282
+Senior Unemployment Rate (1y Avg.),2014, New York,Kings County,36047,0.048756238,2501,51296
+Senior Unemployment Rate (1y Avg.),2014, New York,Livingston County,36051,0.024781341,34,1372
+Senior Unemployment Rate (1y Avg.),2014, New York,Madison County,36053,0.055338543,85,1536
+Senior Unemployment Rate (1y Avg.),2014, New York,Monroe County,36055,0.04215965,816,19355
+Senior Unemployment Rate (1y Avg.),2014, New York,Nassau County,36059,0.033012491,1612,48830
+Senior Unemployment Rate (1y Avg.),2014, New York,New York County,36061,0.055501197,3290,59278
+Senior Unemployment Rate (1y Avg.),2014, New York,Niagara County,36063,0.070084244,391,5579
+Senior Unemployment Rate (1y Avg.),2014, New York,Oneida County,36065,0.057742354,355,6148
+Senior Unemployment Rate (1y Avg.),2014, New York,Onondaga County,36067,0.070301421,793,11280
+Senior Unemployment Rate (1y Avg.),2014, New York,Ontario County,36069,0.102034122,311,3048
+Senior Unemployment Rate (1y Avg.),2014, New York,Orange County,36071,0.031132398,273,8769
+Senior Unemployment Rate (1y Avg.),2014, New York,Oswego County,36075,0.053774562,104,1934
+Senior Unemployment Rate (1y Avg.),2014, New York,Putnam County,36079,0.022485567,74,3291
+Senior Unemployment Rate (1y Avg.),2014, New York,Queens County,36081,0.049706668,2491,50114
+Senior Unemployment Rate (1y Avg.),2014, New York,Rensselaer County,36083,0.029392695,136,4627
+Senior Unemployment Rate (1y Avg.),2014, New York,Richmond County,36085,0.046545006,454,9754
+Senior Unemployment Rate (1y Avg.),2014, New York,Rockland County,36087,0.031664085,368,11622
+Senior Unemployment Rate (1y Avg.),2014, New York,Saratoga County,36091,0.030402789,157,5164
+Senior Unemployment Rate (1y Avg.),2014, New York,Schenectady County,36093,0.155720592,671,4309
+Senior Unemployment Rate (1y Avg.),2014, New York,St. Lawrence County,36089,0.071306333,125,1753
+Senior Unemployment Rate (1y Avg.),2014, New York,Steuben County,36101,0.040319361,101,2505
+Senior Unemployment Rate (1y Avg.),2014, New York,Suffolk County,36103,0.05326676,2507,47065
+Senior Unemployment Rate (1y Avg.),2014, New York,Sullivan County,36105,0.018137425,52,2867
+Senior Unemployment Rate (1y Avg.),2014, New York,Tompkins County,36109,0,0,2903
+Senior Unemployment Rate (1y Avg.),2014, New York,Ulster County,36111,0.06287425,399,6346
+Senior Unemployment Rate (1y Avg.),2014, New York,Warren County,36113,0.058849365,134,2277
+Senior Unemployment Rate (1y Avg.),2014, New York,Wayne County,36117,0.020903954,37,1770
+Senior Unemployment Rate (1y Avg.),2014, New York,Westchester County,36119,0.044548791,1518,34075
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Alamance County,37001,0.03225084,144,4465
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Brunswick County,37019,0.022628192,109,4817
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Buncombe County,37021,0.040465351,240,5931
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Burke County,37023,0.062660314,171,2729
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Cabarrus County,37025,0.038512267,146,3791
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Caldwell County,37027,0.052173913,108,2070
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Carteret County,37031,0.03394803,81,2386
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Catawba County,37035,0.054568209,218,3995
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Cleveland County,37045,0.056711759,109,1922
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Craven County,37049,0.108657241,246,2264
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Cumberland County,37051,0.020468924,110,5374
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Davidson County,37057,0.013640011,51,3739
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Durham County,37063,0.010635155,72,6770
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Forsyth County,37067,0.055416249,442,7976
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Gaston County,37071,0.039047819,187,4789
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Guilford County,37081,0.045822103,561,12243
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Harnett County,37085,0.006079027,10,1645
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Henderson County,37089,0.025767336,68,2639
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Iredell County,37097,0.008898776,32,3596
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Johnston County,37101,0.063442938,164,2585
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Lincoln County,37109,0.005714286,7,1225
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Mecklenburg County,37119,0.055161033,1103,19996
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Nash County,37127,0.040876776,69,1688
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,New Hanover County,37129,0.017339975,94,5421
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Onslow County,37133,0.043109801,117,2714
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Orange County,37135,0.034413535,120,3487
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Pitt County,37147,0.035448182,157,4429
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Randolph County,37151,0.053842131,206,3826
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Robeson County,37155,0.035633054,47,1319
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Rockingham County,37157,0.024322661,79,3248
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Rowan County,37159,0.04869879,189,3881
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Surry County,37171,0.024013722,42,1749
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Union County,37179,0.097181514,431,4435
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Wake County,37183,0.02798401,588,21012
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Wayne County,37191,0.057277363,146,2549
+Senior Unemployment Rate (1y Avg.),2014, North Carolina,Wilson County,37195,0.07261318,162,2231
+Senior Unemployment Rate (1y Avg.),2014, North Dakota,Burleigh County,38015,0,0,3003
+Senior Unemployment Rate (1y Avg.),2014, North Dakota,Cass County,38017,0.054475643,227,4167
+Senior Unemployment Rate (1y Avg.),2014, North Dakota,Grand Forks County,38035,0.032882012,51,1551
+Senior Unemployment Rate (1y Avg.),2014, North Dakota,Ward County,38101,0.012658228,22,1738
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Allen County,39003,0.028112451,49,1743
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Ashtabula County,39007,0.084019773,153,1821
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Belmont County,39013,0,0,1646
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Butler County,39017,0.039151713,336,8582
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Clark County,39023,0.043076228,191,4434
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Clermont County,39025,0.099319048,598,6021
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Columbiana County,39029,0.029449424,115,3905
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Cuyahoga County,39035,0.038621016,1304,33764
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Delaware County,39041,0,0,4136
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Erie County,39043,0.020498615,37,1805
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Fairfield County,39045,0.010266371,37,3604
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Franklin County,39049,0.039861802,1073,26918
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Greene County,39057,0.026098901,114,4368
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Hamilton County,39061,0.030293021,642,21193
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Hancock County,39063,0.042440318,80,1885
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Jefferson County,39081,0.00631579,9,1425
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Lake County,39085,0.034199022,266,7778
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Licking County,39089,0.015730336,63,4005
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Lorain County,39093,0.036519714,251,6873
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Lucas County,39095,0.02483673,251,10106
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Mahoning County,39099,0.027422564,193,7038
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Marion County,39101,0.038948849,83,2131
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Medina County,39103,0.060558397,308,5086
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Montgomery County,39113,0.01900832,281,14783
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Muskingum County,39119,0.125164688,190,1518
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Portage County,39133,0.059663672,259,4341
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Richland County,39139,0.082203761,188,2287
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Ross County,39141,0.011700468,15,1282
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Scioto County,39145,0,0,1428
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Stark County,39151,0.041952919,458,10917
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Summit County,39153,0.058886081,886,15046
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Trumbull County,39155,0.01923077,80,4160
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Tuscarawas County,39157,0,0,2446
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Warren County,39165,0.014676451,88,5996
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Wayne County,39169,0.024285715,68,2800
+Senior Unemployment Rate (1y Avg.),2014, Ohio,Wood County,39173,0.035514019,133,3745
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Canadian County,40017,0,0,2870
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Cleveland County,40027,0.025356578,176,6941
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Comanche County,40031,0.090958312,168,1847
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Creek County,40037,0.008208595,17,2071
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Muskogee County,40101,0.047526043,73,1536
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Oklahoma County,40109,0.03286016,669,20359
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Payne County,40119,0,0,1187
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Pottawatomie County,40125,0.056338027,108,1917
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Rogers County,40131,0.008452775,23,2721
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Tulsa County,40143,0.035702586,654,18318
+Senior Unemployment Rate (1y Avg.),2014, Oklahoma,Wagoner County,40145,0.035016287,86,2456
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Benton County,41003,0.083125934,167,2009
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Clackamas County,41005,0.058715276,670,11411
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Deschutes County,41017,0.130572408,495,3791
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Douglas County,41019,0,0,2131
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Jackson County,41029,0.051203735,285,5566
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Klamath County,41035,0.021167884,29,1370
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Lane County,41039,0.028403223,275,9682
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Linn County,41043,0.04342813,113,2602
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Marion County,41047,0.039231937,284,7239
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Multnomah County,41051,0.02560446,395,15427
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Polk County,41053,0,0,1646
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Umatilla County,41059,0,0,1541
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Washington County,41067,0.031120857,369,11857
+Senior Unemployment Rate (1y Avg.),2014, Oregon,Yamhill County,41071,0.017178552,33,1921
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Adams County,42001,0.025931336,71,2738
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Allegheny County,42003,0.038222481,1439,37648
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Armstrong County,42005,0.052993804,77,1453
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Beaver County,42007,0.037179936,212,5702
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Berks County,42011,0.031360082,365,11639
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Blair County,42013,0.028096018,103,3666
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Bucks County,42017,0.041104857,942,22917
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Butler County,42019,0.030543204,158,5173
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Cambria County,42021,0.011823436,45,3806
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Centre County,42027,0,0,2750
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Chester County,42029,0.048521258,840,17312
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Clearfield County,42033,0.037457913,89,2376
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Columbia County,42037,0.015163607,19,1253
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Crawford County,42039,0.035005834,90,2571
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Cumberland County,42041,0.030547112,201,6580
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Dauphin County,42043,0.015583652,106,6802
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Delaware County,42045,0.039215688,676,17238
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Erie County,42049,0.071959458,426,5920
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Fayette County,42051,0.016810877,68,4045
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Franklin County,42055,0.04768331,212,4446
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Indiana County,42063,0.086120404,206,2392
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lackawanna County,42069,0.010508155,67,6376
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lancaster County,42071,0.028740138,550,19137
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lawrence County,42073,0.036303632,77,2121
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lebanon County,42075,0.011758272,43,3657
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lehigh County,42077,0.061264414,595,9712
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Luzerne County,42079,0.085996389,810,9419
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Lycoming County,42081,0.060416073,212,3509
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Mercer County,42085,0.046822742,140,2990
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Monroe County,42089,0.189153731,865,4573
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Montgomery County,42091,0.04317905,1418,32840
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Northampton County,42095,0.069009811,591,8564
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Northumberland County,42097,0.046974823,125,2661
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Philadelphia County,42101,0.059109457,1666,28185
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Schuylkill County,42107,0.014326648,65,4537
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Somerset County,42111,0.056801196,114,2007
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Washington County,42125,0.0161182,96,5956
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,Westmoreland County,42129,0.042830117,566,13215
+Senior Unemployment Rate (1y Avg.),2014, Pennsylvania,York County,42133,0.022286125,279,12519
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Bayamón Municipio,72021,0.092642143,277,2990
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Caguas Municipio,72025,0,0,1873
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Carolina Municipio,72031,0.186231241,633,3399
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Guaynabo Municipio,72061,0.009873061,21,2127
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Mayagüez Municipio,72097,0.046511628,60,1290
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Ponce Municipio,72113,0.118737131,173,1457
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,San Juan Municipio,72127,0.037751503,364,9642
+Senior Unemployment Rate (1y Avg.),2014, Puerto Rico,Toa Baja Municipio,72137,0.402677655,391,971
+Senior Unemployment Rate (1y Avg.),2014, Rhode Island,Kent County,44003,0.067877956,396,5834
+Senior Unemployment Rate (1y Avg.),2014, Rhode Island,Newport County,44005,0.087180808,338,3877
+Senior Unemployment Rate (1y Avg.),2014, Rhode Island,Providence County,44007,0.040144004,591,14722
+Senior Unemployment Rate (1y Avg.),2014, Rhode Island,Washington County,44009,0.104380243,448,4292
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Aiken County,45003,0.017037647,62,3639
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Anderson County,45007,0.021442125,113,5270
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Beaufort County,45013,0.028892707,185,6403
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Berkeley County,45015,0.054026503,159,2943
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Charleston County,45019,0.021765295,217,9970
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Darlington County,45031,0.020883055,35,1676
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Dorchester County,45035,0.041470714,97,2339
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Florence County,45041,0.00555115,21,3783
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Greenville County,45045,0.021607526,232,10737
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Horry County,45051,0.025062958,209,8339
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Lancaster County,45057,0,0,2673
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Laurens County,45059,0,0,1667
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Lexington County,45063,0.03236749,229,7075
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Oconee County,45073,0.050855745,104,2045
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Orangeburg County,45075,0.025404157,55,2165
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Pickens County,45077,0.101123594,243,2403
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Richland County,45079,0.057902802,529,9136
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Spartanburg County,45083,0.008004657,55,6871
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,Sumter County,45085,0.079999998,158,1975
+Senior Unemployment Rate (1y Avg.),2014, South Carolina,York County,45091,0.045085363,272,6033
+Senior Unemployment Rate (1y Avg.),2014, South Dakota,Minnehaha County,46099,0.0303127,190,6268
+Senior Unemployment Rate (1y Avg.),2014, South Dakota,Pennington County,46103,0.028261583,86,3043
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Anderson County,47001,0.045687277,116,2539
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Blount County,47009,0.03588907,154,4291
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Bradley County,47011,0.038706739,85,2196
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Davidson County,47037,0.044849798,745,16611
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Greene County,47059,0.074212894,198,2668
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Hamilton County,47065,0.034983434,359,10262
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Knox County,47093,0.031231644,319,10214
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Madison County,47113,0,0,3002
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Maury County,47119,0.070422538,160,2272
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Montgomery County,47125,0,0,2461
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Rutherford County,47149,0.046364177,234,5047
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Sevier County,47155,0.079238854,279,3521
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Shelby County,47157,0.041399989,925,22343
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Sullivan County,47163,0.016263554,78,4796
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Sumner County,47165,0.030525502,158,5176
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Washington County,47179,0.051246539,148,2888
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Williamson County,47187,0.003877276,23,5932
+Senior Unemployment Rate (1y Avg.),2014, Tennessee,Wilson County,47189,0.023590021,87,3688
+Senior Unemployment Rate (1y Avg.),2014, Texas,Angelina County,48005,0.017103154,32,1871
+Senior Unemployment Rate (1y Avg.),2014, Texas,Bell County,48027,0.053856775,273,5069
+Senior Unemployment Rate (1y Avg.),2014, Texas,Bexar County,48029,0.044894487,1636,36441
+Senior Unemployment Rate (1y Avg.),2014, Texas,Bowie County,48037,0.005423729,8,1475
+Senior Unemployment Rate (1y Avg.),2014, Texas,Brazoria County,48039,0.038998481,257,6590
+Senior Unemployment Rate (1y Avg.),2014, Texas,Brazos County,48041,0.024991989,78,3121
+Senior Unemployment Rate (1y Avg.),2014, Texas,Cameron County,48061,0.071405597,444,6218
+Senior Unemployment Rate (1y Avg.),2014, Texas,Collin County,48085,0.032855138,655,19936
+Senior Unemployment Rate (1y Avg.),2014, Texas,Comal County,48091,0,0,3866
+Senior Unemployment Rate (1y Avg.),2014, Texas,Coryell County,48099,0,0,909
+Senior Unemployment Rate (1y Avg.),2014, Texas,Dallas County,48113,0.043759022,2304,52652
+Senior Unemployment Rate (1y Avg.),2014, Texas,Denton County,48121,0.049376331,764,15473
+Senior Unemployment Rate (1y Avg.),2014, Texas,Ector County,48135,0.035758708,115,3216
+Senior Unemployment Rate (1y Avg.),2014, Texas,El Paso County,48141,0.037635688,475,12621
+Senior Unemployment Rate (1y Avg.),2014, Texas,Ellis County,48139,0.007389163,30,4060
+Senior Unemployment Rate (1y Avg.),2014, Texas,Fort Bend County,48157,0.05395484,779,14438
+Senior Unemployment Rate (1y Avg.),2014, Texas,Galveston County,48167,0.011514356,79,6861
+Senior Unemployment Rate (1y Avg.),2014, Texas,Grayson County,48181,0.021306818,75,3520
+Senior Unemployment Rate (1y Avg.),2014, Texas,Gregg County,48183,0.012634823,41,3245
+Senior Unemployment Rate (1y Avg.),2014, Texas,Guadalupe County,48187,0.029014016,118,4067
+Senior Unemployment Rate (1y Avg.),2014, Texas,Harris County,48201,0.036735453,3361,91492
+Senior Unemployment Rate (1y Avg.),2014, Texas,Hays County,48209,0.025020851,90,3597
+Senior Unemployment Rate (1y Avg.),2014, Texas,Henderson County,48213,0.014373717,28,1948
+Senior Unemployment Rate (1y Avg.),2014, Texas,Hidalgo County,48215,0.06067206,585,9642
+Senior Unemployment Rate (1y Avg.),2014, Texas,Hunt County,48231,0,0,1841
+Senior Unemployment Rate (1y Avg.),2014, Texas,Jefferson County,48245,0.017233761,78,4526
+Senior Unemployment Rate (1y Avg.),2014, Texas,Johnson County,48251,0.031958479,117,3661
+Senior Unemployment Rate (1y Avg.),2014, Texas,Kaufman County,48257,0.083575882,201,2405
+Senior Unemployment Rate (1y Avg.),2014, Texas,Liberty County,48291,0.035845589,78,2176
+Senior Unemployment Rate (1y Avg.),2014, Texas,Lubbock County,48303,0.008194717,67,8176
+Senior Unemployment Rate (1y Avg.),2014, Texas,McLennan County,48309,0.042677011,220,5155
+Senior Unemployment Rate (1y Avg.),2014, Texas,Midland County,48329,0.046082951,210,4557
+Senior Unemployment Rate (1y Avg.),2014, Texas,Montgomery County,48339,0.040688109,544,13370
+Senior Unemployment Rate (1y Avg.),2014, Texas,Nueces County,48355,0.014500192,113,7793
+Senior Unemployment Rate (1y Avg.),2014, Texas,Orange County,48361,0.026196929,58,2214
+Senior Unemployment Rate (1y Avg.),2014, Texas,Parker County,48367,0.015028901,52,3460
+Senior Unemployment Rate (1y Avg.),2014, Texas,Potter County,48375,0.014947138,41,2743
+Senior Unemployment Rate (1y Avg.),2014, Texas,Smith County,48423,0.036168788,216,5972
+Senior Unemployment Rate (1y Avg.),2014, Texas,Tarrant County,48439,0.025904596,1066,41151
+Senior Unemployment Rate (1y Avg.),2014, Texas,Taylor County,48441,0.004620123,18,3896
+Senior Unemployment Rate (1y Avg.),2014, Texas,Tom Green County,48451,0,0,3056
+Senior Unemployment Rate (1y Avg.),2014, Texas,Travis County,48453,0.033227209,741,22301
+Senior Unemployment Rate (1y Avg.),2014, Texas,Webb County,48479,0,0,3147
+Senior Unemployment Rate (1y Avg.),2014, Texas,Wichita County,48485,0.012178245,44,3613
+Senior Unemployment Rate (1y Avg.),2014, Texas,Williamson County,48491,0.028339643,262,9245
+Senior Unemployment Rate (1y Avg.),2014, Utah,Cache County,49005,0,0,1747
+Senior Unemployment Rate (1y Avg.),2014, Utah,Davis County,49011,0,0,5038
+Senior Unemployment Rate (1y Avg.),2014, Utah,Salt Lake County,49035,0.020297259,437,21530
+Senior Unemployment Rate (1y Avg.),2014, Utah,Utah County,49049,0.029882859,250,8366
+Senior Unemployment Rate (1y Avg.),2014, Utah,Washington County,49053,0,0,2787
+Senior Unemployment Rate (1y Avg.),2014, Utah,Weber County,49057,0.033068445,129,3901
+Senior Unemployment Rate (1y Avg.),2014, Vermont,Chittenden County,50007,0.034975555,186,5318
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Albemarle County,51003,0.075280301,282,3746
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Alexandria city,51510,0.022274023,86,3861
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Arlington County,51013,0.036429055,162,4447
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Chesapeake city,51550,0.018208766,86,4723
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Chesterfield County,51041,0.023788106,238,10005
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Fairfax County,51059,0.024454948,802,32795
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Hampton city,51650,0.04194529,138,3290
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Hanover County,51085,0.01480111,48,3243
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Henrico County,51087,0.068898067,634,9202
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Loudoun County,51107,0.031743642,211,6647
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Lynchburg city,51680,0,0,1783
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Montgomery County,51121,0,0,1870
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Newport News city,51700,0.040524781,139,3430
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Norfolk city,51710,0.046800636,177,3782
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Portsmouth city,51740,0.069626637,138,1982
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Prince William County,51153,0.025837811,202,7818
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Richmond city,51760,0.024375129,118,4841
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Roanoke County,51161,0.022382094,84,3753
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Roanoke city,51770,0,0,2849
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Rockingham County,51165,0.017322835,55,3175
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Spotsylvania County,51177,0.017881241,53,2964
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Stafford County,51179,0.086051084,219,2545
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Suffolk city,51800,0.027342325,75,2743
+Senior Unemployment Rate (1y Avg.),2014, Virginia,Virginia Beach city,51810,0.047827356,492,10287
+Senior Unemployment Rate (1y Avg.),2014, Washington,Benton County,53005,0.052445654,193,3680
+Senior Unemployment Rate (1y Avg.),2014, Washington,Clallam County,53009,0.022745412,57,2506
+Senior Unemployment Rate (1y Avg.),2014, Washington,Clark County,53011,0.019337565,195,10084
+Senior Unemployment Rate (1y Avg.),2014, Washington,Cowlitz County,53015,0.124223605,280,2254
+Senior Unemployment Rate (1y Avg.),2014, Washington,Grant County,53025,0,0,1544
+Senior Unemployment Rate (1y Avg.),2014, Washington,Grays Harbor County,53027,0.031569175,68,2154
+Senior Unemployment Rate (1y Avg.),2014, Washington,Island County,53029,0.03163556,100,3161
+Senior Unemployment Rate (1y Avg.),2014, Washington,King County,53033,0.028572541,1469,51413
+Senior Unemployment Rate (1y Avg.),2014, Washington,Kitsap County,53035,0.050492264,359,7110
+Senior Unemployment Rate (1y Avg.),2014, Washington,Lewis County,53041,0,0,1484
+Senior Unemployment Rate (1y Avg.),2014, Washington,Pierce County,53053,0.043823134,779,17776
+Senior Unemployment Rate (1y Avg.),2014, Washington,Skagit County,53057,0.04180602,150,3588
+Senior Unemployment Rate (1y Avg.),2014, Washington,Snohomish County,53061,0.029162103,426,14608
+Senior Unemployment Rate (1y Avg.),2014, Washington,Spokane County,53063,0.01636222,189,11551
+Senior Unemployment Rate (1y Avg.),2014, Washington,Thurston County,53067,0.010959366,65,5931
+Senior Unemployment Rate (1y Avg.),2014, Washington,Whatcom County,53073,0.01375801,73,5306
+Senior Unemployment Rate (1y Avg.),2014, Washington,Yakima County,53077,0.038314175,170,4437
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Berkeley County,54003,0.083969466,231,2751
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Cabell County,54011,0,0,2576
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Harrison County,54033,0.039325844,56,1424
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Kanawha County,54039,0.066078432,337,5100
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Monongalia County,54061,0.029481692,62,2103
+Senior Unemployment Rate (1y Avg.),2014, West Virginia,Wood County,54107,0,0,2242
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Brown County,55009,0.011954766,74,6190
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Dane County,55025,0.050147492,595,11865
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Dodge County,55027,0.005389867,15,2783
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Eau Claire County,55035,0.020364417,57,2799
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Fond du Lac County,55039,0.008101852,21,2592
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Jefferson County,55055,0,0,2081
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Kenosha County,55059,0,0,2692
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,La Crosse County,55063,0,0,2296
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Manitowoc County,55071,0.021711366,51,2349
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Marathon County,55073,0.060624618,198,3266
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Milwaukee County,55079,0.042928744,788,18356
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Outagamie County,55087,0.007615894,23,3020
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Ozaukee County,55089,0.006626506,22,3320
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Portage County,55097,0.007331378,10,1364
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Racine County,55101,0.042738769,196,4586
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Rock County,55105,0.052111633,211,4049
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Sheboygan County,55117,0.020494699,58,2830
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Walworth County,55127,0.031556617,119,3771
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Washington County,55131,0.068422347,278,4063
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Waukesha County,55133,0.035474971,450,12685
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Winnebago County,55139,0.032277711,106,3284
+Senior Unemployment Rate (1y Avg.),2014, Wisconsin,Wood County,55141,0.006027397,11,1825
+Senior Unemployment Rate (1y Avg.),2014, Wyoming,Laramie County,56021,0.035135135,91,2590
+Senior Unemployment Rate (1y Avg.),2014, Wyoming,Natrona County,56025,0.03057554,68,2224

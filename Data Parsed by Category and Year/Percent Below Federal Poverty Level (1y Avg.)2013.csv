@@ -1,0 +1,829 @@
+measure label,year,state,county,fips,value,numerator,denominator
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Baldwin County,1003,0.145265698,28028,192943
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Calhoun County,1015,0.2182955,24825,113722
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Cullman County,1043,0.155117914,12366,79720
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,DeKalb County,1049,0.166248366,11658,70124
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Elmore County,1051,0.120386049,9031,75017
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Etowah County,1055,0.188662514,19363,102633
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Houston County,1069,0.178883806,18366,102670
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Jefferson County,1073,0.190351039,122698,644588
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Lauderdale County,1077,0.166077822,15089,90855
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Lee County,1081,0.207348809,30038,144867
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Limestone County,1083,0.184447467,15733,85298
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Madison County,1089,0.141915679,48064,338680
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Marshall County,1095,0.162193835,15224,93863
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Mobile County,1097,0.200080559,80960,404637
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Montgomery County,1101,0.216892704,47832,220533
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Morgan County,1103,0.181317091,21316,117562
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Shelby County,1117,0.077236742,15551,201342
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,St. Clair County,1115,0.127818659,10770,84260
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Talladega County,1121,0.175164983,13590,77584
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Tuscaloosa County,1125,0.16355592,31310,191433
+Percent Below Federal Poverty Level (1y Avg.),2013, Alabama,Walker County,1127,0.231919587,15043,64863
+Percent Below Federal Poverty Level (1y Avg.),2013, Alaska,Anchorage Municipality,2020,0.066759609,19585,293366
+Percent Below Federal Poverty Level (1y Avg.),2013, Alaska,Fairbanks North Star Borough,2090,0.077056885,7442,96578
+Percent Below Federal Poverty Level (1y Avg.),2013, Alaska,Matanuska-Susitna Borough,2170,0.085709393,8011,93467
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Apache County,4001,0.401379526,28339,70604
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Cochise County,4003,0.191226631,22254,116375
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Coconino County,4005,0.241219044,30726,127378
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Maricopa County,4013,0.177025631,700899,3959308
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Mohave County,4015,0.211664021,41429,195730
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Navajo County,4017,0.326526731,34348,105192
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Pima County,4019,0.194526091,188765,970384
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Pinal County,4021,0.163299128,59807,366242
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Yavapai County,4025,0.161390662,34138,211524
+Percent Below Federal Poverty Level (1y Avg.),2013, Arizona,Yuma County,4027,0.177615196,34449,193953
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Benton County,5007,0.116947941,27365,233993
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Craighead County,5031,0.20608066,20172,97884
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Faulkner County,5045,0.152136967,17453,114719
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Garland County,5051,0.240033031,22668,94437
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Jefferson County,5069,0.259958625,17346,66726
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Lonoke County,5085,0.123477936,8650,70053
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Pulaski County,5119,0.170669332,65934,386326
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Saline County,5125,0.095736668,10799,112799
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Sebastian County,5131,0.240681633,30239,125639
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,Washington County,5143,0.22543101,47008,208525
+Percent Below Federal Poverty Level (1y Avg.),2013, Arkansas,White County,5145,0.16425167,12163,74051
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Alameda County,6001,0.12936689,200532,1550103
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Butte County,6007,0.2153043,46895,217808
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Contra Costa County,6013,0.10826271,117306,1083531
+Percent Below Federal Poverty Level (1y Avg.),2013, California,El Dorado County,6017,0.122774579,22178,180640
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Fresno County,6019,0.287926316,270072,937990
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Humboldt County,6023,0.21827887,28624,131135
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Imperial County,6025,0.220883414,36645,165902
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Kern County,6029,0.227924898,189484,831344
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Kings County,6031,0.214032814,28473,133031
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Lake County,6033,0.245620713,15494,63081
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Los Angeles County,6037,0.189399794,1868301,9864324
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Madera County,6039,0.236226663,34242,144954
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Marin County,6041,0.084245265,21263,252394
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Mendocino County,6045,0.216192305,18572,85905
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Merced County,6047,0.251982033,64552,256177
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Monterey County,6053,0.178550735,73031,409021
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Napa County,6055,0.090077274,12286,136394
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Nevada County,6057,0.135388032,13196,97468
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Orange County,6059,0.134887189,414971,3076430
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Placer County,6061,0.083759725,30497,364101
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Riverside County,6065,0.173488289,391714,2257870
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Sacramento County,6067,0.189763516,273483,1441178
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Bernardino County,6071,0.191116989,390078,2041043
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Diego County,6073,0.152036503,475773,3129334
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Francisco County,6075,0.137779742,113517,823902
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Joaquin County,6077,0.199405819,137663,690366
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Luis Obispo County,6079,0.153115451,39910,260653
+Percent Below Federal Poverty Level (1y Avg.),2013, California,San Mateo County,6081,0.078220822,58035,741938
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Santa Barbara County,6083,0.163301513,68116,417118
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Santa Clara County,6085,0.104589723,191805,1833880
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Santa Cruz County,6087,0.149343312,38616,258572
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Shasta County,6089,0.201231167,35501,176419
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Solano County,6095,0.130286425,53992,414410
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Sonoma County,6097,0.124258786,60812,489398
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Stanislaus County,6099,0.221224666,114628,518152
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Sutter County,6101,0.173500732,16320,94063
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Tulare County,6107,0.301244527,135066,448360
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Ventura County,6111,0.119130462,98572,827429
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Yolo County,6113,0.188396215,37024,196522
+Percent Below Federal Poverty Level (1y Avg.),2013, California,Yuba County,6115,0.204907715,14822,72335
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Adams County,8001,0.130490243,60563,464119
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Arapahoe County,8005,0.125722349,75710,602200
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Boulder County,8013,0.138953224,41700,300101
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Denver County,8031,0.186746672,118913,636761
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Douglas County,8035,0.032469086,9902,304967
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,El Paso County,8041,0.110514127,70469,637647
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Jefferson County,8059,0.090873562,49299,542501
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Larimer County,8069,0.14262943,43846,307412
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Mesa County,8077,0.166907504,23910,143253
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Pueblo County,8101,0.201399535,31544,156624
+Percent Below Federal Poverty Level (1y Avg.),2013, Colorado,Weld County,8123,0.13354066,35126,263036
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Fairfield County,9001,0.096394017,88808,921302
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Hartford County,9003,0.122320078,106902,873953
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Litchfield County,9005,0.066867687,12330,184394
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Middlesex County,9007,0.073754959,11873,160979
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,New Haven County,9009,0.128816605,107710,836150
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,New London County,9011,0.089975491,23568,261938
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Tolland County,9013,0.053124048,7148,134553
+Percent Below Federal Poverty Level (1y Avg.),2013, Connecticut,Windham County,9015,0.138833374,15561,112084
+Percent Below Federal Poverty Level (1y Avg.),2013, Delaware,Kent County,10001,0.123759903,20334,164302
+Percent Below Federal Poverty Level (1y Avg.),2013, Delaware,New Castle County,10003,0.116332933,61978,532764
+Percent Below Federal Poverty Level (1y Avg.),2013, Delaware,Sussex County,10005,0.142751008,29015,203256
+Percent Below Federal Poverty Level (1y Avg.),2013, District of Columbia,District of Columbia,11001,0.188874245,115551,611788
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Alachua County,12001,0.268466204,64041,238544
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Bay County,12005,0.180848405,31194,172487
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Brevard County,12009,0.14982149,81662,545062
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Broward County,12011,0.150905594,275116,1823100
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Charlotte County,12015,0.141081989,22628,160389
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Citrus County,12017,0.167982846,22952,136633
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Clay County,12019,0.09058135,17638,194720
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Collier County,12021,0.128211066,43152,336570
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Columbia County,12023,0.149970517,9412,62759
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Duval County,12031,0.171085685,148017,865163
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Escambia County,12033,0.167575195,47895,285812
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Flagler County,12035,0.161729366,16018,99042
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Hernando County,12053,0.144893736,24850,171505
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Highlands County,12055,0.187995464,18094,96247
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Hillsborough County,12057,0.16777052,213160,1270545
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Indian River County,12061,0.13408123,18836,140482
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Lake County,12069,0.142410949,43224,303516
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Lee County,12071,0.165165067,107225,649199
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Leon County,12073,0.220540047,59565,270087
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Manatee County,12081,0.161243185,54511,338067
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Marion County,12083,0.19518289,64222,329035
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Martin County,12085,0.131108195,19444,148305
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Miami-Dade County,12086,0.210263759,541053,2573211
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Monroe County,12087,0.197079703,14820,75198
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Nassau County,12089,0.156189457,11690,74845
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Okaloosa County,12091,0.137514055,25928,188548
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Orange County,12095,0.183605537,218365,1189316
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Osceola County,12097,0.215369627,63696,295752
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Palm Beach County,12099,0.148862511,201663,1354693
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Pasco County,12101,0.130963698,61148,466908
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Pinellas County,12103,0.149556354,136581,913241
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Polk County,12105,0.193955198,118007,608424
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Putnam County,12107,0.263221323,18784,71362
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Santa Rosa County,12113,0.149131909,22986,154132
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Sarasota County,12115,0.127974734,49237,384740
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Seminole County,12117,0.128628716,55648,432625
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,St. Johns County,12109,0.096589074,19995,207011
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,St. Lucie County,12111,0.193446115,54971,284167
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Sumter County,12119,0.10492108,10283,98007
+Percent Below Federal Poverty Level (1y Avg.),2013, Florida,Volusia County,12127,0.162317351,79548,490077
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Barrow County,13013,0.148130447,10538,71140
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Bartow County,13015,0.217486277,21803,100250
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Bibb County,13021,0.291655451,43298,148456
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Bulloch County,13031,0.324333817,21227,65448
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Carroll County,13045,0.165014118,17874,108318
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Catoosa County,13047,0.172396228,11173,64810
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Chatham County,13051,0.19755955,52635,266426
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Cherokee County,13057,0.126864225,28216,222411
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Clarke County,13059,0.377392769,42151,111690
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Clayton County,13063,0.253313422,65614,259023
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Cobb County,13067,0.135080516,95590,707652
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Columbia County,13073,0.078467563,10544,134374
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Coweta County,13077,0.153870538,20384,132475
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,DeKalb County,13089,0.195256233,136678,699993
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Dougherty County,13095,0.304954112,26986,88492
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Douglas County,13097,0.204916149,27652,134943
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Fayette County,13113,0.067271069,7242,107654
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Floyd County,13115,0.223255858,20423,91478
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Forsyth County,13117,0.080939367,15730,194343
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Fulton County,13121,0.175966576,167646,952715
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Glynn County,13127,0.200681925,16068,80067
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Gwinnett County,13135,0.135574505,115505,851967
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Hall County,13139,0.219481632,40630,185118
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Henry County,13151,0.122602202,25572,208577
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Houston County,13153,0.16188319,23588,145710
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Liberty County,13179,0.200798601,12421,61858
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Lowndes County,13185,0.261967987,28412,108456
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Muscogee County,13215,0.230769634,44389,192352
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Newton County,13217,0.129763469,13035,100452
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Paulding County,13223,0.130250633,19005,145911
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Richmond County,13245,0.268192172,51992,193861
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Rockdale County,13247,0.165296555,14216,86003
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Troup County,13285,0.263145387,17726,67362
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Walker County,13295,0.143452704,9566,66684
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Walton County,13297,0.133040741,11216,84305
+Percent Below Federal Poverty Level (1y Avg.),2013, Georgia,Whitfield County,13313,0.212385461,21579,101603
+Percent Below Federal Poverty Level (1y Avg.),2013, Hawaii,Hawaii County,15001,0.194918767,36734,188458
+Percent Below Federal Poverty Level (1y Avg.),2013, Hawaii,Honolulu County,15003,0.094233796,89684,951718
+Percent Below Federal Poverty Level (1y Avg.),2013, Hawaii,Kauai County,15007,0.100863673,6937,68776
+Percent Below Federal Poverty Level (1y Avg.),2013, Hawaii,Maui County,15009,0.094536491,14995,158616
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Ada County,16001,0.146726295,60047,409245
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Bannock County,16005,0.171435624,13900,81080
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Bonneville County,16019,0.099768944,10579,106035
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Canyon County,16027,0.212259531,41342,194771
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Kootenai County,16055,0.120389208,17161,142546
+Percent Below Federal Poverty Level (1y Avg.),2013, Idaho,Twin Falls County,16083,0.152616054,12006,78668
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Adams County,17001,0.173150241,11399,65833
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Champaign County,17019,0.222969383,42011,188416
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Cook County,17031,0.17746152,913990,5150356
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,DeKalb County,17037,0.223058105,22060,98898
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,DuPage County,17043,0.067774229,62302,919258
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Kane County,17089,0.106793731,55235,517212
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Kankakee County,17091,0.170851558,18358,107450
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Kendall County,17093,0.085026056,10067,118399
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,LaSalle County,17099,0.137627929,14953,108648
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Lake County,17097,0.092162743,63230,686069
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Macon County,17115,0.182507083,19243,105437
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Madison County,17119,0.137606874,35892,260830
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,McHenry County,17111,0.067478061,20619,305566
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,McLean County,17113,0.144827425,24194,167054
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Peoria County,17143,0.174149498,31861,182952
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Rock Island County,17161,0.162171274,23094,142405
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Sangamon County,17167,0.156494245,30535,195119
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,St. Clair County,17163,0.183338657,48166,262716
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Tazewell County,17179,0.078541487,10475,133369
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Vermilion County,17183,0.193181083,14964,77461
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Will County,17197,0.084341303,56780,673217
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Williamson County,17199,0.151872367,9843,64811
+Percent Below Federal Poverty Level (1y Avg.),2013, Illinois,Winnebago County,17201,0.162655517,46505,285911
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Allen County,18003,0.170286298,60649,356159
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Bartholomew County,18005,0.120536231,9387,77877
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Clark County,18019,0.108919963,12129,111357
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Delaware County,18035,0.225767344,24950,110512
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Elkhart County,18039,0.162034273,31743,195903
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Floyd County,18043,0.131070361,9827,74975
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Grant County,18053,0.226002589,14348,63486
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Hamilton County,18057,0.0612997,18047,294406
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Hancock County,18059,0.048473489,3439,70946
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Hendricks County,18063,0.060493141,9156,151356
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Howard County,18067,0.155454203,12612,81130
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Johnson County,18081,0.137184441,19623,143041
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Kosciusko County,18085,0.138768166,10569,76163
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,LaPorte County,18091,0.173993826,17699,101722
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Lake County,18089,0.174883023,84951,485759
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Madison County,18095,0.201388493,24889,123587
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Marion County,18097,0.211744294,192231,907845
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Monroe County,18105,0.246967718,31540,127709
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Morgan County,18109,0.134070277,9242,68934
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Porter County,18127,0.132898241,21626,162726
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,St. Joseph County,18141,0.204472199,52204,255311
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Tippecanoe County,18157,0.204584002,33767,165052
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Vanderburgh County,18163,0.192275912,33501,174234
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Vigo County,18167,0.25179562,24750,98294
+Percent Below Federal Poverty Level (1y Avg.),2013, Indiana,Wayne County,18177,0.251275688,16398,65259
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Black Hawk County,19013,0.177740782,22529,126752
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Dallas County,19049,0.06045476,4480,74105
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Dubuque County,19061,0.137079805,12633,92158
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Johnson County,19103,0.172309905,22590,131101
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Linn County,19113,0.093437508,19744,211307
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Polk County,19153,0.126375541,55951,442736
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Pottawattamie County,19155,0.136939034,12343,90135
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Scott County,19163,0.143504396,23945,166859
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Story County,19169,0.235231131,19770,84045
+Percent Below Federal Poverty Level (1y Avg.),2013, Iowa,Woodbury County,19193,0.174638957,17353,99365
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Butler County,20015,0.118747137,7518,63311
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Douglas County,20045,0.17073217,17967,105235
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Johnson County,20091,0.058684744,32882,560316
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Leavenworth County,20103,0.115544759,8325,72050
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Riley County,20161,0.242699638,16157,66572
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Sedgwick County,20173,0.157650128,78526,498103
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Shawnee County,20177,0.171999842,30074,174849
+Percent Below Federal Poverty Level (1y Avg.),2013, Kansas,Wyandotte County,20209,0.254471272,40408,158792
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Boone County,21015,0.087427214,10765,123131
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Bullitt County,21029,0.086476468,6626,76622
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Campbell County,21037,0.155419484,13655,87859
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Christian County,21047,0.153498843,10369,67551
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Daviess County,21059,0.147647977,14071,95301
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Fayette County,21067,0.194675609,57572,295733
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Hardin County,21093,0.145195812,15131,104211
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Jefferson County,21111,0.158997595,118036,742376
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Kenton County,21117,0.13317813,21453,161085
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Madison County,21151,0.199353382,15970,80109
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,McCracken County,21145,0.208488181,13352,64042
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Pike County,21195,0.211670414,13204,62380
+Percent Below Federal Poverty Level (1y Avg.),2013, Kentucky,Warren County,21227,0.184477493,20603,111683
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Ascension Parish,22005,0.102085404,11587,113503
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Bossier Parish,22015,0.14944315,18075,120949
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Caddo Parish,22017,0.216438845,54182,250334
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Calcasieu Parish,22019,0.158704489,30420,191677
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,East Baton Rouge Parish,22033,0.208488598,90861,435808
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Iberia Parish,22045,0.17421703,12633,72513
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Jefferson Parish,22051,0.191423833,82608,431545
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Lafayette Parish,22055,0.153529108,34679,225879
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Lafourche Parish,22057,0.167240739,15780,94355
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Livingston Parish,22063,0.16176559,21487,132828
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Orleans Parish,22071,0.266532809,97970,367572
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Ouachita Parish,22073,0.246352151,36198,146936
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Rapides Parish,22079,0.191290379,24770,129489
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,St. Landry Parish,22097,0.279547662,22990,82240
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,St. Tammany Parish,22103,0.104384504,25067,240141
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Tangipahoa Parish,22105,0.216591537,26234,121122
+Percent Below Federal Poverty Level (1y Avg.),2013, Louisiana,Terrebonne Parish,22109,0.109035693,12136,111303
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,Androscoggin County,23001,0.17097351,17884,104601
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,Aroostook County,23003,0.162249759,11014,67883
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,Cumberland County,23005,0.126235738,35039,277568
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,Kennebec County,23011,0.151842713,17840,117490
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,Penobscot County,23019,0.161429957,23644,146466
+Percent Below Federal Poverty Level (1y Avg.),2013, Maine,York County,23031,0.093814254,18433,196484
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Allegany County,24001,0.17751649,11731,66084
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Anne Arundel County,24003,0.070659362,38194,540537
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Baltimore County,24005,0.095953345,77023,802713
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Baltimore city,24510,0.232829168,139067,597292
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Calvert County,24009,0.065408453,5857,89545
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Carroll County,24013,0.072496541,11894,164063
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Cecil County,24015,0.085524678,8596,100509
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Charles County,24017,0.080149941,11974,149395
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Frederick County,24021,0.068264008,16140,236435
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Harford County,24025,0.072717786,17973,247161
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Howard County,24027,0.044572216,13504,302969
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Montgomery County,24031,0.068799734,69376,1008376
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Prince George's County,24033,0.098363273,85645,870701
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,St. Mary's County,24037,0.064122781,6831,106530
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Washington County,24043,0.114309967,16025,140189
+Percent Below Federal Poverty Level (1y Avg.),2013, Maryland,Wicomico County,24045,0.161074862,15627,97017
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Barnstable County,25001,0.091039367,19313,212139
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Berkshire County,25003,0.123460196,15214,123230
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Bristol County,25005,0.143446252,76840,535671
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Essex County,25009,0.115323178,85989,745635
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Franklin County,25011,0.123072103,8642,70219
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Hampden County,25013,0.17876415,81064,453469
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Hampshire County,25015,0.13292174,18279,137517
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Middlesex County,25017,0.086921684,129972,1495277
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Norfolk County,25021,0.068538003,45972,670752
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Plymouth County,25023,0.074420996,36381,488854
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Suffolk County,25025,0.204457194,145733,712780
+Percent Below Federal Poverty Level (1y Avg.),2013, Massachusetts,Worcester County,25027,0.132722557,104014,783695
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Allegan County,26005,0.139860958,15531,111046
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Bay County,26017,0.173557788,18310,105498
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Berrien County,26021,0.162682563,24561,150975
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Calhoun County,26025,0.185848236,24261,130542
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Clinton County,26037,0.109336354,8310,76004
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Eaton County,26045,0.117609441,12506,106335
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Genesee County,26049,0.216472417,88579,409193
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Grand Traverse County,26055,0.116546661,10230,87776
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Ingham County,26065,0.226807863,60056,264788
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Isabella County,26073,0.307838947,19702,64001
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Jackson County,26075,0.192583948,29064,150916
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Kalamazoo County,26077,0.177718982,44064,247942
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Kent County,26081,0.147072583,89914,611358
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Lapeer County,26087,0.105321072,9093,86336
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Lenawee County,26091,0.170777425,16036,93900
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Livingston County,26093,0.058672883,10745,183134
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Macomb County,26099,0.133418471,112933,846457
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Marquette County,26103,0.157868132,9991,63287
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Midland County,26111,0.165788546,13625,82183
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Monroe County,26115,0.128860593,18984,147322
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Muskegon County,26121,0.206312209,33809,163873
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Oakland County,26125,0.100150913,122309,1221247
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Ottawa County,26139,0.119926363,31659,263987
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Saginaw County,26145,0.178368255,34020,190729
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Shiawassee County,26155,0.17334415,11751,67790
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,St. Clair County,26147,0.159418285,25289,158633
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Van Buren County,26159,0.177349448,13176,74294
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Washtenaw County,26161,0.16727744,56191,335915
+Percent Below Federal Poverty Level (1y Avg.),2013, Michigan,Wayne County,26163,0.248921111,437215,1756440
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Anoka County,27003,0.073082387,24535,335717
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Blue Earth County,27013,0.177900523,11080,62282
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Carver County,27019,0.044729717,4230,94568
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Dakota County,27037,0.091285825,37007,405397
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Hennepin County,27053,0.120901041,142128,1175573
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Olmsted County,27109,0.077333458,11350,146767
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Ramsey County,27123,0.16066128,82207,511679
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Rice County,27131,0.119925201,6862,57219
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Scott County,27139,0.06567096,8917,135783
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Sherburne County,27141,0.054651044,4790,87647
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,St. Louis County,27137,0.168476254,32415,192401
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Stearns County,27145,0.131341308,19024,144844
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Washington County,27163,0.057997439,14091,242959
+Percent Below Federal Poverty Level (1y Avg.),2013, Minnesota,Wright County,27171,0.072556019,9244,127405
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,DeSoto County,28033,0.123967044,20672,166754
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Forrest County,28035,0.288094908,21247,73750
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Harrison County,28047,0.225971252,43083,190657
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Hinds County,28049,0.29417488,69843,237420
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Jackson County,28059,0.151931152,21116,138984
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Jones County,28067,0.201102778,13604,67647
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Lauderdale County,28075,0.261990875,20063,76579
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Lee County,28081,0.171581417,14465,84304
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Madison County,28089,0.116498671,11523,98911
+Percent Below Federal Poverty Level (1y Avg.),2013, Mississippi,Rankin County,28121,0.099665731,13954,140008
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Boone County,29019,0.211756527,34118,161119
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Buchanan County,29021,0.176020324,14970,85047
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Cape Girardeau County,29031,0.161390185,11939,73976
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Cass County,29037,0.076556563,7616,99482
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Christian County,29043,0.105440989,8457,80206
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Clay County,29047,0.108734921,24680,226974
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Cole County,29051,0.159271687,11433,71783
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Franklin County,29071,0.093196787,9355,100379
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Greene County,29077,0.209242389,56988,272354
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Jackson County,29095,0.171513349,114863,669703
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Jasper County,29097,0.181090459,20496,113181
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Jefferson County,29099,0.115016542,25203,219125
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,Platte County,29165,0.0847487,7824,92320
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,St. Charles County,29183,0.060787618,22280,366522
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,St. Francois County,29187,0.194858178,11369,58345
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,St. Louis County,29189,0.107036784,104944,980448
+Percent Below Federal Poverty Level (1y Avg.),2013, Missouri,St. Louis city,29510,0.265791267,81999,308509
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Cascade County,30013,0.159971043,12814,80102
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Flathead County,30029,0.182576895,16823,92142
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Gallatin County,30031,0.149218008,13653,91497
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Lewis and Clark County,30049,0.134317592,8570,63804
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Missoula County,30063,0.178947955,19469,108797
+Percent Below Federal Poverty Level (1y Avg.),2013, Montana,Yellowstone County,30111,0.129112571,19343,149815
+Percent Below Federal Poverty Level (1y Avg.),2013, Nebraska,Douglas County,31055,0.153791323,80901,526044
+Percent Below Federal Poverty Level (1y Avg.),2013, Nebraska,Lancaster County,31109,0.155387446,44204,284476
+Percent Below Federal Poverty Level (1y Avg.),2013, Nebraska,Sarpy County,31153,0.060485292,10123,167363
+Percent Below Federal Poverty Level (1y Avg.),2013, Nevada,Clark County,32003,0.160502553,321455,2002803
+Percent Below Federal Poverty Level (1y Avg.),2013, Nevada,Washoe County,32031,0.150880545,64504,427517
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Cheshire County,33005,0.12180005,8745,71798
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Grafton County,33009,0.111799225,9279,82997
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Hillsborough County,33011,0.096332364,38127,395786
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Merrimack County,33013,0.089943133,12638,140511
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Rockingham County,33015,0.056202885,16641,296088
+Percent Below Federal Poverty Level (1y Avg.),2013, New Hampshire,Strafford County,33017,0.082011133,9490,115716
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Atlantic County,34001,0.180338785,48716,270136
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Bergen County,34003,0.081516229,74517,914137
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Burlington County,34005,0.057031073,25014,438603
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Camden County,34007,0.149589196,75667,505832
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Cape May County,34009,0.093738064,8835,94252
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Cumberland County,34011,0.206431627,29978,145220
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Essex County,34013,0.178367212,137499,770876
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Gloucester County,34015,0.098414607,28139,285923
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Hudson County,34017,0.196741566,128632,653812
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Hunterdon County,34019,0.032777723,3929,119868
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Mercer County,34021,0.118248537,41667,352368
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Middlesex County,34023,0.094791114,76062,802417
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Monmouth County,34025,0.076944917,47963,623342
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Morris County,34027,0.043160204,21181,490753
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Ocean County,34029,0.10204199,58632,574587
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Passaic County,34031,0.16642864,82857,497853
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Salem County,34033,0.184366241,11715,63542
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Somerset County,34035,0.052703924,17216,326655
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Sussex County,34037,0.05814936,8397,144404
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Union County,34039,0.114795737,62096,540926
+Percent Below Federal Poverty Level (1y Avg.),2013, New Jersey,Warren County,34041,0.093238167,9837,105504
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Bernalillo County,35001,0.190381765,126827,666172
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Chaves County,35005,0.188166693,12101,64310
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Doña Ana County,35013,0.278268725,57908,208101
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Lea County,35025,0.122079067,8035,65818
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,McKinley County,35031,0.423906177,30868,72818
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Otero County,35035,0.219102398,13601,62076
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,San Juan County,35045,0.226651147,28442,125488
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Sandoval County,35043,0.165904224,22485,135530
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Santa Fe County,35049,0.193891987,28106,144957
+Percent Below Federal Poverty Level (1y Avg.),2013, New Mexico,Valencia County,35061,0.260311216,19338,74288
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Albany County,36001,0.138811484,40399,291035
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Bronx County,36005,0.308816165,425977,1379387
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Broome County,36007,0.179621562,33623,187188
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Cattaraugus County,36009,0.198929861,15206,76439
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Cayuga County,36011,0.131332204,9945,75724
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Chautauqua County,36013,0.191475227,24222,126502
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Chemung County,36015,0.170580119,14217,83345
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Clinton County,36019,0.155964673,11445,73382
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Dutchess County,36027,0.090822846,25466,280392
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Erie County,36029,0.151577517,135428,893457
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Jefferson County,36045,0.159290001,18002,113014
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Kings County,36047,0.232929483,599001,2571598
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Livingston County,36051,0.159669861,9402,58884
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Madison County,36053,0.139935613,9388,67088
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Monroe County,36055,0.157544151,114001,723613
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Nassau County,36059,0.061096013,81337,1331298
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,New York County,36061,0.189345539,299254,1580465
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Niagara County,36063,0.136723444,28672,209708
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Oneida County,36065,0.176903337,38955,220205
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Onondaga County,36067,0.1535258,69343,451670
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Ontario County,36069,0.095680878,10115,105716
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Orange County,36071,0.134453475,49125,365368
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Oswego County,36075,0.195196822,22701,116298
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Putnam County,36079,0.043742318,4307,98463
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Queens County,36081,0.153204396,347863,2270581
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Rensselaer County,36083,0.147016838,22660,154132
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Richmond County,36085,0.127630517,59539,466495
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Rockland County,36087,0.149866924,47353,315967
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Saratoga County,36091,0.077664152,17042,219432
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Schenectady County,36093,0.143295631,21755,151819
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,St. Lawrence County,36089,0.225854933,22693,100476
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Steuben County,36101,0.156335711,15163,96990
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Suffolk County,36103,0.07274922,106985,1470600
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Sullivan County,36105,0.200768799,14781,73622
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Tompkins County,36109,0.202620596,17907,88377
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Ulster County,36111,0.112766646,19549,173358
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Warren County,36113,0.097517125,6292,64522
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Wayne County,36117,0.10546618,9624,91252
+Percent Below Federal Poverty Level (1y Avg.),2013, New York,Westchester County,36119,0.096741498,91341,944176
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Alamance County,37001,0.207068965,31103,150206
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Brunswick County,37019,0.159968153,18285,114304
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Buncombe County,37021,0.148045182,35837,242068
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Burke County,37023,0.217415288,18921,87027
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Cabarrus County,37025,0.118854359,22023,185294
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Caldwell County,37027,0.176829115,14274,80722
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Carteret County,37031,0.150243193,10101,67231
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Catawba County,37035,0.164456487,25113,152703
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Chatham County,37037,0.183413565,12040,65644
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Cleveland County,37045,0.183422387,17473,95261
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Craven County,37049,0.158715859,16033,101017
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Cumberland County,37051,0.174666792,55092,315412
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Davidson County,37057,0.207390115,33238,160268
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Durham County,37063,0.166117653,45790,275648
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Forsyth County,37067,0.207972378,73006,351037
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Gaston County,37071,0.191626757,39528,206276
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Guilford County,37081,0.190263271,93530,491582
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Harnett County,37085,0.180615753,21917,121346
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Henderson County,37089,0.155985728,16914,108433
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Iredell County,37097,0.124805152,20337,162950
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Johnston County,37101,0.1678022,29407,175248
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Lincoln County,37109,0.156853825,12420,79182
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Mecklenburg County,37119,0.15172042,147896,974793
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Moore County,37125,0.138829499,12596,90730
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Nash County,37127,0.144557387,13482,93264
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,New Hanover County,37129,0.198206499,41067,207193
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Onslow County,37133,0.169696793,28935,170510
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Orange County,37135,0.159784466,20787,130094
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Pitt County,37147,0.256347448,43223,168611
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Randolph County,37151,0.212620392,29867,140471
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Robeson County,37155,0.297406405,39045,131285
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Rockingham County,37157,0.224112362,20249,90352
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Rowan County,37159,0.187187105,25014,133631
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Rutherford County,37161,0.261488229,17054,65219
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Surry County,37171,0.218344659,15773,72239
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Union County,37179,0.096888065,20393,210480
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Wake County,37183,0.107098274,101753,950090
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Wayne County,37191,0.214367852,25910,120867
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Wilkes County,37193,0.26122117,17669,67640
+Percent Below Federal Poverty Level (1y Avg.),2013, North Carolina,Wilson County,37195,0.190958232,15261,79918
+Percent Below Federal Poverty Level (1y Avg.),2013, North Dakota,Burleigh County,38015,0.082667038,7072,85548
+Percent Below Federal Poverty Level (1y Avg.),2013, North Dakota,Cass County,38017,0.146964222,23213,157950
+Percent Below Federal Poverty Level (1y Avg.),2013, North Dakota,Grand Forks County,38035,0.163457796,10519,64353
+Percent Below Federal Poverty Level (1y Avg.),2013, North Dakota,Ward County,38101,0.074327007,4865,65454
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Allen County,39003,0.14986451,15154,101118
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Ashtabula County,39007,0.187241688,17940,95812
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Belmont County,39013,0.159577876,10479,65667
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Butler County,39017,0.132825702,47726,359313
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Clark County,39023,0.185518518,24653,132887
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Clermont County,39025,0.087882876,17390,197877
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Columbiana County,39029,0.183132276,18687,102041
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Cuyahoga County,39035,0.190163687,235122,1236419
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Delaware County,39041,0.064643092,11760,181922
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Erie County,39043,0.155856431,11707,75114
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Fairfield County,39045,0.125058204,18263,146036
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Franklin County,39049,0.176995933,209500,1183643
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Geauga County,39055,0.07334704,6849,93378
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Greene County,39057,0.135154113,20789,153817
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Hamilton County,39061,0.186584756,146667,786061
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Hancock County,39063,0.138453647,9985,72118
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Jefferson County,39081,0.182493374,11917,65301
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Lake County,39085,0.08986605,20388,226871
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Licking County,39089,0.102429651,16838,164386
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Lorain County,39093,0.146312147,42971,293694
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Lucas County,39095,0.215938404,92077,426404
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Mahoning County,39099,0.177607596,40145,226032
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Marion County,39101,0.144771218,8590,59335
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Medina County,39103,0.058052629,10051,173136
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Miami County,39109,0.089045584,9105,102251
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Montgomery County,39113,0.186924145,97360,520853
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Muskingum County,39119,0.213696614,17749,83057
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Portage County,39133,0.180549368,28356,157054
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Richland County,39139,0.17567426,20114,114496
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Ross County,39141,0.191130817,13667,71506
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Scioto County,39145,0.246109053,18090,73504
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Stark County,39151,0.15420939,56465,366158
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Summit County,39153,0.146304831,78021,533277
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Trumbull County,39155,0.192410827,38963,202499
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Tuscarawas County,39157,0.146106377,13355,91406
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Warren County,39165,0.082851611,17500,211221
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Wayne County,39169,0.131907701,14687,111343
+Percent Below Federal Poverty Level (1y Avg.),2013, Ohio,Wood County,39173,0.137679622,16844,122342
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Canadian County,40017,0.053261973,6608,124066
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Cleveland County,40027,0.131617993,33971,258103
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Comanche County,40031,0.210497186,24336,115612
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Creek County,40037,0.141900539,9875,69591
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Muskogee County,40101,0.193779618,12841,66266
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Oklahoma County,40109,0.179716796,132693,738345
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Payne County,40119,0.260458618,18435,70779
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Pottawatomie County,40125,0.197516128,13232,66992
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Rogers County,40131,0.085840285,7533,87756
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Tulsa County,40143,0.161214203,98715,612322
+Percent Below Federal Poverty Level (1y Avg.),2013, Oklahoma,Wagoner County,40145,0.119376957,8967,75115
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Benton County,41003,0.231024966,18762,81212
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Clackamas County,41005,0.093775019,36076,384708
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Deschutes County,41017,0.160317034,26397,164655
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Douglas County,41019,0.192751646,20306,105348
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Jackson County,41029,0.18855834,38784,205687
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Josephine County,41033,0.170408323,14035,82361
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Klamath County,41035,0.160780653,10512,65381
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Lane County,41039,0.215368852,75232,349317
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Linn County,41043,0.204567939,23986,117252
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Marion County,41047,0.187878385,58746,312681
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Multnomah County,41051,0.184699148,138635,750599
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Polk County,41053,0.217976749,16350,75008
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Umatilla County,41059,0.168652281,12146,72018
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Washington County,41067,0.109011322,59893,549420
+Percent Below Federal Poverty Level (1y Avg.),2013, Oregon,Yamhill County,41071,0.138050586,13220,95762
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Adams County,42001,0.088857733,8620,97009
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Allegheny County,42003,0.137570187,164774,1197745
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Armstrong County,42005,0.15225248,10237,67237
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Beaver County,42007,0.106489792,17861,167725
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Berks County,42011,0.144320041,57698,399792
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Blair County,42013,0.164810479,20392,123730
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Bucks County,42017,0.061435647,38013,618745
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Butler County,42019,0.093473867,16841,180168
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Cambria County,42021,0.164076552,21707,132298
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Carbon County,42025,0.157330021,10015,63656
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Centre County,42027,0.19770436,27490,139046
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Chester County,42029,0.06982737,34685,496725
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Clearfield County,42033,0.164334238,12459,75815
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Columbia County,42037,0.187063292,11753,62829
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Crawford County,42039,0.138871208,11567,83293
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Cumberland County,42041,0.084953226,19308,227278
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Dauphin County,42043,0.141388521,37629,266139
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Delaware County,42045,0.10784851,58285,540434
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Erie County,42049,0.182891324,49005,267946
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Fayette County,42051,0.192870542,25278,131062
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Franklin County,42055,0.129057616,19211,148856
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Indiana County,42063,0.140669495,11510,81823
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lackawanna County,42069,0.148911998,30542,205101
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lancaster County,42071,0.104423217,53694,514196
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lawrence County,42073,0.128010109,11142,87040
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lebanon County,42075,0.10887555,14367,131958
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lehigh County,42077,0.147616625,51060,345896
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Luzerne County,42079,0.164205,50551,307853
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Lycoming County,42081,0.135134399,14991,110934
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Mercer County,42085,0.130819231,14070,107553
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Monroe County,42089,0.108461782,17845,164528
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Montgomery County,42091,0.068191536,53926,790802
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Northampton County,42095,0.099468783,28780,289337
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Northumberland County,42097,0.141323641,12744,90176
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Philadelphia County,42101,0.262838215,396963,1510294
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Schuylkill County,42107,0.132919908,18562,139648
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Somerset County,42111,0.116547287,8347,71619
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Washington County,42125,0.107705228,21799,202395
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,Westmoreland County,42129,0.106004566,37573,354447
+Percent Below Federal Poverty Level (1y Avg.),2013, Pennsylvania,York County,42133,0.110106155,47161,428323
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Arecibo Municipio,72013,0.492972195,45174,91636
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Bayamón Municipio,72021,0.346034437,67094,193894
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Caguas Municipio,72025,0.393475443,54819,139320
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Carolina Municipio,72031,0.30895406,52212,168996
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Guaynabo Municipio,72061,0.288892657,27268,94388
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Mayagüez Municipio,72097,0.508235037,42183,82999
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Ponce Municipio,72113,0.526565075,81150,154112
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,San Juan Municipio,72127,0.420811951,155142,368673
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Toa Alta Municipio,72135,0.329621106,24803,75247
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Toa Baja Municipio,72137,0.355960488,30514,85723
+Percent Below Federal Poverty Level (1y Avg.),2013, Puerto Rico,Trujillo Alto Municipio,72139,0.298923016,21344,71403
+Percent Below Federal Poverty Level (1y Avg.),2013, Rhode Island,Kent County,44003,0.068485588,11165,163027
+Percent Below Federal Poverty Level (1y Avg.),2013, Rhode Island,Newport County,44005,0.096846566,7684,79342
+Percent Below Federal Poverty Level (1y Avg.),2013, Rhode Island,Providence County,44007,0.185626358,111704,601768
+Percent Below Federal Poverty Level (1y Avg.),2013, Rhode Island,Washington County,44009,0.094140492,11346,120522
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Aiken County,45003,0.186327666,30039,161216
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Anderson County,45007,0.162320599,30570,188331
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Beaufort County,45013,0.143033937,23809,166457
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Berkeley County,45015,0.158958405,30290,190553
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Charleston County,45019,0.174269751,62811,360424
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Darlington County,45031,0.302862197,20200,66697
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Dorchester County,45035,0.137316406,19614,142838
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Florence County,45041,0.192268565,25893,134671
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Greenville County,45045,0.166282043,76809,461920
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Greenwood County,45047,0.289960593,19276,66478
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Horry County,45051,0.192518026,55095,286181
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Lancaster County,45057,0.204891756,16109,78622
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Laurens County,45059,0.237690628,15134,63671
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Lexington County,45063,0.125009716,33791,270307
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Oconee County,45073,0.176323429,13110,74352
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Orangeburg County,45075,0.235903949,20798,88163
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Pickens County,45077,0.190157235,21406,112570
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Richland County,45079,0.185918927,68386,367827
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Spartanburg County,45083,0.190956831,53956,282556
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,Sumter County,45085,0.199003428,21047,105762
+Percent Below Federal Poverty Level (1y Avg.),2013, South Carolina,York County,45091,0.123532213,29015,234878
+Percent Below Federal Poverty Level (1y Avg.),2013, South Dakota,Minnehaha County,46099,0.107717097,18852,175014
+Percent Below Federal Poverty Level (1y Avg.),2013, South Dakota,Pennington County,46103,0.157382265,16228,103112
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Anderson County,47001,0.225956216,16742,74094
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Blount County,47009,0.156824514,19227,122602
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Bradley County,47011,0.199183345,19561,98206
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Davidson County,47037,0.177587166,113250,637715
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Greene County,47059,0.198512256,13183,66409
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Hamilton County,47065,0.171408281,58171,339371
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Knox County,47093,0.165126011,71417,432500
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Madison County,47113,0.218334079,20702,94818
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Maury County,47119,0.12710613,10418,81963
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Montgomery County,47125,0.155832216,28126,180489
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Putnam County,47141,0.310910672,21922,70509
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Robertson County,47147,0.099119835,6588,66465
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Rutherford County,47149,0.123966187,34085,274954
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Sevier County,47155,0.160418019,14813,92340
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Shelby County,47157,0.217973158,200990,922086
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Sullivan County,47163,0.183193028,28115,153472
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Sumner County,47165,0.101973191,16987,166583
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Washington County,47179,0.181384027,21915,120821
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Williamson County,47187,0.049289618,9752,197851
+Percent Below Federal Poverty Level (1y Avg.),2013, Tennessee,Wilson County,47189,0.116944648,13995,119672
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Angelina County,48005,0.226895511,19248,84832
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Bastrop County,48021,0.228105411,16698,73203
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Bell County,48027,0.148555979,47380,318937
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Bexar County,48029,0.173337474,309211,1783867
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Bowie County,48037,0.217890501,19243,88315
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Brazoria County,48039,0.116609558,37229,319262
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Brazos County,48041,0.295055449,55800,189117
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Cameron County,48061,0.325314224,134170,412432
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Collin County,48085,0.08178024,69581,850829
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Comal County,48091,0.109781392,12916,117652
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Coryell County,48099,0.118599296,7363,62083
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Dallas County,48113,0.195794761,479770,2450372
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Denton County,48121,0.090888381,65028,715471
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Ector County,48135,0.14617084,21501,147095
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,El Paso County,48141,0.224852785,182645,812287
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Ellis County,48139,0.142065883,21930,154365
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Fort Bend County,48157,0.087962411,56894,646799
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Galveston County,48167,0.141685382,42632,300892
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Grayson County,48181,0.167425081,20052,119767
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Gregg County,48183,0.165882051,19803,119380
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Guadalupe County,48187,0.108038552,15280,141431
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Harris County,48201,0.18457149,791956,4290782
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Harrison County,48203,0.193478227,12632,65289
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Hays County,48209,0.153946236,26032,169098
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Henderson County,48213,0.224987075,17414,77400
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Hidalgo County,48215,0.342914969,275681,803934
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Hunt County,48231,0.180795103,15294,84593
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Jefferson County,48245,0.228452548,54358,237940
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Johnson County,48251,0.124744162,18894,151462
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Kaufman County,48257,0.104165696,11200,107521
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Liberty County,48291,0.223038837,15629,70073
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Lubbock County,48303,0.174709216,48457,277358
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,McLennan County,48309,0.21104379,49047,232402
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Midland County,48329,0.092445306,13797,149245
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Montgomery County,48339,0.120490201,59670,495227
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Nacogdoches County,48347,0.284563661,17100,60092
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Nueces County,48355,0.177593857,61177,344477
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Orange County,48361,0.139062494,11392,81920
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Parker County,48367,0.124054015,14589,117602
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Potter County,48375,0.216841549,24901,114835
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Randall County,48381,0.116249748,14383,123725
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Rockwall County,48397,0.060004268,5061,84344
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,San Patricio County,48409,0.143431351,9385,65432
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Smith County,48423,0.169584051,35817,211205
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Tarrant County,48439,0.152593315,287791,1886000
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Taylor County,48441,0.170067012,21673,127438
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Tom Green County,48451,0.122696795,13358,108870
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Travis County,48453,0.161372706,176920,1096344
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Victoria County,48469,0.156609505,13872,88577
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Walker County,48471,0.282526821,13055,46208
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Webb County,48479,0.310815513,80403,258684
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Wichita County,48485,0.201007918,23732,118065
+Percent Below Federal Poverty Level (1y Avg.),2013, Texas,Williamson County,48491,0.079569779,37101,466270
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Cache County,49005,0.143929511,16221,112701
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Davis County,49011,0.082580075,26430,320053
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Salt Lake County,49035,0.125508726,133657,1064922
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Utah County,49049,0.137670591,74167,538728
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Washington County,49053,0.158832222,23122,145575
+Percent Below Federal Poverty Level (1y Avg.),2013, Utah,Weber County,49057,0.136674523,32133,235106
+Percent Below Federal Poverty Level (1y Avg.),2013, Vermont,Chittenden County,50007,0.103576377,15558,150208
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Albemarle County,51003,0.103631444,9774,94315
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Alexandria city,51510,0.082444258,12194,147906
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Arlington County,51013,0.098149464,21820,222314
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Augusta County,51015,0.07359682,5186,70465
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Bedford County,51019,0.075645596,5261,69548
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Chesapeake city,51550,0.092954978,20739,223108
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Chesterfield County,51041,0.078706913,25350,322081
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Fairfax County,51059,0.057869714,64851,1120638
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Fauquier County,51061,0.061431713,4108,66871
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Frederick County,51069,0.04881927,3930,80501
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Hampton city,51650,0.156870186,20686,131867
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Hanover County,51085,0.042710878,4230,99038
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Henrico County,51087,0.121432208,38188,314480
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,James City County,51095,0.069895178,4861,69547
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Loudoun County,51107,0.038543012,13410,347923
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Lynchburg city,51680,0.2403754,16059,66808
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Montgomery County,51121,0.264201969,23054,87259
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Newport News city,51700,0.176340744,30678,173970
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Norfolk city,51710,0.224488482,49066,218568
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Portsmouth city,51740,0.212636456,19947,93808
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Prince William County,51153,0.069524854,30153,433701
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Richmond city,51760,0.256514013,52305,203907
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Roanoke County,51161,0.076936528,7040,91504
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Roanoke city,51770,0.249226734,24092,96667
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Rockingham County,51165,0.08157628,6202,76027
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Spotsylvania County,51177,0.073312305,9296,126800
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Stafford County,51179,0.060698472,8101,133463
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Suffolk city,51800,0.095393606,8062,84513
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,Virginia Beach city,51810,0.087603159,38245,436571
+Percent Below Federal Poverty Level (1y Avg.),2013, Virginia,York County,51199,0.06522537,4266,65404
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Benton County,53005,0.134237856,24527,182713
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Chelan County,53007,0.172210231,12602,73178
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Clallam County,53009,0.187991872,13329,70902
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Clark County,53011,0.124385633,54766,440292
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Cowlitz County,53015,0.144746438,14491,100113
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Franklin County,53021,0.170518413,14351,84161
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Grant County,53025,0.186571091,16997,91102
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Grays Harbor County,53027,0.181356564,12286,67745
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Island County,53029,0.113480218,8622,75978
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,King County,53033,0.124363057,250725,2016073
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Kitsap County,53035,0.112724669,27727,245971
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Lewis County,53041,0.194337502,14387,74031
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Pierce County,53053,0.140167803,112430,802110
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Skagit County,53057,0.177694157,20682,116391
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Snohomish County,53061,0.112803429,83172,737318
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Spokane County,53063,0.171352521,79438,463594
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Thurston County,53067,0.127937451,33003,257962
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Whatcom County,53073,0.170312241,34135,200426
+Percent Below Federal Poverty Level (1y Avg.),2013, Washington,Yakima County,53077,0.207861423,50581,243340
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Berkeley County,54003,0.137256742,14642,106676
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Cabell County,54011,0.25187698,23383,92835
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Harrison County,54033,0.156993896,10539,67130
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Kanawha County,54039,0.14762859,27709,187694
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Monongalia County,54061,0.208680928,19837,95059
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Raleigh County,54081,0.210112363,15708,74760
+Percent Below Federal Poverty Level (1y Avg.),2013, West Virginia,Wood County,54107,0.184031114,15710,85366
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Brown County,55009,0.125036344,30968,247672
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Dane County,55025,0.141909629,70542,497091
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Dodge County,55027,0.084975295,7103,83589
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Eau Claire County,55035,0.129518196,12613,97384
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Fond du Lac County,55039,0.081317209,8023,98663
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Jefferson County,55055,0.111919269,9094,81255
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Kenosha County,55059,0.169727817,27538,162248
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,La Crosse County,55063,0.15922147,17793,111750
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Manitowoc County,55071,0.106517188,8494,79743
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Marathon County,55073,0.110235572,14731,133632
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Milwaukee County,55079,0.222198531,207325,933062
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Outagamie County,55087,0.085519247,15121,176814
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Ozaukee County,55089,0.063382402,5468,86270
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Portage County,55097,0.146773249,9841,67049
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Racine County,55101,0.127697885,24323,190473
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Rock County,55105,0.146026105,22915,156924
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Sheboygan County,55117,0.114897691,12842,111769
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,St. Croix County,55109,0.061277568,5207,84974
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Walworth County,55127,0.128430665,12878,100272
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Washington County,55131,0.074598096,9791,131250
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Waukesha County,55133,0.057038318,22168,388651
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Winnebago County,55139,0.128971666,20803,161299
+Percent Below Federal Poverty Level (1y Avg.),2013, Wisconsin,Wood County,55141,0.115323178,8375,72622
+Percent Below Federal Poverty Level (1y Avg.),2013, Wyoming,Laramie County,56021,0.095262416,8952,93972
+Percent Below Federal Poverty Level (1y Avg.),2013, Wyoming,Natrona County,56025,0.093992934,7448,79240
