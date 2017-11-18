@@ -1,0 +1,826 @@
+measure label,year,state,county,fips,perc_vacant_housing_1y,numerator,denominator
+perc_vacant_housing_1y,2012, Alabama,Baldwin County,1003,0.22674723,23869,105267
+perc_vacant_housing_1y,2012, Alabama,Calhoun County,1015,0.128266215,6838,53311
+perc_vacant_housing_1y,2012, Alabama,Cullman County,1043,0.151925355,5634,37084
+perc_vacant_housing_1y,2012, Alabama,DeKalb County,1049,0.234432817,7285,31075
+perc_vacant_housing_1y,2012, Alabama,Elmore County,1051,0.132154033,4348,32901
+perc_vacant_housing_1y,2012, Alabama,Etowah County,1055,0.17399545,8262,47484
+perc_vacant_housing_1y,2012, Alabama,Houston County,1069,0.154115364,7046,45719
+perc_vacant_housing_1y,2012, Alabama,Jefferson County,1073,0.141495779,42733,302009
+perc_vacant_housing_1y,2012, Alabama,Lauderdale County,1077,0.16198945,7123,43972
+perc_vacant_housing_1y,2012, Alabama,Lee County,1081,0.134175882,8642,64408
+perc_vacant_housing_1y,2012, Alabama,Limestone County,1083,0.087675504,3091,35255
+perc_vacant_housing_1y,2012, Alabama,Madison County,1089,0.096459113,14517,150499
+perc_vacant_housing_1y,2012, Alabama,Marshall County,1095,0.159654081,6443,40356
+perc_vacant_housing_1y,2012, Alabama,Mobile County,1097,0.127052814,22931,180484
+perc_vacant_housing_1y,2012, Alabama,Montgomery County,1101,0.119012579,12212,102611
+perc_vacant_housing_1y,2012, Alabama,Morgan County,1103,0.091415547,4693,51337
+perc_vacant_housing_1y,2012, Alabama,Shelby County,1117,0.082411349,6756,81979
+perc_vacant_housing_1y,2012, Alabama,St. Clair County,1115,0.097023278,3468,35744
+perc_vacant_housing_1y,2012, Alabama,Talladega County,1121,0.140637189,5231,37195
+perc_vacant_housing_1y,2012, Alabama,Tuscaloosa County,1125,0.210506752,18124,86097
+perc_vacant_housing_1y,2012, Alabama,Walker County,1127,0.14751114,4537,30757
+perc_vacant_housing_1y,2012, Alaska,Anchorage Municipality,2020,0.066852048,7597,113639
+perc_vacant_housing_1y,2012, Alaska,Fairbanks North Star Borough,2090,0.137909532,5750,41694
+perc_vacant_housing_1y,2012, Alaska,Matanuska-Susitna Borough,2170,0.23604995,9755,41326
+perc_vacant_housing_1y,2012, Arizona,Apache County,4001,0.38499999,12551,32600
+perc_vacant_housing_1y,2012, Arizona,Cochise County,4003,0.161332861,9664,59901
+perc_vacant_housing_1y,2012, Arizona,Coconino County,4005,0.251386762,16043,63818
+perc_vacant_housing_1y,2012, Arizona,Maricopa County,4013,0.128162354,212065,1654659
+perc_vacant_housing_1y,2012, Arizona,Mohave County,4015,0.261497468,29152,111481
+perc_vacant_housing_1y,2012, Arizona,Navajo County,4017,0.350940615,20091,57249
+perc_vacant_housing_1y,2012, Arizona,Pima County,4019,0.122516312,54440,444349
+perc_vacant_housing_1y,2012, Arizona,Pinal County,4021,0.196454957,31909,162424
+perc_vacant_housing_1y,2012, Arizona,Yavapai County,4025,0.145976022,16241,111258
+perc_vacant_housing_1y,2012, Arizona,Yuma County,4027,0.184721038,16435,88972
+perc_vacant_housing_1y,2012, Arkansas,Benton County,5007,0.110615917,10474,94688
+perc_vacant_housing_1y,2012, Arkansas,Craighead County,5031,0.079887107,3340,41809
+perc_vacant_housing_1y,2012, Arkansas,Faulkner County,5045,0.087912999,4228,48093
+perc_vacant_housing_1y,2012, Arkansas,Garland County,5051,0.191723898,9688,50531
+perc_vacant_housing_1y,2012, Arkansas,Jefferson County,5069,0.153055981,5066,33099
+perc_vacant_housing_1y,2012, Arkansas,Lonoke County,5085,0.083420232,2320,27811
+perc_vacant_housing_1y,2012, Arkansas,Pulaski County,5119,0.130952507,23402,178706
+perc_vacant_housing_1y,2012, Arkansas,Saline County,5125,0.073815428,3393,45966
+perc_vacant_housing_1y,2012, Arkansas,Sebastian County,5131,0.071125627,3941,55409
+perc_vacant_housing_1y,2012, Arkansas,Washington County,5143,0.079489551,7045,88628
+perc_vacant_housing_1y,2012, Arkansas,White County,5145,,,32798
+perc_vacant_housing_1y,2012, California,Alameda County,6001,0.054595642,31863,583618
+perc_vacant_housing_1y,2012, California,Butte County,6007,0.09883333,9488,96000
+perc_vacant_housing_1y,2012, California,Contra Costa County,6013,0.049631663,19922,401397
+perc_vacant_housing_1y,2012, California,El Dorado County,6017,0.236933798,20876,88109
+perc_vacant_housing_1y,2012, California,Fresno County,6019,0.078219257,24909,318451
+perc_vacant_housing_1y,2012, California,Humboldt County,6023,0.150602505,9286,61659
+perc_vacant_housing_1y,2012, California,Imperial County,6025,0.147833988,8296,56117
+perc_vacant_housing_1y,2012, California,Kern County,6029,0.100942045,28856,285867
+perc_vacant_housing_1y,2012, California,Kings County,6031,0.081483491,3601,44193
+perc_vacant_housing_1y,2012, California,Lake County,6033,0.250652075,8841,35272
+perc_vacant_housing_1y,2012, California,Los Angeles County,6037,0.057412028,197764,3444644
+perc_vacant_housing_1y,2012, California,Madera County,6039,0.161142811,7964,49422
+perc_vacant_housing_1y,2012, California,Marin County,6041,0.073494591,8164,111083
+perc_vacant_housing_1y,2012, California,Mendocino County,6045,0.122322492,4934,40336
+perc_vacant_housing_1y,2012, California,Merced County,6047,0.084467098,7059,83571
+perc_vacant_housing_1y,2012, California,Monterey County,6053,0.100330524,13933,138871
+perc_vacant_housing_1y,2012, California,Napa County,6055,0.115262352,6309,54736
+perc_vacant_housing_1y,2012, California,Nevada County,6057,0.192102313,10109,52623
+perc_vacant_housing_1y,2012, California,Orange County,6059,0.048895285,51464,1052535
+perc_vacant_housing_1y,2012, California,Placer County,6061,0.124755479,19260,154382
+perc_vacant_housing_1y,2012, California,Riverside County,6065,0.131836534,106135,805050
+perc_vacant_housing_1y,2012, California,Sacramento County,6067,0.067262374,37419,556314
+perc_vacant_housing_1y,2012, California,San Bernardino County,6071,0.135996863,95225,700200
+perc_vacant_housing_1y,2012, California,San Diego County,6073,0.070219159,82102,1169225
+perc_vacant_housing_1y,2012, California,San Francisco County,6075,0.07139048,26907,376899
+perc_vacant_housing_1y,2012, California,San Joaquin County,6077,0.073894419,17336,234605
+perc_vacant_housing_1y,2012, California,San Luis Obispo County,6079,0.104396351,12272,117552
+perc_vacant_housing_1y,2012, California,San Mateo County,6081,0.038937774,10541,270714
+perc_vacant_housing_1y,2012, California,Santa Barbara County,6083,0.063864201,9752,152699
+perc_vacant_housing_1y,2012, California,Santa Clara County,6085,0.030562963,19447,636293
+perc_vacant_housing_1y,2012, California,Santa Cruz County,6087,0.098412059,10263,104286
+perc_vacant_housing_1y,2012, California,Shasta County,6089,0.116779633,9028,77308
+perc_vacant_housing_1y,2012, California,Solano County,6095,0.072297186,11064,153035
+perc_vacant_housing_1y,2012, California,Sonoma County,6097,0.089123853,18249,204760
+perc_vacant_housing_1y,2012, California,Stanislaus County,6099,0.063091867,11306,179199
+perc_vacant_housing_1y,2012, California,Sutter County,6101,0.063309819,2145,33881
+perc_vacant_housing_1y,2012, California,Tulare County,6107,0.073240951,10507,143458
+perc_vacant_housing_1y,2012, California,Ventura County,6111,0.041256655,11622,281700
+perc_vacant_housing_1y,2012, California,Yolo County,6113,0.046449214,3496,75265
+perc_vacant_housing_1y,2012, California,Yuba County,6115,,,27608
+perc_vacant_housing_1y,2012, Colorado,Adams County,8001,0.060706403,9955,163986
+perc_vacant_housing_1y,2012, Colorado,Arapahoe County,8005,0.053328328,12782,239685
+perc_vacant_housing_1y,2012, Colorado,Boulder County,8013,0.046258569,5926,128106
+perc_vacant_housing_1y,2012, Colorado,Denver County,8031,0.057628449,16608,288191
+perc_vacant_housing_1y,2012, Colorado,Douglas County,8035,0.037089311,4047,109115
+perc_vacant_housing_1y,2012, Colorado,El Paso County,8041,0.066738784,17089,256058
+perc_vacant_housing_1y,2012, Colorado,Jefferson County,8059,0.038327917,8848,230850
+perc_vacant_housing_1y,2012, Colorado,Larimer County,8069,0.071727641,9662,134704
+perc_vacant_housing_1y,2012, Colorado,Mesa County,8077,0.060464527,3819,63161
+perc_vacant_housing_1y,2012, Colorado,Pueblo County,8101,0.096966565,6748,69591
+perc_vacant_housing_1y,2012, Colorado,Weld County,8123,0.050048705,4881,97525
+perc_vacant_housing_1y,2012, Connecticut,Fairfield County,9001,0.069131523,24986,361427
+perc_vacant_housing_1y,2012, Connecticut,Hartford County,9003,0.069523051,25993,373876
+perc_vacant_housing_1y,2012, Connecticut,Litchfield County,9005,0.119371228,10434,87408
+perc_vacant_housing_1y,2012, Connecticut,Middlesex County,9007,0.096605606,7246,75006
+perc_vacant_housing_1y,2012, Connecticut,New Haven County,9009,0.082327485,29793,361884
+perc_vacant_housing_1y,2012, Connecticut,New London County,9011,0.114353724,13836,120993
+perc_vacant_housing_1y,2012, Connecticut,Tolland County,9013,0.057235532,3335,58268
+perc_vacant_housing_1y,2012, Connecticut,Windham County,9015,0.110683762,5439,49140
+perc_vacant_housing_1y,2012, Delaware,Kent County,10001,0.104965821,6986,66555
+perc_vacant_housing_1y,2012, Delaware,New Castle County,10003,0.06563542,14312,218053
+perc_vacant_housing_1y,2012, Delaware,Sussex County,10005,0.356149554,44768,125700
+perc_vacant_housing_1y,2012, District of Columbia,District of Columbia,11001,0.10230244,30716,300247
+perc_vacant_housing_1y,2012, Florida,Alachua County,12001,0.174987853,19806,113185
+perc_vacant_housing_1y,2012, Florida,Bay County,12005,0.302525312,30189,99790
+perc_vacant_housing_1y,2012, Florida,Brevard County,12009,0.175863177,47619,270773
+perc_vacant_housing_1y,2012, Florida,Broward County,12011,0.1668984,135402,811284
+perc_vacant_housing_1y,2012, Florida,Charlotte County,12015,0.265215337,26765,100918
+perc_vacant_housing_1y,2012, Florida,Citrus County,12017,0.244028598,19013,77913
+perc_vacant_housing_1y,2012, Florida,Clay County,12019,0.120110229,9153,76205
+perc_vacant_housing_1y,2012, Florida,Collier County,12021,0.334679067,66734,199397
+perc_vacant_housing_1y,2012, Florida,Columbia County,12023,0.205642894,5860,28496
+perc_vacant_housing_1y,2012, Florida,Duval County,12031,0.154560089,60318,390256
+perc_vacant_housing_1y,2012, Florida,Escambia County,12033,0.168111771,23150,137706
+perc_vacant_housing_1y,2012, Florida,Flagler County,12035,0.226399288,11075,48918
+perc_vacant_housing_1y,2012, Florida,Hernando County,12053,0.173888907,14723,84669
+perc_vacant_housing_1y,2012, Florida,Highlands County,12055,0.283771068,15667,55210
+perc_vacant_housing_1y,2012, Florida,Hillsborough County,12057,0.116679206,63284,542376
+perc_vacant_housing_1y,2012, Florida,Indian River County,12061,0.213138893,16355,76734
+perc_vacant_housing_1y,2012, Florida,Lake County,12069,0.19089593,27699,145100
+perc_vacant_housing_1y,2012, Florida,Lee County,12071,0.294876844,109757,372213
+perc_vacant_housing_1y,2012, Florida,Leon County,12073,0.122380249,15299,125012
+perc_vacant_housing_1y,2012, Florida,Manatee County,12081,0.234123558,40896,174677
+perc_vacant_housing_1y,2012, Florida,Marion County,12083,0.165749505,27138,163729
+perc_vacant_housing_1y,2012, Florida,Martin County,12085,0.195888415,15322,78218
+perc_vacant_housing_1y,2012, Florida,Miami-Dade County,12086,0.145512089,144262,991409
+perc_vacant_housing_1y,2012, Florida,Monroe County,12087,0.380070806,20078,52827
+perc_vacant_housing_1y,2012, Florida,Nassau County,12089,0.216774121,7666,35364
+perc_vacant_housing_1y,2012, Florida,Okaloosa County,12091,0.190612316,17803,93399
+perc_vacant_housing_1y,2012, Florida,Orange County,12095,0.136446476,67310,493307
+perc_vacant_housing_1y,2012, Florida,Osceola County,12097,0.273000509,35332,129421
+perc_vacant_housing_1y,2012, Florida,Palm Beach County,12099,0.195498899,130344,666725
+perc_vacant_housing_1y,2012, Florida,Pasco County,12101,0.205082849,47304,230658
+perc_vacant_housing_1y,2012, Florida,Pinellas County,12103,0.174185261,87468,502155
+perc_vacant_housing_1y,2012, Florida,Polk County,12105,0.185809165,52288,281407
+perc_vacant_housing_1y,2012, Florida,Putnam County,12107,0.23242864,8598,36992
+perc_vacant_housing_1y,2012, Florida,Santa Rosa County,12113,0.103207767,6792,65809
+perc_vacant_housing_1y,2012, Florida,Sarasota County,12115,0.226612613,51868,228884
+perc_vacant_housing_1y,2012, Florida,Seminole County,12117,0.182773367,33434,182926
+perc_vacant_housing_1y,2012, Florida,St. Johns County,12109,0.132487327,12236,92356
+perc_vacant_housing_1y,2012, Florida,St. Lucie County,12111,0.185810044,25474,137097
+perc_vacant_housing_1y,2012, Florida,Sumter County,12119,0.202188328,11734,58035
+perc_vacant_housing_1y,2012, Florida,Volusia County,12127,0.211924613,53995,254784
+perc_vacant_housing_1y,2012, Georgia,Barrow County,13013,,,26450
+perc_vacant_housing_1y,2012, Georgia,Bartow County,13015,0.094061516,3746,39825
+perc_vacant_housing_1y,2012, Georgia,Bibb County,13021,0.195623547,13669,69874
+perc_vacant_housing_1y,2012, Georgia,Bulloch County,13031,,,29353
+perc_vacant_housing_1y,2012, Georgia,Carroll County,13045,0.103081472,4603,44654
+perc_vacant_housing_1y,2012, Georgia,Catoosa County,13047,0.14760673,3938,26679
+perc_vacant_housing_1y,2012, Georgia,Chatham County,13051,0.129723474,15692,120965
+perc_vacant_housing_1y,2012, Georgia,Cherokee County,13057,0.084981233,7065,83136
+perc_vacant_housing_1y,2012, Georgia,Clarke County,13059,0.198403999,10144,51128
+perc_vacant_housing_1y,2012, Georgia,Clayton County,13063,0.168086588,17579,104583
+perc_vacant_housing_1y,2012, Georgia,Cobb County,13067,0.079298176,22878,288506
+perc_vacant_housing_1y,2012, Georgia,Columbia County,13073,0.136552855,6987,51167
+perc_vacant_housing_1y,2012, Georgia,Coweta County,13077,0.05491779,2789,50785
+perc_vacant_housing_1y,2012, Georgia,DeKalb County,13089,0.13737826,41906,305041
+perc_vacant_housing_1y,2012, Georgia,Dougherty County,13095,0.11988505,4881,40714
+perc_vacant_housing_1y,2012, Georgia,Douglas County,13097,0.115888141,5984,51636
+perc_vacant_housing_1y,2012, Georgia,Fayette County,13113,0.086719207,3543,40856
+perc_vacant_housing_1y,2012, Georgia,Floyd County,13115,0.147832528,5985,40485
+perc_vacant_housing_1y,2012, Georgia,Forsyth County,13117,0.112361923,7446,66268
+perc_vacant_housing_1y,2012, Georgia,Fulton County,13121,0.137993842,60539,438708
+perc_vacant_housing_1y,2012, Georgia,Glynn County,13127,0.209887952,8635,41141
+perc_vacant_housing_1y,2012, Georgia,Gwinnett County,13135,0.073735155,21619,293198
+perc_vacant_housing_1y,2012, Georgia,Hall County,13139,0.120431229,8300,68919
+perc_vacant_housing_1y,2012, Georgia,Henry County,13151,0.096356541,7405,76850
+perc_vacant_housing_1y,2012, Georgia,Houston County,13153,0.109754659,6527,59469
+perc_vacant_housing_1y,2012, Georgia,Liberty County,13179,0.163241073,4400,26954
+perc_vacant_housing_1y,2012, Georgia,Lowndes County,13185,0.10100697,4564,45185
+perc_vacant_housing_1y,2012, Georgia,Muscogee County,13215,0.12967734,10771,83060
+perc_vacant_housing_1y,2012, Georgia,Newton County,13217,0.107343309,4112,38307
+perc_vacant_housing_1y,2012, Georgia,Paulding County,13223,0.094936706,4980,52456
+perc_vacant_housing_1y,2012, Georgia,Richmond County,13245,0.146931469,12725,86605
+perc_vacant_housing_1y,2012, Georgia,Rockdale County,13247,0.108738795,3616,33254
+perc_vacant_housing_1y,2012, Georgia,Troup County,13285,0.126010492,3554,28204
+perc_vacant_housing_1y,2012, Georgia,Walker County,13295,,,30054
+perc_vacant_housing_1y,2012, Georgia,Walton County,13297,,,32381
+perc_vacant_housing_1y,2012, Georgia,Whitfield County,13313,0.148103461,5892,39783
+perc_vacant_housing_1y,2012, Hawaii,Hawaii County,15001,0.209696442,17608,83969
+perc_vacant_housing_1y,2012, Hawaii,Honolulu County,15003,0.07877215,26737,339422
+perc_vacant_housing_1y,2012, Hawaii,Kauai County,15007,0.216967046,6537,30129
+perc_vacant_housing_1y,2012, Hawaii,Maui County,15009,0.182976976,12948,70763
+perc_vacant_housing_1y,2012, Idaho,Ada County,16001,0.038560379,6242,161876
+perc_vacant_housing_1y,2012, Idaho,Bannock County,16005,0.073506847,2443,33235
+perc_vacant_housing_1y,2012, Idaho,Bonneville County,16019,0.082205102,3297,40107
+perc_vacant_housing_1y,2012, Idaho,Canyon County,16027,0.085410066,5960,69781
+perc_vacant_housing_1y,2012, Idaho,Kootenai County,16055,0.120489046,7746,64288
+perc_vacant_housing_1y,2012, Idaho,Twin Falls County,16083,0.10513369,3291,31303
+perc_vacant_housing_1y,2012, Illinois,Adams County,17001,0.105481282,3156,29920
+perc_vacant_housing_1y,2012, Illinois,Champaign County,17019,0.090627834,7997,88240
+perc_vacant_housing_1y,2012, Illinois,Cook County,17031,0.105899349,230265,2174376
+perc_vacant_housing_1y,2012, Illinois,DeKalb County,17037,0.06243296,2561,41020
+perc_vacant_housing_1y,2012, Illinois,DuPage County,17043,0.060721152,21631,356235
+perc_vacant_housing_1y,2012, Illinois,Kane County,17089,0.062504798,11395,182306
+perc_vacant_housing_1y,2012, Illinois,Kankakee County,17091,0.085023917,3839,45152
+perc_vacant_housing_1y,2012, Illinois,Kendall County,17093,,,40666
+perc_vacant_housing_1y,2012, Illinois,LaSalle County,17099,0.095002308,4739,49883
+perc_vacant_housing_1y,2012, Illinois,Lake County,17097,0.070134722,18283,260684
+perc_vacant_housing_1y,2012, Illinois,Macon County,17115,0.078646116,3964,50403
+perc_vacant_housing_1y,2012, Illinois,Madison County,17119,0.08361119,9830,117568
+perc_vacant_housing_1y,2012, Illinois,McHenry County,17111,0.057324294,6671,116373
+perc_vacant_housing_1y,2012, Illinois,McLean County,17113,0.061155573,4310,70476
+perc_vacant_housing_1y,2012, Illinois,Peoria County,17143,0.082180761,6845,83292
+perc_vacant_housing_1y,2012, Illinois,Rock Island County,17161,0.063217163,4154,65710
+perc_vacant_housing_1y,2012, Illinois,Sangamon County,17167,0.085080452,7678,90244
+perc_vacant_housing_1y,2012, Illinois,St. Clair County,17163,0.144304976,16958,117515
+perc_vacant_housing_1y,2012, Illinois,Tazewell County,17179,0.056302361,3246,57653
+perc_vacant_housing_1y,2012, Illinois,Vermilion County,17183,0.121625356,4397,36152
+perc_vacant_housing_1y,2012, Illinois,Will County,17197,0.070722513,16835,238043
+perc_vacant_housing_1y,2012, Illinois,Williamson County,17199,0.117947206,3606,30573
+perc_vacant_housing_1y,2012, Illinois,Winnebago County,17201,0.097593941,12274,125766
+perc_vacant_housing_1y,2012, Indiana,Allen County,18003,0.094120182,14397,152964
+perc_vacant_housing_1y,2012, Indiana,Bartholomew County,18005,0.106742077,3548,33239
+perc_vacant_housing_1y,2012, Indiana,Clark County,18019,0.111088037,5349,48151
+perc_vacant_housing_1y,2012, Indiana,Delaware County,18035,0.104916148,5474,52175
+perc_vacant_housing_1y,2012, Indiana,Elkhart County,18039,0.085006751,6608,77735
+perc_vacant_housing_1y,2012, Indiana,Floyd County,18043,0.089988157,2887,32082
+perc_vacant_housing_1y,2012, Indiana,Grant County,18053,0.113678314,3449,30340
+perc_vacant_housing_1y,2012, Indiana,Hamilton County,18057,0.051815622,5742,110816
+perc_vacant_housing_1y,2012, Indiana,Hancock County,18059,0.09735167,2768,28433
+perc_vacant_housing_1y,2012, Indiana,Hendricks County,18063,0.069288984,3937,56820
+perc_vacant_housing_1y,2012, Indiana,Howard County,18067,0.11748825,4526,38523
+perc_vacant_housing_1y,2012, Indiana,Johnson County,18081,0.085339397,4917,57617
+perc_vacant_housing_1y,2012, Indiana,Kosciusko County,18085,0.195156008,7268,37242
+perc_vacant_housing_1y,2012, Indiana,LaPorte County,18091,0.091736697,4454,48552
+perc_vacant_housing_1y,2012, Indiana,Lake County,18089,0.146588027,30669,209219
+perc_vacant_housing_1y,2012, Indiana,Madison County,18095,0.161202088,9489,58864
+perc_vacant_housing_1y,2012, Indiana,Marion County,18097,0.127915174,53549,418629
+perc_vacant_housing_1y,2012, Indiana,Monroe County,18105,0.088647887,5264,59381
+perc_vacant_housing_1y,2012, Indiana,Morgan County,18109,,,27806
+perc_vacant_housing_1y,2012, Indiana,Porter County,18127,0.067683324,4496,66427
+perc_vacant_housing_1y,2012, Indiana,St. Joseph County,18141,0.113598801,13060,114966
+perc_vacant_housing_1y,2012, Indiana,Tippecanoe County,18157,0.062463798,4529,72506
+perc_vacant_housing_1y,2012, Indiana,Vanderburgh County,18163,0.102205858,8493,83097
+perc_vacant_housing_1y,2012, Indiana,Vigo County,18167,0.118275613,5468,46231
+perc_vacant_housing_1y,2012, Indiana,Wayne County,18177,0.104551718,3264,31219
+perc_vacant_housing_1y,2012, Iowa,Black Hawk County,19013,0.076467767,4302,56259
+perc_vacant_housing_1y,2012, Iowa,Dallas County,19049,,,28381
+perc_vacant_housing_1y,2012, Iowa,Dubuque County,19061,,,39773
+perc_vacant_housing_1y,2012, Iowa,Johnson County,19103,,,57105
+perc_vacant_housing_1y,2012, Iowa,Linn County,19113,0.088415906,8250,93309
+perc_vacant_housing_1y,2012, Iowa,Polk County,19153,0.060915973,11323,185879
+perc_vacant_housing_1y,2012, Iowa,Pottawattamie County,19155,0.071002766,2799,39421
+perc_vacant_housing_1y,2012, Iowa,Scott County,19163,0.072639726,5265,72481
+perc_vacant_housing_1y,2012, Iowa,Story County,19169,0.03994631,1488,37250
+perc_vacant_housing_1y,2012, Iowa,Woodbury County,19193,0.090803683,3759,41397
+perc_vacant_housing_1y,2012, Kansas,Butler County,20015,0.063974991,1678,26229
+perc_vacant_housing_1y,2012, Kansas,Douglas County,20045,0.060691141,2875,47371
+perc_vacant_housing_1y,2012, Kansas,Johnson County,20091,0.039435584,9016,228626
+perc_vacant_housing_1y,2012, Kansas,Leavenworth County,20103,,,28852
+perc_vacant_housing_1y,2012, Kansas,Riley County,20161,0.086117014,2511,29158
+perc_vacant_housing_1y,2012, Kansas,Sedgwick County,20173,0.093528762,19896,212726
+perc_vacant_housing_1y,2012, Kansas,Shawnee County,20177,0.099053986,7853,79280
+perc_vacant_housing_1y,2012, Kansas,Wyandotte County,20209,0.118820049,7919,66647
+perc_vacant_housing_1y,2012, Kentucky,Boone County,21015,,,47022
+perc_vacant_housing_1y,2012, Kentucky,Bullitt County,21029,,,29983
+perc_vacant_housing_1y,2012, Kentucky,Campbell County,21037,0.092089668,3652,39657
+perc_vacant_housing_1y,2012, Kentucky,Christian County,21047,0.12339922,3652,29595
+perc_vacant_housing_1y,2012, Kentucky,Daviess County,21059,0.062538773,2621,41910
+perc_vacant_housing_1y,2012, Kentucky,Fayette County,21067,0.095780782,13069,136447
+perc_vacant_housing_1y,2012, Kentucky,Hardin County,21093,0.124120168,5590,45037
+perc_vacant_housing_1y,2012, Kentucky,Jefferson County,21111,0.087878741,29714,338125
+perc_vacant_housing_1y,2012, Kentucky,Kenton County,21117,0.100814842,6978,69216
+perc_vacant_housing_1y,2012, Kentucky,Madison County,21151,0.125423148,4446,35448
+perc_vacant_housing_1y,2012, Kentucky,McCracken County,21145,0.106156163,3316,31237
+perc_vacant_housing_1y,2012, Kentucky,Pike County,21195,0.144246936,4374,30323
+perc_vacant_housing_1y,2012, Kentucky,Warren County,21227,0.04722039,2290,48496
+perc_vacant_housing_1y,2012, Louisiana,Ascension Parish,22005,0.057179943,2423,42375
+perc_vacant_housing_1y,2012, Louisiana,Bossier Parish,22015,0.093067005,4799,51565
+perc_vacant_housing_1y,2012, Louisiana,Caddo Parish,22017,0.136223629,15302,112330
+perc_vacant_housing_1y,2012, Louisiana,Calcasieu Parish,22019,0.110084444,9269,84199
+perc_vacant_housing_1y,2012, Louisiana,East Baton Rouge Parish,22033,0.10319452,19534,189293
+perc_vacant_housing_1y,2012, Louisiana,Iberia Parish,22045,0.118752301,3552,29911
+perc_vacant_housing_1y,2012, Louisiana,Jefferson Parish,22051,0.11371211,21495,189030
+perc_vacant_housing_1y,2012, Louisiana,Lafayette Parish,22055,0.072300181,6873,95062
+perc_vacant_housing_1y,2012, Louisiana,Lafourche Parish,22057,0.089990281,3517,39082
+perc_vacant_housing_1y,2012, Louisiana,Livingston Parish,22063,0.09037324,4707,52084
+perc_vacant_housing_1y,2012, Louisiana,Orleans Parish,22071,0.201018557,38445,191251
+perc_vacant_housing_1y,2012, Louisiana,Ouachita Parish,22073,0.10797964,7042,65216
+perc_vacant_housing_1y,2012, Louisiana,Rapides Parish,22079,0.121756561,6865,56383
+perc_vacant_housing_1y,2012, Louisiana,St. Landry Parish,22097,0.13889043,4992,35942
+perc_vacant_housing_1y,2012, Louisiana,St. Tammany Parish,22103,0.07172817,6943,96796
+perc_vacant_housing_1y,2012, Louisiana,Tangipahoa Parish,22105,0.143063098,7343,51327
+perc_vacant_housing_1y,2012, Louisiana,Terrebonne Parish,22109,0.109615125,4836,44118
+perc_vacant_housing_1y,2012, Maine,Androscoggin County,23001,0.085482955,4202,49156
+perc_vacant_housing_1y,2012, Maine,Aroostook County,23003,0.210480973,8306,39462
+perc_vacant_housing_1y,2012, Maine,Cumberland County,23005,0.135207981,18810,139119
+perc_vacant_housing_1y,2012, Maine,Kennebec County,23011,0.155020013,9488,61205
+perc_vacant_housing_1y,2012, Maine,Penobscot County,23019,0.145336285,10770,74104
+perc_vacant_housing_1y,2012, Maine,York County,23031,0.204935372,21800,106375
+perc_vacant_housing_1y,2012, Maryland,Allegany County,24001,0.138120547,4599,33297
+perc_vacant_housing_1y,2012, Maryland,Anne Arundel County,24003,0.059502479,12852,215991
+perc_vacant_housing_1y,2012, Maryland,Baltimore County,24005,0.066545635,22360,336010
+perc_vacant_housing_1y,2012, Maryland,Baltimore city,24510,0.169724464,50251,296074
+perc_vacant_housing_1y,2012, Maryland,Calvert County,24009,0.087573513,2993,34177
+perc_vacant_housing_1y,2012, Maryland,Carroll County,24013,,,62565
+perc_vacant_housing_1y,2012, Maryland,Cecil County,24015,0.136085004,5661,41599
+perc_vacant_housing_1y,2012, Maryland,Charles County,24017,0.069812931,3926,56236
+perc_vacant_housing_1y,2012, Maryland,Frederick County,24021,0.052388441,4797,91566
+perc_vacant_housing_1y,2012, Maryland,Harford County,24025,0.053130127,5149,96913
+perc_vacant_housing_1y,2012, Maryland,Howard County,24027,0.034990098,3905,111603
+perc_vacant_housing_1y,2012, Maryland,Montgomery County,24031,0.041542009,15746,379038
+perc_vacant_housing_1y,2012, Maryland,Prince George's County,24033,0.074145101,24397,329044
+perc_vacant_housing_1y,2012, Maryland,St. Mary's County,24037,0.075175196,3186,42381
+perc_vacant_housing_1y,2012, Maryland,Washington County,24043,0.066796899,4069,60916
+perc_vacant_housing_1y,2012, Maryland,Wicomico County,24045,0.106821761,4408,41265
+perc_vacant_housing_1y,2012, Massachusetts,Barnstable County,25001,0.405128807,65041,160544
+perc_vacant_housing_1y,2012, Massachusetts,Berkshire County,25003,0.170829132,11676,68349
+perc_vacant_housing_1y,2012, Massachusetts,Bristol County,25005,0.089216858,20547,230304
+perc_vacant_housing_1y,2012, Massachusetts,Essex County,25009,0.070234604,21534,306601
+perc_vacant_housing_1y,2012, Massachusetts,Franklin County,25011,0.1198503,4035,33667
+perc_vacant_housing_1y,2012, Massachusetts,Hampden County,25013,0.07690382,14745,191733
+perc_vacant_housing_1y,2012, Massachusetts,Hampshire County,25015,0.073383085,4602,62712
+perc_vacant_housing_1y,2012, Massachusetts,Middlesex County,25017,0.04406669,26999,612685
+perc_vacant_housing_1y,2012, Massachusetts,Norfolk County,25021,0.043508045,11813,271513
+perc_vacant_housing_1y,2012, Massachusetts,Plymouth County,25023,0.090171516,18127,201028
+perc_vacant_housing_1y,2012, Massachusetts,Suffolk County,25025,0.076917946,24214,314803
+perc_vacant_housing_1y,2012, Massachusetts,Worcester County,25027,0.079700209,26096,327427
+perc_vacant_housing_1y,2012, Michigan,Allegan County,26005,0.127974451,6330,49463
+perc_vacant_housing_1y,2012, Michigan,Bay County,26017,0.084423825,4058,48067
+perc_vacant_housing_1y,2012, Michigan,Berrien County,26021,0.204405338,15683,76725
+perc_vacant_housing_1y,2012, Michigan,Calhoun County,26025,0.122837342,7462,60747
+perc_vacant_housing_1y,2012, Michigan,Clinton County,26037,0.039574314,1216,30727
+perc_vacant_housing_1y,2012, Michigan,Eaton County,26045,0.0860103,4043,47006
+perc_vacant_housing_1y,2012, Michigan,Genesee County,26049,0.130018413,24859,191196
+perc_vacant_housing_1y,2012, Michigan,Grand Traverse County,26055,0.15080446,6308,41829
+perc_vacant_housing_1y,2012, Michigan,Ingham County,26065,0.099904403,12123,121346
+perc_vacant_housing_1y,2012, Michigan,Isabella County,26073,0.11538054,3267,28315
+perc_vacant_housing_1y,2012, Michigan,Jackson County,26075,0.118923999,8223,69145
+perc_vacant_housing_1y,2012, Michigan,Kalamazoo County,26077,0.080409594,8842,109962
+perc_vacant_housing_1y,2012, Michigan,Kent County,26081,0.062383167,15418,247150
+perc_vacant_housing_1y,2012, Michigan,Lapeer County,26087,0.086240709,3122,36201
+perc_vacant_housing_1y,2012, Michigan,Lenawee County,26091,0.117663324,5106,43395
+perc_vacant_housing_1y,2012, Michigan,Livingston County,26093,0.077426523,5643,72882
+perc_vacant_housing_1y,2012, Michigan,Macomb County,26099,0.072352521,25836,357085
+perc_vacant_housing_1y,2012, Michigan,Marquette County,26103,0.202293292,6951,34361
+perc_vacant_housing_1y,2012, Michigan,Midland County,26111,0.075876996,2734,36032
+perc_vacant_housing_1y,2012, Michigan,Monroe County,26115,0.083342619,5235,62813
+perc_vacant_housing_1y,2012, Michigan,Muskegon County,26121,0.124219112,9107,73314
+perc_vacant_housing_1y,2012, Michigan,Oakland County,26125,0.067015521,35334,527251
+perc_vacant_housing_1y,2012, Michigan,Ottawa County,26139,0.069494285,7165,103102
+perc_vacant_housing_1y,2012, Michigan,Saginaw County,26145,0.097199775,8421,86636
+perc_vacant_housing_1y,2012, Michigan,Shiawassee County,26155,0.095302813,2875,30167
+perc_vacant_housing_1y,2012, Michigan,St. Clair County,26147,0.084422939,6037,71509
+perc_vacant_housing_1y,2012, Michigan,Van Buren County,26159,0.227376804,8342,36688
+perc_vacant_housing_1y,2012, Michigan,Washtenaw County,26161,0.061989792,9158,147734
+perc_vacant_housing_1y,2012, Michigan,Wayne County,26163,0.188095465,153854,817957
+perc_vacant_housing_1y,2012, Minnesota,Anoka County,27003,0.034154914,4372,128005
+perc_vacant_housing_1y,2012, Minnesota,Blue Earth County,27013,0.084536314,2237,26462
+perc_vacant_housing_1y,2012, Minnesota,Carver County,27019,,,35264
+perc_vacant_housing_1y,2012, Minnesota,Dakota County,27037,0.034505654,5561,161162
+perc_vacant_housing_1y,2012, Minnesota,Hennepin County,27053,0.052054383,26728,513463
+perc_vacant_housing_1y,2012, Minnesota,Olmsted County,27109,0.058574732,3573,60999
+perc_vacant_housing_1y,2012, Minnesota,Ramsey County,27123,0.04789957,10424,217622
+perc_vacant_housing_1y,2012, Minnesota,Scott County,27139,0.033749662,1624,48119
+perc_vacant_housing_1y,2012, Minnesota,Sherburne County,27141,0.064705521,2105,32532
+perc_vacant_housing_1y,2012, Minnesota,St. Louis County,27137,0.167608127,17269,103032
+perc_vacant_housing_1y,2012, Minnesota,Stearns County,27145,0.085671633,5337,62296
+perc_vacant_housing_1y,2012, Minnesota,Washington County,27163,0.051197946,4823,94203
+perc_vacant_housing_1y,2012, Minnesota,Wright County,27171,0.061444338,3023,49199
+perc_vacant_housing_1y,2012, Mississippi,DeSoto County,28033,0.047500998,2970,62525
+perc_vacant_housing_1y,2012, Mississippi,Forrest County,28035,0.166259319,5374,32323
+perc_vacant_housing_1y,2012, Mississippi,Harrison County,28047,0.146521017,12877,87885
+perc_vacant_housing_1y,2012, Mississippi,Hinds County,28049,0.152020723,15791,103874
+perc_vacant_housing_1y,2012, Mississippi,Jackson County,28059,0.147103429,8923,60658
+perc_vacant_housing_1y,2012, Mississippi,Jones County,28067,0.073593833,2100,28535
+perc_vacant_housing_1y,2012, Mississippi,Lauderdale County,28075,0.153693706,5351,34816
+perc_vacant_housing_1y,2012, Mississippi,Lee County,28081,0.12228819,4408,36046
+perc_vacant_housing_1y,2012, Mississippi,Madison County,28089,0.072245076,2863,39629
+perc_vacant_housing_1y,2012, Mississippi,Rankin County,28121,0.090421535,5176,57243
+perc_vacant_housing_1y,2012, Missouri,Boone County,29019,0.065088756,4620,70980
+perc_vacant_housing_1y,2012, Missouri,Buchanan County,29021,0.11458984,4403,38424
+perc_vacant_housing_1y,2012, Missouri,Cape Girardeau County,29031,0.080715157,2641,32720
+perc_vacant_housing_1y,2012, Missouri,Cass County,29037,0.067516208,2718,40257
+perc_vacant_housing_1y,2012, Missouri,Christian County,29043,,,32078
+perc_vacant_housing_1y,2012, Missouri,Clay County,29047,0.087436981,8221,94022
+perc_vacant_housing_1y,2012, Missouri,Cole County,29051,0.069888338,2272,32509
+perc_vacant_housing_1y,2012, Missouri,Franklin County,29071,0.11010731,4802,43612
+perc_vacant_housing_1y,2012, Missouri,Greene County,29077,0.077442482,9829,126920
+perc_vacant_housing_1y,2012, Missouri,Jackson County,29095,0.132557675,41380,312166
+perc_vacant_housing_1y,2012, Missouri,Jasper County,29097,0.088202886,4483,50826
+perc_vacant_housing_1y,2012, Missouri,Jefferson County,29099,0.087809518,7752,88282
+perc_vacant_housing_1y,2012, Missouri,Platte County,29165,0.064776815,2557,39474
+perc_vacant_housing_1y,2012, Missouri,St. Charles County,29183,0.041984122,6034,143721
+perc_vacant_housing_1y,2012, Missouri,St. Francois County,29187,0.166764304,4839,29017
+perc_vacant_housing_1y,2012, Missouri,St. Louis County,29189,0.079142824,34631,437576
+perc_vacant_housing_1y,2012, Missouri,St. Louis city,29510,0.200421169,35119,175226
+perc_vacant_housing_1y,2012, Montana,Cascade County,30013,0.103303686,3868,37443
+perc_vacant_housing_1y,2012, Montana,Flathead County,30029,0.188762426,8906,47181
+perc_vacant_housing_1y,2012, Montana,Gallatin County,30031,0.154462084,6636,42962
+perc_vacant_housing_1y,2012, Montana,Missoula County,30063,0.076660752,3889,50730
+perc_vacant_housing_1y,2012, Montana,Yellowstone County,30111,0.055307098,3574,64621
+perc_vacant_housing_1y,2012, Nebraska,Douglas County,31055,0.071073025,15849,222996
+perc_vacant_housing_1y,2012, Nebraska,Lancaster County,31109,0.048525378,5943,122472
+perc_vacant_housing_1y,2012, Nebraska,Sarpy County,31153,,,63590
+perc_vacant_housing_1y,2012, Nevada,Clark County,32003,0.146819845,124701,849347
+perc_vacant_housing_1y,2012, Nevada,Washoe County,32031,0.107815355,19977,185289
+perc_vacant_housing_1y,2012, New Hampshire,Cheshire County,33005,0.120456964,4186,34751
+perc_vacant_housing_1y,2012, New Hampshire,Grafton County,33009,0.289578974,14911,51492
+perc_vacant_housing_1y,2012, New Hampshire,Hillsborough County,33011,0.064237952,10712,166755
+perc_vacant_housing_1y,2012, New Hampshire,Merrimack County,33013,0.095055237,6040,63542
+perc_vacant_housing_1y,2012, New Hampshire,Rockingham County,33015,0.071425766,9091,127279
+perc_vacant_housing_1y,2012, New Hampshire,Strafford County,33017,0.084127411,4379,52052
+perc_vacant_housing_1y,2012, New Jersey,Atlantic County,34001,0.204528853,26049,127361
+perc_vacant_housing_1y,2012, New Jersey,Bergen County,34003,0.048531976,17214,354694
+perc_vacant_housing_1y,2012, New Jersey,Burlington County,34005,0.066612393,11783,176889
+perc_vacant_housing_1y,2012, New Jersey,Camden County,34007,0.091356739,18794,205721
+perc_vacant_housing_1y,2012, New Jersey,Cape May County,34009,0.54313606,53582,98653
+perc_vacant_housing_1y,2012, New Jersey,Cumberland County,34011,0.097827248,5502,56242
+perc_vacant_housing_1y,2012, New Jersey,Essex County,34013,0.104876898,32868,313396
+perc_vacant_housing_1y,2012, New Jersey,Gloucester County,34015,0.057070106,6343,111144
+perc_vacant_housing_1y,2012, New Jersey,Hudson County,34017,0.083140299,22684,272840
+perc_vacant_housing_1y,2012, New Jersey,Hunterdon County,34019,0.048608474,2433,50053
+perc_vacant_housing_1y,2012, New Jersey,Mercer County,34021,0.08224865,11848,144051
+perc_vacant_housing_1y,2012, New Jersey,Middlesex County,34023,0.044370722,13201,297516
+perc_vacant_housing_1y,2012, New Jersey,Monmouth County,34025,0.081501141,21159,259616
+perc_vacant_housing_1y,2012, New Jersey,Morris County,34027,0.052955549,10100,190726
+perc_vacant_housing_1y,2012, New Jersey,Ocean County,34029,0.176521301,49349,279564
+perc_vacant_housing_1y,2012, New Jersey,Passaic County,34031,0.069660217,12268,176112
+perc_vacant_housing_1y,2012, New Jersey,Salem County,34033,0.098357089,2712,27573
+perc_vacant_housing_1y,2012, New Jersey,Somerset County,34035,0.057562348,7155,124300
+perc_vacant_housing_1y,2012, New Jersey,Sussex County,34037,0.11925856,7444,62419
+perc_vacant_housing_1y,2012, New Jersey,Union County,34039,0.075379066,15123,200626
+perc_vacant_housing_1y,2012, New Jersey,Warren County,34041,0.084498644,3825,45267
+perc_vacant_housing_1y,2012, New Mexico,Bernalillo County,35001,0.072182655,20635,285872
+perc_vacant_housing_1y,2012, New Mexico,Chaves County,35005,0.139965519,3734,26678
+perc_vacant_housing_1y,2012, New Mexico,Doña Ana County,35013,0.107781179,8937,82918
+perc_vacant_housing_1y,2012, New Mexico,Lea County,35025,0.139062494,3471,24960
+perc_vacant_housing_1y,2012, New Mexico,McKinley County,35031,0.294024229,7592,25821
+perc_vacant_housing_1y,2012, New Mexico,Otero County,35035,0.239213154,7418,31010
+perc_vacant_housing_1y,2012, New Mexico,San Juan County,35045,0.192058727,9524,49589
+perc_vacant_housing_1y,2012, New Mexico,Sandoval County,35043,0.103871949,5529,53229
+perc_vacant_housing_1y,2012, New Mexico,Santa Fe County,35049,0.116897456,8366,71567
+perc_vacant_housing_1y,2012, New Mexico,Valencia County,35061,0.093441539,2821,30190
+perc_vacant_housing_1y,2012, New York,Albany County,36001,0.118950278,16381,137713
+perc_vacant_housing_1y,2012, New York,Bronx County,36005,0.070868455,36430,514051
+perc_vacant_housing_1y,2012, New York,Broome County,36007,0.090423822,8148,90109
+perc_vacant_housing_1y,2012, New York,Cattaraugus County,36009,0.196214095,8054,41047
+perc_vacant_housing_1y,2012, New York,Cayuga County,36011,0.160836861,5858,36422
+perc_vacant_housing_1y,2012, New York,Chautauqua County,36013,0.202274635,13499,66736
+perc_vacant_housing_1y,2012, New York,Chemung County,36015,0.087909222,3370,38335
+perc_vacant_housing_1y,2012, New York,Clinton County,36019,0.093259051,3348,35900
+perc_vacant_housing_1y,2012, New York,Dutchess County,36027,0.088181041,10470,118733
+perc_vacant_housing_1y,2012, New York,Erie County,36029,0.094940521,39866,419905
+perc_vacant_housing_1y,2012, New York,Jefferson County,36045,0.193188652,11243,58197
+perc_vacant_housing_1y,2012, New York,Kings County,36047,0.08112438,81377,1003114
+perc_vacant_housing_1y,2012, New York,Livingston County,36051,0.111904323,3041,27175
+perc_vacant_housing_1y,2012, New York,Madison County,36053,0.177649617,5637,31731
+perc_vacant_housing_1y,2012, New York,Monroe County,36055,0.064960636,20851,320979
+perc_vacant_housing_1y,2012, New York,Nassau County,36059,0.051441669,24014,466820
+perc_vacant_housing_1y,2012, New York,New York County,36061,0.10301473,87613,850490
+perc_vacant_housing_1y,2012, New York,Niagara County,36063,0.095575027,9469,99074
+perc_vacant_housing_1y,2012, New York,Oneida County,36065,0.120413661,12517,103950
+perc_vacant_housing_1y,2012, New York,Onondaga County,36067,0.08165817,16590,203164
+perc_vacant_housing_1y,2012, New York,Ontario County,36069,0.083540812,4060,48599
+perc_vacant_housing_1y,2012, New York,Orange County,36071,0.089671776,12406,138349
+perc_vacant_housing_1y,2012, New York,Oswego County,36075,0.144647419,7768,53703
+perc_vacant_housing_1y,2012, New York,Putnam County,36079,0.10480395,4012,38281
+perc_vacant_housing_1y,2012, New York,Queens County,36081,0.066290781,55694,840147
+perc_vacant_housing_1y,2012, New York,Rensselaer County,36083,0.094493032,6764,71582
+perc_vacant_housing_1y,2012, New York,Richmond County,36085,0.077299289,13719,177479
+perc_vacant_housing_1y,2012, New York,Rockland County,36087,0.058756359,6123,104210
+perc_vacant_housing_1y,2012, New York,Saratoga County,36091,0.119333915,11939,100047
+perc_vacant_housing_1y,2012, New York,Schenectady County,36093,0.148089364,10076,68040
+perc_vacant_housing_1y,2012, New York,St. Lawrence County,36089,0.171297625,8933,52149
+perc_vacant_housing_1y,2012, New York,Steuben County,36101,0.145317122,7114,48955
+perc_vacant_housing_1y,2012, New York,Suffolk County,36103,0.117009677,66628,569423
+perc_vacant_housing_1y,2012, New York,Sullivan County,36105,0.386130989,19088,49434
+perc_vacant_housing_1y,2012, New York,Tompkins County,36109,0.079061419,3302,41765
+perc_vacant_housing_1y,2012, New York,Ulster County,36111,0.149917573,12549,83706
+perc_vacant_housing_1y,2012, New York,Warren County,36113,0.266738743,10362,38847
+perc_vacant_housing_1y,2012, New York,Wayne County,36117,0.090158343,3701,41050
+perc_vacant_housing_1y,2012, New York,Westchester County,36119,0.075328134,27869,369968
+perc_vacant_housing_1y,2012, North Carolina,Alamance County,37001,0.11588002,7827,67544
+perc_vacant_housing_1y,2012, North Carolina,Brunswick County,37019,0.354721278,28062,79110
+perc_vacant_housing_1y,2012, North Carolina,Buncombe County,37021,0.133091897,15288,114868
+perc_vacant_housing_1y,2012, North Carolina,Burke County,37023,0.169527262,6914,40784
+perc_vacant_housing_1y,2012, North Carolina,Cabarrus County,37025,0.119039483,8710,73169
+perc_vacant_housing_1y,2012, North Carolina,Caldwell County,37027,0.112055004,4221,37669
+perc_vacant_housing_1y,2012, North Carolina,Carteret County,37031,0.325604796,15855,48694
+perc_vacant_housing_1y,2012, North Carolina,Catawba County,37035,0.12350668,8374,67802
+perc_vacant_housing_1y,2012, North Carolina,Chatham County,37037,0.109898753,3213,29236
+perc_vacant_housing_1y,2012, North Carolina,Cleveland County,37045,0.144604161,6267,43339
+perc_vacant_housing_1y,2012, North Carolina,Craven County,37049,0.104149751,4746,45569
+perc_vacant_housing_1y,2012, North Carolina,Cumberland County,37051,0.127449796,17929,140675
+perc_vacant_housing_1y,2012, North Carolina,Davidson County,37057,0.125941291,9165,72772
+perc_vacant_housing_1y,2012, North Carolina,Durham County,37063,0.069462337,8519,122642
+perc_vacant_housing_1y,2012, North Carolina,Forsyth County,37067,0.104690231,16609,158649
+perc_vacant_housing_1y,2012, North Carolina,Gaston County,37071,0.104332842,9326,89387
+perc_vacant_housing_1y,2012, North Carolina,Guilford County,37081,0.093548536,20634,220570
+perc_vacant_housing_1y,2012, North Carolina,Harnett County,37085,0.141628757,6819,48147
+perc_vacant_housing_1y,2012, North Carolina,Henderson County,37089,0.177719072,9755,54890
+perc_vacant_housing_1y,2012, North Carolina,Iredell County,37097,0.148461044,10298,69365
+perc_vacant_housing_1y,2012, North Carolina,Johnston County,37101,0.111438364,7643,68585
+perc_vacant_housing_1y,2012, North Carolina,Lincoln County,37109,,,33713
+perc_vacant_housing_1y,2012, North Carolina,Mecklenburg County,37119,0.088172473,35585,403584
+perc_vacant_housing_1y,2012, North Carolina,Moore County,37125,0.150042683,6679,44514
+perc_vacant_housing_1y,2012, North Carolina,Nash County,37127,0.148045883,6273,42372
+perc_vacant_housing_1y,2012, North Carolina,New Hanover County,37129,0.147879764,15142,102394
+perc_vacant_housing_1y,2012, North Carolina,Onslow County,37133,0.135332033,9827,72614
+perc_vacant_housing_1y,2012, North Carolina,Orange County,37135,0.060108218,3377,56182
+perc_vacant_housing_1y,2012, North Carolina,Pitt County,37147,0.077013545,5828,75675
+perc_vacant_housing_1y,2012, North Carolina,Randolph County,37151,0.098644458,6040,61230
+perc_vacant_housing_1y,2012, North Carolina,Robeson County,37155,0.112448424,5914,52593
+perc_vacant_housing_1y,2012, North Carolina,Rockingham County,37157,0.118604809,5172,43607
+perc_vacant_housing_1y,2012, North Carolina,Rowan County,37159,0.142536387,8570,60125
+perc_vacant_housing_1y,2012, North Carolina,Rutherford County,37161,0.180773437,6119,33849
+perc_vacant_housing_1y,2012, North Carolina,Surry County,37171,0.132249609,4442,33588
+perc_vacant_housing_1y,2012, North Carolina,Union County,37179,0.069610655,5142,73868
+perc_vacant_housing_1y,2012, North Carolina,Wake County,37183,0.059020329,22510,381394
+perc_vacant_housing_1y,2012, North Carolina,Wayne County,37191,0.10190279,5409,53080
+perc_vacant_housing_1y,2012, North Carolina,Wilkes County,37193,0.132937834,4392,33038
+perc_vacant_housing_1y,2012, North Carolina,Wilson County,37195,0.107494876,3828,35611
+perc_vacant_housing_1y,2012, North Dakota,Burleigh County,38015,0.051175173,1903,37186
+perc_vacant_housing_1y,2012, North Dakota,Cass County,38017,0.054353517,3841,70667
+perc_vacant_housing_1y,2012, North Dakota,Grand Forks County,38035,0.054157056,1620,29913
+perc_vacant_housing_1y,2012, Ohio,Allen County,39003,,,44883
+perc_vacant_housing_1y,2012, Ohio,Ashtabula County,39007,0.148841664,6836,45928
+perc_vacant_housing_1y,2012, Ohio,Belmont County,39013,0.114506893,3698,32295
+perc_vacant_housing_1y,2012, Ohio,Butler County,39017,0.103114083,15321,148583
+perc_vacant_housing_1y,2012, Ohio,Clark County,39023,0.111492001,6830,61260
+perc_vacant_housing_1y,2012, Ohio,Clermont County,39025,0.06810353,5536,81288
+perc_vacant_housing_1y,2012, Ohio,Columbiana County,39029,0.090268433,4227,46827
+perc_vacant_housing_1y,2012, Ohio,Cuyahoga County,39035,0.13981916,86564,619114
+perc_vacant_housing_1y,2012, Ohio,Delaware County,39041,0.036532518,2470,67611
+perc_vacant_housing_1y,2012, Ohio,Erie County,39043,0.15078187,5689,37730
+perc_vacant_housing_1y,2012, Ohio,Fairfield County,39045,0.074320652,4376,58880
+perc_vacant_housing_1y,2012, Ohio,Franklin County,39049,0.111969039,59542,531772
+perc_vacant_housing_1y,2012, Ohio,Geauga County,39055,0.064054213,2344,36594
+perc_vacant_housing_1y,2012, Ohio,Greene County,39057,0.087931611,6038,68667
+perc_vacant_housing_1y,2012, Ohio,Hamilton County,39061,0.12444213,46844,376432
+perc_vacant_housing_1y,2012, Ohio,Hancock County,39063,0.086115465,2858,33188
+perc_vacant_housing_1y,2012, Ohio,Jefferson County,39081,0.121986337,3982,32643
+perc_vacant_housing_1y,2012, Ohio,Lake County,39085,0.059846532,6060,101259
+perc_vacant_housing_1y,2012, Ohio,Licking County,39089,0.085797161,5975,69641
+perc_vacant_housing_1y,2012, Ohio,Lorain County,39093,0.093237996,11905,127684
+perc_vacant_housing_1y,2012, Ohio,Lucas County,39095,0.120897017,24427,202048
+perc_vacant_housing_1y,2012, Ohio,Mahoning County,39099,0.127692416,14228,111424
+perc_vacant_housing_1y,2012, Ohio,Marion County,39101,0.11884892,3304,27800
+perc_vacant_housing_1y,2012, Ohio,Medina County,39103,0.059298497,4142,69850
+perc_vacant_housing_1y,2012, Ohio,Miami County,39109,0.066725478,2950,44211
+perc_vacant_housing_1y,2012, Ohio,Montgomery County,39113,0.128380507,32622,254104
+perc_vacant_housing_1y,2012, Ohio,Muskingum County,39119,0.108220875,4098,37867
+perc_vacant_housing_1y,2012, Ohio,Portage County,39133,0.100111939,6797,67894
+perc_vacant_housing_1y,2012, Ohio,Richland County,39139,0.104537182,5684,54373
+perc_vacant_housing_1y,2012, Ohio,Ross County,39141,0.119054332,3802,31935
+perc_vacant_housing_1y,2012, Ohio,Scioto County,39145,0.149922177,5105,34051
+perc_vacant_housing_1y,2012, Ohio,Stark County,39151,0.08664041,14300,165050
+perc_vacant_housing_1y,2012, Ohio,Summit County,39153,0.09530963,23348,244970
+perc_vacant_housing_1y,2012, Ohio,Trumbull County,39155,0.087617017,8386,95712
+perc_vacant_housing_1y,2012, Ohio,Tuscarawas County,39157,0.079346851,3178,40052
+perc_vacant_housing_1y,2012, Ohio,Warren County,39165,0.050784487,4169,82092
+perc_vacant_housing_1y,2012, Ohio,Wayne County,39169,0.078342825,3591,45837
+perc_vacant_housing_1y,2012, Ohio,Wood County,39173,0.061062574,3271,53568
+perc_vacant_housing_1y,2012, Oklahoma,Canadian County,40017,0.081796765,3784,46261
+perc_vacant_housing_1y,2012, Oklahoma,Cleveland County,40027,0.077091627,8233,106795
+perc_vacant_housing_1y,2012, Oklahoma,Comanche County,40031,0.141612247,7264,51295
+perc_vacant_housing_1y,2012, Oklahoma,Creek County,40037,0.108536996,3242,29870
+perc_vacant_housing_1y,2012, Oklahoma,Muskogee County,40101,0.153019607,4728,30898
+perc_vacant_housing_1y,2012, Oklahoma,Oklahoma County,40109,0.113284469,36539,322542
+perc_vacant_housing_1y,2012, Oklahoma,Payne County,40119,0.12710999,4360,34301
+perc_vacant_housing_1y,2012, Oklahoma,Pottawatomie County,40125,0.105354354,3101,29434
+perc_vacant_housing_1y,2012, Oklahoma,Rogers County,40131,0.074754834,2668,35690
+perc_vacant_housing_1y,2012, Oklahoma,Tulsa County,40143,0.107274704,29233,272506
+perc_vacant_housing_1y,2012, Oklahoma,Wagoner County,40145,0.104045287,3143,30208
+perc_vacant_housing_1y,2012, Oregon,Benton County,41003,0.082480974,3024,36663
+perc_vacant_housing_1y,2012, Oregon,Clackamas County,41005,0.070096441,11099,158339
+perc_vacant_housing_1y,2012, Oregon,Deschutes County,41017,0.164261624,13250,80664
+perc_vacant_housing_1y,2012, Oregon,Douglas County,41019,0.10963469,5363,48917
+perc_vacant_housing_1y,2012, Oregon,Jackson County,41029,0.100300483,9146,91186
+perc_vacant_housing_1y,2012, Oregon,Josephine County,41033,0.099421509,3781,38030
+perc_vacant_housing_1y,2012, Oregon,Klamath County,41035,0.104721606,3440,32849
+perc_vacant_housing_1y,2012, Oregon,Lane County,41039,0.063021049,9865,156535
+perc_vacant_housing_1y,2012, Oregon,Linn County,41043,0.099129297,4850,48926
+perc_vacant_housing_1y,2012, Oregon,Marion County,41047,0.057567738,7003,121648
+perc_vacant_housing_1y,2012, Oregon,Multnomah County,41051,0.057562504,18753,325785
+perc_vacant_housing_1y,2012, Oregon,Polk County,41053,0.06189568,1882,30406
+perc_vacant_housing_1y,2012, Oregon,Umatilla County,41059,0.110680856,3287,29698
+perc_vacant_housing_1y,2012, Oregon,Washington County,41067,0.049656078,10641,214294
+perc_vacant_housing_1y,2012, Oregon,Yamhill County,41071,0.079980686,2982,37284
+perc_vacant_housing_1y,2012, Pennsylvania,Adams County,42001,0.071649268,2945,41103
+perc_vacant_housing_1y,2012, Pennsylvania,Allegheny County,42003,0.099595755,58613,588509
+perc_vacant_housing_1y,2012, Pennsylvania,Armstrong County,42005,0.098835059,3207,32448
+perc_vacant_housing_1y,2012, Pennsylvania,Beaver County,42007,0.094618596,7404,78251
+perc_vacant_housing_1y,2012, Pennsylvania,Berks County,42011,0.08072792,13295,164689
+perc_vacant_housing_1y,2012, Pennsylvania,Blair County,42013,0.106296971,5969,56154
+perc_vacant_housing_1y,2012, Pennsylvania,Bucks County,42017,0.055644359,13681,245865
+perc_vacant_housing_1y,2012, Pennsylvania,Butler County,42019,0.068285011,5384,78846
+perc_vacant_housing_1y,2012, Pennsylvania,Cambria County,42021,0.108368888,7087,65397
+perc_vacant_housing_1y,2012, Pennsylvania,Carbon County,42025,0.225916237,7767,34380
+perc_vacant_housing_1y,2012, Pennsylvania,Centre County,42027,0.10332115,6586,63743
+perc_vacant_housing_1y,2012, Pennsylvania,Chester County,42029,0.043173704,8370,193868
+perc_vacant_housing_1y,2012, Pennsylvania,Clearfield County,42033,0.163685307,6323,38629
+perc_vacant_housing_1y,2012, Pennsylvania,Columbia County,42037,0.099495582,2939,29539
+perc_vacant_housing_1y,2012, Pennsylvania,Crawford County,42039,0.208107933,9271,44549
+perc_vacant_housing_1y,2012, Pennsylvania,Cumberland County,42041,0.06473241,6546,101124
+perc_vacant_housing_1y,2012, Pennsylvania,Dauphin County,42043,0.106887147,12928,120950
+perc_vacant_housing_1y,2012, Pennsylvania,Delaware County,42045,0.07953231,17672,222199
+perc_vacant_housing_1y,2012, Pennsylvania,Erie County,42049,0.077124722,9209,119404
+perc_vacant_housing_1y,2012, Pennsylvania,Fayette County,42051,0.142171934,8922,62755
+perc_vacant_housing_1y,2012, Pennsylvania,Franklin County,42055,0.079932876,5097,63766
+perc_vacant_housing_1y,2012, Pennsylvania,Indiana County,42063,0.08346197,3190,38221
+perc_vacant_housing_1y,2012, Pennsylvania,Lackawanna County,42069,0.112719454,10902,96718
+perc_vacant_housing_1y,2012, Pennsylvania,Lancaster County,42071,0.048858393,10004,204755
+perc_vacant_housing_1y,2012, Pennsylvania,Lawrence County,42073,0.090276927,3687,40841
+perc_vacant_housing_1y,2012, Pennsylvania,Lebanon County,42075,0.054954711,3064,55755
+perc_vacant_housing_1y,2012, Pennsylvania,Lehigh County,42077,0.063367873,9063,143022
+perc_vacant_housing_1y,2012, Pennsylvania,Luzerne County,42079,0.128131703,19015,148402
+perc_vacant_housing_1y,2012, Pennsylvania,Lycoming County,42081,0.123027429,6463,52533
+perc_vacant_housing_1y,2012, Pennsylvania,Mercer County,42085,0.114882909,5936,51670
+perc_vacant_housing_1y,2012, Pennsylvania,Monroe County,42089,0.272823185,21980,80565
+perc_vacant_housing_1y,2012, Pennsylvania,Montgomery County,42091,0.050581809,16501,326224
+perc_vacant_housing_1y,2012, Pennsylvania,Northampton County,42095,0.060653768,7320,120685
+perc_vacant_housing_1y,2012, Pennsylvania,Northumberland County,42097,0.129480749,5830,45026
+perc_vacant_housing_1y,2012, Pennsylvania,Philadelphia County,42101,0.129057065,86242,668247
+perc_vacant_housing_1y,2012, Pennsylvania,Schuylkill County,42107,0.140157863,9695,69172
+perc_vacant_housing_1y,2012, Pennsylvania,Somerset County,42111,0.202901602,7720,38048
+perc_vacant_housing_1y,2012, Pennsylvania,Washington County,42125,0.093050912,8685,93336
+perc_vacant_housing_1y,2012, Pennsylvania,Westmoreland County,42129,0.089423351,15036,168144
+perc_vacant_housing_1y,2012, Pennsylvania,York County,42133,0.060076687,10795,179687
+perc_vacant_housing_1y,2012, Puerto Rico,Arecibo Municipio,72013,0.213903099,8905,41631
+perc_vacant_housing_1y,2012, Puerto Rico,Bayamón Municipio,72021,0.147420093,12434,84344
+perc_vacant_housing_1y,2012, Puerto Rico,Caguas Municipio,72025,0.126352012,7453,58986
+perc_vacant_housing_1y,2012, Puerto Rico,Carolina Municipio,72031,0.146776691,11491,78289
+perc_vacant_housing_1y,2012, Puerto Rico,Guaynabo Municipio,72061,0.130173624,5353,41122
+perc_vacant_housing_1y,2012, Puerto Rico,Mayagüez Municipio,72097,0.247315452,10295,41627
+perc_vacant_housing_1y,2012, Puerto Rico,Ponce Municipio,72113,0.14422217,9675,67084
+perc_vacant_housing_1y,2012, Puerto Rico,San Juan Municipio,72127,0.208217159,40178,192962
+perc_vacant_housing_1y,2012, Puerto Rico,Toa Alta Municipio,72135,0.121731326,3119,25622
+perc_vacant_housing_1y,2012, Puerto Rico,Toa Baja Municipio,72137,0.144021809,5070,35203
+perc_vacant_housing_1y,2012, Puerto Rico,Trujillo Alto Municipio,72139,0.155613273,4613,29644
+perc_vacant_housing_1y,2012, Rhode Island,Kent County,44003,0.049135108,3616,73593
+perc_vacant_housing_1y,2012, Rhode Island,Newport County,44005,0.156118348,6522,41776
+perc_vacant_housing_1y,2012, Rhode Island,Providence County,44007,0.089042962,23502,263940
+perc_vacant_housing_1y,2012, Rhode Island,Washington County,44009,0.161504492,10095,62506
+perc_vacant_housing_1y,2012, South Carolina,Aiken County,45003,0.121438704,8900,73288
+perc_vacant_housing_1y,2012, South Carolina,Anderson County,45007,0.139051408,11812,84947
+perc_vacant_housing_1y,2012, South Carolina,Beaufort County,45013,0.294036955,27441,93325
+perc_vacant_housing_1y,2012, South Carolina,Berkeley County,45015,0.121806681,9188,75431
+perc_vacant_housing_1y,2012, South Carolina,Charleston County,45019,0.147299647,25455,172811
+perc_vacant_housing_1y,2012, South Carolina,Darlington County,45031,0.121100068,3668,30289
+perc_vacant_housing_1y,2012, South Carolina,Dorchester County,45035,0.05615316,3153,56150
+perc_vacant_housing_1y,2012, South Carolina,Florence County,45041,0.12388885,7303,58948
+perc_vacant_housing_1y,2012, South Carolina,Greenville County,45045,0.102274165,20179,197303
+perc_vacant_housing_1y,2012, South Carolina,Greenwood County,45047,,,30971
+perc_vacant_housing_1y,2012, South Carolina,Horry County,45051,0.342976838,64682,188590
+perc_vacant_housing_1y,2012, South Carolina,Lancaster County,45057,0.119241357,3898,32690
+perc_vacant_housing_1y,2012, South Carolina,Laurens County,45059,0.17918396,5485,30611
+perc_vacant_housing_1y,2012, South Carolina,Lexington County,45063,0.089576505,10413,116247
+perc_vacant_housing_1y,2012, South Carolina,Oconee County,45073,0.196739435,7651,38889
+perc_vacant_housing_1y,2012, South Carolina,Orangeburg County,45075,0.186320588,7889,42341
+perc_vacant_housing_1y,2012, South Carolina,Pickens County,45077,0.126425594,6496,51382
+perc_vacant_housing_1y,2012, South Carolina,Richland County,45079,0.131138235,21487,163850
+perc_vacant_housing_1y,2012, South Carolina,Spartanburg County,45083,0.113867216,14024,123161
+perc_vacant_housing_1y,2012, South Carolina,Sumter County,45085,0.129463419,6015,46461
+perc_vacant_housing_1y,2012, South Carolina,York County,45091,0.089972153,8660,96252
+perc_vacant_housing_1y,2012, South Dakota,Minnehaha County,46099,0.074606664,5458,73157
+perc_vacant_housing_1y,2012, South Dakota,Pennington County,46103,0.108658485,4957,45620
+perc_vacant_housing_1y,2012, Tennessee,Anderson County,47001,0.101422563,3522,34726
+perc_vacant_housing_1y,2012, Tennessee,Blount County,47009,0.117924102,6535,55417
+perc_vacant_housing_1y,2012, Tennessee,Bradley County,47011,0.072551824,3045,41970
+perc_vacant_housing_1y,2012, Tennessee,Davidson County,47037,0.093162917,26714,286745
+perc_vacant_housing_1y,2012, Tennessee,Greene County,47059,0.073461115,2357,32085
+perc_vacant_housing_1y,2012, Tennessee,Hamilton County,47065,0.105546229,16092,152464
+perc_vacant_housing_1y,2012, Tennessee,Knox County,47093,0.068963766,13568,196741
+perc_vacant_housing_1y,2012, Tennessee,Madison County,47113,0.128699943,5422,42129
+perc_vacant_housing_1y,2012, Tennessee,Maury County,47119,0.093210556,3310,35511
+perc_vacant_housing_1y,2012, Tennessee,Montgomery County,47125,0.122423798,9029,73752
+perc_vacant_housing_1y,2012, Tennessee,Putnam County,47141,0.114115506,3697,32397
+perc_vacant_housing_1y,2012, Tennessee,Robertson County,47147,,,26269
+perc_vacant_housing_1y,2012, Tennessee,Rutherford County,47149,0.071032047,7447,104840
+perc_vacant_housing_1y,2012, Tennessee,Sevier County,47155,0.317885756,17862,56190
+perc_vacant_housing_1y,2012, Tennessee,Shelby County,47157,0.134059399,53594,399778
+perc_vacant_housing_1y,2012, Tennessee,Sullivan County,47163,0.110923097,8194,73871
+perc_vacant_housing_1y,2012, Tennessee,Sumner County,47165,0.093606316,6250,66769
+perc_vacant_housing_1y,2012, Tennessee,Washington County,47179,0.094383262,5468,57934
+perc_vacant_housing_1y,2012, Tennessee,Williamson County,47187,0.051362518,3617,70421
+perc_vacant_housing_1y,2012, Tennessee,Wilson County,47189,0.091250956,4295,47068
+perc_vacant_housing_1y,2012, Texas,Angelina County,48005,0.159769386,5764,36077
+perc_vacant_housing_1y,2012, Texas,Bastrop County,48021,0.14935264,4395,29427
+perc_vacant_housing_1y,2012, Texas,Bell County,48027,0.190453038,24673,129549
+perc_vacant_housing_1y,2012, Texas,Bexar County,48029,0.090609804,60771,670689
+perc_vacant_housing_1y,2012, Texas,Bowie County,48037,0.070425428,2743,38949
+perc_vacant_housing_1y,2012, Texas,Brazoria County,48039,0.095819801,11711,122219
+perc_vacant_housing_1y,2012, Texas,Brazos County,48041,0.114536233,9170,80062
+perc_vacant_housing_1y,2012, Texas,Cameron County,48061,0.148240983,21351,144029
+perc_vacant_housing_1y,2012, Texas,Collin County,48085,0.049940985,15528,310927
+perc_vacant_housing_1y,2012, Texas,Comal County,48091,0.119296089,5830,48870
+perc_vacant_housing_1y,2012, Texas,Coryell County,48099,0.131207615,3366,25654
+perc_vacant_housing_1y,2012, Texas,Dallas County,48113,0.092662349,88291,952825
+perc_vacant_housing_1y,2012, Texas,Denton County,48121,0.059851263,15943,266377
+perc_vacant_housing_1y,2012, Texas,Ector County,48135,0.090721615,4927,54309
+perc_vacant_housing_1y,2012, Texas,El Paso County,48141,0.062634982,17459,278742
+perc_vacant_housing_1y,2012, Texas,Ellis County,48139,,,55510
+perc_vacant_housing_1y,2012, Texas,Fort Bend County,48157,0.053342033,11120,208466
+perc_vacant_housing_1y,2012, Texas,Galveston County,48167,0.176215306,23957,135953
+perc_vacant_housing_1y,2012, Texas,Grayson County,48181,0.114473999,6184,54021
+perc_vacant_housing_1y,2012, Texas,Gregg County,48183,0.125042319,6278,50207
+perc_vacant_housing_1y,2012, Texas,Guadalupe County,48187,0.099641882,5203,52217
+perc_vacant_housing_1y,2012, Texas,Harris County,48201,0.109316118,178019,1628479
+perc_vacant_housing_1y,2012, Texas,Harrison County,48203,0.124278806,3468,27905
+perc_vacant_housing_1y,2012, Texas,Hays County,48209,0.093832575,6037,64338
+perc_vacant_housing_1y,2012, Texas,Henderson County,48213,0.251775384,9998,39710
+perc_vacant_housing_1y,2012, Texas,Hidalgo County,48215,0.120243005,30639,254809
+perc_vacant_housing_1y,2012, Texas,Hunt County,48231,0.164750651,6062,36795
+perc_vacant_housing_1y,2012, Texas,Jefferson County,48245,0.120209567,12757,106123
+perc_vacant_housing_1y,2012, Texas,Johnson County,48251,0.087049201,5023,57703
+perc_vacant_housing_1y,2012, Texas,Kaufman County,48257,0.081842162,3165,38672
+perc_vacant_housing_1y,2012, Texas,Liberty County,48291,0.131870762,3853,29218
+perc_vacant_housing_1y,2012, Texas,Lubbock County,48303,0.094647236,11152,117827
+perc_vacant_housing_1y,2012, Texas,McLennan County,48309,0.112592779,10816,96063
+perc_vacant_housing_1y,2012, Texas,Midland County,48329,0.058743641,3244,55223
+perc_vacant_housing_1y,2012, Texas,Montgomery County,48339,0.093860395,17350,184849
+perc_vacant_housing_1y,2012, Texas,Nacogdoches County,48347,0.129018277,3572,27686
+perc_vacant_housing_1y,2012, Texas,Nueces County,48355,0.13048692,18606,142589
+perc_vacant_housing_1y,2012, Texas,Orange County,48361,0.147765651,5294,35827
+perc_vacant_housing_1y,2012, Texas,Parker County,48367,0.102216564,4819,47145
+perc_vacant_housing_1y,2012, Texas,Potter County,48375,0.092355229,4424,47902
+perc_vacant_housing_1y,2012, Texas,Randall County,48381,0.076912783,4024,52319
+perc_vacant_housing_1y,2012, Texas,Rockwall County,48397,,,29149
+perc_vacant_housing_1y,2012, Texas,San Patricio County,48409,0.132339731,3534,26704
+perc_vacant_housing_1y,2012, Texas,Smith County,48423,0.10578315,9283,87755
+perc_vacant_housing_1y,2012, Texas,Tarrant County,48439,0.079979412,57951,724574
+perc_vacant_housing_1y,2012, Texas,Taylor County,48441,0.116460212,6534,56105
+perc_vacant_housing_1y,2012, Texas,Tom Green County,48451,0.085563667,4009,46854
+perc_vacant_housing_1y,2012, Texas,Travis County,48453,0.075799108,34176,450876
+perc_vacant_housing_1y,2012, Texas,Victoria County,48469,0.093480349,3315,35462
+perc_vacant_housing_1y,2012, Texas,Walker County,48471,,,24643
+perc_vacant_housing_1y,2012, Texas,Webb County,48479,0.079689294,5981,75054
+perc_vacant_housing_1y,2012, Texas,Wichita County,48485,0.125464633,6987,55689
+perc_vacant_housing_1y,2012, Texas,Williamson County,48491,0.065058641,10878,167203
+perc_vacant_housing_1y,2012, Utah,Cache County,49005,0.065962642,2511,38067
+perc_vacant_housing_1y,2012, Utah,Davis County,49011,0.025522437,2544,99677
+perc_vacant_housing_1y,2012, Utah,Salt Lake County,49035,0.051400427,18972,369102
+perc_vacant_housing_1y,2012, Utah,Utah County,49049,0.048737969,7409,152017
+perc_vacant_housing_1y,2012, Utah,Washington County,49053,0.161720395,9607,59405
+perc_vacant_housing_1y,2012, Utah,Weber County,49057,0.07572601,6579,86879
+perc_vacant_housing_1y,2012, Vermont,Chittenden County,50007,0.048099361,3195,66425
+perc_vacant_housing_1y,2012, Virginia,Albemarle County,51003,0.11172694,4838,43302
+perc_vacant_housing_1y,2012, Virginia,Alexandria city,51510,0.086785711,6362,73307
+perc_vacant_housing_1y,2012, Virginia,Arlington County,51013,0.104154676,11221,107734
+perc_vacant_housing_1y,2012, Virginia,Augusta County,51015,0.084114514,2656,31576
+perc_vacant_housing_1y,2012, Virginia,Bedford County,51019,0.114553757,3712,32404
+perc_vacant_housing_1y,2012, Virginia,Chesapeake city,51550,0.054479092,4642,85207
+perc_vacant_housing_1y,2012, Virginia,Chesterfield County,51041,0.066415958,8230,123916
+perc_vacant_housing_1y,2012, Virginia,Fairfax County,51059,0.038474999,15720,408577
+perc_vacant_housing_1y,2012, Virginia,Fauquier County,51061,0.108549327,2806,25850
+perc_vacant_housing_1y,2012, Virginia,Frederick County,51069,0.057661556,1839,31893
+perc_vacant_housing_1y,2012, Virginia,Hampton city,51650,0.119639769,7187,60072
+perc_vacant_housing_1y,2012, Virginia,Hanover County,51085,0.067894727,2639,38869
+perc_vacant_housing_1y,2012, Virginia,Henrico County,51087,0.07258933,9702,133656
+perc_vacant_housing_1y,2012, Virginia,James City County,51095,0.102439344,3137,30623
+perc_vacant_housing_1y,2012, Virginia,Loudoun County,51107,0.044548459,5111,114729
+perc_vacant_housing_1y,2012, Virginia,Lynchburg city,51680,0.122990981,3941,32043
+perc_vacant_housing_1y,2012, Virginia,Montgomery County,51121,0.09280581,3603,38823
+perc_vacant_housing_1y,2012, Virginia,Newport News city,51700,0.083642595,6446,77066
+perc_vacant_housing_1y,2012, Virginia,Norfolk city,51710,0.093498193,8923,95435
+perc_vacant_housing_1y,2012, Virginia,Portsmouth city,51740,0.094739936,3867,40817
+perc_vacant_housing_1y,2012, Virginia,Prince William County,51153,0.041747738,5879,140822
+perc_vacant_housing_1y,2012, Virginia,Richmond city,51760,0.149753511,14794,98789
+perc_vacant_housing_1y,2012, Virginia,Roanoke County,51161,,,40295
+perc_vacant_housing_1y,2012, Virginia,Roanoke city,51770,0.106495976,5033,47260
+perc_vacant_housing_1y,2012, Virginia,Rockingham County,51165,0.135214582,4600,34020
+perc_vacant_housing_1y,2012, Virginia,Spotsylvania County,51177,0.067162216,3063,45606
+perc_vacant_housing_1y,2012, Virginia,Stafford County,51179,0.052068267,2340,44941
+perc_vacant_housing_1y,2012, Virginia,Suffolk city,51800,0.083847508,2813,33549
+perc_vacant_housing_1y,2012, Virginia,Virginia Beach city,51810,0.075825036,13625,179690
+perc_vacant_housing_1y,2012, Virginia,York County,51199,0.145559266,3917,26910
+perc_vacant_housing_1y,2012, Washington,Benton County,53005,0.065536179,4630,70648
+perc_vacant_housing_1y,2012, Washington,Chelan County,53007,0.211328059,7533,35646
+perc_vacant_housing_1y,2012, Washington,Clallam County,53009,0.149086937,5323,35704
+perc_vacant_housing_1y,2012, Washington,Clark County,53011,0.05106844,8625,168891
+perc_vacant_housing_1y,2012, Washington,Cowlitz County,53015,0.100923561,4382,43419
+perc_vacant_housing_1y,2012, Washington,Franklin County,53021,0.050212137,1290,25691
+perc_vacant_housing_1y,2012, Washington,Grant County,53025,0.119309798,4204,35236
+perc_vacant_housing_1y,2012, Washington,Grays Harbor County,53027,0.205080897,7225,35230
+perc_vacant_housing_1y,2012, Washington,Island County,53029,0.155988932,6311,40458
+perc_vacant_housing_1y,2012, Washington,King County,53033,0.059399631,51068,859736
+perc_vacant_housing_1y,2012, Washington,Kitsap County,53035,0.094075523,10169,108094
+perc_vacant_housing_1y,2012, Washington,Lewis County,53041,0.109606311,3739,34113
+perc_vacant_housing_1y,2012, Washington,Pierce County,53053,0.081635445,26829,328644
+perc_vacant_housing_1y,2012, Washington,Skagit County,53057,0.12842223,6628,51611
+perc_vacant_housing_1y,2012, Washington,Snohomish County,53061,0.065650225,19075,290555
+perc_vacant_housing_1y,2012, Washington,Spokane County,53063,0.070016272,14285,204024
+perc_vacant_housing_1y,2012, Washington,Thurston County,53067,0.065529682,7212,110057
+perc_vacant_housing_1y,2012, Washington,Whatcom County,53073,0.124668635,11381,91290
+perc_vacant_housing_1y,2012, Washington,Yakima County,53077,0.085340336,7342,86032
+perc_vacant_housing_1y,2012, West Virginia,Berkeley County,54003,0.089819305,4076,45380
+perc_vacant_housing_1y,2012, West Virginia,Cabell County,54011,0.13978751,6460,46213
+perc_vacant_housing_1y,2012, West Virginia,Harrison County,54033,0.091157503,2869,31473
+perc_vacant_housing_1y,2012, West Virginia,Kanawha County,54039,0.085252181,7875,92373
+perc_vacant_housing_1y,2012, West Virginia,Monongalia County,54061,0.156078205,6842,43837
+perc_vacant_housing_1y,2012, West Virginia,Raleigh County,54081,0.142099127,5115,35996
+perc_vacant_housing_1y,2012, West Virginia,Wood County,54107,0.107403912,4320,40222
+perc_vacant_housing_1y,2012, Wisconsin,Brown County,55009,0.063655362,6732,105757
+perc_vacant_housing_1y,2012, Wisconsin,Dane County,55025,0.046298083,10084,217806
+perc_vacant_housing_1y,2012, Wisconsin,Dodge County,55027,0.100226626,3715,37066
+perc_vacant_housing_1y,2012, Wisconsin,Eau Claire County,55035,0.048007544,2036,42410
+perc_vacant_housing_1y,2012, Wisconsin,Fond du Lac County,55039,0.064237013,2836,44149
+perc_vacant_housing_1y,2012, Wisconsin,Jefferson County,55055,0.077791966,2741,35235
+perc_vacant_housing_1y,2012, Wisconsin,Kenosha County,55059,0.094197989,6538,69407
+perc_vacant_housing_1y,2012, Wisconsin,La Crosse County,55063,0.031424996,1532,48751
+perc_vacant_housing_1y,2012, Wisconsin,Manitowoc County,55071,0.083310902,3095,37150
+perc_vacant_housing_1y,2012, Wisconsin,Marathon County,55073,0.096912652,5622,58011
+perc_vacant_housing_1y,2012, Wisconsin,Milwaukee County,55079,0.080057681,33420,417449
+perc_vacant_housing_1y,2012, Wisconsin,Outagamie County,55087,0.065649331,4857,73984
+perc_vacant_housing_1y,2012, Wisconsin,Ozaukee County,55089,,,36410
+perc_vacant_housing_1y,2012, Wisconsin,Portage County,55097,0.054681547,1651,30193
+perc_vacant_housing_1y,2012, Wisconsin,Racine County,55101,0.074029453,6083,82170
+perc_vacant_housing_1y,2012, Wisconsin,Rock County,55105,0.07014025,4791,68306
+perc_vacant_housing_1y,2012, Wisconsin,Sheboygan County,55117,0.074526064,3774,50640
+perc_vacant_housing_1y,2012, Wisconsin,St. Croix County,55109,,,34206
+perc_vacant_housing_1y,2012, Wisconsin,Walworth County,55127,0.214357778,11048,51540
+perc_vacant_housing_1y,2012, Wisconsin,Washington County,55131,0.055824008,3073,55048
+perc_vacant_housing_1y,2012, Wisconsin,Waukesha County,55133,0.041714199,6728,161288
+perc_vacant_housing_1y,2012, Wisconsin,Winnebago County,55139,0.079140685,5839,73780
+perc_vacant_housing_1y,2012, Wisconsin,Wood County,55141,0.070628919,2410,34122
+perc_vacant_housing_1y,2012, Wyoming,Laramie County,56021,0.136680961,5580,40825
+perc_vacant_housing_1y,2012, Wyoming,Natrona County,56025,,,34891

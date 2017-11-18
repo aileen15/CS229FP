@@ -1,0 +1,767 @@
+measure label,year,state,county,fips,unemployment_1y,numerator,denominator
+unemployment_1y,2013, Alabama,Baldwin County,1003,0.07399293,6822,92198
+unemployment_1y,2013, Alabama,Calhoun County,1015,0.156788021,8269,52740
+unemployment_1y,2013, Alabama,Cullman County,1043,0.070653111,2460,34818
+unemployment_1y,2013, Alabama,Etowah County,1055,0.101793855,4534,44541
+unemployment_1y,2013, Alabama,Houston County,1069,0.084977426,4122,48507
+unemployment_1y,2013, Alabama,Jefferson County,1073,0.085609645,27536,321646
+unemployment_1y,2013, Alabama,Lauderdale County,1077,0.068086952,2985,43841
+unemployment_1y,2013, Alabama,Lee County,1081,0.054920755,4148,75527
+unemployment_1y,2013, Alabama,Limestone County,1083,0.071532324,3004,41995
+unemployment_1y,2013, Alabama,Madison County,1089,0.089565597,16212,181007
+unemployment_1y,2013, Alabama,Marshall County,1095,0.093611814,3980,42516
+unemployment_1y,2013, Alabama,Mobile County,1097,0.117160864,22368,190917
+unemployment_1y,2013, Alabama,Montgomery County,1101,0.071918562,7842,109040
+unemployment_1y,2013, Alabama,Morgan County,1103,0.09686105,5360,55337
+unemployment_1y,2013, Alabama,Shelby County,1117,0.048013419,5009,104325
+unemployment_1y,2013, Alabama,Talladega County,1121,0.125237033,4425,35333
+unemployment_1y,2013, Alabama,Tuscaloosa County,1125,0.077883154,7432,95425
+unemployment_1y,2013, Alaska,Anchorage Municipality,2020,0.062865622,10843,172479
+unemployment_1y,2013, Alaska,Fairbanks North Star Borough,2090,0.091913991,5305,57717
+unemployment_1y,2013, Alaska,Matanuska-Susitna Borough,2170,0.100831121,4598,45601
+unemployment_1y,2013, Arizona,Apache County,4001,0.174613863,3629,20783
+unemployment_1y,2013, Arizona,Cochise County,4003,0.081124239,4217,51982
+unemployment_1y,2013, Arizona,Coconino County,4005,0.082519799,5824,70577
+unemployment_1y,2013, Arizona,Maricopa County,4013,0.075509161,146525,1940493
+unemployment_1y,2013, Arizona,Mohave County,4015,0.144553438,11273,77985
+unemployment_1y,2013, Arizona,Navajo County,4017,0.193842083,7920,40858
+unemployment_1y,2013, Arizona,Pima County,4019,0.106473401,50758,476720
+unemployment_1y,2013, Arizona,Pinal County,4021,0.089044131,13473,151307
+unemployment_1y,2013, Arizona,Yavapai County,4025,0.109270096,10367,94875
+unemployment_1y,2013, Arizona,Yuma County,4027,0.125145361,10869,86851
+unemployment_1y,2013, Arkansas,Benton County,5007,0.041704837,4780,114615
+unemployment_1y,2013, Arkansas,Craighead County,5031,0.064414732,3074,47722
+unemployment_1y,2013, Arkansas,Faulkner County,5045,0.054390807,3370,61959
+unemployment_1y,2013, Arkansas,Garland County,5051,0.119125172,5120,42980
+unemployment_1y,2013, Arkansas,Jefferson County,5069,0.089183517,2805,31452
+unemployment_1y,2013, Arkansas,Lonoke County,5085,0.079658993,2934,36832
+unemployment_1y,2013, Arkansas,Pulaski County,5119,0.078456037,15468,197155
+unemployment_1y,2013, Arkansas,Sebastian County,5131,0.063388407,3572,56351
+unemployment_1y,2013, Arkansas,Washington County,5143,0.060145874,6531,108586
+unemployment_1y,2013, Arkansas,White County,5145,0.072541982,2527,34835
+unemployment_1y,2013, California,Alameda County,6001,0.089214809,75270,843694
+unemployment_1y,2013, California,Butte County,6007,0.092507079,9315,100695
+unemployment_1y,2013, California,Contra Costa County,6013,0.087292559,48893,560105
+unemployment_1y,2013, California,El Dorado County,6017,0.138994828,12246,88104
+unemployment_1y,2013, California,Fresno County,6019,0.128227308,54711,426672
+unemployment_1y,2013, California,Humboldt County,6023,0.130828381,8541,65284
+unemployment_1y,2013, California,Imperial County,6025,0.154178113,11004,71372
+unemployment_1y,2013, California,Kern County,6029,0.12210948,45165,369873
+unemployment_1y,2013, California,Kings County,6031,0.123722583,7942,64192
+unemployment_1y,2013, California,Los Angeles County,6037,0.102362007,526668,5145151
+unemployment_1y,2013, California,Madera County,6039,0.086479068,4914,56823
+unemployment_1y,2013, California,Marin County,6041,0.064916551,8880,136791
+unemployment_1y,2013, California,Mendocino County,6045,0.113037653,4557,40314
+unemployment_1y,2013, California,Merced County,6047,0.198291972,22499,113464
+unemployment_1y,2013, California,Monterey County,6053,0.080961838,15690,193795
+unemployment_1y,2013, California,Napa County,6055,0.080534615,6110,75868
+unemployment_1y,2013, California,Orange County,6059,0.077516928,127008,1638455
+unemployment_1y,2013, California,Placer County,6061,0.079105631,14311,180910
+unemployment_1y,2013, California,Riverside County,6065,0.128673986,136397,1060020
+unemployment_1y,2013, California,Sacramento County,6067,0.1231381,86952,706134
+unemployment_1y,2013, California,San Bernardino County,6071,0.120181099,113958,948219
+unemployment_1y,2013, California,San Diego County,6073,0.085486554,140895,1648154
+unemployment_1y,2013, California,San Francisco County,6075,0.072365284,37485,517997
+unemployment_1y,2013, California,San Joaquin County,6077,0.133463338,42846,321032
+unemployment_1y,2013, California,San Luis Obispo County,6079,0.057712056,7981,138290
+unemployment_1y,2013, California,San Mateo County,6081,0.067596518,28177,416841
+unemployment_1y,2013, California,Santa Barbara County,6083,0.078180239,17604,225172
+unemployment_1y,2013, California,Santa Clara County,6085,0.081631601,80961,991785
+unemployment_1y,2013, California,Santa Cruz County,6087,0.086058617,12168,141392
+unemployment_1y,2013, California,Shasta County,6089,0.104338139,7771,74479
+unemployment_1y,2013, California,Solano County,6095,0.111847177,23806,212844
+unemployment_1y,2013, California,Sonoma County,6097,0.083316736,21751,261064
+unemployment_1y,2013, California,Stanislaus County,6099,0.159248948,39871,250369
+unemployment_1y,2013, California,Sutter County,6101,0.124153182,5333,42955
+unemployment_1y,2013, California,Tulare County,6107,0.129937693,24878,191461
+unemployment_1y,2013, California,Ventura County,6111,0.076734155,33806,440560
+unemployment_1y,2013, California,Yolo County,6113,0.090069994,9046,100433
+unemployment_1y,2013, California,Yuba County,6115,0.173424929,5453,31443
+unemployment_1y,2013, Colorado,Adams County,8001,0.076166123,18824,247144
+unemployment_1y,2013, Colorado,Arapahoe County,8005,0.08151342,27359,335638
+unemployment_1y,2013, Colorado,Boulder County,8013,0.060645565,10839,178727
+unemployment_1y,2013, Colorado,Denver County,8031,0.058935881,21816,370165
+unemployment_1y,2013, Colorado,Douglas County,8035,0.044904783,7225,160896
+unemployment_1y,2013, Colorado,El Paso County,8041,0.080313914,27785,345955
+unemployment_1y,2013, Colorado,Jefferson County,8059,0.061824229,19075,308536
+unemployment_1y,2013, Colorado,Larimer County,8069,0.058309425,10141,173917
+unemployment_1y,2013, Colorado,Mesa County,8077,0.076791644,5573,72573
+unemployment_1y,2013, Colorado,Pueblo County,8101,0.101815768,7211,70824
+unemployment_1y,2013, Colorado,Weld County,8123,0.089220449,12426,139273
+unemployment_1y,2013, Connecticut,Fairfield County,9001,0.094975211,48652,512260
+unemployment_1y,2013, Connecticut,Hartford County,9003,0.101743393,49267,484228
+unemployment_1y,2013, Connecticut,Litchfield County,9005,0.073102705,7863,107561
+unemployment_1y,2013, Connecticut,Middlesex County,9007,0.063060485,5724,90770
+unemployment_1y,2013, Connecticut,New Haven County,9009,0.090113863,41258,457843
+unemployment_1y,2013, Connecticut,New London County,9011,0.082988836,12888,155298
+unemployment_1y,2013, Connecticut,Tolland County,9013,0.074276119,6413,86340
+unemployment_1y,2013, Connecticut,Windham County,9015,0.129516602,8488,65536
+unemployment_1y,2013, Delaware,Kent County,10001,0.083657816,7176,85778
+unemployment_1y,2013, Delaware,New Castle County,10003,0.081918254,23947,292328
+unemployment_1y,2013, Delaware,Sussex County,10005,0.098005876,9338,95280
+unemployment_1y,2013, District of Columbia,District of Columbia,11001,0.103598677,38858,375082
+unemployment_1y,2013, Florida,Alachua County,12001,0.076945961,9571,124386
+unemployment_1y,2013, Florida,Bay County,12005,0.072354101,6215,85897
+unemployment_1y,2013, Florida,Brevard County,12009,0.116582602,30164,258735
+unemployment_1y,2013, Florida,Broward County,12011,0.103295587,100638,974272
+unemployment_1y,2013, Florida,Charlotte County,12015,0.117140956,7039,60090
+unemployment_1y,2013, Florida,Citrus County,12017,0.112449639,5498,48893
+unemployment_1y,2013, Florida,Clay County,12019,0.097460881,9784,100389
+unemployment_1y,2013, Florida,Collier County,12021,0.087166622,13276,152306
+unemployment_1y,2013, Florida,Columbia County,12023,0.128857151,3988,30949
+unemployment_1y,2013, Florida,Duval County,12031,0.102122724,47277,462943
+unemployment_1y,2013, Florida,Escambia County,12033,0.09807618,14983,152769
+unemployment_1y,2013, Florida,Flagler County,12035,0.06435997,2433,37803
+unemployment_1y,2013, Florida,Hernando County,12053,0.138927475,9500,68381
+unemployment_1y,2013, Florida,Highlands County,12055,0.143376499,5048,35208
+unemployment_1y,2013, Florida,Hillsborough County,12057,0.086263619,57761,669587
+unemployment_1y,2013, Florida,Indian River County,12061,0.100218751,6139,61256
+unemployment_1y,2013, Florida,Lake County,12069,0.094073996,12576,133682
+unemployment_1y,2013, Florida,Lee County,12071,0.100336924,29423,293242
+unemployment_1y,2013, Florida,Leon County,12073,0.112242892,17675,157471
+unemployment_1y,2013, Florida,Manatee County,12081,0.084668972,12726,150303
+unemployment_1y,2013, Florida,Marion County,12083,0.110861458,14506,130848
+unemployment_1y,2013, Florida,Martin County,12085,0.088438645,5884,66532
+unemployment_1y,2013, Florida,Miami-Dade County,12086,0.098815382,130762,1323296
+unemployment_1y,2013, Florida,Okaloosa County,12091,0.062395211,6066,97219
+unemployment_1y,2013, Florida,Orange County,12095,0.08688385,57229,658684
+unemployment_1y,2013, Florida,Osceola County,12097,0.073438123,10115,137735
+unemployment_1y,2013, Florida,Palm Beach County,12099,0.096207313,65958,685582
+unemployment_1y,2013, Florida,Pasco County,12101,0.084511794,17534,207474
+unemployment_1y,2013, Florida,Pinellas County,12103,0.086331479,40109,464593
+unemployment_1y,2013, Florida,Polk County,12105,0.099049844,27156,274165
+unemployment_1y,2013, Florida,Santa Rosa County,12113,0.093105495,7056,75785
+unemployment_1y,2013, Florida,Sarasota County,12115,0.088398978,14391,162796
+unemployment_1y,2013, Florida,Seminole County,12117,0.102420293,24142,235715
+unemployment_1y,2013, Florida,St. Johns County,12109,0.06745562,6669,98865
+unemployment_1y,2013, Florida,St. Lucie County,12111,0.119932026,15314,127689
+unemployment_1y,2013, Florida,Volusia County,12127,0.094671711,20655,218175
+unemployment_1y,2013, Georgia,Barrow County,13013,0.137425795,5093,37060
+unemployment_1y,2013, Georgia,Bibb County,13021,0.163517281,11085,67791
+unemployment_1y,2013, Georgia,Bulloch County,13031,0.140943453,4903,34787
+unemployment_1y,2013, Georgia,Carroll County,13045,0.114067197,5921,51908
+unemployment_1y,2013, Georgia,Chatham County,13051,0.108349867,15238,140637
+unemployment_1y,2013, Georgia,Cherokee County,13057,0.072122984,8079,112017
+unemployment_1y,2013, Georgia,Clarke County,13059,0.110471241,6925,62686
+unemployment_1y,2013, Georgia,Clayton County,13063,0.150753736,19931,132209
+unemployment_1y,2013, Georgia,Cobb County,13067,0.082555234,32917,398727
+unemployment_1y,2013, Georgia,Columbia County,13073,0.081178792,5479,67493
+unemployment_1y,2013, Georgia,Coweta County,13077,0.060014799,3974,66217
+unemployment_1y,2013, Georgia,DeKalb County,13089,0.114439659,44432,388257
+unemployment_1y,2013, Georgia,Dougherty County,13095,0.190917701,7866,41201
+unemployment_1y,2013, Georgia,Douglas County,13097,0.112958804,8097,71681
+unemployment_1y,2013, Georgia,Fayette County,13113,0.06628795,3489,52634
+unemployment_1y,2013, Georgia,Floyd County,13115,0.105121419,4528,43074
+unemployment_1y,2013, Georgia,Forsyth County,13117,0.056764536,5543,97649
+unemployment_1y,2013, Georgia,Fulton County,13121,0.100292876,51948,517963
+unemployment_1y,2013, Georgia,Gwinnett County,13135,0.095279656,43341,454882
+unemployment_1y,2013, Georgia,Hall County,13139,0.082672767,7770,93985
+unemployment_1y,2013, Georgia,Henry County,13151,0.097135365,10298,106017
+unemployment_1y,2013, Georgia,Houston County,13153,0.082319416,5575,67724
+unemployment_1y,2013, Georgia,Liberty County,13179,0.110119045,3441,31248
+unemployment_1y,2013, Georgia,Lowndes County,13185,0.119237088,6608,55419
+unemployment_1y,2013, Georgia,Muscogee County,13215,0.115932629,11082,95590
+unemployment_1y,2013, Georgia,Newton County,13217,0.107200921,5407,50438
+unemployment_1y,2013, Georgia,Paulding County,13223,0.089839868,6783,75501
+unemployment_1y,2013, Georgia,Richmond County,13245,0.143327504,13103,91420
+unemployment_1y,2013, Georgia,Walton County,13297,0.062659785,2549,40680
+unemployment_1y,2013, Georgia,Whitfield County,13313,0.115517944,5965,51637
+unemployment_1y,2013, Hawaii,Hawaii County,15001,0.096386597,8800,91299
+unemployment_1y,2013, Hawaii,Honolulu County,15003,0.047571752,24475,514486
+unemployment_1y,2013, Hawaii,Kauai County,15007,0.0581856,2071,35593
+unemployment_1y,2013, Hawaii,Maui County,15009,0.070133038,6268,89373
+unemployment_1y,2013, Idaho,Ada County,16001,0.057890978,12317,212762
+unemployment_1y,2013, Idaho,Bannock County,16005,0.068472311,2791,40761
+unemployment_1y,2013, Idaho,Bonneville County,16019,0.067253441,3278,48741
+unemployment_1y,2013, Idaho,Canyon County,16027,0.093975157,8504,90492
+unemployment_1y,2013, Idaho,Kootenai County,16055,0.078679159,5342,67896
+unemployment_1y,2013, Illinois,Champaign County,17019,0.065113135,7033,108012
+unemployment_1y,2013, Illinois,Cook County,17031,0.110632151,306258,2768255
+unemployment_1y,2013, Illinois,DeKalb County,17037,0.105279118,6250,59366
+unemployment_1y,2013, Illinois,DuPage County,17043,0.067470171,34842,516406
+unemployment_1y,2013, Illinois,Kane County,17089,0.078943938,21825,276462
+unemployment_1y,2013, Illinois,Kankakee County,17091,0.105615765,5896,55825
+unemployment_1y,2013, Illinois,LaSalle County,17099,0.111689053,6227,55753
+unemployment_1y,2013, Illinois,Lake County,17097,0.080450408,30515,379302
+unemployment_1y,2013, Illinois,Macon County,17115,0.11168915,6226,55744
+unemployment_1y,2013, Illinois,Madison County,17119,0.095184855,13110,137732
+unemployment_1y,2013, Illinois,McHenry County,17111,0.081173763,14155,174379
+unemployment_1y,2013, Illinois,McLean County,17113,0.048596978,4728,97290
+unemployment_1y,2013, Illinois,Peoria County,17143,0.079055794,7445,94174
+unemployment_1y,2013, Illinois,Rock Island County,17161,0.084785588,6495,76605
+unemployment_1y,2013, Illinois,Sangamon County,17167,0.085142665,8937,104965
+unemployment_1y,2013, Illinois,St. Clair County,17163,0.092344642,12035,130327
+unemployment_1y,2013, Illinois,Tazewell County,17179,0.077883221,5310,68179
+unemployment_1y,2013, Illinois,Vermilion County,17183,0.116201945,4380,37693
+unemployment_1y,2013, Illinois,Will County,17197,0.087325484,31293,358349
+unemployment_1y,2013, Illinois,Williamson County,17199,0.087064914,2759,31689
+unemployment_1y,2013, Illinois,Winnebago County,17201,0.114563264,17065,148957
+unemployment_1y,2013, Indiana,Allen County,18003,0.086374484,15995,185182
+unemployment_1y,2013, Indiana,Bartholomew County,18005,0.051389031,2020,39308
+unemployment_1y,2013, Indiana,Clark County,18019,0.070557244,3991,56564
+unemployment_1y,2013, Indiana,Delaware County,18035,0.106199436,6340,59699
+unemployment_1y,2013, Indiana,Elkhart County,18039,0.082147807,8240,100307
+unemployment_1y,2013, Indiana,Floyd County,18043,0.071640268,2804,39140
+unemployment_1y,2013, Indiana,Grant County,18053,0.067815125,2173,32043
+unemployment_1y,2013, Indiana,Hamilton County,18057,0.044278529,7087,160055
+unemployment_1y,2013, Indiana,Hendricks County,18063,0.058085866,4669,80381
+unemployment_1y,2013, Indiana,Howard County,18067,0.071020879,2837,39946
+unemployment_1y,2013, Indiana,Johnson County,18081,0.055260766,4197,75949
+unemployment_1y,2013, Indiana,Kosciusko County,18085,0.056578208,2213,39114
+unemployment_1y,2013, Indiana,LaPorte County,18091,0.084161662,4369,51912
+unemployment_1y,2013, Indiana,Lake County,18089,0.090745606,21547,237444
+unemployment_1y,2013, Indiana,Madison County,18095,0.080879971,4739,58593
+unemployment_1y,2013, Indiana,Marion County,18097,0.106060795,51704,487494
+unemployment_1y,2013, Indiana,Monroe County,18105,0.058195516,4388,75401
+unemployment_1y,2013, Indiana,Porter County,18127,0.08161097,6989,85638
+unemployment_1y,2013, Indiana,St. Joseph County,18141,0.087788567,11762,133981
+unemployment_1y,2013, Indiana,Tippecanoe County,18157,0.071335211,6604,92577
+unemployment_1y,2013, Indiana,Vanderburgh County,18163,0.070680305,6241,88299
+unemployment_1y,2013, Indiana,Vigo County,18167,0.079656139,3901,48973
+unemployment_1y,2013, Indiana,Wayne County,18177,0.091978684,2658,28898
+unemployment_1y,2013, Iowa,Black Hawk County,19013,0.079201601,5706,72044
+unemployment_1y,2013, Iowa,Dubuque County,19061,0.032561451,1693,51994
+unemployment_1y,2013, Iowa,Johnson County,19103,0.028304657,2313,81718
+unemployment_1y,2013, Iowa,Linn County,19113,0.049297418,5915,119986
+unemployment_1y,2013, Iowa,Polk County,19153,0.056472391,14509,256922
+unemployment_1y,2013, Iowa,Pottawattamie County,19155,0.059220079,2855,48210
+unemployment_1y,2013, Iowa,Scott County,19163,0.044894062,3903,86938
+unemployment_1y,2013, Iowa,Story County,19169,0.042273998,2239,52964
+unemployment_1y,2013, Iowa,Woodbury County,19193,0.056213126,3125,55592
+unemployment_1y,2013, Kansas,Douglas County,20045,0.066918716,4425,66125
+unemployment_1y,2013, Kansas,Johnson County,20091,0.045773126,14629,319598
+unemployment_1y,2013, Kansas,Leavenworth County,20103,0.050999384,1906,37373
+unemployment_1y,2013, Kansas,Sedgwick County,20173,0.067885414,17401,256329
+unemployment_1y,2013, Kansas,Shawnee County,20177,0.083372489,7453,89394
+unemployment_1y,2013, Kansas,Wyandotte County,20209,0.107569925,8384,77940
+unemployment_1y,2013, Kentucky,Boone County,21015,0.064737968,4368,67472
+unemployment_1y,2013, Kentucky,Campbell County,21037,0.08262784,4109,49729
+unemployment_1y,2013, Kentucky,Christian County,21047,0.096403167,3361,34864
+unemployment_1y,2013, Kentucky,Daviess County,21059,0.079144903,3743,47293
+unemployment_1y,2013, Kentucky,Fayette County,21067,0.076908559,13039,169539
+unemployment_1y,2013, Kentucky,Hardin County,21093,0.061190091,3340,54584
+unemployment_1y,2013, Kentucky,Jefferson County,21111,0.0768288,30215,393277
+unemployment_1y,2013, Kentucky,Kenton County,21117,0.078686789,6699,85135
+unemployment_1y,2013, Kentucky,Madison County,21151,0.060692336,2686,44256
+unemployment_1y,2013, Kentucky,Pike County,21195,0.140579268,3218,22891
+unemployment_1y,2013, Kentucky,Warren County,21227,0.053776253,3385,62946
+unemployment_1y,2013, Louisiana,Bossier Parish,22015,0.043484945,2828,65034
+unemployment_1y,2013, Louisiana,Caddo Parish,22017,0.067758419,7969,117609
+unemployment_1y,2013, Louisiana,Calcasieu Parish,22019,0.091531813,8739,95475
+unemployment_1y,2013, Louisiana,East Baton Rouge Parish,22033,0.073712699,16749,227220
+unemployment_1y,2013, Louisiana,Iberia Parish,22045,0.112971917,3926,34752
+unemployment_1y,2013, Louisiana,Jefferson Parish,22051,0.067732096,15249,225137
+unemployment_1y,2013, Louisiana,Lafayette Parish,22055,0.054930612,6812,124011
+unemployment_1y,2013, Louisiana,Lafourche Parish,22057,0.067425199,3040,45087
+unemployment_1y,2013, Louisiana,Orleans Parish,22071,0.093709849,18016,192253
+unemployment_1y,2013, Louisiana,Ouachita Parish,22073,0.070572026,4867,68965
+unemployment_1y,2013, Louisiana,Rapides Parish,22079,0.097143821,5765,59345
+unemployment_1y,2013, Louisiana,St. Landry Parish,22097,0.046594344,1572,33738
+unemployment_1y,2013, Louisiana,St. Tammany Parish,22103,0.083436638,10096,121002
+unemployment_1y,2013, Louisiana,Tangipahoa Parish,22105,0.129897282,7954,61233
+unemployment_1y,2013, Louisiana,Terrebonne Parish,22109,0.045313075,2344,51729
+unemployment_1y,2013, Maine,Androscoggin County,23001,0.078816861,4450,56460
+unemployment_1y,2013, Maine,Aroostook County,23003,0.068069488,2355,34597
+unemployment_1y,2013, Maine,Cumberland County,23005,0.056987531,8994,157824
+unemployment_1y,2013, Maine,Kennebec County,23011,0.076391242,4740,62049
+unemployment_1y,2013, Maine,Penobscot County,23019,0.078154124,6080,77795
+unemployment_1y,2013, Maine,York County,23031,0.06229699,6847,109909
+unemployment_1y,2013, Maryland,Allegany County,24001,0.106233351,3429,32278
+unemployment_1y,2013, Maryland,Anne Arundel County,24003,0.063789159,20043,314207
+unemployment_1y,2013, Maryland,Baltimore County,24005,0.066036761,29473,446312
+unemployment_1y,2013, Maryland,Baltimore city,24510,0.111020111,34431,310133
+unemployment_1y,2013, Maryland,Calvert County,24009,0.080671445,4109,50935
+unemployment_1y,2013, Maryland,Carroll County,24013,0.04688213,4417,94215
+unemployment_1y,2013, Maryland,Cecil County,24015,0.072683796,4012,55198
+unemployment_1y,2013, Maryland,Charles County,24017,0.060444616,5060,83713
+unemployment_1y,2013, Maryland,Frederick County,24021,0.061086241,8269,135366
+unemployment_1y,2013, Maryland,Harford County,24025,0.060696274,8461,139399
+unemployment_1y,2013, Maryland,Howard County,24027,0.053037513,9139,172312
+unemployment_1y,2013, Maryland,Montgomery County,24031,0.061192531,35792,584908
+unemployment_1y,2013, Maryland,Prince George's County,24033,0.091711007,46588,507987
+unemployment_1y,2013, Maryland,St. Mary's County,24037,0.048248064,2765,57308
+unemployment_1y,2013, Maryland,Washington County,24043,0.077946261,5860,75180
+unemployment_1y,2013, Maryland,Wicomico County,24045,0.078367837,4281,54627
+unemployment_1y,2013, Massachusetts,Barnstable County,25001,0.077201709,8568,110982
+unemployment_1y,2013, Massachusetts,Berkshire County,25003,0.085292995,5825,68294
+unemployment_1y,2013, Massachusetts,Bristol County,25005,0.102424048,29797,290918
+unemployment_1y,2013, Massachusetts,Essex County,25009,0.078885585,32695,414461
+unemployment_1y,2013, Massachusetts,Franklin County,25011,0.070238739,2842,40462
+unemployment_1y,2013, Massachusetts,Hampden County,25013,0.107902505,25304,234508
+unemployment_1y,2013, Massachusetts,Hampshire County,25015,0.071047448,6458,90897
+unemployment_1y,2013, Massachusetts,Middlesex County,25017,0.067808889,60094,886226
+unemployment_1y,2013, Massachusetts,Norfolk County,25021,0.067446254,25868,383535
+unemployment_1y,2013, Massachusetts,Plymouth County,25023,0.081712261,22477,275075
+unemployment_1y,2013, Massachusetts,Suffolk County,25025,0.079757817,35449,444458
+unemployment_1y,2013, Massachusetts,Worcester County,25027,0.070941754,30665,432256
+unemployment_1y,2013, Michigan,Allegan County,26005,0.061003089,3357,55030
+unemployment_1y,2013, Michigan,Bay County,26017,0.076141521,3792,49802
+unemployment_1y,2013, Michigan,Berrien County,26021,0.095696077,7184,75071
+unemployment_1y,2013, Michigan,Calhoun County,26025,0.087871306,5730,65209
+unemployment_1y,2013, Michigan,Clinton County,26037,0.053930767,2069,38364
+unemployment_1y,2013, Michigan,Eaton County,26045,0.073385604,4090,55733
+unemployment_1y,2013, Michigan,Genesee County,26049,0.124554262,23193,186208
+unemployment_1y,2013, Michigan,Grand Traverse County,26055,0.070597462,3240,45894
+unemployment_1y,2013, Michigan,Ingham County,26065,0.110765733,16570,149595
+unemployment_1y,2013, Michigan,Isabella County,26073,0.102870196,3964,38534
+unemployment_1y,2013, Michigan,Jackson County,26075,0.109837957,8100,73745
+unemployment_1y,2013, Michigan,Kalamazoo County,26077,0.103161223,14016,135865
+unemployment_1y,2013, Michigan,Kent County,26081,0.076079309,24879,327014
+unemployment_1y,2013, Michigan,Lapeer County,26087,0.109653346,4672,42607
+unemployment_1y,2013, Michigan,Lenawee County,26091,0.089166686,4294,48157
+unemployment_1y,2013, Michigan,Livingston County,26093,0.055150583,5349,96989
+unemployment_1y,2013, Michigan,Macomb County,26099,0.087482445,38367,438568
+unemployment_1y,2013, Michigan,Marquette County,26103,0.090647884,2934,32367
+unemployment_1y,2013, Michigan,Midland County,26111,0.095205091,3846,40397
+unemployment_1y,2013, Michigan,Monroe County,26115,0.097839847,7111,72680
+unemployment_1y,2013, Michigan,Muskegon County,26121,0.119258225,9640,80833
+unemployment_1y,2013, Michigan,Oakland County,26125,0.066414669,43592,656361
+unemployment_1y,2013, Michigan,Ottawa County,26139,0.061269626,8699,141979
+unemployment_1y,2013, Michigan,Saginaw County,26145,0.101422921,9259,91291
+unemployment_1y,2013, Michigan,Shiawassee County,26155,0.141624063,4709,33250
+unemployment_1y,2013, Michigan,St. Clair County,26147,0.109672777,8540,77868
+unemployment_1y,2013, Michigan,Van Buren County,26159,0.065982573,2302,34888
+unemployment_1y,2013, Michigan,Washtenaw County,26161,0.078087263,14808,189634
+unemployment_1y,2013, Michigan,Wayne County,26163,0.147983089,121095,818303
+unemployment_1y,2013, Minnesota,Anoka County,27003,0.058494393,11395,194805
+unemployment_1y,2013, Minnesota,Blue Earth County,27013,0.049841914,1939,38903
+unemployment_1y,2013, Minnesota,Carver County,27019,0.034299448,1884,54928
+unemployment_1y,2013, Minnesota,Dakota County,27037,0.051640105,12163,235534
+unemployment_1y,2013, Minnesota,Hennepin County,27053,0.060653262,41549,685025
+unemployment_1y,2013, Minnesota,Olmsted County,27109,0.047986075,4053,84462
+unemployment_1y,2013, Minnesota,Ramsey County,27123,0.070886694,20426,288150
+unemployment_1y,2013, Minnesota,Rice County,27131,0.051289883,1847,36011
+unemployment_1y,2013, Minnesota,Scott County,27139,0.040964261,3159,77116
+unemployment_1y,2013, Minnesota,St. Louis County,27137,0.056080934,5865,104581
+unemployment_1y,2013, Minnesota,Stearns County,27145,0.045044743,4047,89844
+unemployment_1y,2013, Minnesota,Washington County,27163,0.047699355,6562,137570
+unemployment_1y,2013, Minnesota,Wright County,27171,0.039687831,2858,72012
+unemployment_1y,2013, Mississippi,DeSoto County,28033,0.071484618,6377,89208
+unemployment_1y,2013, Mississippi,Forrest County,28035,0.136672467,5190,37974
+unemployment_1y,2013, Mississippi,Harrison County,28047,0.079509869,7897,99321
+unemployment_1y,2013, Mississippi,Hinds County,28049,0.107689328,12788,118749
+unemployment_1y,2013, Mississippi,Jackson County,28059,0.101146914,6482,64085
+unemployment_1y,2013, Mississippi,Lauderdale County,28075,0.10188771,3762,36923
+unemployment_1y,2013, Mississippi,Lee County,28081,0.063282333,2457,38826
+unemployment_1y,2013, Mississippi,Rankin County,28121,0.055677634,3978,71447
+unemployment_1y,2013, Missouri,Boone County,29019,0.042489093,4217,99249
+unemployment_1y,2013, Missouri,Buchanan County,29021,0.081346579,3627,44587
+unemployment_1y,2013, Missouri,Cape Girardeau County,29031,0.064264558,2604,40520
+unemployment_1y,2013, Missouri,Cass County,29037,0.06330993,3327,52551
+unemployment_1y,2013, Missouri,Christian County,29043,0.077314802,3249,42023
+unemployment_1y,2013, Missouri,Clay County,29047,0.061195437,7652,125042
+unemployment_1y,2013, Missouri,Cole County,29051,0.055700727,2089,37504
+unemployment_1y,2013, Missouri,Franklin County,29071,0.076999336,4039,52455
+unemployment_1y,2013, Missouri,Greene County,29077,0.069940314,10171,145424
+unemployment_1y,2013, Missouri,Jackson County,29095,0.065248027,23101,354049
+unemployment_1y,2013, Missouri,Jasper County,29097,0.066657439,3852,57788
+unemployment_1y,2013, Missouri,Jefferson County,29099,0.090744317,10564,116415
+unemployment_1y,2013, Missouri,Platte County,29165,0.053245377,2817,52906
+unemployment_1y,2013, Missouri,St. Charles County,29183,0.050163265,10554,210393
+unemployment_1y,2013, Missouri,St. Louis County,29189,0.072964184,39125,536222
+unemployment_1y,2013, Missouri,St. Louis city,29510,0.111374483,18466,165801
+unemployment_1y,2013, Montana,Cascade County,30013,0.052216955,2247,43032
+unemployment_1y,2013, Montana,Flathead County,30029,0.052799661,2480,46970
+unemployment_1y,2013, Montana,Gallatin County,30031,0.063310191,3575,56468
+unemployment_1y,2013, Montana,Missoula County,30063,0.103729025,6676,64360
+unemployment_1y,2013, Montana,Yellowstone County,30111,0.044528443,3593,80690
+unemployment_1y,2013, Nebraska,Douglas County,31055,0.045929316,13482,293538
+unemployment_1y,2013, Nebraska,Lancaster County,31109,0.05043114,8615,170827
+unemployment_1y,2013, Nebraska,Sarpy County,31153,0.048187546,4557,94568
+unemployment_1y,2013, Nevada,Clark County,32003,0.111336596,115926,1041221
+unemployment_1y,2013, Nevada,Washoe County,32031,0.096621357,22249,230270
+unemployment_1y,2013, New Hampshire,Cheshire County,33005,0.084550276,3636,43004
+unemployment_1y,2013, New Hampshire,Grafton County,33009,0.050570458,2460,48645
+unemployment_1y,2013, New Hampshire,Hillsborough County,33011,0.064679958,14455,223485
+unemployment_1y,2013, New Hampshire,Merrimack County,33013,0.049635962,3995,80486
+unemployment_1y,2013, New Hampshire,Rockingham County,33015,0.059066284,10391,175921
+unemployment_1y,2013, New Hampshire,Strafford County,33017,0.051647507,3765,72898
+unemployment_1y,2013, New Jersey,Atlantic County,34001,0.12331745,17755,143978
+unemployment_1y,2013, New Jersey,Bergen County,34003,0.071379319,34783,487298
+unemployment_1y,2013, New Jersey,Burlington County,34005,0.078279309,19340,247064
+unemployment_1y,2013, New Jersey,Camden County,34007,0.101277843,27098,267561
+unemployment_1y,2013, New Jersey,Cape May County,34009,0.096726559,4651,48084
+unemployment_1y,2013, New Jersey,Cumberland County,34011,0.148585007,10191,68587
+unemployment_1y,2013, New Jersey,Essex County,34013,0.138173223,56837,411346
+unemployment_1y,2013, New Jersey,Gloucester County,34015,0.101592898,15562,153180
+unemployment_1y,2013, New Jersey,Hudson County,34017,0.094421558,35115,371896
+unemployment_1y,2013, New Jersey,Hunterdon County,34019,0.057393465,3926,68405
+unemployment_1y,2013, New Jersey,Mercer County,34021,0.092263773,18228,197564
+unemployment_1y,2013, New Jersey,Middlesex County,34023,0.082334928,35921,436279
+unemployment_1y,2013, New Jersey,Monmouth County,34025,0.08415626,28387,337313
+unemployment_1y,2013, New Jersey,Morris County,34027,0.059782352,16508,276135
+unemployment_1y,2013, New Jersey,Ocean County,34029,0.090639591,24368,268845
+unemployment_1y,2013, New Jersey,Passaic County,34031,0.082274646,20633,250782
+unemployment_1y,2013, New Jersey,Salem County,34033,0.114452019,3677,32127
+unemployment_1y,2013, New Jersey,Somerset County,34035,0.057317555,10424,181864
+unemployment_1y,2013, New Jersey,Sussex County,34037,0.070470899,5808,82417
+unemployment_1y,2013, New Jersey,Union County,34039,0.099857196,29509,295512
+unemployment_1y,2013, New Jersey,Warren County,34041,0.097574793,5685,58263
+unemployment_1y,2013, New Mexico,Bernalillo County,35001,0.076431938,25881,338615
+unemployment_1y,2013, New Mexico,Doña Ana County,35013,0.124068327,12834,103443
+unemployment_1y,2013, New Mexico,McKinley County,35031,0.148784503,3611,24270
+unemployment_1y,2013, New Mexico,Otero County,35035,0.15161863,4440,29284
+unemployment_1y,2013, New Mexico,San Juan County,35045,0.084837317,4696,55353
+unemployment_1y,2013, New Mexico,Sandoval County,35043,0.097363114,6181,63484
+unemployment_1y,2013, New Mexico,Santa Fe County,35049,0.089935787,6611,73508
+unemployment_1y,2013, New Mexico,Valencia County,35061,0.078939959,2523,31961
+unemployment_1y,2013, New York,Albany County,36001,0.064954877,10774,165869
+unemployment_1y,2013, New York,Bronx County,36005,0.145815104,94120,645475
+unemployment_1y,2013, New York,Broome County,36007,0.082128309,7781,94742
+unemployment_1y,2013, New York,Cattaraugus County,36009,0.093289472,3488,37389
+unemployment_1y,2013, New York,Cayuga County,36011,0.062221777,2474,39761
+unemployment_1y,2013, New York,Chautauqua County,36013,0.095747516,6113,63845
+unemployment_1y,2013, New York,Chemung County,36015,0.06852632,2830,41298
+unemployment_1y,2013, New York,Clinton County,36019,0.091261044,3418,37453
+unemployment_1y,2013, New York,Dutchess County,36027,0.081693277,13063,159903
+unemployment_1y,2013, New York,Erie County,36029,0.074152164,35030,472407
+unemployment_1y,2013, New York,Jefferson County,36045,0.100251369,6102,60867
+unemployment_1y,2013, New York,Kings County,36047,0.103903957,135002,1299296
+unemployment_1y,2013, New York,Livingston County,36051,0.052733772,1711,32446
+unemployment_1y,2013, New York,Madison County,36053,0.051168092,1796,35100
+unemployment_1y,2013, New York,Monroe County,36055,0.087452725,34291,392109
+unemployment_1y,2013, New York,Nassau County,36059,0.065874107,46650,708169
+unemployment_1y,2013, New York,New York County,36061,0.074919581,71153,949725
+unemployment_1y,2013, New York,Niagara County,36063,0.092101462,10196,110704
+unemployment_1y,2013, New York,Oneida County,36065,0.07186006,7982,111077
+unemployment_1y,2013, New York,Onondaga County,36067,0.08025077,19521,243250
+unemployment_1y,2013, New York,Ontario County,36069,0.073391661,4278,58290
+unemployment_1y,2013, New York,Orange County,36071,0.078125566,15098,193253
+unemployment_1y,2013, New York,Oswego County,36075,0.114079483,6875,60265
+unemployment_1y,2013, New York,Putnam County,36079,0.051308025,2887,56268
+unemployment_1y,2013, New York,Queens County,36081,0.089020431,107329,1205667
+unemployment_1y,2013, New York,Rensselaer County,36083,0.084688872,7039,83116
+unemployment_1y,2013, New York,Richmond County,36085,0.073199295,16627,227147
+unemployment_1y,2013, New York,Rockland County,36087,0.092378914,14867,160935
+unemployment_1y,2013, New York,Saratoga County,36091,0.068757258,8470,123187
+unemployment_1y,2013, New York,Schenectady County,36093,0.087901793,7132,81136
+unemployment_1y,2013, New York,St. Lawrence County,36089,0.108980931,5423,49761
+unemployment_1y,2013, New York,Steuben County,36101,0.081337571,3814,46891
+unemployment_1y,2013, New York,Suffolk County,36103,0.068626978,54139,788888
+unemployment_1y,2013, New York,Sullivan County,36105,0.143912062,5145,35751
+unemployment_1y,2013, New York,Tompkins County,36109,0.052010261,2758,53028
+unemployment_1y,2013, New York,Ulster County,36111,0.087384075,8273,94674
+unemployment_1y,2013, New York,Warren County,36113,0.071364999,2566,35956
+unemployment_1y,2013, New York,Wayne County,36117,0.048264068,2145,44443
+unemployment_1y,2013, New York,Westchester County,36119,0.084322996,43312,513644
+unemployment_1y,2013, North Carolina,Alamance County,37001,0.069102354,5137,74339
+unemployment_1y,2013, North Carolina,Brunswick County,37019,0.130351558,6537,50149
+unemployment_1y,2013, North Carolina,Buncombe County,37021,0.061195031,7843,128164
+unemployment_1y,2013, North Carolina,Burke County,37023,0.123397127,5158,41800
+unemployment_1y,2013, North Carolina,Cabarrus County,37025,0.090360947,8782,97188
+unemployment_1y,2013, North Carolina,Caldwell County,37027,0.166869357,5900,35357
+unemployment_1y,2013, North Carolina,Carteret County,37031,0.119251467,3900,32704
+unemployment_1y,2013, North Carolina,Catawba County,37035,0.104040869,7943,76345
+unemployment_1y,2013, North Carolina,Cleveland County,37045,0.125468388,6161,49104
+unemployment_1y,2013, North Carolina,Craven County,37049,0.088067502,4415,50132
+unemployment_1y,2013, North Carolina,Cumberland County,37051,0.100893237,16220,160764
+unemployment_1y,2013, North Carolina,Davidson County,37057,0.123439699,9632,78030
+unemployment_1y,2013, North Carolina,Durham County,37063,0.072167814,11422,158270
+unemployment_1y,2013, North Carolina,Forsyth County,37067,0.078864776,14197,180017
+unemployment_1y,2013, North Carolina,Gaston County,37071,0.104289725,10911,104622
+unemployment_1y,2013, North Carolina,Guilford County,37081,0.089089319,23054,258774
+unemployment_1y,2013, North Carolina,Harnett County,37085,0.104498662,5928,56728
+unemployment_1y,2013, North Carolina,Henderson County,37089,0.066806138,3385,50669
+unemployment_1y,2013, North Carolina,Iredell County,37097,0.095800653,8012,83632
+unemployment_1y,2013, North Carolina,Johnston County,37101,0.103558697,9152,88375
+unemployment_1y,2013, North Carolina,Lincoln County,37109,0.120693706,5136,42554
+unemployment_1y,2013, North Carolina,Mecklenburg County,37119,0.092470936,51138,553017
+unemployment_1y,2013, North Carolina,Moore County,37125,0.071227647,2836,39816
+unemployment_1y,2013, North Carolina,Nash County,37127,0.113590091,5356,47152
+unemployment_1y,2013, North Carolina,New Hanover County,37129,0.091627076,10685,116614
+unemployment_1y,2013, North Carolina,Onslow County,37133,0.093755201,9583,102213
+unemployment_1y,2013, North Carolina,Orange County,37135,0.073180087,5533,75608
+unemployment_1y,2013, North Carolina,Pitt County,37147,0.116980046,10595,90571
+unemployment_1y,2013, North Carolina,Randolph County,37151,0.100143321,6568,65586
+unemployment_1y,2013, North Carolina,Robeson County,37155,0.127890617,7090,55438
+unemployment_1y,2013, North Carolina,Rockingham County,37157,0.108369343,4765,43970
+unemployment_1y,2013, North Carolina,Rowan County,37159,0.150202692,9485,63148
+unemployment_1y,2013, North Carolina,Surry County,37171,0.066479988,2113,31784
+unemployment_1y,2013, North Carolina,Union County,37179,0.0766121,8452,110322
+unemployment_1y,2013, North Carolina,Wake County,37183,0.067423858,36271,537955
+unemployment_1y,2013, North Carolina,Wayne County,37191,0.124434642,7676,61687
+unemployment_1y,2013, North Carolina,Wilson County,37195,0.076159023,3021,39667
+unemployment_1y,2013, North Dakota,Burleigh County,38015,0.012632888,650,51453
+unemployment_1y,2013, North Dakota,Cass County,38017,0.021782674,2088,95856
+unemployment_1y,2013, North Dakota,Grand Forks County,38035,0.047893409,1995,41655
+unemployment_1y,2013, North Dakota,Ward County,38101,0.016290134,654,40147
+unemployment_1y,2013, Ohio,Allen County,39003,0.097228155,5237,53863
+unemployment_1y,2013, Ohio,Ashtabula County,39007,0.082878493,3705,44704
+unemployment_1y,2013, Ohio,Belmont County,39013,0.067124836,2139,31866
+unemployment_1y,2013, Ohio,Butler County,39017,0.071045823,13431,189047
+unemployment_1y,2013, Ohio,Clark County,39023,0.085423402,5630,65907
+unemployment_1y,2013, Ohio,Clermont County,39025,0.042256195,4450,105310
+unemployment_1y,2013, Ohio,Columbiana County,39029,0.078866802,3967,50300
+unemployment_1y,2013, Ohio,Cuyahoga County,39035,0.1058437,68389,646132
+unemployment_1y,2013, Ohio,Delaware County,39041,0.030980011,3030,97805
+unemployment_1y,2013, Ohio,Erie County,39043,0.081294872,3114,38305
+unemployment_1y,2013, Ohio,Fairfield County,39045,0.061390623,4472,72845
+unemployment_1y,2013, Ohio,Franklin County,39049,0.065796465,43577,662300
+unemployment_1y,2013, Ohio,Geauga County,39055,0.044893473,2124,47312
+unemployment_1y,2013, Ohio,Greene County,39057,0.078194082,6597,84367
+unemployment_1y,2013, Ohio,Hamilton County,39061,0.084482871,34952,413717
+unemployment_1y,2013, Ohio,Hancock County,39063,0.057492979,2252,39170
+unemployment_1y,2013, Ohio,Jefferson County,39081,0.066408701,2008,30237
+unemployment_1y,2013, Ohio,Lake County,39085,0.06109836,7533,123293
+unemployment_1y,2013, Ohio,Licking County,39089,0.076445699,6812,89109
+unemployment_1y,2013, Ohio,Lorain County,39093,0.082888097,12985,156657
+unemployment_1y,2013, Ohio,Lucas County,39095,0.112383664,24139,214791
+unemployment_1y,2013, Ohio,Mahoning County,39099,0.098818921,10994,111254
+unemployment_1y,2013, Ohio,Marion County,39101,0.095499374,2663,27885
+unemployment_1y,2013, Ohio,Medina County,39103,0.041681994,3853,92438
+unemployment_1y,2013, Ohio,Miami County,39109,0.073449001,3882,52853
+unemployment_1y,2013, Ohio,Montgomery County,39113,0.101377167,27038,266707
+unemployment_1y,2013, Ohio,Muskingum County,39119,0.09033639,3671,40637
+unemployment_1y,2013, Ohio,Portage County,39133,0.095596552,9042,94585
+unemployment_1y,2013, Ohio,Richland County,39139,0.098147877,5331,54316
+unemployment_1y,2013, Ohio,Scioto County,39145,0.071409777,2171,30402
+unemployment_1y,2013, Ohio,Stark County,39151,0.085998639,16055,186689
+unemployment_1y,2013, Ohio,Summit County,39153,0.09381821,26562,283122
+unemployment_1y,2013, Ohio,Trumbull County,39155,0.083822042,7804,93102
+unemployment_1y,2013, Ohio,Tuscarawas County,39157,0.076648369,3477,45363
+unemployment_1y,2013, Ohio,Warren County,39165,0.080747068,9010,111583
+unemployment_1y,2013, Ohio,Wayne County,39169,0.036344483,2070,56955
+unemployment_1y,2013, Ohio,Wood County,39173,0.082761087,5785,69900
+unemployment_1y,2013, Oklahoma,Canadian County,40017,0.034172233,2292,67072
+unemployment_1y,2013, Oklahoma,Cleveland County,40027,0.058244027,8212,140993
+unemployment_1y,2013, Oklahoma,Comanche County,40031,0.09615203,6112,63566
+unemployment_1y,2013, Oklahoma,Creek County,40037,0.056592081,1735,30658
+unemployment_1y,2013, Oklahoma,Muskogee County,40101,0.079528578,2463,30970
+unemployment_1y,2013, Oklahoma,Oklahoma County,40109,0.060070746,22807,379669
+unemployment_1y,2013, Oklahoma,Pottawatomie County,40125,0.073342919,2296,31305
+unemployment_1y,2013, Oklahoma,Rogers County,40131,0.061610531,2775,45041
+unemployment_1y,2013, Oklahoma,Tulsa County,40143,0.065974839,21126,320213
+unemployment_1y,2013, Oklahoma,Wagoner County,40145,0.068924375,2542,36881
+unemployment_1y,2013, Oregon,Benton County,41003,0.092275031,3955,42861
+unemployment_1y,2013, Oregon,Clackamas County,41005,0.086979218,17660,203037
+unemployment_1y,2013, Oregon,Deschutes County,41017,0.064930819,5162,79500
+unemployment_1y,2013, Oregon,Douglas County,41019,0.109155737,4745,43470
+unemployment_1y,2013, Oregon,Jackson County,41029,0.106265783,10437,98216
+unemployment_1y,2013, Oregon,Josephine County,41033,0.126521081,3899,30817
+unemployment_1y,2013, Oregon,Klamath County,41035,0.115919575,3517,30340
+unemployment_1y,2013, Oregon,Lane County,41039,0.094567314,16723,176837
+unemployment_1y,2013, Oregon,Linn County,41043,0.111428834,6118,54905
+unemployment_1y,2013, Oregon,Marion County,41047,0.088098086,13559,153908
+unemployment_1y,2013, Oregon,Multnomah County,41051,0.092789732,39808,429013
+unemployment_1y,2013, Oregon,Polk County,41053,0.113060378,4305,38077
+unemployment_1y,2013, Oregon,Umatilla County,41059,0.102730781,3540,34459
+unemployment_1y,2013, Oregon,Washington County,41067,0.074003763,22142,299201
+unemployment_1y,2013, Oregon,Yamhill County,41071,0.105291329,5114,48570
+unemployment_1y,2013, Pennsylvania,Adams County,42001,0.072726265,3947,54272
+unemployment_1y,2013, Pennsylvania,Allegheny County,42003,0.073556796,48785,663229
+unemployment_1y,2013, Pennsylvania,Armstrong County,42005,0.077169441,2530,32785
+unemployment_1y,2013, Pennsylvania,Beaver County,42007,0.070890404,6257,88263
+unemployment_1y,2013, Pennsylvania,Berks County,42011,0.084320374,18253,216472
+unemployment_1y,2013, Pennsylvania,Blair County,42013,0.047617503,2932,61574
+unemployment_1y,2013, Pennsylvania,Bucks County,42017,0.08019083,27819,346910
+unemployment_1y,2013, Pennsylvania,Butler County,42019,0.06032617,5937,98415
+unemployment_1y,2013, Pennsylvania,Cambria County,42021,0.088402174,5796,65564
+unemployment_1y,2013, Pennsylvania,Centre County,42027,0.052566141,4101,78016
+unemployment_1y,2013, Pennsylvania,Chester County,42029,0.062324788,17430,279664
+unemployment_1y,2013, Pennsylvania,Clearfield County,42033,0.091735676,3279,35744
+unemployment_1y,2013, Pennsylvania,Columbia County,42037,0.05718891,1916,33503
+unemployment_1y,2013, Pennsylvania,Crawford County,42039,0.061149716,2420,39575
+unemployment_1y,2013, Pennsylvania,Cumberland County,42041,0.059774991,7550,126307
+unemployment_1y,2013, Pennsylvania,Dauphin County,42043,0.077016138,11204,145476
+unemployment_1y,2013, Pennsylvania,Delaware County,42045,0.094435491,27897,295408
+unemployment_1y,2013, Pennsylvania,Erie County,42049,0.074206039,10330,139207
+unemployment_1y,2013, Pennsylvania,Fayette County,42051,0.073084936,4176,57139
+unemployment_1y,2013, Pennsylvania,Franklin County,42055,0.072649352,5611,77234
+unemployment_1y,2013, Pennsylvania,Indiana County,42063,0.093207747,4077,43741
+unemployment_1y,2013, Pennsylvania,Lackawanna County,42069,0.065701261,6801,103514
+unemployment_1y,2013, Pennsylvania,Lancaster County,42071,0.069395669,19187,276487
+unemployment_1y,2013, Pennsylvania,Lawrence County,42073,0.070486367,2955,41923
+unemployment_1y,2013, Pennsylvania,Lebanon County,42075,0.081756845,5683,69511
+unemployment_1y,2013, Pennsylvania,Lehigh County,42077,0.090597905,16542,182587
+unemployment_1y,2013, Pennsylvania,Luzerne County,42079,0.07888671,12491,158341
+unemployment_1y,2013, Pennsylvania,Lycoming County,42081,0.094058804,5435,57783
+unemployment_1y,2013, Pennsylvania,Mercer County,42085,0.069964863,3923,56071
+unemployment_1y,2013, Pennsylvania,Monroe County,42089,0.117958285,10367,87887
+unemployment_1y,2013, Pennsylvania,Montgomery County,42091,0.069345839,30984,446804
+unemployment_1y,2013, Pennsylvania,Northampton County,42095,0.078658476,12238,155584
+unemployment_1y,2013, Pennsylvania,Northumberland County,42097,0.072105005,3274,45406
+unemployment_1y,2013, Pennsylvania,Philadelphia County,42101,0.137940183,102437,742619
+unemployment_1y,2013, Pennsylvania,Schuylkill County,42107,0.080354609,5656,70388
+unemployment_1y,2013, Pennsylvania,Somerset County,42111,0.077013731,2810,36487
+unemployment_1y,2013, Pennsylvania,Washington County,42125,0.074217662,8021,108074
+unemployment_1y,2013, Pennsylvania,Westmoreland County,42129,0.063392848,11582,182702
+unemployment_1y,2013, Pennsylvania,York County,42133,0.07838323,18611,237436
+unemployment_1y,2013, Puerto Rico,Arecibo Municipio,72013,0.169576854,4817,28406
+unemployment_1y,2013, Puerto Rico,Bayamón Municipio,72021,0.156468228,12839,82055
+unemployment_1y,2013, Puerto Rico,Caguas Municipio,72025,0.191816777,11181,58290
+unemployment_1y,2013, Puerto Rico,Carolina Municipio,72031,0.12634401,9518,75334
+unemployment_1y,2013, Puerto Rico,Guaynabo Municipio,72061,0.111763738,4738,42393
+unemployment_1y,2013, Puerto Rico,Mayagüez Municipio,72097,0.20769316,5664,27271
+unemployment_1y,2013, Puerto Rico,Ponce Municipio,72113,0.158309951,7786,49182
+unemployment_1y,2013, Puerto Rico,San Juan Municipio,72127,0.143771216,22402,155817
+unemployment_1y,2013, Puerto Rico,Toa Baja Municipio,72137,0.194345057,7224,37171
+unemployment_1y,2013, Rhode Island,Kent County,44003,0.081140965,7800,96129
+unemployment_1y,2013, Rhode Island,Newport County,44005,0.086638309,4013,46319
+unemployment_1y,2013, Rhode Island,Providence County,44007,0.099185742,33011,332820
+unemployment_1y,2013, Rhode Island,Washington County,44009,0.07320945,5027,68666
+unemployment_1y,2013, South Carolina,Aiken County,45003,0.127104342,10087,79360
+unemployment_1y,2013, South Carolina,Anderson County,45007,0.089923173,7877,87597
+unemployment_1y,2013, South Carolina,Beaufort County,45013,0.046396747,3879,83605
+unemployment_1y,2013, South Carolina,Berkeley County,45015,0.099740371,9873,98987
+unemployment_1y,2013, South Carolina,Charleston County,45019,0.076954924,15614,202898
+unemployment_1y,2013, South Carolina,Darlington County,45031,0.162951156,5007,30727
+unemployment_1y,2013, South Carolina,Dorchester County,45035,0.076980345,5687,73876
+unemployment_1y,2013, South Carolina,Florence County,45041,0.126302466,8182,64781
+unemployment_1y,2013, South Carolina,Greenville County,45045,0.072119147,17045,236345
+unemployment_1y,2013, South Carolina,Greenwood County,45047,0.145377889,4655,32020
+unemployment_1y,2013, South Carolina,Horry County,45051,0.092606992,13219,142743
+unemployment_1y,2013, South Carolina,Laurens County,45059,0.075816341,2287,30165
+unemployment_1y,2013, South Carolina,Lexington County,45063,0.075117275,10857,144534
+unemployment_1y,2013, South Carolina,Orangeburg County,45075,0.101076983,3801,37605
+unemployment_1y,2013, South Carolina,Pickens County,45077,0.092767797,5236,56442
+unemployment_1y,2013, South Carolina,Richland County,45079,0.104435198,22492,215368
+unemployment_1y,2013, South Carolina,Spartanburg County,45083,0.086828448,12233,140887
+unemployment_1y,2013, South Carolina,Sumter County,45085,0.109885372,5608,51035
+unemployment_1y,2013, South Carolina,York County,45091,0.070512556,8550,121255
+unemployment_1y,2013, South Dakota,Minnehaha County,46099,0.035875041,3738,104195
+unemployment_1y,2013, South Dakota,Pennington County,46103,0.048937518,2782,56848
+unemployment_1y,2013, Tennessee,Anderson County,47001,0.095394112,2999,31438
+unemployment_1y,2013, Tennessee,Blount County,47009,0.081343196,4806,59083
+unemployment_1y,2013, Tennessee,Bradley County,47011,0.107431255,5255,48915
+unemployment_1y,2013, Tennessee,Davidson County,47037,0.070899121,26170,369116
+unemployment_1y,2013, Tennessee,Greene County,47059,0.080556668,2408,29892
+unemployment_1y,2013, Tennessee,Hamilton County,47065,0.077355392,13599,175799
+unemployment_1y,2013, Tennessee,Knox County,47093,0.076294549,17601,230698
+unemployment_1y,2013, Tennessee,Madison County,47113,0.093667492,4470,47722
+unemployment_1y,2013, Tennessee,Montgomery County,47125,0.07655362,7045,92027
+unemployment_1y,2013, Tennessee,Putnam County,47141,0.105344154,3491,33139
+unemployment_1y,2013, Tennessee,Robertson County,47147,0.090239465,3124,34619
+unemployment_1y,2013, Tennessee,Rutherford County,47149,0.069574244,10519,151191
+unemployment_1y,2013, Tennessee,Sevier County,47155,0.078781694,3704,47016
+unemployment_1y,2013, Tennessee,Shelby County,47157,0.11039409,52826,478522
+unemployment_1y,2013, Tennessee,Sullivan County,47163,0.093718193,6906,73689
+unemployment_1y,2013, Tennessee,Sumner County,47165,0.058309741,5087,87241
+unemployment_1y,2013, Tennessee,Washington County,47179,0.051914815,3347,64471
+unemployment_1y,2013, Tennessee,Williamson County,47187,0.040579144,4148,102220
+unemployment_1y,2013, Tennessee,Wilson County,47189,0.059738625,3794,63510
+unemployment_1y,2013, Texas,Angelina County,48005,0.059455037,2326,39122
+unemployment_1y,2013, Texas,Bell County,48027,0.097753495,15691,160516
+unemployment_1y,2013, Texas,Bexar County,48029,0.071469359,64952,908809
+unemployment_1y,2013, Texas,Bowie County,48037,0.081715576,3258,39870
+unemployment_1y,2013, Texas,Brazoria County,48039,0.051434685,8511,165472
+unemployment_1y,2013, Texas,Brazos County,48041,0.066693909,7018,105227
+unemployment_1y,2013, Texas,Cameron County,48061,0.124672882,20295,162786
+unemployment_1y,2013, Texas,Collin County,48085,0.05230803,24344,465397
+unemployment_1y,2013, Texas,Comal County,48091,0.049479034,2892,58449
+unemployment_1y,2013, Texas,Coryell County,48099,0.087692,3100,35351
+unemployment_1y,2013, Texas,Dallas County,48113,0.076431781,98980,1295011
+unemployment_1y,2013, Texas,Denton County,48121,0.054404899,22070,405662
+unemployment_1y,2013, Texas,Ector County,48135,0.061803538,4681,75740
+unemployment_1y,2013, Texas,El Paso County,48141,0.081913583,30872,376885
+unemployment_1y,2013, Texas,Ellis County,48139,0.075800732,6068,80052
+unemployment_1y,2013, Texas,Fort Bend County,48157,0.0528511,17740,335660
+unemployment_1y,2013, Texas,Galveston County,48167,0.074633829,11363,152250
+unemployment_1y,2013, Texas,Grayson County,48181,0.09512876,5552,58363
+unemployment_1y,2013, Texas,Gregg County,48183,0.044891208,2579,57450
+unemployment_1y,2013, Texas,Guadalupe County,48187,0.063535072,4596,72338
+unemployment_1y,2013, Texas,Harris County,48201,0.073915429,166163,2248015
+unemployment_1y,2013, Texas,Hays County,48209,0.068338431,6456,94471
+unemployment_1y,2013, Texas,Henderson County,48213,0.100952625,3158,31282
+unemployment_1y,2013, Texas,Hidalgo County,48215,0.090552814,29622,327124
+unemployment_1y,2013, Texas,Hunt County,48231,0.106558777,4359,40907
+unemployment_1y,2013, Texas,Jefferson County,48245,0.081786849,9017,110250
+unemployment_1y,2013, Texas,Johnson County,48251,0.071665034,5109,71290
+unemployment_1y,2013, Texas,Lubbock County,48303,0.071219191,10666,149763
+unemployment_1y,2013, Texas,McLennan County,48309,0.063818268,7664,120091
+unemployment_1y,2013, Texas,Montgomery County,48339,0.05761683,13858,240520
+unemployment_1y,2013, Texas,Nacogdoches County,48347,0.090210199,2605,28877
+unemployment_1y,2013, Texas,Nueces County,48355,0.060162429,10771,179032
+unemployment_1y,2013, Texas,Orange County,48361,0.074705854,2908,38926
+unemployment_1y,2013, Texas,Parker County,48367,0.061621029,3720,60369
+unemployment_1y,2013, Texas,Potter County,48375,0.046563152,2648,56869
+unemployment_1y,2013, Texas,Randall County,48381,0.047195874,3229,68417
+unemployment_1y,2013, Texas,Smith County,48423,0.077092238,8133,105497
+unemployment_1y,2013, Texas,Tarrant County,48439,0.067921057,68055,1001972
+unemployment_1y,2013, Texas,Taylor County,48441,0.051833011,3587,69203
+unemployment_1y,2013, Texas,Tom Green County,48451,0.037704434,2174,57659
+unemployment_1y,2013, Texas,Travis County,48453,0.060783274,39226,645342
+unemployment_1y,2013, Texas,Victoria County,48469,0.05152081,2263,43924
+unemployment_1y,2013, Texas,Webb County,48479,0.069723427,7036,100913
+unemployment_1y,2013, Texas,Wichita County,48485,0.057648957,3785,65656
+unemployment_1y,2013, Texas,Williamson County,48491,0.064008869,15932,248903
+unemployment_1y,2013, Utah,Cache County,49005,0.05604694,3219,57434
+unemployment_1y,2013, Utah,Davis County,49011,0.036741409,5740,156227
+unemployment_1y,2013, Utah,Salt Lake County,49035,0.057891931,32804,566642
+unemployment_1y,2013, Utah,Utah County,49049,0.054850966,13658,249002
+unemployment_1y,2013, Utah,Washington County,49053,0.060535133,3776,62377
+unemployment_1y,2013, Utah,Weber County,49057,0.057930652,6698,115621
+unemployment_1y,2013, Vermont,Chittenden County,50007,0.059646498,5585,93635
+unemployment_1y,2013, Virginia,Albemarle County,51003,0.029775575,1478,49638
+unemployment_1y,2013, Virginia,Alexandria city,51510,0.044639491,4379,98097
+unemployment_1y,2013, Virginia,Arlington County,51013,0.033733454,4977,147539
+unemployment_1y,2013, Virginia,Chesapeake city,51550,0.080728181,9614,119091
+unemployment_1y,2013, Virginia,Chesterfield County,51041,0.074692227,13457,180166
+unemployment_1y,2013, Virginia,Fairfax County,51059,0.050506778,32799,649398
+unemployment_1y,2013, Virginia,Fauquier County,51061,0.050368138,1806,35856
+unemployment_1y,2013, Virginia,Hampton city,51650,0.085735738,6052,70589
+unemployment_1y,2013, Virginia,Hanover County,51085,0.040317021,2223,55138
+unemployment_1y,2013, Virginia,Henrico County,51087,0.061537571,10642,172935
+unemployment_1y,2013, Virginia,Loudoun County,51107,0.046176948,9010,195119
+unemployment_1y,2013, Virginia,Lynchburg city,51680,0.112385258,4224,37585
+unemployment_1y,2013, Virginia,Montgomery County,51121,0.032869313,1497,45544
+unemployment_1y,2013, Virginia,Newport News city,51700,0.076674715,7528,98181
+unemployment_1y,2013, Virginia,Norfolk city,51710,0.080531076,10839,134594
+unemployment_1y,2013, Virginia,Portsmouth city,51740,0.08778026,4244,48348
+unemployment_1y,2013, Virginia,Prince William County,51153,0.057982303,14142,243902
+unemployment_1y,2013, Virginia,Richmond city,51760,0.108296745,12382,114334
+unemployment_1y,2013, Virginia,Roanoke County,51161,0.071952432,3473,48268
+unemployment_1y,2013, Virginia,Roanoke city,51770,0.068625316,3471,50579
+unemployment_1y,2013, Virginia,Rockingham County,51165,0.055495832,2323,41859
+unemployment_1y,2013, Virginia,Spotsylvania County,51177,0.048807297,3286,67326
+unemployment_1y,2013, Virginia,Stafford County,51179,0.054957181,3934,71583
+unemployment_1y,2013, Virginia,Suffolk city,51800,0.105097368,4771,45396
+unemployment_1y,2013, Virginia,Virginia Beach city,51810,0.057785377,14603,252711
+unemployment_1y,2013, Virginia,York County,51199,0.06859377,2456,35805
+unemployment_1y,2013, Washington,Benton County,53005,0.079420619,7150,90027
+unemployment_1y,2013, Washington,Clallam County,53009,0.103849597,3248,31276
+unemployment_1y,2013, Washington,Clark County,53011,0.089165322,19217,215521
+unemployment_1y,2013, Washington,Cowlitz County,53015,0.097014278,4458,45952
+unemployment_1y,2013, Washington,Grant County,53025,0.105938733,4399,41524
+unemployment_1y,2013, Washington,Grays Harbor County,53027,0.147947699,4401,29747
+unemployment_1y,2013, Washington,Island County,53029,0.090971224,3594,39507
+unemployment_1y,2013, Washington,King County,53033,0.064721063,74115,1145145
+unemployment_1y,2013, Washington,Kitsap County,53035,0.063775495,8472,132841
+unemployment_1y,2013, Washington,Lewis County,53041,0.119263567,3958,33187
+unemployment_1y,2013, Washington,Pierce County,53053,0.091037542,37885,416147
+unemployment_1y,2013, Washington,Skagit County,53057,0.074851468,4208,56218
+unemployment_1y,2013, Washington,Snohomish County,53061,0.074825652,30096,402215
+unemployment_1y,2013, Washington,Spokane County,53063,0.079900414,18197,227746
+unemployment_1y,2013, Washington,Thurston County,53067,0.083765574,10804,128979
+unemployment_1y,2013, Washington,Whatcom County,53073,0.079565033,8451,106215
+unemployment_1y,2013, Washington,Yakima County,53077,0.098818436,11140,112732
+unemployment_1y,2013, West Virginia,Berkeley County,54003,0.118548051,6571,55429
+unemployment_1y,2013, West Virginia,Cabell County,54011,0.069563337,2893,41588
+unemployment_1y,2013, West Virginia,Kanawha County,54039,0.065506652,6080,92815
+unemployment_1y,2013, West Virginia,Monongalia County,54061,0.049095329,2727,55545
+unemployment_1y,2013, West Virginia,Raleigh County,54081,0.067290373,2129,31639
+unemployment_1y,2013, West Virginia,Wood County,54107,0.094632424,3854,40726
+unemployment_1y,2013, Wisconsin,Brown County,55009,0.073229782,10103,137963
+unemployment_1y,2013, Wisconsin,Dane County,55025,0.048809219,14709,301357
+unemployment_1y,2013, Wisconsin,Dodge County,55027,0.059227087,2659,44895
+unemployment_1y,2013, Wisconsin,Eau Claire County,55035,0.056085777,3285,58571
+unemployment_1y,2013, Wisconsin,Fond du Lac County,55039,0.0398129,2196,55158
+unemployment_1y,2013, Wisconsin,Jefferson County,55055,0.047944162,2205,45991
+unemployment_1y,2013, Wisconsin,Kenosha County,55059,0.108052209,9561,88485
+unemployment_1y,2013, Wisconsin,La Crosse County,55063,0.056211732,3755,66801
+unemployment_1y,2013, Wisconsin,Manitowoc County,55071,0.061411694,2698,43933
+unemployment_1y,2013, Wisconsin,Marathon County,55073,0.045393534,3348,73755
+unemployment_1y,2013, Wisconsin,Milwaukee County,55079,0.091359556,44397,485959
+unemployment_1y,2013, Wisconsin,Outagamie County,55087,0.040631738,4052,99725
+unemployment_1y,2013, Wisconsin,Ozaukee County,55089,0.036897078,1738,47104
+unemployment_1y,2013, Wisconsin,Portage County,55097,0.069986612,2666,38093
+unemployment_1y,2013, Wisconsin,Racine County,55101,0.101506375,10074,99245
+unemployment_1y,2013, Wisconsin,Rock County,55105,0.079884395,6551,82006
+unemployment_1y,2013, Wisconsin,Sheboygan County,55117,0.057385415,3542,61723
+unemployment_1y,2013, Wisconsin,St. Croix County,55109,0.057936639,2809,48484
+unemployment_1y,2013, Wisconsin,Walworth County,55127,0.08385653,4835,57658
+unemployment_1y,2013, Wisconsin,Washington County,55131,0.05867786,4431,75514
+unemployment_1y,2013, Wisconsin,Waukesha County,55133,0.042396013,9320,219832
+unemployment_1y,2013, Wisconsin,Winnebago County,55139,0.048819207,4459,91337
+unemployment_1y,2013, Wisconsin,Wood County,55141,0.079208672,3135,39579
+unemployment_1y,2013, Wyoming,Laramie County,56021,0.050573524,2641,52221
+unemployment_1y,2013, Wyoming,Natrona County,56025,0.062714286,2762,44041

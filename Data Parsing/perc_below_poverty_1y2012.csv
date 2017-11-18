@@ -1,0 +1,826 @@
+measure label,year,state,county,fips,perc_below_poverty_1y2012,numerator,denominator
+perc_below_poverty_1y,2012, Alabama,Baldwin County,1003,0.140557483,26448,188165
+perc_below_poverty_1y,2012, Alabama,Calhoun County,1015,0.221664727,25270,114001
+perc_below_poverty_1y,2012, Alabama,Cullman County,1043,0.197444499,15607,79045
+perc_below_poverty_1y,2012, Alabama,DeKalb County,1049,0.132594645,9334,70395
+perc_below_poverty_1y,2012, Alabama,Elmore County,1051,0.129935443,9922,76361
+perc_below_poverty_1y,2012, Alabama,Etowah County,1055,0.212490991,21819,102682
+perc_below_poverty_1y,2012, Alabama,Houston County,1069,0.191725507,19607,102266
+perc_below_poverty_1y,2012, Alabama,Jefferson County,1073,0.185941651,120297,646961
+perc_below_poverty_1y,2012, Alabama,Lauderdale County,1077,0.218818098,19884,90870
+perc_below_poverty_1y,2012, Alabama,Lee County,1081,0.246375173,34970,141938
+perc_below_poverty_1y,2012, Alabama,Limestone County,1083,0.102711208,8683,84538
+perc_below_poverty_1y,2012, Alabama,Madison County,1089,0.123348527,41369,335383
+perc_below_poverty_1y,2012, Alabama,Marshall County,1095,0.2319078,21653,93369
+perc_below_poverty_1y,2012, Alabama,Mobile County,1097,0.210585982,84891,403118
+perc_below_poverty_1y,2012, Alabama,Montgomery County,1101,0.213734016,47624,222819
+perc_below_poverty_1y,2012, Alabama,Morgan County,1103,0.162973568,19358,118780
+perc_below_poverty_1y,2012, Alabama,Shelby County,1117,0.08557114,16943,197999
+perc_below_poverty_1y,2012, Alabama,St. Clair County,1115,0.167604506,13880,82814
+perc_below_poverty_1y,2012, Alabama,Talladega County,1121,0.245566502,19123,77873
+perc_below_poverty_1y,2012, Alabama,Tuscaloosa County,1125,0.196689039,36962,187921
+perc_below_poverty_1y,2012, Alabama,Walker County,1127,0.216829717,14185,65420
+perc_below_poverty_1y,2012, Alaska,Anchorage Municipality,2020,0.083703741,24481,292472
+perc_below_poverty_1y,2012, Alaska,Fairbanks North Star Borough,2090,0.068849772,6646,96529
+perc_below_poverty_1y,2012, Alaska,Matanuska-Susitna Borough,2170,0.096145302,8872,92277
+perc_below_poverty_1y,2012, Arizona,Apache County,4001,0.331500262,23811,71828
+perc_below_poverty_1y,2012, Arizona,Cochise County,4003,0.186965659,22503,120359
+perc_below_poverty_1y,2012, Arizona,Coconino County,4005,0.259720653,33191,127795
+perc_below_poverty_1y,2012, Arizona,Maricopa County,4013,0.174505979,678741,3889500
+perc_below_poverty_1y,2012, Arizona,Mohave County,4015,0.216861904,40839,188318
+perc_below_poverty_1y,2012, Arizona,Navajo County,4017,0.306902349,32067,104486
+perc_below_poverty_1y,2012, Arizona,Pima County,4019,0.199769318,193466,968447
+perc_below_poverty_1y,2012, Arizona,Pinal County,4021,0.170298636,62581,367478
+perc_below_poverty_1y,2012, Arizona,Yavapai County,4025,0.14314194,30085,210176
+perc_below_poverty_1y,2012, Arizona,Yuma County,4027,0.215695381,41313,191534
+perc_below_poverty_1y,2012, Arkansas,Benton County,5007,0.141790166,32501,229219
+perc_below_poverty_1y,2012, Arkansas,Craighead County,5031,0.171483383,16270,94878
+perc_below_poverty_1y,2012, Arkansas,Faulkner County,5045,0.1424274,16240,114023
+perc_below_poverty_1y,2012, Arkansas,Garland County,5051,0.199176013,18951,95147
+perc_below_poverty_1y,2012, Arkansas,Jefferson County,5069,0.22982116,15794,68723
+perc_below_poverty_1y,2012, Arkansas,Lonoke County,5085,0.110477455,7652,69263
+perc_below_poverty_1y,2012, Arkansas,Pulaski County,5119,0.186383575,71526,383757
+perc_below_poverty_1y,2012, Arkansas,Saline County,5125,0.078602701,8672,110327
+perc_below_poverty_1y,2012, Arkansas,Sebastian County,5131,0.207082197,25848,124820
+perc_below_poverty_1y,2012, Arkansas,Washington County,5143,0.197104156,40158,203740
+perc_below_poverty_1y,2012, Arkansas,White County,5145,0.2089037,15673,75025
+perc_below_poverty_1y,2012, California,Alameda County,6001,0.130750701,199402,1525055
+perc_below_poverty_1y,2012, California,Butte County,6007,0.220401958,47693,216391
+perc_below_poverty_1y,2012, California,Contra Costa County,6013,0.111777224,119608,1070057
+perc_below_poverty_1y,2012, California,El Dorado County,6017,0.085600026,15326,179042
+perc_below_poverty_1y,2012, California,Fresno County,6019,0.28439784,264738,930872
+perc_below_poverty_1y,2012, California,Humboldt County,6023,0.226364389,29814,131708
+perc_below_poverty_1y,2012, California,Imperial County,6025,0.226979509,37332,164473
+perc_below_poverty_1y,2012, California,Kern County,6029,0.238327563,196625,825020
+perc_below_poverty_1y,2012, California,Kings County,6031,0.21201244,27819,131214
+perc_below_poverty_1y,2012, California,Lake County,6033,0.266462892,16825,63142
+perc_below_poverty_1y,2012, California,Los Angeles County,6037,0.190741315,1870813,9808116
+perc_below_poverty_1y,2012, California,Madera County,6039,0.235579967,33936,144053
+perc_below_poverty_1y,2012, California,Marin County,6041,0.078894213,19686,249524
+perc_below_poverty_1y,2012, California,Mendocino County,6045,0.222209334,19154,86198
+perc_below_poverty_1y,2012, California,Merced County,6047,0.243205041,62448,256771
+perc_below_poverty_1y,2012, California,Monterey County,6053,0.183960021,74981,407594
+perc_below_poverty_1y,2012, California,Napa County,6055,0.088571236,11996,135439
+perc_below_poverty_1y,2012, California,Nevada County,6057,0.11553143,11259,97454
+perc_below_poverty_1y,2012, California,Orange County,6059,0.129458502,395380,3054106
+perc_below_poverty_1y,2012, California,Placer County,6061,0.096774191,34701,358577
+perc_below_poverty_1y,2012, California,Riverside County,6065,0.178192094,398102,2234117
+perc_below_poverty_1y,2012, California,Sacramento County,6067,0.196191072,280771,1431110
+perc_below_poverty_1y,2012, California,San Bernardino County,6071,0.203999206,415149,2035052
+perc_below_poverty_1y,2012, California,San Diego County,6073,0.15018779,465295,3098088
+perc_below_poverty_1y,2012, California,San Francisco County,6075,0.149962813,121792,812148
+perc_below_poverty_1y,2012, California,San Joaquin County,6077,0.183792949,126610,688873
+perc_below_poverty_1y,2012, California,San Luis Obispo County,6079,0.137115747,35434,258424
+perc_below_poverty_1y,2012, California,San Mateo County,6081,0.084178306,61741,733455
+perc_below_poverty_1y,2012, California,Santa Barbara County,6083,0.163147807,67359,412871
+perc_below_poverty_1y,2012, California,Santa Clara County,6085,0.107919991,195518,1811694
+perc_below_poverty_1y,2012, California,Santa Cruz County,6087,0.13382265,34204,255592
+perc_below_poverty_1y,2012, California,Shasta County,6089,0.165677071,29131,175830
+perc_below_poverty_1y,2012, California,Solano County,6095,0.145942718,59515,407797
+perc_below_poverty_1y,2012, California,Sonoma County,6097,0.120992832,58686,485037
+perc_below_poverty_1y,2012, California,Stanislaus County,6099,0.202651396,104559,515955
+perc_below_poverty_1y,2012, California,Sutter County,6101,0.204947263,19255,93951
+perc_below_poverty_1y,2012, California,Tulare County,6107,0.304363489,135194,444186
+perc_below_poverty_1y,2012, California,Ventura County,6111,0.11506404,94910,824845
+perc_below_poverty_1y,2012, California,Yolo County,6113,0.180166289,35278,195808
+perc_below_poverty_1y,2012, California,Yuba County,6115,0.237327635,17005,71652
+perc_below_poverty_1y,2012, Colorado,Adams County,8001,0.14876461,67417,453179
+perc_below_poverty_1y,2012, Colorado,Arapahoe County,8005,0.119989291,70792,589986
+perc_below_poverty_1y,2012, Colorado,Boulder County,8013,0.14532949,42978,295728
+perc_below_poverty_1y,2012, Colorado,Denver County,8031,0.192190453,119662,622622
+perc_below_poverty_1y,2012, Colorado,Douglas County,8035,0.046824366,13900,296854
+perc_below_poverty_1y,2012, Colorado,El Paso County,8041,0.129344404,81030,626467
+perc_below_poverty_1y,2012, Colorado,Jefferson County,8059,0.091791242,49104,534953
+perc_below_poverty_1y,2012, Colorado,Larimer County,8069,0.139937565,42316,302392
+perc_below_poverty_1y,2012, Colorado,Mesa County,8077,0.161064953,23285,144569
+perc_below_poverty_1y,2012, Colorado,Pueblo County,8101,0.200328737,31445,156967
+perc_below_poverty_1y,2012, Colorado,Weld County,8123,0.147484854,37734,255850
+perc_below_poverty_1y,2012, Connecticut,Fairfield County,9001,0.089132823,81629,915813
+perc_below_poverty_1y,2012, Connecticut,Hartford County,9003,0.12462084,108751,872655
+perc_below_poverty_1y,2012, Connecticut,Litchfield County,9005,0.064364187,11916,185134
+perc_below_poverty_1y,2012, Connecticut,Middlesex County,9007,0.056524638,9070,160461
+perc_below_poverty_1y,2012, Connecticut,New Haven County,9009,0.135192573,113308,838123
+perc_below_poverty_1y,2012, Connecticut,New London County,9011,0.09169025,24105,262896
+perc_below_poverty_1y,2012, Connecticut,Tolland County,9013,0.070096888,9550,136240
+perc_below_poverty_1y,2012, Connecticut,Windham County,9015,0.124592401,14061,112856
+perc_below_poverty_1y,2012, Delaware,Kent County,10001,0.119206935,19330,162155
+perc_below_poverty_1y,2012, Delaware,New Castle County,10003,0.108398318,57411,529630
+perc_below_poverty_1y,2012, Delaware,Sussex County,10005,0.15363428,30566,198953
+perc_below_poverty_1y,2012, District of Columbia,District of Columbia,11001,0.181780189,108732,598151
+perc_below_poverty_1y,2012, Florida,Alachua County,12001,0.277468085,66099,238222
+perc_below_poverty_1y,2012, Florida,Bay County,12005,0.16177237,27335,168972
+perc_below_poverty_1y,2012, Florida,Brevard County,12009,0.147332579,79606,540315
+perc_below_poverty_1y,2012, Florida,Broward County,12011,0.150848046,271736,1801389
+perc_below_poverty_1y,2012, Florida,Charlotte County,12015,0.125825897,19977,158767
+perc_below_poverty_1y,2012, Florida,Citrus County,12017,0.188333869,25691,136412
+perc_below_poverty_1y,2012, Florida,Clay County,12019,0.109231114,21078,192967
+perc_below_poverty_1y,2012, Florida,Collier County,12021,0.13776879,45297,328790
+perc_below_poverty_1y,2012, Florida,Columbia County,12023,0.24277766,15404,63449
+perc_below_poverty_1y,2012, Florida,Duval County,12031,0.181014925,155778,860581
+perc_below_poverty_1y,2012, Florida,Escambia County,12033,0.171329886,48510,283138
+perc_below_poverty_1y,2012, Florida,Flagler County,12035,0.185407072,18105,97650
+perc_below_poverty_1y,2012, Florida,Hernando County,12053,0.189847082,32476,171064
+perc_below_poverty_1y,2012, Florida,Highlands County,12055,0.219908938,21347,97072
+perc_below_poverty_1y,2012, Florida,Hillsborough County,12057,0.192284405,242003,1258568
+perc_below_poverty_1y,2012, Florida,Indian River County,12061,0.171739966,23747,138273
+perc_below_poverty_1y,2012, Florida,Lake County,12069,0.159169361,47584,298952
+perc_below_poverty_1y,2012, Florida,Lee County,12071,0.152829811,97210,636067
+perc_below_poverty_1y,2012, Florida,Leon County,12073,0.21650897,58785,271513
+perc_below_poverty_1y,2012, Florida,Manatee County,12081,0.154472873,51002,330168
+perc_below_poverty_1y,2012, Florida,Marion County,12083,0.183074728,59762,326435
+perc_below_poverty_1y,2012, Florida,Martin County,12085,0.15033856,21892,145618
+perc_below_poverty_1y,2012, Florida,Miami-Dade County,12086,0.207769141,530220,2551967
+perc_below_poverty_1y,2012, Florida,Monroe County,12087,0.141542569,10398,73462
+perc_below_poverty_1y,2012, Florida,Nassau County,12089,0.154904842,11289,72877
+perc_below_poverty_1y,2012, Florida,Okaloosa County,12091,0.137644365,25349,184163
+perc_below_poverty_1y,2012, Florida,Orange County,12095,0.180946603,212476,1174247
+perc_below_poverty_1y,2012, Florida,Osceola County,12097,0.199430957,56705,284334
+perc_below_poverty_1y,2012, Florida,Palm Beach County,12099,0.143431991,191948,1338251
+perc_below_poverty_1y,2012, Florida,Pasco County,12101,0.128456444,59449,462795
+perc_below_poverty_1y,2012, Florida,Pinellas County,12103,0.137435436,124761,907779
+perc_below_poverty_1y,2012, Florida,Polk County,12105,0.17923227,107634,600528
+perc_below_poverty_1y,2012, Florida,Putnam County,12107,0.247981578,17876,72086
+perc_below_poverty_1y,2012, Florida,Santa Rosa County,12113,0.119045757,18279,153546
+perc_below_poverty_1y,2012, Florida,Sarasota County,12115,0.123974331,47125,380119
+perc_below_poverty_1y,2012, Florida,Seminole County,12117,0.124441117,53160,427190
+perc_below_poverty_1y,2012, Florida,St. Johns County,12109,0.094120182,18775,199479
+perc_below_poverty_1y,2012, Florida,St. Lucie County,12111,0.172181547,48445,281360
+perc_below_poverty_1y,2012, Florida,Sumter County,12119,0.125482604,11538,91949
+perc_below_poverty_1y,2012, Florida,Volusia County,12127,0.197599009,96125,486465
+perc_below_poverty_1y,2012, Georgia,Barrow County,13013,0.161404207,11292,69961
+perc_below_poverty_1y,2012, Georgia,Bartow County,13015,0.164407879,16389,99685
+perc_below_poverty_1y,2012, Georgia,Bibb County,13021,0.27153933,40729,149993
+perc_below_poverty_1y,2012, Georgia,Bulloch County,13031,0.329301089,22050,66960
+perc_below_poverty_1y,2012, Georgia,Carroll County,13045,0.207145318,22224,107287
+perc_below_poverty_1y,2012, Georgia,Catoosa County,13047,0.135883242,8743,64342
+perc_below_poverty_1y,2012, Georgia,Chatham County,13051,0.197488651,52499,265833
+perc_below_poverty_1y,2012, Georgia,Cherokee County,13057,0.103019521,22644,219803
+perc_below_poverty_1y,2012, Georgia,Clarke County,13059,0.338911891,37221,109825
+perc_below_poverty_1y,2012, Georgia,Clayton County,13063,0.294647783,76896,260976
+perc_below_poverty_1y,2012, Georgia,Cobb County,13067,0.136485428,94896,695283
+perc_below_poverty_1y,2012, Georgia,Columbia County,13073,0.12037652,15768,130989
+perc_below_poverty_1y,2012, Georgia,Coweta County,13077,0.132906437,17331,130400
+perc_below_poverty_1y,2012, Georgia,DeKalb County,13089,0.208374307,144538,693646
+perc_below_poverty_1y,2012, Georgia,Dougherty County,13095,0.34568432,31347,90681
+perc_below_poverty_1y,2012, Georgia,Douglas County,13097,0.155000791,20539,132509
+perc_below_poverty_1y,2012, Georgia,Fayette County,13113,0.081052721,8651,106733
+perc_below_poverty_1y,2012, Georgia,Floyd County,13115,0.239244983,22067,92236
+perc_below_poverty_1y,2012, Georgia,Forsyth County,13117,0.059987172,11223,187090
+perc_below_poverty_1y,2012, Georgia,Fulton County,13121,0.183462694,173943,948111
+perc_below_poverty_1y,2012, Georgia,Glynn County,13127,0.191860974,15148,78953
+perc_below_poverty_1y,2012, Georgia,Gwinnett County,13135,0.148413152,124208,836907
+perc_below_poverty_1y,2012, Georgia,Hall County,13139,0.202401459,37000,182805
+perc_below_poverty_1y,2012, Georgia,Henry County,13151,0.150723875,31233,207220
+perc_below_poverty_1y,2012, Georgia,Houston County,13153,0.186405376,26938,144513
+perc_below_poverty_1y,2012, Georgia,Liberty County,13179,0.173179314,10929,63108
+perc_below_poverty_1y,2012, Georgia,Lowndes County,13185,0.245263994,27240,111064
+perc_below_poverty_1y,2012, Georgia,Muscogee County,13215,0.179331109,33588,187296
+perc_below_poverty_1y,2012, Georgia,Newton County,13217,0.148562923,14778,99473
+perc_below_poverty_1y,2012, Georgia,Paulding County,13223,0.144070804,20706,143721
+perc_below_poverty_1y,2012, Georgia,Richmond County,13245,0.26376161,51371,194763
+perc_below_poverty_1y,2012, Georgia,Rockdale County,13247,0.181271613,15407,84994
+perc_below_poverty_1y,2012, Georgia,Troup County,13285,0.224752903,14940,66473
+perc_below_poverty_1y,2012, Georgia,Walker County,13295,0.2053314,13603,66249
+perc_below_poverty_1y,2012, Georgia,Walton County,13297,0.141884699,11860,83589
+perc_below_poverty_1y,2012, Georgia,Whitfield County,13313,0.210245058,21560,102547
+perc_below_poverty_1y,2012, Hawaii,Hawaii County,15001,0.191917136,35853,186815
+perc_below_poverty_1y,2012, Hawaii,Honolulu County,15003,0.103336766,97754,945975
+perc_below_poverty_1y,2012, Hawaii,Kauai County,15007,0.109980807,7449,67730
+perc_below_poverty_1y,2012, Hawaii,Maui County,15009,0.10347984,16165,156214
+perc_below_poverty_1y,2012, Idaho,Ada County,16001,0.120236702,48257,401350
+perc_below_poverty_1y,2012, Idaho,Bannock County,16005,0.153820619,12511,81335
+perc_below_poverty_1y,2012, Idaho,Bonneville County,16019,0.137960777,14559,105530
+perc_below_poverty_1y,2012, Idaho,Canyon County,16027,0.221559897,42335,191077
+perc_below_poverty_1y,2012, Idaho,Kootenai County,16055,0.118309096,16630,140564
+perc_below_poverty_1y,2012, Idaho,Twin Falls County,16083,0.189399451,14583,76996
+perc_below_poverty_1y,2012, Illinois,Adams County,17001,0.111146674,7292,65607
+perc_below_poverty_1y,2012, Illinois,Champaign County,17019,0.21293962,39785,186837
+perc_below_poverty_1y,2012, Illinois,Cook County,17031,0.1792005,923158,5151537
+perc_below_poverty_1y,2012, Illinois,DeKalb County,17037,0.190784916,18745,98252
+perc_below_poverty_1y,2012, Illinois,DuPage County,17043,0.071696468,65626,915331
+perc_below_poverty_1y,2012, Illinois,Kane County,17089,0.12057934,62207,515901
+perc_below_poverty_1y,2012, Illinois,Kankakee County,17091,0.179736033,19501,108498
+perc_below_poverty_1y,2012, Illinois,Kendall County,17093,0.040015984,4706,117603
+perc_below_poverty_1y,2012, Illinois,LaSalle County,17099,0.149391413,16373,109598
+perc_below_poverty_1y,2012, Illinois,Lake County,17097,0.092515916,63298,684185
+perc_below_poverty_1y,2012, Illinois,Macon County,17115,0.233484924,24953,106872
+perc_below_poverty_1y,2012, Illinois,Madison County,17119,0.129957289,33890,260778
+perc_below_poverty_1y,2012, Illinois,McHenry County,17111,0.079140402,24232,306190
+perc_below_poverty_1y,2012, Illinois,McLean County,17113,0.157050893,25664,163412
+perc_below_poverty_1y,2012, Illinois,Peoria County,17143,0.203276172,37104,182530
+perc_below_poverty_1y,2012, Illinois,Rock Island County,17161,0.136899352,19584,143054
+perc_below_poverty_1y,2012, Illinois,Sangamon County,17167,0.143729404,28083,195388
+perc_below_poverty_1y,2012, Illinois,St. Clair County,17163,0.19734782,52310,265065
+perc_below_poverty_1y,2012, Illinois,Tazewell County,17179,0.07766939,10351,133270
+perc_below_poverty_1y,2012, Illinois,Vermilion County,17183,0.181922093,14165,77863
+perc_below_poverty_1y,2012, Illinois,Will County,17197,0.083122313,56033,674103
+perc_below_poverty_1y,2012, Illinois,Williamson County,17199,0.128949687,8362,64847
+perc_below_poverty_1y,2012, Illinois,Winnebago County,17201,0.161049008,46199,286863
+perc_below_poverty_1y,2012, Indiana,Allen County,18003,0.157420248,55859,354840
+perc_below_poverty_1y,2012, Indiana,Bartholomew County,18005,0.129663363,10107,77948
+perc_below_poverty_1y,2012, Indiana,Clark County,18019,0.127599582,14075,110306
+perc_below_poverty_1y,2012, Indiana,Delaware County,18035,0.221976057,24147,108782
+perc_below_poverty_1y,2012, Indiana,Elkhart County,18039,0.154488489,30249,195801
+perc_below_poverty_1y,2012, Indiana,Floyd County,18043,0.141805366,10497,74024
+perc_below_poverty_1y,2012, Indiana,Grant County,18053,0.175952762,11233,63841
+perc_below_poverty_1y,2012, Indiana,Hamilton County,18057,0.041090935,11812,287460
+perc_below_poverty_1y,2012, Indiana,Hancock County,18059,0.081203416,5687,70034
+perc_below_poverty_1y,2012, Indiana,Hendricks County,18063,0.040567447,6031,148666
+perc_below_poverty_1y,2012, Indiana,Howard County,18067,0.180888459,14769,81647
+perc_below_poverty_1y,2012, Indiana,Johnson County,18081,0.095825896,13469,140557
+perc_below_poverty_1y,2012, Indiana,Kosciusko County,18085,0.108500764,8230,75852
+perc_below_poverty_1y,2012, Indiana,LaPorte County,18091,0.179698437,18234,101470
+perc_below_poverty_1y,2012, Indiana,Lake County,18089,0.195690706,95382,487412
+perc_below_poverty_1y,2012, Indiana,Madison County,18095,0.152188376,18763,123288
+perc_below_poverty_1y,2012, Indiana,Marion County,18097,0.215416417,194163,901338
+perc_below_poverty_1y,2012, Indiana,Monroe County,18105,0.251759738,31904,126724
+perc_below_poverty_1y,2012, Indiana,Morgan County,18109,0.136694461,9297,68013
+perc_below_poverty_1y,2012, Indiana,Porter County,18127,0.108463436,17556,161861
+perc_below_poverty_1y,2012, Indiana,St. Joseph County,18141,0.163579077,41642,254568
+perc_below_poverty_1y,2012, Indiana,Tippecanoe County,18157,0.210296825,34483,163973
+perc_below_poverty_1y,2012, Indiana,Vanderburgh County,18163,0.143733561,24975,173759
+perc_below_poverty_1y,2012, Indiana,Vigo County,18167,0.198681012,19582,98560
+perc_below_poverty_1y,2012, Indiana,Wayne County,18177,0.235499248,15465,65669
+perc_below_poverty_1y,2012, Iowa,Black Hawk County,19013,0.129969195,16288,125322
+perc_below_poverty_1y,2012, Iowa,Dallas County,19049,0.064580299,4610,71384
+perc_below_poverty_1y,2012, Iowa,Dubuque County,19061,0.12501502,11447,91565
+perc_below_poverty_1y,2012, Iowa,Johnson County,19103,0.165392682,21226,128337
+perc_below_poverty_1y,2012, Iowa,Linn County,19113,0.091329016,19139,209561
+perc_below_poverty_1y,2012, Iowa,Polk County,19153,0.135622084,59007,435084
+perc_below_poverty_1y,2012, Iowa,Pottawattamie County,19155,0.112728797,10236,90802
+perc_below_poverty_1y,2012, Iowa,Scott County,19163,0.108308442,17914,165398
+perc_below_poverty_1y,2012, Iowa,Story County,19169,0.217116773,17880,82352
+perc_below_poverty_1y,2012, Iowa,Woodbury County,19193,0.170323968,16882,99117
+perc_below_poverty_1y,2012, Kansas,Butler County,20015,0.065077692,4142,63647
+perc_below_poverty_1y,2012, Kansas,Douglas County,20045,0.209733114,21682,103379
+perc_below_poverty_1y,2012, Kansas,Johnson County,20091,0.067673437,37445,553319
+perc_below_poverty_1y,2012, Kansas,Leavenworth County,20103,0.09371604,6726,71770
+perc_below_poverty_1y,2012, Kansas,Riley County,20161,0.214516759,14325,66778
+perc_below_poverty_1y,2012, Kansas,Sedgwick County,20173,0.162610784,80860,497261
+perc_below_poverty_1y,2012, Kansas,Shawnee County,20177,0.167449951,29288,174906
+perc_below_poverty_1y,2012, Kansas,Wyandotte County,20209,0.234169424,36914,157638
+perc_below_poverty_1y,2012, Kentucky,Boone County,21015,0.084818661,10393,122532
+perc_below_poverty_1y,2012, Kentucky,Bullitt County,21029,0.102454871,7696,75116
+perc_below_poverty_1y,2012, Kentucky,Campbell County,21037,0.150336474,13292,88415
+perc_below_poverty_1y,2012, Kentucky,Christian County,21047,0.211704001,14731,69583
+perc_below_poverty_1y,2012, Kentucky,Daviess County,21059,0.171024054,16223,94858
+perc_below_poverty_1y,2012, Kentucky,Fayette County,21067,0.17655988,51645,292507
+perc_below_poverty_1y,2012, Kentucky,Hardin County,21093,0.144564971,14886,102971
+perc_below_poverty_1y,2012, Kentucky,Jefferson County,21111,0.180405617,132940,736895
+perc_below_poverty_1y,2012, Kentucky,Kenton County,21117,0.151936799,24197,159257
+perc_below_poverty_1y,2012, Kentucky,Madison County,21151,0.24936612,19768,79273
+perc_below_poverty_1y,2012, Kentucky,McCracken County,21145,0.181173041,11667,64397
+perc_below_poverty_1y,2012, Kentucky,Pike County,21195,0.226682186,14220,62731
+perc_below_poverty_1y,2012, Kentucky,Warren County,21227,0.201685846,22276,110449
+perc_below_poverty_1y,2012, Louisiana,Ascension Parish,22005,0.118069619,13116,111087
+perc_below_poverty_1y,2012, Louisiana,Bossier Parish,22015,0.12898612,15512,120261
+perc_below_poverty_1y,2012, Louisiana,Caddo Parish,22017,0.196012869,49358,251810
+perc_below_poverty_1y,2012, Louisiana,Calcasieu Parish,22019,0.167484343,31919,190579
+perc_below_poverty_1y,2012, Louisiana,East Baton Rouge Parish,22033,0.203908175,88551,434269
+perc_below_poverty_1y,2012, Louisiana,Iberia Parish,22045,0.203834951,14840,72804
+perc_below_poverty_1y,2012, Louisiana,Jefferson Parish,22051,0.158627167,68210,430002
+perc_below_poverty_1y,2012, Louisiana,Lafayette Parish,22055,0.178035468,39565,222231
+perc_below_poverty_1y,2012, Louisiana,Lafourche Parish,22057,0.131667808,12517,95065
+perc_below_poverty_1y,2012, Louisiana,Livingston Parish,22063,0.177338228,22916,129222
+perc_below_poverty_1y,2012, Louisiana,Orleans Parish,22071,0.287210524,102724,357661
+perc_below_poverty_1y,2012, Louisiana,Ouachita Parish,22073,0.242602423,35443,146095
+perc_below_poverty_1y,2012, Louisiana,Rapides Parish,22079,0.225298136,28867,128128
+perc_below_poverty_1y,2012, Louisiana,St. Landry Parish,22097,0.256896436,21149,82325
+perc_below_poverty_1y,2012, Louisiana,St. Tammany Parish,22103,0.135719761,32212,237342
+perc_below_poverty_1y,2012, Louisiana,Tangipahoa Parish,22105,0.243639097,29110,119480
+perc_below_poverty_1y,2012, Louisiana,Terrebonne Parish,22109,0.184670448,20330,110088
+perc_below_poverty_1y,2012, Maine,Androscoggin County,23001,0.15944536,16593,104067
+perc_below_poverty_1y,2012, Maine,Aroostook County,23003,0.165291414,11358,68715
+perc_below_poverty_1y,2012, Maine,Cumberland County,23005,0.117082171,32297,275849
+perc_below_poverty_1y,2012, Maine,Kennebec County,23011,0.150361463,17804,118408
+perc_below_poverty_1y,2012, Maine,Penobscot County,23019,0.181421071,26664,146973
+perc_below_poverty_1y,2012, Maine,York County,23031,0.116179757,22771,195998
+perc_below_poverty_1y,2012, Maryland,Allegany County,24001,0.170804054,11401,66749
+perc_below_poverty_1y,2012, Maryland,Anne Arundel County,24003,0.057054013,30494,534476
+perc_below_poverty_1y,2012, Maryland,Baltimore County,24005,0.096547648,76903,796529
+perc_below_poverty_1y,2012, Maryland,Baltimore city,24510,0.248206869,148491,598255
+perc_below_poverty_1y,2012, Maryland,Calvert County,24009,0.072474189,6451,89011
+perc_below_poverty_1y,2012, Maryland,Carroll County,24013,0.062172841,10179,163721
+perc_below_poverty_1y,2012, Maryland,Cecil County,24015,0.144104764,14438,100191
+perc_below_poverty_1y,2012, Maryland,Charles County,24017,0.096732698,14439,149267
+perc_below_poverty_1y,2012, Maryland,Frederick County,24021,0.067770243,15942,235236
+perc_below_poverty_1y,2012, Maryland,Harford County,24025,0.082611084,20312,245875
+perc_below_poverty_1y,2012, Maryland,Howard County,24027,0.045238808,13487,298129
+perc_below_poverty_1y,2012, Maryland,Montgomery County,24031,0.064253405,64037,996632
+perc_below_poverty_1y,2012, Maryland,Prince George's County,24033,0.102419913,88114,860321
+perc_below_poverty_1y,2012, Maryland,St. Mary's County,24037,0.070407696,7483,106281
+perc_below_poverty_1y,2012, Maryland,Washington County,24043,0.14180699,19908,140388
+perc_below_poverty_1y,2012, Maryland,Wicomico County,24045,0.163634107,15810,96618
+perc_below_poverty_1y,2012, Massachusetts,Barnstable County,25001,0.103096612,21947,212878
+perc_below_poverty_1y,2012, Massachusetts,Berkshire County,25003,0.140419394,17437,124178
+perc_below_poverty_1y,2012, Massachusetts,Bristol County,25005,0.131980509,70516,534291
+perc_below_poverty_1y,2012, Massachusetts,Essex County,25009,0.121855088,90120,739567
+perc_below_poverty_1y,2012, Massachusetts,Franklin County,25011,0.105811164,7449,70399
+perc_below_poverty_1y,2012, Massachusetts,Hampden County,25013,0.19192028,86885,452714
+perc_below_poverty_1y,2012, Massachusetts,Hampshire County,25015,0.139684126,19068,136508
+perc_below_poverty_1y,2012, Massachusetts,Middlesex County,25017,0.083640635,124001,1482545
+perc_below_poverty_1y,2012, Massachusetts,Norfolk County,25021,0.075831123,50305,663382
+perc_below_poverty_1y,2012, Massachusetts,Plymouth County,25023,0.073597737,35926,488140
+perc_below_poverty_1y,2012, Massachusetts,Suffolk County,25025,0.205186352,143937,701494
+perc_below_poverty_1y,2012, Massachusetts,Worcester County,25027,0.118346624,92497,781577
+perc_below_poverty_1y,2012, Michigan,Allegan County,26005,0.142411038,15779,110799
+perc_below_poverty_1y,2012, Michigan,Bay County,26017,0.128838822,13622,105729
+perc_below_poverty_1y,2012, Michigan,Berrien County,26021,0.205286548,31081,151403
+perc_below_poverty_1y,2012, Michigan,Calhoun County,26025,0.178928509,23569,131723
+perc_below_poverty_1y,2012, Michigan,Clinton County,26037,0.128282532,9604,74866
+perc_below_poverty_1y,2012, Michigan,Eaton County,26045,0.09298905,9925,106733
+perc_below_poverty_1y,2012, Michigan,Genesee County,26049,0.213707939,88137,412418
+perc_below_poverty_1y,2012, Michigan,Grand Traverse County,26055,0.102768265,8880,86408
+perc_below_poverty_1y,2012, Michigan,Ingham County,26065,0.263646066,69273,262750
+perc_below_poverty_1y,2012, Michigan,Isabella County,26073,0.306924552,19804,64524
+perc_below_poverty_1y,2012, Michigan,Jackson County,26075,0.198883802,29934,150510
+perc_below_poverty_1y,2012, Michigan,Kalamazoo County,26077,0.177236378,43729,246727
+perc_below_poverty_1y,2012, Michigan,Kent County,26081,0.171069011,103474,604867
+perc_below_poverty_1y,2012, Michigan,Lapeer County,26087,0.096398905,8344,86557
+perc_below_poverty_1y,2012, Michigan,Lenawee County,26091,0.128045142,12005,93756
+perc_below_poverty_1y,2012, Michigan,Livingston County,26093,0.061722144,11213,181669
+perc_below_poverty_1y,2012, Michigan,Macomb County,26099,0.123894945,103974,839211
+perc_below_poverty_1y,2012, Michigan,Marquette County,26103,0.17994985,11409,63401
+perc_below_poverty_1y,2012, Michigan,Midland County,26111,0.142917901,11761,82292
+perc_below_poverty_1y,2012, Michigan,Monroe County,26115,0.118891805,17822,149901
+perc_below_poverty_1y,2012, Michigan,Muskegon County,26121,0.219689369,35899,163408
+perc_below_poverty_1y,2012, Michigan,Oakland County,26125,0.104598172,126564,1210002
+perc_below_poverty_1y,2012, Michigan,Ottawa County,26139,0.112615407,29263,259849
+perc_below_poverty_1y,2012, Michigan,Saginaw County,26145,0.189285412,36311,191832
+perc_below_poverty_1y,2012, Michigan,Shiawassee County,26155,0.15747951,10739,68193
+perc_below_poverty_1y,2012, Michigan,St. Clair County,26147,0.161387876,25564,158401
+perc_below_poverty_1y,2012, Michigan,Van Buren County,26159,0.193227619,14477,74922
+perc_below_poverty_1y,2012, Michigan,Washtenaw County,26161,0.164876804,55178,334662
+perc_below_poverty_1y,2012, Michigan,Wayne County,26163,0.262281716,465053,1773105
+perc_below_poverty_1y,2012, Minnesota,Anoka County,27003,0.083092339,27669,332991
+perc_below_poverty_1y,2012, Minnesota,Blue Earth County,27013,0.178220734,10890,61104
+perc_below_poverty_1y,2012, Minnesota,Carver County,27019,0.035803426,3328,92952
+perc_below_poverty_1y,2012, Minnesota,Dakota County,27037,0.077990599,31398,402587
+perc_below_poverty_1y,2012, Minnesota,Hennepin County,27053,0.130512446,151982,1164502
+perc_below_poverty_1y,2012, Minnesota,Olmsted County,27109,0.104904264,15138,144303
+perc_below_poverty_1y,2012, Minnesota,Ramsey County,27123,0.168332398,85342,506985
+perc_below_poverty_1y,2012, Minnesota,Scott County,27139,0.049165059,6545,133123
+perc_below_poverty_1y,2012, Minnesota,Sherburne County,27141,0.06012452,5263,87535
+perc_below_poverty_1y,2012, Minnesota,St. Louis County,27137,0.151409954,29091,192134
+perc_below_poverty_1y,2012, Minnesota,Stearns County,27145,0.135980472,19616,144256
+perc_below_poverty_1y,2012, Minnesota,Washington County,27163,0.054963693,13223,240577
+perc_below_poverty_1y,2012, Minnesota,Wright County,27171,0.072306447,9119,126116
+perc_below_poverty_1y,2012, Mississippi,DeSoto County,28033,0.102330074,16851,164673
+perc_below_poverty_1y,2012, Mississippi,Forrest County,28035,0.301655829,22153,73438
+perc_below_poverty_1y,2012, Mississippi,Harrison County,28047,0.194996282,36749,188460
+perc_below_poverty_1y,2012, Mississippi,Hinds County,28049,0.275670856,66271,240399
+perc_below_poverty_1y,2012, Mississippi,Jackson County,28059,0.156450018,21778,139201
+perc_below_poverty_1y,2012, Mississippi,Jones County,28067,0.281401664,18904,67178
+perc_below_poverty_1y,2012, Mississippi,Lauderdale County,28075,0.259893477,19958,76793
+perc_below_poverty_1y,2012, Mississippi,Lee County,28081,0.194371417,16341,84071
+perc_below_poverty_1y,2012, Mississippi,Madison County,28089,0.151820362,14712,96904
+perc_below_poverty_1y,2012, Mississippi,Rankin County,28121,0.136178389,18913,138884
+perc_below_poverty_1y,2012, Missouri,Boone County,29019,0.190791458,30258,158592
+perc_below_poverty_1y,2012, Missouri,Buchanan County,29021,0.199918404,17151,85790
+perc_below_poverty_1y,2012, Missouri,Cape Girardeau County,29031,0.154894635,11364,73366
+perc_below_poverty_1y,2012, Missouri,Cass County,29037,0.08736001,8604,98489
+perc_below_poverty_1y,2012, Missouri,Christian County,29043,0.129613653,10212,78788
+perc_below_poverty_1y,2012, Missouri,Clay County,29047,0.087342151,19636,224817
+perc_below_poverty_1y,2012, Missouri,Cole County,29051,0.163604841,11702,71526
+perc_below_poverty_1y,2012, Missouri,Franklin County,29071,0.162202492,16302,100504
+perc_below_poverty_1y,2012, Missouri,Greene County,29077,0.179575771,48282,268867
+perc_below_poverty_1y,2012, Missouri,Jackson County,29095,0.189184561,125803,664975
+perc_below_poverty_1y,2012, Missouri,Jasper County,29097,0.186610416,21056,112834
+perc_below_poverty_1y,2012, Missouri,Jefferson County,29099,0.109332651,23839,218041
+perc_below_poverty_1y,2012, Missouri,Platte County,29165,0.061334096,5573,90863
+perc_below_poverty_1y,2012, Missouri,St. Charles County,29183,0.072368823,26180,361758
+perc_below_poverty_1y,2012, Missouri,St. Francois County,29187,0.205825537,12147,59016
+perc_below_poverty_1y,2012, Missouri,St. Louis County,29189,0.121404536,118945,979741
+perc_below_poverty_1y,2012, Missouri,St. Louis city,29510,0.291791618,89716,307466
+perc_below_poverty_1y,2012, Montana,Cascade County,30013,0.199331343,15919,79862
+perc_below_poverty_1y,2012, Montana,Flathead County,30029,0.129144445,11697,90573
+perc_below_poverty_1y,2012, Montana,Gallatin County,30031,0.137741446,12251,88942
+perc_below_poverty_1y,2012, Montana,Missoula County,30063,0.137819529,14875,107931
+perc_below_poverty_1y,2012, Montana,Yellowstone County,30111,0.124655873,18429,147839
+perc_below_poverty_1y,2012, Nebraska,Douglas County,31055,0.151359111,78485,518535
+perc_below_poverty_1y,2012, Nebraska,Lancaster County,31109,0.135643378,38042,280456
+perc_below_poverty_1y,2012, Nebraska,Sarpy County,31153,0.094007321,15378,163583
+perc_below_poverty_1y,2012, Nevada,Clark County,32003,0.163578719,323075,1975043
+perc_below_poverty_1y,2012, Nevada,Washoe County,32031,0.182740539,77592,424602
+perc_below_poverty_1y,2012, New Hampshire,Cheshire County,33005,0.121353805,8695,71650
+perc_below_poverty_1y,2012, New Hampshire,Grafton County,33009,0.11981561,9877,82435
+perc_below_poverty_1y,2012, New Hampshire,Hillsborough County,33011,0.097737327,38552,394445
+perc_below_poverty_1y,2012, New Hampshire,Merrimack County,33013,0.113298349,15868,140055
+perc_below_poverty_1y,2012, New Hampshire,Rockingham County,33015,0.061766949,18216,294915
+perc_below_poverty_1y,2012, New Hampshire,Strafford County,33017,0.142761439,16621,116425
+perc_below_poverty_1y,2012, New Jersey,Atlantic County,34001,0.146364585,39381,269061
+perc_below_poverty_1y,2012, New Jersey,Bergen County,34003,0.08117193,73727,908282
+perc_below_poverty_1y,2012, New Jersey,Burlington County,34005,0.062609605,27526,439645
+perc_below_poverty_1y,2012, New Jersey,Camden County,34007,0.126736626,64276,507162
+perc_below_poverty_1y,2012, New Jersey,Cape May County,34009,0.08944311,8392,93825
+perc_below_poverty_1y,2012, New Jersey,Cumberland County,34011,0.188011557,27197,144656
+perc_below_poverty_1y,2012, New Jersey,Essex County,34013,0.174923927,134527,769060
+perc_below_poverty_1y,2012, New Jersey,Gloucester County,34015,0.087392971,24873,284611
+perc_below_poverty_1y,2012, New Jersey,Hudson County,34017,0.166195661,107385,646136
+perc_below_poverty_1y,2012, New Jersey,Hunterdon County,34019,0.044437803,5501,123791
+perc_below_poverty_1y,2012, New Jersey,Mercer County,34021,0.104635902,36603,349813
+perc_below_poverty_1y,2012, New Jersey,Middlesex County,34023,0.099156097,79146,798196
+perc_below_poverty_1y,2012, New Jersey,Monmouth County,34025,0.071600519,44555,622272
+perc_below_poverty_1y,2012, New Jersey,Morris County,34027,0.04265625,20924,490526
+perc_below_poverty_1y,2012, New Jersey,Ocean County,34029,0.10973192,62934,573525
+perc_below_poverty_1y,2012, New Jersey,Passaic County,34031,0.155848727,77022,494210
+perc_below_poverty_1y,2012, New Jersey,Salem County,34033,0.107237898,6891,64259
+perc_below_poverty_1y,2012, New Jersey,Somerset County,34035,0.062705539,20307,323847
+perc_below_poverty_1y,2012, New Jersey,Sussex County,34037,0.062200595,9076,145915
+perc_below_poverty_1y,2012, New Jersey,Union County,34039,0.109421998,58792,537296
+perc_below_poverty_1y,2012, New Jersey,Warren County,34041,0.055954918,5908,105585
+perc_below_poverty_1y,2012, New Mexico,Bernalillo County,35001,0.18330574,121579,663258
+perc_below_poverty_1y,2012, New Mexico,Chaves County,35005,0.206844702,13206,63845
+perc_below_poverty_1y,2012, New Mexico,Doña Ana County,35013,0.271455288,56903,209622
+perc_below_poverty_1y,2012, New Mexico,Lea County,35025,0.134165928,8691,64778
+perc_below_poverty_1y,2012, New Mexico,McKinley County,35031,0.397592694,28771,72363
+perc_below_poverty_1y,2012, New Mexico,Otero County,35035,0.279584587,17795,63648
+perc_below_poverty_1y,2012, New Mexico,San Juan County,35045,0.207288653,26324,126992
+perc_below_poverty_1y,2012, New Mexico,Sandoval County,35043,0.143094003,19246,134499
+perc_below_poverty_1y,2012, New Mexico,Santa Fe County,35049,0.183899567,26410,143611
+perc_below_poverty_1y,2012, New Mexico,Valencia County,35061,0.23642993,17571,74318
+perc_below_poverty_1y,2012, New York,Albany County,36001,0.14151457,41048,290062
+perc_below_poverty_1y,2012, New York,Bronx County,36005,0.31025818,426381,1374278
+perc_below_poverty_1y,2012, New York,Broome County,36007,0.174989909,32945,188268
+perc_below_poverty_1y,2012, New York,Cattaraugus County,36009,0.186937585,14417,77122
+perc_below_poverty_1y,2012, New York,Cayuga County,36011,0.115079157,8723,75800
+perc_below_poverty_1y,2012, New York,Chautauqua County,36013,0.218854487,27951,127715
+perc_below_poverty_1y,2012, New York,Chemung County,36015,0.145897642,12243,83915
+perc_below_poverty_1y,2012, New York,Clinton County,36019,0.140815124,10334,73387
+perc_below_poverty_1y,2012, New York,Dutchess County,36027,0.094202772,26456,280841
+perc_below_poverty_1y,2012, New York,Erie County,36029,0.140598819,125610,893393
+perc_below_poverty_1y,2012, New York,Jefferson County,36045,0.144597366,16452,113778
+perc_below_poverty_1y,2012, New York,Kings County,36047,0.243265048,619707,2547456
+perc_below_poverty_1y,2012, New York,Livingston County,36051,0.127586797,7497,58760
+perc_below_poverty_1y,2012, New York,Madison County,36053,0.130319223,8777,67350
+perc_below_poverty_1y,2012, New York,Monroe County,36055,0.150191799,108648,723395
+perc_below_poverty_1y,2012, New York,Nassau County,36059,0.066122241,87868,1328872
+perc_below_poverty_1y,2012, New York,New York County,36061,0.177800104,279290,1570809
+perc_below_poverty_1y,2012, New York,Niagara County,36063,0.150474891,31797,211311
+perc_below_poverty_1y,2012, New York,Oneida County,36065,0.164158106,36526,222505
+perc_below_poverty_1y,2012, New York,Onondaga County,36067,0.152586579,68389,448198
+perc_below_poverty_1y,2012, New York,Ontario County,36069,0.120038889,12594,104916
+perc_below_poverty_1y,2012, New York,Orange County,36071,0.123884,44930,362678
+perc_below_poverty_1y,2012, New York,Oswego County,36075,0.167571232,19544,116631
+perc_below_poverty_1y,2012, New York,Putnam County,36079,0.065103613,6406,98397
+perc_below_poverty_1y,2012, New York,Queens County,36081,0.161802322,363869,2248849
+perc_below_poverty_1y,2012, New York,Rensselaer County,36083,0.111919217,17235,153995
+perc_below_poverty_1y,2012, New York,Richmond County,36085,0.116100609,54028,465355
+perc_below_poverty_1y,2012, New York,Rockland County,36087,0.157287851,49188,312726
+perc_below_poverty_1y,2012, New York,Saratoga County,36091,0.059250101,12893,217603
+perc_below_poverty_1y,2012, New York,Schenectady County,36093,0.11480654,17370,151298
+perc_below_poverty_1y,2012, New York,St. Lawrence County,36089,0.197487265,19853,100528
+perc_below_poverty_1y,2012, New York,Steuben County,36101,0.157822996,15401,97584
+perc_below_poverty_1y,2012, New York,Suffolk County,36103,0.069340587,101808,1468231
+perc_below_poverty_1y,2012, New York,Sullivan County,36105,0.187032118,13791,73736
+perc_below_poverty_1y,2012, New York,Tompkins County,36109,0.181102455,16194,89419
+perc_below_poverty_1y,2012, New York,Ulster County,36111,0.133577675,23289,174348
+perc_below_poverty_1y,2012, New York,Warren County,36113,0.109054133,7063,64766
+perc_below_poverty_1y,2012, New York,Wayne County,36117,0.124113671,11360,91529
+perc_below_poverty_1y,2012, New York,Westchester County,36119,0.100897446,94641,937992
+perc_below_poverty_1y,2012, North Carolina,Alamance County,37001,0.203233093,30525,150197
+perc_below_poverty_1y,2012, North Carolina,Brunswick County,37019,0.152038276,16936,111393
+perc_below_poverty_1y,2012, North Carolina,Buncombe County,37021,0.175584465,41751,237783
+perc_below_poverty_1y,2012, North Carolina,Burke County,37023,0.193814948,16934,87372
+perc_below_poverty_1y,2012, North Carolina,Cabarrus County,37025,0.134781465,24627,182718
+perc_below_poverty_1y,2012, North Carolina,Caldwell County,37027,0.214945287,17365,80788
+perc_below_poverty_1y,2012, North Carolina,Carteret County,37031,0.15326494,10203,66571
+perc_below_poverty_1y,2012, North Carolina,Catawba County,37035,0.197334483,29909,151565
+perc_below_poverty_1y,2012, North Carolina,Chatham County,37037,0.129652724,8419,64935
+perc_below_poverty_1y,2012, North Carolina,Cleveland County,37045,0.235091493,22522,95801
+perc_below_poverty_1y,2012, North Carolina,Craven County,37049,0.160135627,16105,100571
+perc_below_poverty_1y,2012, North Carolina,Cumberland County,37051,0.163531303,51227,313255
+perc_below_poverty_1y,2012, North Carolina,Davidson County,37057,0.162627652,26165,160889
+perc_below_poverty_1y,2012, North Carolina,Durham County,37063,0.197973534,52833,266869
+perc_below_poverty_1y,2012, North Carolina,Forsyth County,37067,0.21466364,74774,348331
+perc_below_poverty_1y,2012, North Carolina,Gaston County,37071,0.17421484,35740,205149
+perc_below_poverty_1y,2012, North Carolina,Guilford County,37081,0.178467035,86884,486835
+perc_below_poverty_1y,2012, North Carolina,Harnett County,37085,0.186953723,22117,118302
+perc_below_poverty_1y,2012, North Carolina,Henderson County,37089,0.136098325,14550,106908
+perc_below_poverty_1y,2012, North Carolina,Iredell County,37097,0.150141209,24243,161468
+perc_below_poverty_1y,2012, North Carolina,Johnston County,37101,0.173292726,29989,173054
+perc_below_poverty_1y,2012, North Carolina,Lincoln County,37109,0.15322499,12049,78636
+perc_below_poverty_1y,2012, North Carolina,Mecklenburg County,37119,0.158599943,151308,954023
+perc_below_poverty_1y,2012, North Carolina,Moore County,37125,0.178826362,16008,89517
+perc_below_poverty_1y,2012, North Carolina,Nash County,37127,0.216898739,20141,92859
+perc_below_poverty_1y,2012, North Carolina,New Hanover County,37129,0.151641324,30849,203434
+perc_below_poverty_1y,2012, North Carolina,Onslow County,37133,0.121691838,20586,169165
+perc_below_poverty_1y,2012, North Carolina,Orange County,37135,0.173795849,22245,127995
+perc_below_poverty_1y,2012, North Carolina,Pitt County,37147,0.240682468,39922,165870
+perc_below_poverty_1y,2012, North Carolina,Randolph County,37151,0.184150323,25921,140760
+perc_below_poverty_1y,2012, North Carolina,Robeson County,37155,0.345051676,45395,131560
+perc_below_poverty_1y,2012, North Carolina,Rockingham County,37157,0.193400532,17595,90977
+perc_below_poverty_1y,2012, North Carolina,Rowan County,37159,0.1943212,25972,133655
+perc_below_poverty_1y,2012, North Carolina,Rutherford County,37161,0.137582481,9133,66382
+perc_below_poverty_1y,2012, North Carolina,Surry County,37171,0.176544443,12797,72486
+perc_below_poverty_1y,2012, North Carolina,Union County,37179,0.118496798,24330,205322
+perc_below_poverty_1y,2012, North Carolina,Wake County,37183,0.116178095,107942,929108
+perc_below_poverty_1y,2012, North Carolina,Wayne County,37191,0.248607591,30174,121372
+perc_below_poverty_1y,2012, North Carolina,Wilkes County,37193,0.197109669,13421,68089
+perc_below_poverty_1y,2012, North Carolina,Wilson County,37195,0.244398519,19634,80336
+perc_below_poverty_1y,2012, North Dakota,Burleigh County,38015,0.043767106,3630,82939
+perc_below_poverty_1y,2012, North Dakota,Cass County,38017,0.109836638,16681,151871
+perc_below_poverty_1y,2012, North Dakota,Grand Forks County,38035,0.197093651,12383,62828
+perc_below_poverty_1y,2012, Ohio,Allen County,39003,0.203816742,20634,101238
+perc_below_poverty_1y,2012, Ohio,Ashtabula County,39007,0.208565161,20055,96157
+perc_below_poverty_1y,2012, Ohio,Belmont County,39013,0.149883434,9837,65631
+perc_below_poverty_1y,2012, Ohio,Butler County,39017,0.140368983,50459,359474
+perc_below_poverty_1y,2012, Ohio,Clark County,39023,0.20448707,27462,134297
+perc_below_poverty_1y,2012, Ohio,Clermont County,39025,0.117580265,23091,196385
+perc_below_poverty_1y,2012, Ohio,Columbiana County,39029,0.151488766,15482,102199
+perc_below_poverty_1y,2012, Ohio,Cuyahoga County,39035,0.185830772,230246,1239009
+perc_below_poverty_1y,2012, Ohio,Delaware County,39041,0.042646714,7597,178138
+perc_below_poverty_1y,2012, Ohio,Erie County,39043,0.103985056,7849,75482
+perc_below_poverty_1y,2012, Ohio,Fairfield County,39045,0.105384409,15233,144547
+perc_below_poverty_1y,2012, Ohio,Franklin County,39049,0.178819597,209041,1169005
+perc_below_poverty_1y,2012, Ohio,Geauga County,39055,0.082952634,7699,92812
+perc_below_poverty_1y,2012, Ohio,Greene County,39057,0.136686146,20998,153622
+perc_below_poverty_1y,2012, Ohio,Hamilton County,39061,0.198223799,155236,783135
+perc_below_poverty_1y,2012, Ohio,Hancock County,39063,0.182187602,13450,73825
+perc_below_poverty_1y,2012, Ohio,Jefferson County,39081,0.150556356,9945,66055
+perc_below_poverty_1y,2012, Ohio,Lake County,39085,0.095436253,21650,226853
+perc_below_poverty_1y,2012, Ohio,Licking County,39089,0.146133989,23897,163528
+perc_below_poverty_1y,2012, Ohio,Lorain County,39093,0.144497052,41992,290608
+perc_below_poverty_1y,2012, Ohio,Lucas County,39095,0.227379039,97029,426728
+perc_below_poverty_1y,2012, Ohio,Mahoning County,39099,0.189295262,42974,227021
+perc_below_poverty_1y,2012, Ohio,Marion County,39101,0.19190377,11183,58274
+perc_below_poverty_1y,2012, Ohio,Medina County,39103,0.076746128,13245,172582
+perc_below_poverty_1y,2012, Ohio,Miami County,39109,0.143934503,14696,102102
+perc_below_poverty_1y,2012, Ohio,Montgomery County,39113,0.18682459,96814,518208
+perc_below_poverty_1y,2012, Ohio,Muskingum County,39119,0.20335114,17015,83673
+perc_below_poverty_1y,2012, Ohio,Portage County,39133,0.154270649,23930,155117
+perc_below_poverty_1y,2012, Ohio,Richland County,39139,0.189118862,21729,114896
+perc_below_poverty_1y,2012, Ohio,Ross County,39141,0.195295691,13982,71594
+perc_below_poverty_1y,2012, Ohio,Scioto County,39145,0.241459146,17938,74290
+perc_below_poverty_1y,2012, Ohio,Stark County,39151,0.144826308,52954,365638
+perc_below_poverty_1y,2012, Ohio,Summit County,39153,0.157961622,84022,531914
+perc_below_poverty_1y,2012, Ohio,Trumbull County,39155,0.178560689,36243,202973
+perc_below_poverty_1y,2012, Ohio,Tuscarawas County,39157,0.129085064,11751,91033
+perc_below_poverty_1y,2012, Ohio,Warren County,39165,0.062532589,13311,212865
+perc_below_poverty_1y,2012, Ohio,Wayne County,39169,0.114234775,12686,111052
+perc_below_poverty_1y,2012, Ohio,Wood County,39173,0.146923766,17822,121301
+perc_below_poverty_1y,2012, Oklahoma,Canadian County,40017,0.072846472,8756,120198
+perc_below_poverty_1y,2012, Oklahoma,Cleveland County,40027,0.12574321,31977,254304
+perc_below_poverty_1y,2012, Oklahoma,Comanche County,40031,0.168227255,19673,116943
+perc_below_poverty_1y,2012, Oklahoma,Creek County,40037,0.15824075,11024,69666
+perc_below_poverty_1y,2012, Oklahoma,Muskogee County,40101,0.224042237,14854,66300
+perc_below_poverty_1y,2012, Oklahoma,Oklahoma County,40109,0.195278242,142194,728161
+perc_below_poverty_1y,2012, Oklahoma,Payne County,40119,0.261012226,18215,69786
+perc_below_poverty_1y,2012, Oklahoma,Pottawatomie County,40125,0.192847192,12882,66799
+perc_below_poverty_1y,2012, Oklahoma,Rogers County,40131,0.095550701,8311,86980
+perc_below_poverty_1y,2012, Oklahoma,Tulsa County,40143,0.163329154,98576,603542
+perc_below_poverty_1y,2012, Oklahoma,Wagoner County,40145,0.104630597,7809,74634
+perc_below_poverty_1y,2012, Oregon,Benton County,41003,0.231865093,18961,81776
+perc_below_poverty_1y,2012, Oregon,Clackamas County,41005,0.08834213,33708,381562
+perc_below_poverty_1y,2012, Oregon,Deschutes County,41017,0.167684048,27003,161035
+perc_below_poverty_1y,2012, Oregon,Douglas County,41019,0.219183385,23201,105852
+perc_below_poverty_1y,2012, Oregon,Jackson County,41029,0.177209482,36200,204278
+perc_below_poverty_1y,2012, Oregon,Josephine County,41033,0.21871689,17956,82097
+perc_below_poverty_1y,2012, Oregon,Klamath County,41035,0.189813673,12347,65048
+perc_below_poverty_1y,2012, Oregon,Lane County,41039,0.224774867,78203,347917
+perc_below_poverty_1y,2012, Oregon,Linn County,41043,0.180606022,21076,116696
+perc_below_poverty_1y,2012, Oregon,Marion County,41047,0.202737361,63398,312710
+perc_below_poverty_1y,2012, Oregon,Multnomah County,41051,0.182680517,136158,745334
+perc_below_poverty_1y,2012, Oregon,Polk County,41053,0.184583664,13786,74687
+perc_below_poverty_1y,2012, Oregon,Umatilla County,41059,0.171001017,12250,71637
+perc_below_poverty_1y,2012, Oregon,Washington County,41067,0.122543357,66406,541898
+perc_below_poverty_1y,2012, Oregon,Yamhill County,41071,0.198566034,18860,94981
+perc_below_poverty_1y,2012, Pennsylvania,Adams County,42001,0.096855722,9389,96938
+perc_below_poverty_1y,2012, Pennsylvania,Allegheny County,42003,0.127628803,152721,1196603
+perc_below_poverty_1y,2012, Pennsylvania,Armstrong County,42005,0.131816968,8919,67662
+perc_below_poverty_1y,2012, Pennsylvania,Beaver County,42007,0.114071958,19105,167482
+perc_below_poverty_1y,2012, Pennsylvania,Berks County,42011,0.146439791,58702,400861
+perc_below_poverty_1y,2012, Pennsylvania,Blair County,42013,0.128129974,15955,124522
+perc_below_poverty_1y,2012, Pennsylvania,Bucks County,42017,0.054104164,33471,618640
+perc_below_poverty_1y,2012, Pennsylvania,Butler County,42019,0.095700443,17190,179623
+perc_below_poverty_1y,2012, Pennsylvania,Cambria County,42021,0.144981444,19334,133355
+perc_below_poverty_1y,2012, Pennsylvania,Carbon County,42025,0.083713613,5320,63550
+perc_below_poverty_1y,2012, Pennsylvania,Centre County,42027,0.209774539,29123,138830
+perc_below_poverty_1y,2012, Pennsylvania,Chester County,42029,0.076295249,37700,494133
+perc_below_poverty_1y,2012, Pennsylvania,Clearfield County,42033,0.136878848,10313,75344
+perc_below_poverty_1y,2012, Pennsylvania,Columbia County,42037,0.118105583,7394,62605
+perc_below_poverty_1y,2012, Pennsylvania,Crawford County,42039,0.154363379,12948,83880
+perc_below_poverty_1y,2012, Pennsylvania,Cumberland County,42041,0.113904595,25643,225127
+perc_below_poverty_1y,2012, Pennsylvania,Dauphin County,42043,0.133880302,35589,265827
+perc_below_poverty_1y,2012, Pennsylvania,Delaware County,42045,0.118498191,63953,539696
+perc_below_poverty_1y,2012, Pennsylvania,Erie County,42049,0.158494115,42462,267909
+perc_below_poverty_1y,2012, Pennsylvania,Fayette County,42051,0.164969683,21630,131115
+perc_below_poverty_1y,2012, Pennsylvania,Franklin County,42055,0.134599924,20099,149324
+perc_below_poverty_1y,2012, Pennsylvania,Indiana County,42063,0.173774034,14295,82262
+perc_below_poverty_1y,2012, Pennsylvania,Lackawanna County,42069,0.146966591,30368,206632
+perc_below_poverty_1y,2012, Pennsylvania,Lancaster County,42071,0.11840824,60668,512363
+perc_below_poverty_1y,2012, Pennsylvania,Lawrence County,42073,0.142351881,12477,87649
+perc_below_poverty_1y,2012, Pennsylvania,Lebanon County,42075,0.130074054,17214,132340
+perc_below_poverty_1y,2012, Pennsylvania,Lehigh County,42077,0.119251646,41304,346360
+perc_below_poverty_1y,2012, Pennsylvania,Luzerne County,42079,0.163862899,50700,309405
+perc_below_poverty_1y,2012, Pennsylvania,Lycoming County,42081,0.12928012,14419,111533
+perc_below_poverty_1y,2012, Pennsylvania,Mercer County,42085,0.130415887,14105,108154
+perc_below_poverty_1y,2012, Pennsylvania,Monroe County,42089,0.137589991,22857,166124
+perc_below_poverty_1y,2012, Pennsylvania,Montgomery County,42091,0.064692073,50989,788180
+perc_below_poverty_1y,2012, Pennsylvania,Northampton County,42095,0.109284796,31595,289107
+perc_below_poverty_1y,2012, Pennsylvania,Northumberland County,42097,0.142463967,12682,89019
+perc_below_poverty_1y,2012, Pennsylvania,Philadelphia County,42101,0.269330651,405689,1506286
+perc_below_poverty_1y,2012, Pennsylvania,Schuylkill County,42107,0.152197376,21295,139917
+perc_below_poverty_1y,2012, Pennsylvania,Somerset County,42111,0.11244376,8147,72454
+perc_below_poverty_1y,2012, Pennsylvania,Washington County,42125,0.105262123,21458,203853
+perc_below_poverty_1y,2012, Pennsylvania,Westmoreland County,42129,0.108180285,38363,354621
+perc_below_poverty_1y,2012, Pennsylvania,York County,42133,0.106934421,45934,429553
+perc_below_poverty_1y,2012, Puerto Rico,Arecibo Municipio,72013,0.483389497,44889,92863
+perc_below_poverty_1y,2012, Puerto Rico,Bayamón Municipio,72021,0.357026875,70360,197072
+perc_below_poverty_1y,2012, Puerto Rico,Caguas Municipio,72025,0.360468,50804,140939
+perc_below_poverty_1y,2012, Puerto Rico,Carolina Municipio,72031,0.296952099,51101,172085
+perc_below_poverty_1y,2012, Puerto Rico,Guaynabo Municipio,72061,0.286125928,27406,95783
+perc_below_poverty_1y,2012, Puerto Rico,Mayagüez Municipio,72097,0.47663781,40539,85052
+perc_below_poverty_1y,2012, Puerto Rico,Ponce Municipio,72113,0.514691651,80926,157232
+perc_below_poverty_1y,2012, Puerto Rico,San Juan Municipio,72127,0.399502546,150338,376313
+perc_below_poverty_1y,2012, Puerto Rico,Toa Alta Municipio,72135,0.332767248,25081,75371
+perc_below_poverty_1y,2012, Puerto Rico,Toa Baja Municipio,72137,0.393686742,34422,87435
+perc_below_poverty_1y,2012, Puerto Rico,Trujillo Alto Municipio,72139,0.243247285,17858,73415
+perc_below_poverty_1y,2012, Rhode Island,Kent County,44003,0.093879879,15315,163134
+perc_below_poverty_1y,2012, Rhode Island,Newport County,44005,0.108605415,8582,79020
+perc_below_poverty_1y,2012, Rhode Island,Providence County,44007,0.169639215,102191,602402
+perc_below_poverty_1y,2012, Rhode Island,Washington County,44009,0.082235225,9854,119827
+perc_below_poverty_1y,2012, South Carolina,Aiken County,45003,0.168824211,27074,160368
+perc_below_poverty_1y,2012, South Carolina,Anderson County,45007,0.179816395,33612,186924
+perc_below_poverty_1y,2012, South Carolina,Beaufort County,45013,0.125147834,20316,162336
+perc_below_poverty_1y,2012, South Carolina,Berkeley County,45015,0.130810648,24347,186124
+perc_below_poverty_1y,2012, South Carolina,Charleston County,45019,0.181786776,64194,353128
+perc_below_poverty_1y,2012, South Carolina,Darlington County,45031,0.257336795,17213,66889
+perc_below_poverty_1y,2012, South Carolina,Dorchester County,45035,0.103386134,14515,140396
+perc_below_poverty_1y,2012, South Carolina,Florence County,45041,0.192051515,25921,134969
+perc_below_poverty_1y,2012, South Carolina,Greenville County,45045,0.166301891,75832,455990
+perc_below_poverty_1y,2012, South Carolina,Greenwood County,45047,0.226677537,15286,67435
+perc_below_poverty_1y,2012, South Carolina,Horry County,45051,0.200227663,55937,279367
+perc_below_poverty_1y,2012, South Carolina,Lancaster County,45057,0.222459525,17082,76787
+perc_below_poverty_1y,2012, South Carolina,Laurens County,45059,0.223056227,14264,63948
+perc_below_poverty_1y,2012, South Carolina,Lexington County,45063,0.150806472,40400,267893
+perc_below_poverty_1y,2012, South Carolina,Oconee County,45073,0.191116691,14152,74049
+perc_below_poverty_1y,2012, South Carolina,Orangeburg County,45075,0.244064957,21538,88247
+perc_below_poverty_1y,2012, South Carolina,Pickens County,45077,0.193746388,21433,110624
+perc_below_poverty_1y,2012, South Carolina,Richland County,45079,0.165188894,59971,363045
+perc_below_poverty_1y,2012, South Carolina,Spartanburg County,45083,0.199664697,56214,281542
+perc_below_poverty_1y,2012, South Carolina,Sumter County,45085,0.182135463,19100,104867
+perc_below_poverty_1y,2012, South Carolina,York County,45091,0.131070092,30211,230495
+perc_below_poverty_1y,2012, South Dakota,Minnehaha County,46099,0.11676529,19949,170847
+perc_below_poverty_1y,2012, South Dakota,Pennington County,46103,0.123705745,12533,101313
+perc_below_poverty_1y,2012, Tennessee,Anderson County,47001,0.199870691,14839,74243
+perc_below_poverty_1y,2012, Tennessee,Blount County,47009,0.146324828,17801,121654
+perc_below_poverty_1y,2012, Tennessee,Bradley County,47011,0.203744456,19904,97691
+perc_below_poverty_1y,2012, Tennessee,Davidson County,47037,0.189451844,118465,625304
+perc_below_poverty_1y,2012, Tennessee,Greene County,47059,0.252266526,16890,66953
+perc_below_poverty_1y,2012, Tennessee,Hamilton County,47065,0.14972347,50299,335946
+perc_below_poverty_1y,2012, Tennessee,Knox County,47093,0.161050037,69037,428668
+perc_below_poverty_1y,2012, Tennessee,Madison County,47113,0.172777012,16419,95030
+perc_below_poverty_1y,2012, Tennessee,Maury County,47119,0.191322625,15478,80900
+perc_below_poverty_1y,2012, Tennessee,Montgomery County,47125,0.183099374,33117,180869
+perc_below_poverty_1y,2012, Tennessee,Putnam County,47141,0.264557719,18591,70272
+perc_below_poverty_1y,2012, Tennessee,Robertson County,47147,0.115178101,7615,66115
+perc_below_poverty_1y,2012, Tennessee,Rutherford County,47149,0.129202604,34744,268911
+perc_below_poverty_1y,2012, Tennessee,Sevier County,47155,0.129843324,11826,91079
+perc_below_poverty_1y,2012, Tennessee,Shelby County,47157,0.217096359,200396,923074
+perc_below_poverty_1y,2012, Tennessee,Sullivan County,47163,0.175062045,27014,154311
+perc_below_poverty_1y,2012, Tennessee,Sumner County,47165,0.075485699,12410,164402
+perc_below_poverty_1y,2012, Tennessee,Washington County,47179,0.17425333,21062,120870
+perc_below_poverty_1y,2012, Tennessee,Williamson County,47187,0.071207121,13689,192242
+perc_below_poverty_1y,2012, Tennessee,Wilson County,47189,0.095041461,11163,117454
+perc_below_poverty_1y,2012, Texas,Angelina County,48005,0.212345362,18057,85036
+perc_below_poverty_1y,2012, Texas,Bastrop County,48021,0.10721124,7783,72595
+perc_below_poverty_1y,2012, Texas,Bell County,48027,0.147012815,45954,312585
+perc_below_poverty_1y,2012, Texas,Bexar County,48029,0.191675156,335559,1750665
+perc_below_poverty_1y,2012, Texas,Bowie County,48037,0.202024266,17565,86945
+perc_below_poverty_1y,2012, Texas,Brazoria County,48039,0.114316188,35909,314120
+perc_below_poverty_1y,2012, Texas,Brazos County,48041,0.285508901,53419,187101
+perc_below_poverty_1y,2012, Texas,Cameron County,48061,0.360744327,148267,411003
+perc_below_poverty_1y,2012, Texas,Collin County,48085,0.080486439,66813,830115
+perc_below_poverty_1y,2012, Texas,Comal County,48091,0.097386628,11008,113034
+perc_below_poverty_1y,2012, Texas,Coryell County,48099,0.150207236,9640,64178
+perc_below_poverty_1y,2012, Texas,Dallas County,48113,0.194155887,470656,2424114
+perc_below_poverty_1y,2012, Texas,Denton County,48121,0.089729764,62335,694697
+perc_below_poverty_1y,2012, Texas,Ector County,48135,0.125586078,17866,142261
+perc_below_poverty_1y,2012, Texas,El Paso County,48141,0.240261123,195247,812645
+perc_below_poverty_1y,2012, Texas,Ellis County,48139,0.100387372,15238,151792
+perc_below_poverty_1y,2012, Texas,Fort Bend County,48157,0.087512396,54437,622049
+perc_below_poverty_1y,2012, Texas,Galveston County,48167,0.116324268,34296,294831
+perc_below_poverty_1y,2012, Texas,Grayson County,48181,0.168220356,19940,118535
+perc_below_poverty_1y,2012, Texas,Gregg County,48183,0.201416373,23976,119037
+perc_below_poverty_1y,2012, Texas,Guadalupe County,48187,0.073422588,10118,137805
+perc_below_poverty_1y,2012, Texas,Harris County,48201,0.187501132,789595,4211148
+perc_below_poverty_1y,2012, Texas,Harrison County,48203,0.179446742,11832,65936
+perc_below_poverty_1y,2012, Texas,Hays County,48209,0.178471044,28953,162228
+perc_below_poverty_1y,2012, Texas,Henderson County,48213,0.248257354,19339,77899
+perc_below_poverty_1y,2012, Texas,Hidalgo County,48215,0.344909281,274713,796479
+perc_below_poverty_1y,2012, Texas,Hunt County,48231,0.21236895,17846,84033
+perc_below_poverty_1y,2012, Texas,Jefferson County,48245,0.211523473,49660,234773
+perc_below_poverty_1y,2012, Texas,Johnson County,48251,0.127939075,19235,150345
+perc_below_poverty_1y,2012, Texas,Kaufman County,48257,0.157934234,16627,105278
+perc_below_poverty_1y,2012, Texas,Liberty County,48291,0.174752012,12244,70065
+perc_below_poverty_1y,2012, Texas,Lubbock County,48303,0.225770399,62011,274664
+perc_below_poverty_1y,2012, Texas,McLennan County,48309,0.197079048,45165,229172
+perc_below_poverty_1y,2012, Texas,Midland County,48329,0.062580928,9086,145188
+perc_below_poverty_1y,2012, Texas,Montgomery County,48339,0.129937783,62462,480707
+perc_below_poverty_1y,2012, Texas,Nacogdoches County,48347,0.242351741,14687,60602
+perc_below_poverty_1y,2012, Texas,Nueces County,48355,0.167777658,57336,341738
+perc_below_poverty_1y,2012, Texas,Orange County,48361,0.17643337,14500,82184
+perc_below_poverty_1y,2012, Texas,Parker County,48367,0.099061988,11543,116523
+perc_below_poverty_1y,2012, Texas,Potter County,48375,0.233612463,27089,115957
+perc_below_poverty_1y,2012, Texas,Randall County,48381,0.128977358,15837,122789
+perc_below_poverty_1y,2012, Texas,Rockwall County,48397,0.065281361,5369,82244
+perc_below_poverty_1y,2012, Texas,San Patricio County,48409,0.133236676,8638,64832
+perc_below_poverty_1y,2012, Texas,Smith County,48423,0.175988644,37075,210667
+perc_below_poverty_1y,2012, Texas,Tarrant County,48439,0.156820312,291069,1856067
+perc_below_poverty_1y,2012, Texas,Taylor County,48441,0.198786482,25456,128057
+perc_below_poverty_1y,2012, Texas,Tom Green County,48451,0.162141755,17397,107295
+perc_below_poverty_1y,2012, Texas,Travis County,48453,0.184316188,197657,1072380
+perc_below_poverty_1y,2012, Texas,Victoria County,48469,0.168346927,14845,88181
+perc_below_poverty_1y,2012, Texas,Walker County,48471,0.227076516,10416,45870
+perc_below_poverty_1y,2012, Texas,Webb County,48479,0.320504159,81651,254758
+perc_below_poverty_1y,2012, Texas,Wichita County,48485,0.15441747,18130,117409
+perc_below_poverty_1y,2012, Texas,Williamson County,48491,0.077422552,34972,451703
+perc_below_poverty_1y,2012, Utah,Cache County,49005,0.165638998,18482,111580
+perc_below_poverty_1y,2012, Utah,Davis County,49011,0.083560281,26264,314312
+perc_below_poverty_1y,2012, Utah,Salt Lake County,49035,0.131438732,138015,1050033
+perc_below_poverty_1y,2012, Utah,Utah County,49049,0.142630875,75195,527200
+perc_below_poverty_1y,2012, Utah,Washington County,49053,0.162884548,23127,141984
+perc_below_poverty_1y,2012, Utah,Weber County,49057,0.126861557,29440,232064
+perc_below_poverty_1y,2012, Vermont,Chittenden County,50007,0.118118182,17565,148707
+perc_below_poverty_1y,2012, Virginia,Albemarle County,51003,0.09489695,8928,94081
+perc_below_poverty_1y,2012, Virginia,Alexandria city,51510,0.076080516,11037,145070
+perc_below_poverty_1y,2012, Virginia,Arlington County,51013,0.088097237,19200,217941
+perc_below_poverty_1y,2012, Virginia,Augusta County,51015,0.098836794,6891,69721
+perc_below_poverty_1y,2012, Virginia,Bedford County,51019,0.101950303,7057,69220
+perc_below_poverty_1y,2012, Virginia,Chesapeake city,51550,0.107355624,23679,220566
+perc_below_poverty_1y,2012, Virginia,Chesterfield County,51041,0.068493754,21773,317883
+perc_below_poverty_1y,2012, Virginia,Fairfax County,51059,0.058250729,64600,1108999
+perc_below_poverty_1y,2012, Virginia,Fauquier County,51061,0.054200582,3589,66217
+perc_below_poverty_1y,2012, Virginia,Frederick County,51069,0.082133956,6460,78652
+perc_below_poverty_1y,2012, Virginia,Hampton city,51650,0.170793384,22556,132066
+perc_below_poverty_1y,2012, Virginia,Hanover County,51085,0.067085467,6621,98695
+perc_below_poverty_1y,2012, Virginia,Henrico County,51087,0.100972101,31483,311799
+perc_below_poverty_1y,2012, Virginia,James City County,51095,0.099916331,6807,68127
+perc_below_poverty_1y,2012, Virginia,Loudoun County,51107,0.040751547,13673,335521
+perc_below_poverty_1y,2012, Virginia,Lynchburg city,51680,0.247325286,16598,67110
+perc_below_poverty_1y,2012, Virginia,Montgomery County,51121,0.254256397,21863,85988
+perc_below_poverty_1y,2012, Virginia,Newport News city,51700,0.161094725,27736,172172
+perc_below_poverty_1y,2012, Virginia,Norfolk city,51710,0.21237509,46820,220459
+perc_below_poverty_1y,2012, Virginia,Portsmouth city,51740,0.19152005,18059,94293
+perc_below_poverty_1y,2012, Virginia,Prince William County,51153,0.064287744,27359,425571
+perc_below_poverty_1y,2012, Virginia,Richmond city,51760,0.262959361,52559,199875
+perc_below_poverty_1y,2012, Virginia,Roanoke County,51161,0.068155944,6166,90469
+perc_below_poverty_1y,2012, Virginia,Roanoke city,51770,0.19772397,18886,95517
+perc_below_poverty_1y,2012, Virginia,Rockingham County,51165,0.109571703,8312,75859
+perc_below_poverty_1y,2012, Virginia,Spotsylvania County,51177,0.091547199,11386,124373
+perc_below_poverty_1y,2012, Virginia,Stafford County,51179,0.045366548,5882,129655
+perc_below_poverty_1y,2012, Virginia,Suffolk city,51800,0.107635751,9047,84052
+perc_below_poverty_1y,2012, Virginia,Virginia Beach city,51810,0.087799862,38317,436413
+perc_below_poverty_1y,2012, Virginia,York County,51199,0.106060371,6897,65029
+perc_below_poverty_1y,2012, Washington,Benton County,53005,0.134230465,24169,180056
+perc_below_poverty_1y,2012, Washington,Chelan County,53007,0.137808412,10037,72833
+perc_below_poverty_1y,2012, Washington,Clallam County,53009,0.128047571,9086,70958
+perc_below_poverty_1y,2012, Washington,Clark County,53011,0.115530893,50182,434360
+perc_below_poverty_1y,2012, Washington,Cowlitz County,53015,0.167172164,16756,100232
+perc_below_poverty_1y,2012, Washington,Franklin County,53021,0.167252585,13892,83060
+perc_below_poverty_1y,2012, Washington,Grant County,53025,0.191975847,17422,90751
+perc_below_poverty_1y,2012, Washington,Grays Harbor County,53027,0.208558187,14222,68192
+perc_below_poverty_1y,2012, Washington,Island County,53029,0.086606219,6686,77200
+perc_below_poverty_1y,2012, Washington,King County,53033,0.118959084,235177,1976957
+perc_below_poverty_1y,2012, Washington,Kitsap County,53035,0.110127747,27164,246659
+perc_below_poverty_1y,2012, Washington,Lewis County,53041,0.159153268,11834,74356
+perc_below_poverty_1y,2012, Washington,Pierce County,53053,0.126231208,100373,795152
+perc_below_poverty_1y,2012, Washington,Skagit County,53057,0.146707669,17129,116756
+perc_below_poverty_1y,2012, Washington,Snohomish County,53061,0.101903543,73689,723125
+perc_below_poverty_1y,2012, Washington,Spokane County,53063,0.159177557,73314,460580
+perc_below_poverty_1y,2012, Washington,Thurston County,53067,0.126362741,32269,255368
+perc_below_poverty_1y,2012, Washington,Whatcom County,53073,0.1655045,33039,199626
+perc_below_poverty_1y,2012, Washington,Yakima County,53077,0.230770499,55924,242336
+perc_below_poverty_1y,2012, West Virginia,Berkeley County,54003,0.14428699,15252,105706
+perc_below_poverty_1y,2012, West Virginia,Cabell County,54011,0.201208264,18751,93192
+perc_below_poverty_1y,2012, West Virginia,Harrison County,54033,0.229406774,15685,68372
+perc_below_poverty_1y,2012, West Virginia,Kanawha County,54039,0.139801204,26357,188532
+perc_below_poverty_1y,2012, West Virginia,Monongalia County,54061,0.23543781,21879,92929
+perc_below_poverty_1y,2012, West Virginia,Raleigh County,54081,0.177122205,13335,75287
+perc_below_poverty_1y,2012, West Virginia,Wood County,54107,0.182384342,15375,84300
+perc_below_poverty_1y,2012, Wisconsin,Brown County,55009,0.123807706,30503,246374
+perc_below_poverty_1y,2012, Wisconsin,Dane County,55025,0.131490722,64396,489738
+perc_below_poverty_1y,2012, Wisconsin,Dodge County,55027,0.088475749,7305,82565
+perc_below_poverty_1y,2012, Wisconsin,Eau Claire County,55035,0.158310875,15157,95742
+perc_below_poverty_1y,2012, Wisconsin,Fond du Lac County,55039,0.087211132,8608,98703
+perc_below_poverty_1y,2012, Wisconsin,Jefferson County,55055,0.103688933,8424,81243
+perc_below_poverty_1y,2012, Wisconsin,Kenosha County,55059,0.13468799,22046,163682
+perc_below_poverty_1y,2012, Wisconsin,La Crosse County,55063,0.144760177,16159,111626
+perc_below_poverty_1y,2012, Wisconsin,Manitowoc County,55071,0.097854339,7794,79649
+perc_below_poverty_1y,2012, Wisconsin,Marathon County,55073,0.109437563,14459,132121
+perc_below_poverty_1y,2012, Wisconsin,Milwaukee County,55079,0.223280579,208578,934152
+perc_below_poverty_1y,2012, Wisconsin,Outagamie County,55087,0.092125863,16182,175651
+perc_below_poverty_1y,2012, Wisconsin,Ozaukee County,55089,0.054729562,4686,85621
+perc_below_poverty_1y,2012, Wisconsin,Portage County,55097,0.163877949,10940,66757
+perc_below_poverty_1y,2012, Wisconsin,Racine County,55101,0.132439882,25180,190124
+perc_below_poverty_1y,2012, Wisconsin,Rock County,55105,0.155476257,24314,156384
+perc_below_poverty_1y,2012, Wisconsin,Sheboygan County,55117,0.115168892,12895,111966
+perc_below_poverty_1y,2012, Wisconsin,St. Croix County,55109,0.070411861,5946,84446
+perc_below_poverty_1y,2012, Wisconsin,Walworth County,55127,0.142786935,14235,99694
+perc_below_poverty_1y,2012, Wisconsin,Washington County,55131,0.060835604,7991,131354
+perc_below_poverty_1y,2012, Wisconsin,Waukesha County,55133,0.059359882,22981,387147
+perc_below_poverty_1y,2012, Wisconsin,Winnebago County,55139,0.11220476,17772,158389
+perc_below_poverty_1y,2012, Wisconsin,Wood County,55141,0.092757188,6794,73245
+perc_below_poverty_1y,2012, Wyoming,Laramie County,56021,0.106820084,9822,91949
+perc_below_poverty_1y,2012, Wyoming,Natrona County,56025,0.128404364,9816,76446
