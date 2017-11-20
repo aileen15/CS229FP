@@ -1,0 +1,3110 @@
+state,county,value
+Alabama,Autauga,0.0770
+Alabama,Baldwin,0.1030
+Alabama,Barbour,0.0720
+Alabama,Bibb,0.0090
+Alabama,Blount,0.0560
+Alabama,Bullock,0.0530
+Alabama,Butler,0.0240
+Alabama,Calhoun,0.0340
+Alabama,Chambers,0.0010
+Alabama,Cherokee,0.0980
+Alabama,Chilton,0.0280
+Alabama,Choctaw,0.0140
+Alabama,Clarke,0.0050
+Alabama,Clay,0.0000
+Alabama,Cleburne,0.0000
+Alabama,Coffee,0.1420
+Alabama,Colbert,0.1050
+Alabama,Conecuh,0.0340
+Alabama,Coosa,0.0010
+Alabama,Covington,0.0340
+Alabama,Crenshaw,0.0510
+Alabama,Cullman,0.0580
+Alabama,Dale,0.1340
+Alabama,Dallas,0.0710
+Alabama,DeKalb,0.0730
+Alabama,Elmore,0.0700
+Alabama,Escambia,0.1150
+Alabama,Etowah,0.0450
+Alabama,Fayette,0.0450
+Alabama,Franklin,0.0200
+Alabama,Geneva,0.2320
+Alabama,Greene,0.0370
+Alabama,Hale,0.0440
+Alabama,Henry,0.2110
+Alabama,Houston,0.3150
+Alabama,Jackson,0.0680
+Alabama,Jefferson,0.0110
+Alabama,Lamar,0.0170
+Alabama,Lauderdale,0.1170
+Alabama,Lawrence,0.1030
+Alabama,Lee,0.0370
+Alabama,Limestone,0.1890
+Alabama,Lowndes,0.1210
+Alabama,Macon,0.0580
+Alabama,Madison,0.2070
+Alabama,Marengo,0.0140
+Alabama,Marion,0.0210
+Alabama,Marshall,0.0570
+Alabama,Mobile,0.0250
+Alabama,Monroe,0.0730
+Alabama,Montgomery,0.1060
+Alabama,Morgan,0.0680
+Alabama,Perry,0.0550
+Alabama,Pickens,0.0440
+Alabama,Pike,0.0760
+Alabama,Randolph,0.0000
+Alabama,Russell,0.0590
+Alabama,Shelby,0.0310
+Alabama,St. Clair,0.0280
+Alabama,Sumter,0.0190
+Alabama,Talladega,0.0550
+Alabama,Tallapoosa,0.0030
+Alabama,Tuscaloosa,0.0220
+Alabama,Walker,0.0080
+Alabama,Washington,0.0140
+Alabama,Wilcox,0.0170
+Alabama,Winston,0.0120
+Arizona,Apache,0.0010
+Arizona,Cochise,0.0320
+Arizona,Coconino,0.0000
+Arizona,Gila,0.0000
+Arizona,Graham,0.0170
+Arizona,Greenlee,0.0010
+Arizona,La Paz,0.0040
+Arizona,Maricopa,0.0610
+Arizona,Mohave,0.0010
+Arizona,Navajo,0.0010
+Arizona,Pima,0.0050
+Arizona,Pinal,0.0990
+Arizona,Santa Cruz,0.0030
+Arizona,Yavapai,0.0000
+Arizona,Yuma,0.0500
+Arkansas,Arkansas,0.5320
+Arkansas,Ashley,0.1970
+Arkansas,Baxter,0.0000
+Arkansas,Benton,0.0010
+Arkansas,Boone,0.0010
+Arkansas,Bradley,0.0020
+Arkansas,Calhoun,0.0010
+Arkansas,Carroll,0.0000
+Arkansas,Chicot,0.6480
+Arkansas,Clark,0.0140
+Arkansas,Clay,0.6570
+Arkansas,Cleburne,0.0020
+Arkansas,Cleveland,0.0010
+Arkansas,Columbia,0.0010
+Arkansas,Conway,0.0530
+Arkansas,Craighead,0.7140
+Arkansas,Crawford,0.0340
+Arkansas,Crittenden,0.7660
+Arkansas,Cross,0.7440
+Arkansas,Dallas,0.0010
+Arkansas,Desha,0.5620
+Arkansas,Drew,0.1360
+Arkansas,Faulkner,0.0470
+Arkansas,Franklin,0.0040
+Arkansas,Fulton,0.0010
+Arkansas,Garland,0.0010
+Arkansas,Grant,0.0020
+Arkansas,Greene,0.5870
+Arkansas,Hempstead,0.0090
+Arkansas,Hot Spring,0.0090
+Arkansas,Howard,0.0000
+Arkansas,Independence,0.1360
+Arkansas,Izard,0.0010
+Arkansas,Jackson,0.7190
+Arkansas,Jefferson,0.4760
+Arkansas,Johnson,0.0080
+Arkansas,Lafayette,0.1320
+Arkansas,Lawrence,0.5040
+Arkansas,Lee,0.7140
+Arkansas,Lincoln,0.4420
+Arkansas,Little River,0.0430
+Arkansas,Logan,0.0150
+Arkansas,Lonoke,0.5320
+Arkansas,Madison,0.0000
+Arkansas,Marion,0.0010
+Arkansas,Miller,0.1850
+Arkansas,Mississippi,0.8330
+Arkansas,Monroe,0.5450
+Arkansas,Montgomery,0.0000
+Arkansas,Nevada,0.0020
+Arkansas,Newton,0.0000
+Arkansas,Ouachita,0.0020
+Arkansas,Perry,0.0170
+Arkansas,Phillips,0.7090
+Arkansas,Pike,0.0000
+Arkansas,Poinsett,0.7610
+Arkansas,Polk,0.0000
+Arkansas,Pope,0.0140
+Arkansas,Prairie,0.5720
+Arkansas,Pulaski,0.1410
+Arkansas,Randolph,0.1900
+Arkansas,Saline,0.0030
+Arkansas,Scott,0.0000
+Arkansas,Searcy,0.0010
+Arkansas,Sebastian,0.0100
+Arkansas,Sevier,0.0010
+Arkansas,Sharp,0.0000
+Arkansas,St. Francis,0.6810
+Arkansas,Stone,0.0000
+Arkansas,Union,0.0010
+Arkansas,Van Buren,0.0010
+Arkansas,Washington,0.0010
+Arkansas,White,0.2050
+Arkansas,Woodruff,0.7190
+Arkansas,Yell,0.0160
+California,Alameda,0.0120
+California,Alpine,0.0000
+California,Amador,0.0090
+California,Butte,0.2330
+California,Calaveras,0.0010
+California,Colusa,0.4230
+California,Contra Costa,0.0820
+California,Del Norte,0.0030
+California,El Dorado,0.0000
+California,Fresno,0.3180
+California,Glenn,0.2750
+California,Humboldt,0.0000
+California,Imperial,0.0890
+California,Inyo,0.0020
+California,Kern,0.1760
+California,Kings,0.6240
+California,Lake,0.0130
+California,Lassen,0.0170
+California,Los Angeles,0.0070
+California,Madera,0.2220
+California,Marin,0.0000
+California,Mariposa,0.0000
+California,Mendocino,0.0080
+California,Merced,0.3570
+California,Modoc,0.0300
+California,Mono,0.0030
+California,Monterey,0.0980
+California,Napa,0.0690
+California,Nevada,0.0000
+California,Orange,0.0070
+California,Placer,0.0390
+California,Plumas,0.0010
+California,Riverside,0.0290
+California,Sacramento,0.2550
+California,San Benito,0.0410
+California,San Bernardino,0.0020
+California,San Diego,0.0170
+California,San Francisco,0.0000
+California,San Joaquin,0.5740
+California,San Luis Obispo,0.0330
+California,San Mateo,0.0160
+California,Santa Barbara,0.0510
+California,Santa Clara,0.0250
+California,Santa Cruz,0.0420
+California,Shasta,0.0150
+California,Sierra,0.0010
+California,Siskiyou,0.0300
+California,Solano,0.2640
+California,Sonoma,0.0490
+California,Stanislaus,0.3030
+California,Sutter,0.7330
+California,Tehama,0.0380
+California,Trinity,0.0000
+California,Tulare,0.2100
+California,Tuolumne,0.0000
+California,Ventura,0.0650
+California,Yolo,0.4910
+California,Yuba,0.2090
+Colorado,Adams,0.5710
+Colorado,Alamosa,0.0010
+Colorado,Arapahoe,0.3360
+Colorado,Archuleta,0.0010
+Colorado,Baca,0.3360
+Colorado,Bent,0.0810
+Colorado,Boulder,0.1050
+Colorado,Broomfield,0.3420
+Colorado,Chaffee,0.0020
+Colorado,Cheyenne,0.3680
+Colorado,Clear Creek,0.0000
+Colorado,Conejos,0.0000
+Colorado,Costilla,0.0200
+Colorado,Crowley,0.0370
+Colorado,Custer,0.0010
+Colorado,Delta,0.0380
+Colorado,Denver,0.1240
+Colorado,Dolores,0.0720
+Colorado,Douglas,0.0040
+Colorado,Eagle,0.0000
+Colorado,El Paso,0.0090
+Colorado,Elbert,0.0750
+Colorado,Fremont,0.0050
+Colorado,Garfield,0.0000
+Colorado,Gilpin,0.0000
+Colorado,Grand,0.0000
+Colorado,Gunnison,0.0000
+Colorado,Hinsdale,0.0000
+Colorado,Huerfano,0.0000
+Colorado,Jackson,0.0000
+Colorado,Jefferson,0.0020
+Colorado,Kiowa,0.3340
+Colorado,Kit Carson,0.5700
+Colorado,La Plata,0.0050
+Colorado,Lake,0.0000
+Colorado,Larimer,0.0630
+Colorado,Las Animas,0.0070
+Colorado,Lincoln,0.2310
+Colorado,Logan,0.3880
+Colorado,Mesa,0.0300
+Colorado,Mineral,0.0000
+Colorado,Moffat,0.0040
+Colorado,Montezuma,0.0490
+Colorado,Montrose,0.0250
+Colorado,Morgan,0.3250
+Colorado,Otero,0.0780
+Colorado,Ouray,0.0010
+Colorado,Park,0.0000
+Colorado,Phillips,0.8040
+Colorado,Pitkin,0.0000
+Colorado,Prowers,0.3440
+Colorado,Pueblo,0.0230
+Colorado,Rio Blanco,0.0010
+Colorado,Rio Grande,0.0010
+Colorado,Routt,0.0030
+Colorado,Saguache,0.0000
+Colorado,San Juan,0.0000
+Colorado,San Miguel,0.0070
+Colorado,Sedgwick,0.6040
+Colorado,Summit,0.0000
+Colorado,Teller,0.0000
+Colorado,Washington,0.4930
+Colorado,Weld,0.3150
+Colorado,Yuma,0.4070
+Connecticut,Fairfield,0.0020
+Connecticut,Hartford,0.0300
+Connecticut,Litchfield,0.0130
+Connecticut,Middlesex,0.0040
+Connecticut,New Haven,0.0050
+Connecticut,New London,0.0120
+Connecticut,Tolland,0.0230
+Connecticut,Windham,0.0110
+Delaware,Kent,0.3880
+Delaware,New Castle,0.2590
+Delaware,Sussex,0.3810
+District of Columbia,District of Columbia,0.0060
+Florida,Alachua,0.0430
+Florida,Baker,0.0130
+Florida,Bay,0.0020
+Florida,Bradford,0.0280
+Florida,Brevard,0.0790
+Florida,Broward,0.0040
+Florida,Calhoun,0.0420
+Florida,Charlotte,0.0840
+Florida,Citrus,0.0010
+Florida,Clay,0.0110
+Florida,Collier,0.0670
+Florida,Columbia,0.0390
+Florida,DeSoto,0.2450
+Florida,Dixie,0.0250
+Florida,Duval,0.0030
+Florida,Escambia,0.0880
+Florida,Flagler,0.0210
+Florida,Franklin,0.0010
+Florida,Gadsden,0.0580
+Florida,Gilchrist,0.1130
+Florida,Glades,0.1150
+Florida,Gulf,0.0010
+Florida,Hamilton,0.0640
+Florida,Hardee,0.1770
+Florida,Hendry,0.3790
+Florida,Hernando,0.0040
+Florida,Highlands,0.1650
+Florida,Hillsborough,0.0770
+Florida,Holmes,0.1320
+Florida,Indian River,0.2990
+Florida,Jackson,0.1700
+Florida,Jefferson,0.0450
+Florida,Lafayette,0.0380
+Florida,Lake,0.0660
+Florida,Lee,0.0560
+Florida,Leon,0.0210
+Florida,Levy,0.0690
+Florida,Liberty,0.0060
+Florida,Madison,0.0980
+Florida,Manatee,0.1810
+Florida,Marion,0.0330
+Florida,Martin,0.1930
+Florida,Miami-Dade,0.0550
+Florida,Monroe,0.0000
+Florida,Nassau,0.0080
+Florida,Okaloosa,0.0410
+Florida,Okeechobee,0.0470
+Florida,Orange,0.0450
+Florida,Osceola,0.0220
+Florida,Palm Beach,0.3620
+Florida,Pasco,0.0230
+Florida,Pinellas,0.0000
+Florida,Polk,0.0960
+Florida,Putnam,0.0240
+Florida,Santa Rosa,0.0980
+Florida,Sarasota,0.0170
+Florida,Seminole,0.0150
+Florida,St. Johns,0.0480
+Florida,St. Lucie,0.3720
+Florida,Sumter,0.0040
+Florida,Suwannee,0.1130
+Florida,Taylor,0.0180
+Florida,Union,0.0320
+Florida,Volusia,0.0080
+Florida,Wakulla,0.0150
+Florida,Walton,0.0460
+Florida,Washington,0.0230
+Georgia,Appling,0.1880
+Georgia,Atkinson,0.1400
+Georgia,Bacon,0.1900
+Georgia,Baker,0.2950
+Georgia,Baldwin,0.0150
+Georgia,Banks,0.0000
+Georgia,Barrow,0.0010
+Georgia,Bartow,0.0380
+Georgia,Ben Hill,0.1750
+Georgia,Berrien,0.2070
+Georgia,Bibb,0.0290
+Georgia,Bleckley,0.2190
+Georgia,Brantley,0.0300
+Georgia,Brooks,0.2570
+Georgia,Bryan,0.0220
+Georgia,Bulloch,0.2620
+Georgia,Burke,0.2150
+Georgia,Butts,0.0010
+Georgia,Calhoun,0.2900
+Georgia,Camden,0.0030
+Georgia,Candler,0.2250
+Georgia,Carroll,0.0000
+Georgia,Catoosa,0.0220
+Georgia,Charlton,0.0090
+Georgia,Chatham,0.0040
+Georgia,Chattahoochee,0.0110
+Georgia,Chattooga,0.0250
+Georgia,Cherokee,0.0020
+Georgia,Clarke,0.0030
+Georgia,Clay,0.1980
+Georgia,Clayton,0.0000
+Georgia,Clinch,0.0110
+Georgia,Cobb,0.0000
+Georgia,Coffee,0.2030
+Georgia,Colquitt,0.3130
+Georgia,Columbia,0.0070
+Georgia,Cook,0.2890
+Georgia,Coweta,0.0010
+Georgia,Crawford,0.0420
+Georgia,Crisp,0.3670
+Georgia,Dade,0.0150
+Georgia,Dawson,0.0000
+Georgia,Decatur,0.2680
+Georgia,DeKalb,0.0000
+Georgia,Dodge,0.1340
+Georgia,Dooly,0.4260
+Georgia,Dougherty,0.0860
+Georgia,Douglas,0.0000
+Georgia,Early,0.3070
+Georgia,Echols,0.0250
+Georgia,Effingham,0.0750
+Georgia,Elbert,0.0020
+Georgia,Emanuel,0.1350
+Georgia,Evans,0.1570
+Georgia,Fannin,0.0010
+Georgia,Fayette,0.0000
+Georgia,Floyd,0.0330
+Georgia,Forsyth,0.0000
+Georgia,Franklin,0.0010
+Georgia,Fulton,0.0000
+Georgia,Gilmer,0.0020
+Georgia,Glascock,0.0820
+Georgia,Glynn,0.0020
+Georgia,Gordon,0.0520
+Georgia,Grady,0.2520
+Georgia,Greene,0.0020
+Georgia,Gwinnett,0.0000
+Georgia,Habersham,0.0000
+Georgia,Hall,0.0000
+Georgia,Hancock,0.0030
+Georgia,Haralson,0.0000
+Georgia,Harris,0.0000
+Georgia,Hart,0.0050
+Georgia,Heard,0.0000
+Georgia,Henry,0.0010
+Georgia,Houston,0.1340
+Georgia,Irwin,0.3360
+Georgia,Jackson,0.0020
+Georgia,Jasper,0.0010
+Georgia,Jeff Davis,0.1800
+Georgia,Jefferson,0.1860
+Georgia,Jenkins,0.1830
+Georgia,Johnson,0.1060
+Georgia,Jones,0.0060
+Georgia,Lamar,0.0020
+Georgia,Lanier,0.1180
+Georgia,Laurens,0.1100
+Georgia,Lee,0.2700
+Georgia,Liberty,0.0050
+Georgia,Lincoln,0.0000
+Georgia,Long,0.0220
+Georgia,Lowndes,0.1170
+Georgia,Lumpkin,0.0000
+Georgia,Macon,0.2120
+Georgia,Madison,0.0010
+Georgia,Marion,0.1040
+Georgia,McDuffie,0.0300
+Georgia,McIntosh,0.0020
+Georgia,Meriwether,0.0010
+Georgia,Miller,0.4810
+Georgia,Mitchell,0.3550
+Georgia,Monroe,0.0000
+Georgia,Montgomery,0.1010
+Georgia,Morgan,0.0040
+Georgia,Murray,0.0260
+Georgia,Muscogee,0.0150
+Georgia,Newton,0.0030
+Georgia,Oconee,0.0030
+Georgia,Oglethorpe,0.0020
+Georgia,Paulding,0.0000
+Georgia,Peach,0.1630
+Georgia,Pickens,0.0020
+Georgia,Pierce,0.1630
+Georgia,Pike,0.0030
+Georgia,Polk,0.0270
+Georgia,Pulaski,0.3040
+Georgia,Putnam,0.0010
+Georgia,Quitman,0.0700
+Georgia,Rabun,0.0030
+Georgia,Randolph,0.1940
+Georgia,Richmond,0.0440
+Georgia,Rockdale,0.0000
+Georgia,Schley,0.1130
+Georgia,Screven,0.1850
+Georgia,Seminole,0.4250
+Georgia,Spalding,0.0020
+Georgia,Stephens,0.0000
+Georgia,Stewart,0.0760
+Georgia,Sumter,0.2480
+Georgia,Talbot,0.0080
+Georgia,Taliaferro,0.0010
+Georgia,Tattnall,0.1830
+Georgia,Taylor,0.1180
+Georgia,Telfair,0.0890
+Georgia,Terrell,0.2940
+Georgia,Thomas,0.2010
+Georgia,Tift,0.3290
+Georgia,Toombs,0.1600
+Georgia,Towns,0.0020
+Georgia,Treutlen,0.0810
+Georgia,Troup,0.0010
+Georgia,Turner,0.3460
+Georgia,Twiggs,0.0530
+Georgia,Union,0.0040
+Georgia,Upson,0.0000
+Georgia,Walker,0.0220
+Georgia,Walton,0.0040
+Georgia,Ware,0.0370
+Georgia,Warren,0.0160
+Georgia,Washington,0.0680
+Georgia,Wayne,0.0740
+Georgia,Webster,0.1860
+Georgia,Wheeler,0.0660
+Georgia,White,0.0000
+Georgia,Whitfield,0.0210
+Georgia,Wilcox,0.2230
+Georgia,Wilkes,0.0010
+Georgia,Wilkinson,0.0230
+Georgia,Worth,0.3220
+Idaho,Ada,0.1100
+Idaho,Adams,0.0050
+Idaho,Bannock,0.1890
+Idaho,Bear Lake,0.0170
+Idaho,Benewah,0.1120
+Idaho,Bingham,0.2690
+Idaho,Blaine,0.0190
+Idaho,Boise,0.0000
+Idaho,Bonner,0.0030
+Idaho,Bonneville,0.1970
+Idaho,Boundary,0.0520
+Idaho,Butte,0.0320
+Idaho,Camas,0.0040
+Idaho,Canyon,0.6040
+Idaho,Caribou,0.1590
+Idaho,Cassia,0.2000
+Idaho,Clark,0.0380
+Idaho,Clearwater,0.0130
+Idaho,Custer,0.0080
+Idaho,Elmore,0.0390
+Idaho,Franklin,0.2290
+Idaho,Fremont,0.1530
+Idaho,Gem,0.1310
+Idaho,Gooding,0.2360
+Idaho,Idaho,0.0370
+Idaho,Jefferson,0.3520
+Idaho,Jerome,0.3340
+Idaho,Kootenai,0.0610
+Idaho,Latah,0.3120
+Idaho,Lemhi,0.0030
+Idaho,Lewis,0.4940
+Idaho,Lincoln,0.0930
+Idaho,Madison,0.5530
+Idaho,Minidoka,0.3570
+Idaho,Nez Perce,0.3460
+Idaho,Oneida,0.1750
+Idaho,Owyhee,0.0230
+Idaho,Payette,0.2680
+Idaho,Power,0.2280
+Idaho,Shoshone,0.0000
+Idaho,Teton,0.3840
+Idaho,Twin Falls,0.2340
+Idaho,Valley,0.0040
+Idaho,Washington,0.0540
+Illinois,Adams,0.4630
+Illinois,Alexander,0.3200
+Illinois,Bond,0.5050
+Illinois,Boone,0.7640
+Illinois,Brown,0.3590
+Illinois,Bureau,0.7970
+Illinois,Calhoun,0.1840
+Illinois,Carroll,0.6270
+Illinois,Cass,0.6180
+Illinois,Champaign,0.8470
+Illinois,Christian,0.8130
+Illinois,Clark,0.6340
+Illinois,Clay,0.6100
+Illinois,Clinton,0.4980
+Illinois,Coles,0.7340
+Illinois,Cook,0.0200
+Illinois,Crawford,0.6350
+Illinois,Cumberland,0.6810
+Illinois,De Witt,0.7980
+Illinois,DeKalb,0.8530
+Illinois,Douglas,0.8610
+Illinois,DuPage,0.0250
+Illinois,Edgar,0.7990
+Illinois,Edwards,0.5710
+Illinois,Effingham,0.5560
+Illinois,Fayette,0.4720
+Illinois,Ford,0.9090
+Illinois,Franklin,0.3420
+Illinois,Fulton,0.4710
+Illinois,Gallatin,0.6260
+Illinois,Greene,0.5970
+Illinois,Grundy,0.7410
+Illinois,Hamilton,0.5130
+Illinois,Hancock,0.6010
+Illinois,Hardin,0.0660
+Illinois,Henderson,0.6430
+Illinois,Henry,0.8010
+Illinois,Iroquois,0.8790
+Illinois,Jackson,0.2440
+Illinois,Jasper,0.7090
+Illinois,Jefferson,0.3070
+Illinois,Jersey,0.4540
+Illinois,Jo Daviess,0.3740
+Illinois,Johnson,0.0800
+Illinois,Kane,0.5000
+Illinois,Kankakee,0.7970
+Illinois,Kendall,0.7640
+Illinois,Knox,0.6340
+Illinois,La Salle,0.7690
+Illinois,Lake,0.1120
+Illinois,Lawrence,0.6460
+Illinois,Lee,0.8360
+Illinois,Livingston,0.8940
+Illinois,Logan,0.8640
+Illinois,Macon,0.7640
+Illinois,Macoupin,0.6040
+Illinois,Madison,0.4290
+Illinois,Marion,0.4020
+Illinois,Marshall,0.7190
+Illinois,Mason,0.7220
+Illinois,Massac,0.3210
+Illinois,McDonough,0.6790
+Illinois,McHenry,0.4850
+Illinois,McLean,0.8370
+Illinois,Menard,0.7380
+Illinois,Mercer,0.7160
+Illinois,Monroe,0.4580
+Illinois,Montgomery,0.6640
+Illinois,Morgan,0.6860
+Illinois,Moultrie,0.7900
+Illinois,Ogle,0.7360
+Illinois,Peoria,0.4970
+Illinois,Perry,0.4090
+Illinois,Piatt,0.8790
+Illinois,Pike,0.4560
+Illinois,Pope,0.0960
+Illinois,Pulaski,0.3730
+Illinois,Putnam,0.5850
+Illinois,Randolph,0.3070
+Illinois,Richland,0.6550
+Illinois,Rock Island,0.4650
+Illinois,Saline,0.4430
+Illinois,Sangamon,0.7070
+Illinois,Schuyler,0.4140
+Illinois,Scott,0.6210
+Illinois,Shelby,0.6730
+Illinois,St. Clair,0.4520
+Illinois,Stark,0.8610
+Illinois,Stephenson,0.6690
+Illinois,Tazewell,0.6890
+Illinois,Union,0.1110
+Illinois,Vermilion,0.7780
+Illinois,Wabash,0.6800
+Illinois,Warren,0.7750
+Illinois,Washington,0.5350
+Illinois,Wayne,0.5580
+Illinois,White,0.6130
+Illinois,Whiteside,0.7830
+Illinois,Will,0.4740
+Illinois,Williamson,0.1130
+Illinois,Winnebago,0.5100
+Illinois,Woodford,0.7240
+Indiana,Adams,0.8160
+Indiana,Allen,0.6180
+Indiana,Bartholomew,0.5330
+Indiana,Benton,0.9160
+Indiana,Blackford,0.8070
+Indiana,Boone,0.8140
+Indiana,Brown,0.0270
+Indiana,Carroll,0.7880
+Indiana,Cass,0.7400
+Indiana,Clark,0.1880
+Indiana,Clay,0.5480
+Indiana,Clinton,0.8610
+Indiana,Crawford,0.0280
+Indiana,Daviess,0.6380
+Indiana,Dearborn,0.0820
+Indiana,Decatur,0.6870
+Indiana,DeKalb,0.6370
+Indiana,Delaware,0.7080
+Indiana,Dubois,0.3730
+Indiana,Elkhart,0.4270
+Indiana,Fayette,0.5360
+Indiana,Floyd,0.0480
+Indiana,Fountain,0.6770
+Indiana,Franklin,0.2830
+Indiana,Fulton,0.7760
+Indiana,Gibson,0.6940
+Indiana,Grant,0.7710
+Indiana,Greene,0.3240
+Indiana,Hamilton,0.6190
+Indiana,Hancock,0.7820
+Indiana,Harrison,0.1610
+Indiana,Hendricks,0.6820
+Indiana,Henry,0.7350
+Indiana,Howard,0.7740
+Indiana,Huntington,0.7230
+Indiana,Jackson,0.4480
+Indiana,Jasper,0.7820
+Indiana,Jay,0.8040
+Indiana,Jefferson,0.2120
+Indiana,Jennings,0.3790
+Indiana,Johnson,0.5690
+Indiana,Knox,0.7460
+Indiana,Kosciusko,0.6990
+Indiana,LaGrange,0.4520
+Indiana,Lake,0.3970
+Indiana,LaPorte,0.5730
+Indiana,Lawrence,0.1310
+Indiana,Madison,0.7430
+Indiana,Marion,0.1220
+Indiana,Marshall,0.7110
+Indiana,Martin,0.1430
+Indiana,Miami,0.7430
+Indiana,Monroe,0.0530
+Indiana,Montgomery,0.7820
+Indiana,Morgan,0.3670
+Indiana,Newton,0.7750
+Indiana,Noble,0.6370
+Indiana,Ohio,0.0850
+Indiana,Orange,0.1710
+Indiana,Owen,0.1860
+Indiana,Parke,0.4600
+Indiana,Perry,0.0860
+Indiana,Pike,0.4010
+Indiana,Porter,0.4830
+Indiana,Posey,0.6810
+Indiana,Pulaski,0.7780
+Indiana,Putnam,0.4940
+Indiana,Randolph,0.8190
+Indiana,Ripley,0.3710
+Indiana,Rush,0.8370
+Indiana,Scott,0.2770
+Indiana,Shelby,0.8050
+Indiana,Spencer,0.4890
+Indiana,St. Joseph,0.4820
+Indiana,Starke,0.6170
+Indiana,Steuben,0.3760
+Indiana,Sullivan,0.5870
+Indiana,Switzerland,0.0860
+Indiana,Tippecanoe,0.6580
+Indiana,Tipton,0.8970
+Indiana,Union,0.6250
+Indiana,Vanderburgh,0.4520
+Indiana,Vermillion,0.5560
+Indiana,Vigo,0.4680
+Indiana,Wabash,0.7370
+Indiana,Warren,0.7120
+Indiana,Warrick,0.4150
+Indiana,Washington,0.2410
+Indiana,Wayne,0.5900
+Indiana,Wells,0.8450
+Indiana,White,0.8470
+Indiana,Whitley,0.7560
+Iowa,Adair,0.5980
+Iowa,Adams,0.5010
+Iowa,Allamakee,0.2470
+Iowa,Appanoose,0.2180
+Iowa,Audubon,0.8040
+Iowa,Benton,0.7740
+Iowa,Black Hawk,0.7140
+Iowa,Boone,0.7590
+Iowa,Bremer,0.7130
+Iowa,Buchanan,0.7990
+Iowa,Buena Vista,0.8550
+Iowa,Butler,0.7810
+Iowa,Calhoun,0.8930
+Iowa,Carroll,0.8490
+Iowa,Cass,0.6920
+Iowa,Cedar,0.7390
+Iowa,Cerro Gordo,0.7890
+Iowa,Cherokee,0.8050
+Iowa,Chickasaw,0.7270
+Iowa,Clarke,0.2460
+Iowa,Clay,0.8070
+Iowa,Clayton,0.4000
+Iowa,Clinton,0.6760
+Iowa,Crawford,0.7670
+Iowa,Dallas,0.6880
+Iowa,Davis,0.2650
+Iowa,Decatur,0.2060
+Iowa,Delaware,0.7300
+Iowa,Des Moines,0.5330
+Iowa,Dickinson,0.7210
+Iowa,Dubuque,0.4320
+Iowa,Emmet,0.8140
+Iowa,Fayette,0.6610
+Iowa,Floyd,0.7640
+Iowa,Franklin,0.8520
+Iowa,Fremont,0.7180
+Iowa,Greene,0.8410
+Iowa,Grundy,0.8870
+Iowa,Guthrie,0.5820
+Iowa,Hamilton,0.8590
+Iowa,Hancock,0.8710
+Iowa,Hardin,0.7960
+Iowa,Harrison,0.7030
+Iowa,Henry,0.5700
+Iowa,Howard,0.7330
+Iowa,Humboldt,0.8750
+Iowa,Ida,0.8270
+Iowa,Iowa,0.5500
+Iowa,Jackson,0.2980
+Iowa,Jasper,0.6720
+Iowa,Jefferson,0.4910
+Iowa,Johnson,0.5140
+Iowa,Jones,0.6060
+Iowa,Keokuk,0.4840
+Iowa,Kossuth,0.8850
+Iowa,Lee,0.4420
+Iowa,Linn,0.5840
+Iowa,Louisa,0.5570
+Iowa,Lucas,0.2160
+Iowa,Lyon,0.8190
+Iowa,Madison,0.4430
+Iowa,Mahaska,0.6030
+Iowa,Marion,0.4470
+Iowa,Marshall,0.7580
+Iowa,Mills,0.7220
+Iowa,Mitchell,0.7980
+Iowa,Monona,0.6910
+Iowa,Monroe,0.2240
+Iowa,Montgomery,0.6670
+Iowa,Muscatine,0.5710
+Iowa,O'Brien,0.8700
+Iowa,Osceola,0.8800
+Iowa,Page,0.6290
+Iowa,Palo Alto,0.8650
+Iowa,Plymouth,0.7530
+Iowa,Pocahontas,0.9000
+Iowa,Polk,0.4790
+Iowa,Pottawattamie,0.7320
+Iowa,Poweshiek,0.6570
+Iowa,Ringgold,0.2990
+Iowa,Sac,0.8560
+Iowa,Scott,0.6230
+Iowa,Shelby,0.8450
+Iowa,Sioux,0.8440
+Iowa,Story,0.7880
+Iowa,Tama,0.6560
+Iowa,Taylor,0.4580
+Iowa,Union,0.3960
+Iowa,Van Buren,0.3210
+Iowa,Wapello,0.3930
+Iowa,Warren,0.4070
+Iowa,Washington,0.5860
+Iowa,Wayne,0.3000
+Iowa,Webster,0.8090
+Iowa,Winnebago,0.8520
+Iowa,Winneshiek,0.4740
+Iowa,Woodbury,0.6760
+Iowa,Worth,0.8300
+Iowa,Wright,0.8680
+Kansas,Allen,0.2790
+Kansas,Anderson,0.2610
+Kansas,Atchison,0.3490
+Kansas,Barber,0.2400
+Kansas,Barton,0.6430
+Kansas,Bourbon,0.1470
+Kansas,Brown,0.6480
+Kansas,Butler,0.1630
+Kansas,Chase,0.0660
+Kansas,Chautauqua,0.0420
+Kansas,Cherokee,0.4350
+Kansas,Cheyenne,0.4960
+Kansas,Clark,0.2220
+Kansas,Clay,0.4420
+Kansas,Cloud,0.4830
+Kansas,Coffey,0.1840
+Kansas,Comanche,0.2180
+Kansas,Cowley,0.2070
+Kansas,Crawford,0.3130
+Kansas,Decatur,0.5350
+Kansas,Dickinson,0.4510
+Kansas,Doniphan,0.6420
+Kansas,Douglas,0.1770
+Kansas,Edwards,0.6200
+Kansas,Elk,0.0450
+Kansas,Ellis,0.3950
+Kansas,Ellsworth,0.3350
+Kansas,Finney,0.6700
+Kansas,Ford,0.6640
+Kansas,Franklin,0.2340
+Kansas,Geary,0.1270
+Kansas,Gove,0.5210
+Kansas,Graham,0.4220
+Kansas,Grant,0.7230
+Kansas,Gray,0.7880
+Kansas,Greeley,0.7340
+Kansas,Greenwood,0.0370
+Kansas,Hamilton,0.5330
+Kansas,Harper,0.5620
+Kansas,Harvey,0.6530
+Kansas,Haskell,0.8420
+Kansas,Hodgeman,0.4890
+Kansas,Jackson,0.1510
+Kansas,Jefferson,0.1930
+Kansas,Jewell,0.4980
+Kansas,Johnson,0.1860
+Kansas,Kearny,0.5970
+Kansas,Kingman,0.4380
+Kansas,Kiowa,0.3770
+Kansas,Labette,0.2370
+Kansas,Lane,0.6400
+Kansas,Leavenworth,0.1540
+Kansas,Lincoln,0.4100
+Kansas,Linn,0.1980
+Kansas,Logan,0.4930
+Kansas,Lyon,0.1590
+Kansas,Marion,0.4080
+Kansas,Marshall,0.4940
+Kansas,McPherson,0.5950
+Kansas,Meade,0.4600
+Kansas,Miami,0.2150
+Kansas,Mitchell,0.5860
+Kansas,Montgomery,0.1540
+Kansas,Morris,0.1800
+Kansas,Morton,0.4960
+Kansas,Nemaha,0.4270
+Kansas,Neosho,0.2360
+Kansas,Ness,0.5310
+Kansas,Norton,0.4260
+Kansas,Osage,0.1650
+Kansas,Osborne,0.4320
+Kansas,Ottawa,0.3960
+Kansas,Pawnee,0.6900
+Kansas,Phillips,0.4030
+Kansas,Pottawatomie,0.1440
+Kansas,Pratt,0.6170
+Kansas,Rawlins,0.5000
+Kansas,Reno,0.5110
+Kansas,Republic,0.5890
+Kansas,Rice,0.6330
+Kansas,Riley,0.1720
+Kansas,Rooks,0.4040
+Kansas,Rush,0.6230
+Kansas,Russell,0.3150
+Kansas,Saline,0.4070
+Kansas,Scott,0.7730
+Kansas,Sedgwick,0.5040
+Kansas,Seward,0.5310
+Kansas,Shawnee,0.1850
+Kansas,Sheridan,0.5980
+Kansas,Sherman,0.6870
+Kansas,Smith,0.5160
+Kansas,Stafford,0.5940
+Kansas,Stanton,0.6730
+Kansas,Stevens,0.6680
+Kansas,Sumner,0.6850
+Kansas,Thomas,0.7830
+Kansas,Trego,0.4410
+Kansas,Wabaunsee,0.0970
+Kansas,Wallace,0.4240
+Kansas,Washington,0.4380
+Kansas,Wichita,0.7020
+Kansas,Wilson,0.2150
+Kansas,Woodson,0.1420
+Kansas,Wyandotte,0.1210
+Kentucky,Adair,0.0480
+Kentucky,Allen,0.0260
+Kentucky,Anderson,0.0160
+Kentucky,Ballard,0.4750
+Kentucky,Barren,0.0720
+Kentucky,Bath,0.0320
+Kentucky,Bell,0.0000
+Kentucky,Boone,0.0360
+Kentucky,Bourbon,0.0550
+Kentucky,Boyd,0.0040
+Kentucky,Boyle,0.0600
+Kentucky,Bracken,0.0210
+Kentucky,Breathitt,0.0000
+Kentucky,Breckinridge,0.0770
+Kentucky,Bullitt,0.0400
+Kentucky,Butler,0.1140
+Kentucky,Caldwell,0.2520
+Kentucky,Calloway,0.3420
+Kentucky,Campbell,0.0080
+Kentucky,Carlisle,0.4830
+Kentucky,Carroll,0.0460
+Kentucky,Carter,0.0030
+Kentucky,Casey,0.0310
+Kentucky,Christian,0.3060
+Kentucky,Clark,0.0220
+Kentucky,Clay,0.0010
+Kentucky,Clinton,0.0660
+Kentucky,Crittenden,0.1610
+Kentucky,Cumberland,0.0280
+Kentucky,Daviess,0.4940
+Kentucky,Edmonson,0.0280
+Kentucky,Elliott,0.0030
+Kentucky,Estill,0.0060
+Kentucky,Fayette,0.0410
+Kentucky,Fleming,0.0330
+Kentucky,Floyd,0.0020
+Kentucky,Franklin,0.0160
+Kentucky,Fulton,0.5540
+Kentucky,Gallatin,0.0350
+Kentucky,Garrard,0.0250
+Kentucky,Grant,0.0040
+Kentucky,Graves,0.3890
+Kentucky,Grayson,0.0520
+Kentucky,Green,0.0560
+Kentucky,Greenup,0.0120
+Kentucky,Hancock,0.1760
+Kentucky,Hardin,0.1340
+Kentucky,Harlan,0.0000
+Kentucky,Harrison,0.0320
+Kentucky,Hart,0.0180
+Kentucky,Henderson,0.5700
+Kentucky,Henry,0.0340
+Kentucky,Hickman,0.5560
+Kentucky,Hopkins,0.2550
+Kentucky,Jackson,0.0010
+Kentucky,Jefferson,0.0220
+Kentucky,Jessamine,0.0470
+Kentucky,Johnson,0.0030
+Kentucky,Kenton,0.0060
+Kentucky,Knott,0.0000
+Kentucky,Knox,0.0010
+Kentucky,Larue,0.1790
+Kentucky,Laurel,0.0010
+Kentucky,Lawrence,0.0040
+Kentucky,Lee,0.0020
+Kentucky,Leslie,0.0010
+Kentucky,Letcher,0.0000
+Kentucky,Lewis,0.0150
+Kentucky,Lincoln,0.0480
+Kentucky,Livingston,0.2160
+Kentucky,Logan,0.3460
+Kentucky,Lyon,0.1020
+Kentucky,Madison,0.0180
+Kentucky,Magoffin,0.0060
+Kentucky,Marion,0.1040
+Kentucky,Marshall,0.2120
+Kentucky,Martin,0.0070
+Kentucky,Mason,0.0490
+Kentucky,McCracken,0.3630
+Kentucky,McCreary,0.0000
+Kentucky,McLean,0.5940
+Kentucky,Meade,0.1100
+Kentucky,Menifee,0.0020
+Kentucky,Mercer,0.0500
+Kentucky,Metcalfe,0.0350
+Kentucky,Monroe,0.0380
+Kentucky,Montgomery,0.0200
+Kentucky,Morgan,0.0080
+Kentucky,Muhlenberg,0.1380
+Kentucky,Nelson,0.0980
+Kentucky,Nicholas,0.0230
+Kentucky,Ohio,0.1800
+Kentucky,Oldham,0.0650
+Kentucky,Owen,0.0040
+Kentucky,Owsley,0.0010
+Kentucky,Pendleton,0.0140
+Kentucky,Perry,0.0010
+Kentucky,Pike,0.0040
+Kentucky,Powell,0.0120
+Kentucky,Pulaski,0.0180
+Kentucky,Robertson,0.0120
+Kentucky,Rockcastle,0.0020
+Kentucky,Rowan,0.0090
+Kentucky,Russell,0.0570
+Kentucky,Scott,0.0170
+Kentucky,Shelby,0.1090
+Kentucky,Simpson,0.5290
+Kentucky,Spencer,0.0730
+Kentucky,Taylor,0.1060
+Kentucky,Todd,0.4260
+Kentucky,Trigg,0.1420
+Kentucky,Trimble,0.0460
+Kentucky,Union,0.6060
+Kentucky,Warren,0.1520
+Kentucky,Washington,0.0570
+Kentucky,Wayne,0.0540
+Kentucky,Webster,0.4500
+Kentucky,Whitley,0.0020
+Kentucky,Wolfe,0.0000
+Kentucky,Woodford,0.0480
+Louisiana,Acadia,0.6130
+Louisiana,Allen,0.0940
+Louisiana,Ascension,0.1980
+Louisiana,Assumption,0.2800
+Louisiana,Avoyelles,0.3880
+Louisiana,Beauregard,0.0220
+Louisiana,Bienville,0.0010
+Louisiana,Bossier,0.0210
+Louisiana,Caddo,0.0770
+Louisiana,Calcasieu,0.1410
+Louisiana,Caldwell,0.1300
+Louisiana,Cameron,0.0550
+Louisiana,Catahoula,0.5060
+Louisiana,Claiborne,0.0020
+Louisiana,Concordia,0.4900
+Louisiana,De Soto,0.0090
+Louisiana,East Baton Rouge,0.0550
+Louisiana,East Carroll,0.7200
+Louisiana,East Feliciana,0.0810
+Louisiana,Evangeline,0.3160
+Louisiana,Franklin,0.6790
+Louisiana,Grant,0.0330
+Louisiana,Iberia,0.2210
+Louisiana,Iberville,0.1680
+Louisiana,Jackson,0.0010
+Louisiana,Jefferson,0.0080
+Louisiana,Jefferson Davis,0.5970
+Louisiana,La Salle,0.0150
+Louisiana,Lafayette,0.3620
+Louisiana,Lafourche,0.1020
+Louisiana,Lincoln,0.0050
+Louisiana,Livingston,0.0120
+Louisiana,Madison,0.6190
+Louisiana,Morehouse,0.5000
+Louisiana,Natchitoches,0.0530
+Louisiana,Orleans,0.0030
+Louisiana,Ouachita,0.1650
+Louisiana,Plaquemines,0.0180
+Louisiana,Pointe Coupee,0.3540
+Louisiana,Rapides,0.1280
+Louisiana,Red River,0.0830
+Louisiana,Richland,0.6930
+Louisiana,Sabine,0.0010
+Louisiana,St. Bernard,0.0020
+Louisiana,St. Charles,0.0400
+Louisiana,St. Helena,0.0270
+Louisiana,St. James,0.2810
+Louisiana,St. John the Baptist,0.0840
+Louisiana,St. Landry,0.4010
+Louisiana,St. Martin,0.1650
+Louisiana,St. Mary,0.1640
+Louisiana,St. Tammany,0.0050
+Louisiana,Tangipahoa,0.0510
+Louisiana,Tensas,0.5590
+Louisiana,Terrebonne,0.0340
+Louisiana,Union,0.0030
+Louisiana,Vermilion,0.3560
+Louisiana,Vernon,0.0000
+Louisiana,Washington,0.0400
+Louisiana,Webster,0.0020
+Louisiana,West Baton Rouge,0.2790
+Louisiana,West Carroll,0.7690
+Louisiana,West Feliciana,0.0890
+Louisiana,Winn,0.0000
+Maine,Androscoggin,0.0260
+Maine,Aroostook,0.0550
+Maine,Cumberland,0.0140
+Maine,Franklin,0.0050
+Maine,Hancock,0.0080
+Maine,Kennebec,0.0300
+Maine,Knox,0.0330
+Maine,Lincoln,0.0160
+Maine,Oxford,0.0090
+Maine,Penobscot,0.0170
+Maine,Piscataquis,0.0030
+Maine,Sagadahoc,0.0080
+Maine,Somerset,0.0100
+Maine,Waldo,0.0280
+Maine,Washington,0.0180
+Maine,York,0.0150
+Maryland,Allegany,0.0080
+Maryland,Anne Arundel,0.0820
+Maryland,Baltimore,0.1340
+Maryland,Baltimore City,0.0070
+Maryland,Calvert,0.0660
+Maryland,Caroline,0.4530
+Maryland,Carroll,0.2710
+Maryland,Cecil,0.2440
+Maryland,Charles,0.0660
+Maryland,Dorchester,0.2280
+Maryland,Frederick,0.1410
+Maryland,Garrett,0.0210
+Maryland,Harford,0.1490
+Maryland,Howard,0.1460
+Maryland,Kent,0.5560
+Maryland,Montgomery,0.1080
+Maryland,Prince George's,0.0660
+Maryland,Queen Anne's,0.4970
+Maryland,Somerset,0.1330
+Maryland,St. Mary's,0.0500
+Maryland,Talbot,0.4370
+Maryland,Washington,0.1890
+Maryland,Wicomico,0.2820
+Maryland,Worcester,0.2140
+Massachusetts,Barnstable,0.0080
+Massachusetts,Berkshire,0.0130
+Massachusetts,Bristol,0.0120
+Massachusetts,Dukes,0.0060
+Massachusetts,Essex,0.0050
+Massachusetts,Franklin,0.0180
+Massachusetts,Hampden,0.0090
+Massachusetts,Hampshire,0.0350
+Massachusetts,Middlesex,0.0070
+Massachusetts,Nantucket,0.0110
+Massachusetts,Norfolk,0.0060
+Massachusetts,Plymouth,0.0540
+Massachusetts,Suffolk,0.0010
+Massachusetts,Worcester,0.0090
+Michigan,Alcona,0.0180
+Michigan,Alger,0.0060
+Michigan,Allegan,0.3700
+Michigan,Alpena,0.0540
+Michigan,Antrim,0.1290
+Michigan,Arenac,0.1860
+Michigan,Baraga,0.0170
+Michigan,Barry,0.2840
+Michigan,Bay,0.5280
+Michigan,Benzie,0.0650
+Michigan,Berrien,0.4150
+Michigan,Branch,0.5330
+Michigan,Calhoun,0.3840
+Michigan,Cass,0.4360
+Michigan,Charlevoix,0.0960
+Michigan,Cheboygan,0.0450
+Michigan,Chippewa,0.0620
+Michigan,Clare,0.0650
+Michigan,Clinton,0.4960
+Michigan,Crawford,0.0070
+Michigan,Delta,0.0500
+Michigan,Dickinson,0.0310
+Michigan,Eaton,0.4460
+Michigan,Emmet,0.0990
+Michigan,Genesee,0.2260
+Michigan,Gladwin,0.0790
+Michigan,Gogebic,0.0120
+Michigan,Grand Traverse,0.1490
+Michigan,Gratiot,0.6310
+Michigan,Hillsdale,0.3980
+Michigan,Houghton,0.0200
+Michigan,Huron,0.6450
+Michigan,Ingham,0.3560
+Michigan,Ionia,0.4820
+Michigan,Iosco,0.0360
+Michigan,Iron,0.0210
+Michigan,Isabella,0.3680
+Michigan,Jackson,0.2480
+Michigan,Kalamazoo,0.3190
+Michigan,Kalkaska,0.0410
+Michigan,Kent,0.2210
+Michigan,Keweenaw,0.0000
+Michigan,Lake,0.0380
+Michigan,Lapeer,0.3100
+Michigan,Leelanau,0.1520
+Michigan,Lenawee,0.5390
+Michigan,Livingston,0.1650
+Michigan,Luce,0.0040
+Michigan,Mackinac,0.0150
+Michigan,Macomb,0.1930
+Michigan,Manistee,0.0820
+Michigan,Marquette,0.0060
+Michigan,Mason,0.1720
+Michigan,Mecosta,0.1600
+Michigan,Menominee,0.0660
+Michigan,Midland,0.1900
+Michigan,Missaukee,0.1170
+Michigan,Monroe,0.5350
+Michigan,Montcalm,0.3510
+Michigan,Montmorency,0.0270
+Michigan,Muskegon,0.1610
+Michigan,Newaygo,0.1520
+Michigan,Oakland,0.0420
+Michigan,Oceana,0.2390
+Michigan,Ogemaw,0.0590
+Michigan,Ontonagon,0.0280
+Michigan,Osceola,0.1460
+Michigan,Oscoda,0.0140
+Michigan,Otsego,0.0600
+Michigan,Ottawa,0.3640
+Michigan,Presque Isle,0.0600
+Michigan,Roscommon,0.0050
+Michigan,Saginaw,0.4940
+Michigan,Sanilac,0.5740
+Michigan,Schoolcraft,0.0120
+Michigan,Shiawassee,0.4810
+Michigan,St. Clair,0.3510
+Michigan,St. Joseph,0.5270
+Michigan,Tuscola,0.4960
+Michigan,Van Buren,0.3960
+Michigan,Washtenaw,0.2540
+Michigan,Wayne,0.0420
+Michigan,Wexford,0.0780
+Minnesota,Aitkin,0.0120
+Minnesota,Anoka,0.1220
+Minnesota,Becker,0.2280
+Minnesota,Beltrami,0.0260
+Minnesota,Benton,0.4110
+Minnesota,Big Stone,0.6980
+Minnesota,Blue Earth,0.7630
+Minnesota,Brown,0.8080
+Minnesota,Carlton,0.0080
+Minnesota,Carver,0.4530
+Minnesota,Cass,0.0150
+Minnesota,Chippewa,0.8230
+Minnesota,Chisago,0.2560
+Minnesota,Clay,0.7710
+Minnesota,Clearwater,0.0360
+Minnesota,Cook,0.0000
+Minnesota,Cottonwood,0.8440
+Minnesota,Crow Wing,0.0350
+Minnesota,Dakota,0.4590
+Minnesota,Dodge,0.7850
+Minnesota,Douglas,0.4490
+Minnesota,Faribault,0.8570
+Minnesota,Fillmore,0.4110
+Minnesota,Freeborn,0.7930
+Minnesota,Goodhue,0.5150
+Minnesota,Grant,0.7560
+Minnesota,Hennepin,0.1050
+Minnesota,Houston,0.1840
+Minnesota,Hubbard,0.0680
+Minnesota,Isanti,0.3620
+Minnesota,Itasca,0.0060
+Minnesota,Jackson,0.8330
+Minnesota,Kanabec,0.1110
+Minnesota,Kandiyohi,0.6390
+Minnesota,Kittson,0.7310
+Minnesota,Koochiching,0.0060
+Minnesota,Lac qui Parle,0.7490
+Minnesota,Lake,0.0010
+Minnesota,Lake of the Woods,0.0350
+Minnesota,Le Sueur,0.6100
+Minnesota,Lincoln,0.6570
+Minnesota,Lyon,0.7950
+Minnesota,Mahnomen,0.3800
+Minnesota,Marshall,0.6620
+Minnesota,Martin,0.8400
+Minnesota,McLeod,0.7390
+Minnesota,Meeker,0.6620
+Minnesota,Mille Lacs,0.1260
+Minnesota,Morrison,0.2370
+Minnesota,Mower,0.8150
+Minnesota,Murray,0.8120
+Minnesota,Nicollet,0.7410
+Minnesota,Nobles,0.8500
+Minnesota,Norman,0.8240
+Minnesota,Olmsted,0.4520
+Minnesota,Otter Tail,0.3260
+Minnesota,Pennington,0.6470
+Minnesota,Pine,0.0510
+Minnesota,Pipestone,0.7340
+Minnesota,Polk,0.7380
+Minnesota,Pope,0.6330
+Minnesota,Ramsey,0.0040
+Minnesota,Red Lake,0.6910
+Minnesota,Redwood,0.8600
+Minnesota,Renville,0.8560
+Minnesota,Rice,0.5310
+Minnesota,Rock,0.8140
+Minnesota,Roseau,0.4200
+Minnesota,Scott,0.3670
+Minnesota,Sherburne,0.3410
+Minnesota,Sibley,0.7890
+Minnesota,St. Louis,0.0030
+Minnesota,Stearns,0.4630
+Minnesota,Steele,0.7620
+Minnesota,Stevens,0.8010
+Minnesota,Swift,0.7590
+Minnesota,Todd,0.2820
+Minnesota,Traverse,0.8510
+Minnesota,Wabasha,0.3400
+Minnesota,Wadena,0.1870
+Minnesota,Waseca,0.8030
+Minnesota,Washington,0.1790
+Minnesota,Watonwan,0.8700
+Minnesota,Wilkin,0.8700
+Minnesota,Winona,0.2330
+Minnesota,Wright,0.4460
+Minnesota,Yellow Medicine,0.8060
+Mississippi,Adams,0.0950
+Mississippi,Alcorn,0.1180
+Mississippi,Amite,0.0240
+Mississippi,Attala,0.0450
+Mississippi,Benton,0.1310
+Mississippi,Bolivar,0.7450
+Mississippi,Calhoun,0.1990
+Mississippi,Carroll,0.1210
+Mississippi,Chickasaw,0.1860
+Mississippi,Choctaw,0.0300
+Mississippi,Claiborne,0.0320
+Mississippi,Clarke,0.0100
+Mississippi,Clay,0.1070
+Mississippi,Coahoma,0.6680
+Mississippi,Copiah,0.0150
+Mississippi,Covington,0.0330
+Mississippi,DeSoto,0.2740
+Mississippi,Forrest,0.0280
+Mississippi,Franklin,0.0120
+Mississippi,George,0.0360
+Mississippi,Greene,0.0170
+Mississippi,Grenada,0.1220
+Mississippi,Hancock,0.0130
+Mississippi,Harrison,0.0020
+Mississippi,Hinds,0.0790
+Mississippi,Holmes,0.2830
+Mississippi,Humphreys,0.6560
+Mississippi,Issaquena,0.4400
+Mississippi,Itawamba,0.0690
+Mississippi,Jackson,0.0090
+Mississippi,Jasper,0.0050
+Mississippi,Jefferson,0.0480
+Mississippi,Jefferson Davis,0.0170
+Mississippi,Jones,0.0100
+Mississippi,Kemper,0.0100
+Mississippi,Lafayette,0.0530
+Mississippi,Lamar,0.0240
+Mississippi,Lauderdale,0.0090
+Mississippi,Lawrence,0.0280
+Mississippi,Leake,0.0220
+Mississippi,Lee,0.2430
+Mississippi,Leflore,0.6670
+Mississippi,Lincoln,0.0180
+Mississippi,Lowndes,0.1760
+Mississippi,Madison,0.1060
+Mississippi,Marion,0.0270
+Mississippi,Marshall,0.1280
+Mississippi,Monroe,0.1620
+Mississippi,Montgomery,0.0860
+Mississippi,Neshoba,0.0060
+Mississippi,Newton,0.0190
+Mississippi,Noxubee,0.1800
+Mississippi,Oktibbeha,0.0560
+Mississippi,Panola,0.3160
+Mississippi,Pearl River,0.0250
+Mississippi,Perry,0.0220
+Mississippi,Pike,0.0510
+Mississippi,Pontotoc,0.2010
+Mississippi,Prentiss,0.1570
+Mississippi,Quitman,0.7870
+Mississippi,Rankin,0.0360
+Mississippi,Scott,0.0200
+Mississippi,Sharkey,0.5920
+Mississippi,Simpson,0.0160
+Mississippi,Smith,0.0100
+Mississippi,Stone,0.0150
+Mississippi,Sunflower,0.7650
+Mississippi,Tallahatchie,0.5950
+Mississippi,Tate,0.1760
+Mississippi,Tippah,0.0880
+Mississippi,Tishomingo,0.0440
+Mississippi,Tunica,0.6720
+Mississippi,Union,0.1470
+Mississippi,Walthall,0.0340
+Mississippi,Warren,0.1380
+Mississippi,Washington,0.6900
+Mississippi,Wayne,0.0160
+Mississippi,Webster,0.0780
+Mississippi,Wilkinson,0.0160
+Mississippi,Winston,0.0180
+Mississippi,Yalobusha,0.0660
+Mississippi,Yazoo,0.3340
+Missouri,Adair,0.1360
+Missouri,Andrew,0.4860
+Missouri,Atchison,0.7280
+Missouri,Audrain,0.5870
+Missouri,Barry,0.0020
+Missouri,Barton,0.4060
+Missouri,Bates,0.3140
+Missouri,Benton,0.0790
+Missouri,Bollinger,0.1050
+Missouri,Boone,0.1590
+Missouri,Buchanan,0.3790
+Missouri,Butler,0.4830
+Missouri,Caldwell,0.3230
+Missouri,Callaway,0.1710
+Missouri,Camden,0.0030
+Missouri,Cape Girardeau,0.2140
+Missouri,Carroll,0.5070
+Missouri,Carter,0.0000
+Missouri,Cass,0.2900
+Missouri,Cedar,0.0530
+Missouri,Chariton,0.4540
+Missouri,Christian,0.0040
+Missouri,Clark,0.3880
+Missouri,Clay,0.1770
+Missouri,Clinton,0.3440
+Missouri,Cole,0.0560
+Missouri,Cooper,0.3270
+Missouri,Crawford,0.0020
+Missouri,Dade,0.1380
+Missouri,Dallas,0.0030
+Missouri,Daviess,0.3350
+Missouri,DeKalb,0.3050
+Missouri,Dent,0.0010
+Missouri,Douglas,0.0020
+Missouri,Dunklin,0.8310
+Missouri,Franklin,0.0760
+Missouri,Gasconade,0.0470
+Missouri,Gentry,0.2960
+Missouri,Greene,0.0070
+Missouri,Grundy,0.3480
+Missouri,Harrison,0.2450
+Missouri,Henry,0.2410
+Missouri,Hickory,0.0140
+Missouri,Holt,0.6940
+Missouri,Howard,0.2690
+Missouri,Howell,0.0020
+Missouri,Iron,0.0000
+Missouri,Jackson,0.1820
+Missouri,Jasper,0.1930
+Missouri,Jefferson,0.0260
+Missouri,Johnson,0.2430
+Missouri,Knox,0.3650
+Missouri,Laclede,0.0040
+Missouri,Lafayette,0.5300
+Missouri,Lawrence,0.0340
+Missouri,Lewis,0.3950
+Missouri,Lincoln,0.2710
+Missouri,Linn,0.2170
+Missouri,Livingston,0.4190
+Missouri,Macon,0.2060
+Missouri,Madison,0.0070
+Missouri,Maries,0.0100
+Missouri,Marion,0.4040
+Missouri,McDonald,0.0010
+Missouri,Mercer,0.1480
+Missouri,Miller,0.0140
+Missouri,Mississippi,0.8260
+Missouri,Moniteau,0.1190
+Missouri,Monroe,0.3580
+Missouri,Montgomery,0.3480
+Missouri,Morgan,0.0490
+Missouri,New Madrid,0.8560
+Missouri,Newton,0.0250
+Missouri,Nodaway,0.4750
+Missouri,Oregon,0.0010
+Missouri,Osage,0.0530
+Missouri,Ozark,0.0020
+Missouri,Pemiscot,0.8590
+Missouri,Perry,0.2020
+Missouri,Pettis,0.3630
+Missouri,Phelps,0.0020
+Missouri,Pike,0.3150
+Missouri,Platte,0.3360
+Missouri,Polk,0.0120
+Missouri,Pulaski,0.0040
+Missouri,Putnam,0.0970
+Missouri,Ralls,0.4000
+Missouri,Randolph,0.2060
+Missouri,Ray,0.3640
+Missouri,Reynolds,0.0010
+Missouri,Ripley,0.0490
+Missouri,Saline,0.5970
+Missouri,Schuyler,0.1300
+Missouri,Scotland,0.3710
+Missouri,Scott,0.7120
+Missouri,Shannon,0.0000
+Missouri,Shelby,0.4890
+Missouri,St. Charles,0.2980
+Missouri,St. Clair,0.1150
+Missouri,St. Francois,0.0030
+Missouri,St. Louis,0.0580
+Missouri,St. Louis City,0.0000
+Missouri,Ste. Genevieve,0.0600
+Missouri,Stoddard,0.6790
+Missouri,Stone,0.0010
+Missouri,Sullivan,0.0920
+Missouri,Taney,0.0010
+Missouri,Texas,0.0010
+Missouri,Vernon,0.2730
+Missouri,Warren,0.1870
+Missouri,Washington,0.0010
+Missouri,Wayne,0.0150
+Missouri,Webster,0.0040
+Missouri,Worth,0.2110
+Missouri,Wright,0.0030
+Montana,Beaverhead,0.0120
+Montana,Big Horn,0.0740
+Montana,Blaine,0.2010
+Montana,Broadwater,0.0520
+Montana,Carbon,0.0340
+Montana,Carter,0.0340
+Montana,Cascade,0.2110
+Montana,Chouteau,0.4790
+Montana,Custer,0.0310
+Montana,Daniels,0.5900
+Montana,Dawson,0.2720
+Montana,Deer Lodge,0.0150
+Montana,Fallon,0.0910
+Montana,Fergus,0.1460
+Montana,Flathead,0.0150
+Montana,Gallatin,0.0500
+Montana,Garfield,0.0890
+Montana,Glacier,0.2020
+Montana,Golden Valley,0.1730
+Montana,Granite,0.0190
+Montana,Hill,0.6330
+Montana,Jefferson,0.0080
+Montana,Judith Basin,0.1960
+Montana,Lake,0.0690
+Montana,Lewis and Clark,0.0150
+Montana,Liberty,0.6340
+Montana,Lincoln,0.0010
+Montana,Madison,0.0180
+Montana,McCone,0.2670
+Montana,Meagher,0.0090
+Montana,Mineral,0.0010
+Montana,Missoula,0.0070
+Montana,Musselshell,0.0830
+Montana,Park,0.0070
+Montana,Petroleum,0.0760
+Montana,Phillips,0.1220
+Montana,Pondera,0.5040
+Montana,Powder River,0.0190
+Montana,Powell,0.0120
+Montana,Prairie,0.0800
+Montana,Ravalli,0.0140
+Montana,Richland,0.3160
+Montana,Roosevelt,0.4510
+Montana,Rosebud,0.0370
+Montana,Sanders,0.0060
+Montana,Sheridan,0.5050
+Montana,Silver Bow,0.0030
+Montana,Stillwater,0.1540
+Montana,Sweet Grass,0.0220
+Montana,Teton,0.3310
+Montana,Toole,0.5220
+Montana,Treasure,0.0420
+Montana,Valley,0.2270
+Montana,Wheatland,0.1780
+Montana,Wibaux,0.1760
+Montana,Yellowstone,0.1670
+Nebraska,Adams,0.7720
+Nebraska,Antelope,0.6110
+Nebraska,Arthur,0.0120
+Nebraska,Banner,0.2740
+Nebraska,Blaine,0.0110
+Nebraska,Boone,0.5790
+Nebraska,Box Butte,0.4250
+Nebraska,Boyd,0.1680
+Nebraska,Brown,0.0660
+Nebraska,Buffalo,0.4880
+Nebraska,Burt,0.7700
+Nebraska,Butler,0.7120
+Nebraska,Cass,0.7050
+Nebraska,Cedar,0.6220
+Nebraska,Chase,0.5100
+Nebraska,Cherry,0.0060
+Nebraska,Cheyenne,0.6250
+Nebraska,Clay,0.7570
+Nebraska,Colfax,0.7580
+Nebraska,Cuming,0.7900
+Nebraska,Custer,0.1850
+Nebraska,Dakota,0.6290
+Nebraska,Dawes,0.0810
+Nebraska,Dawson,0.4760
+Nebraska,Deuel,0.7010
+Nebraska,Dixon,0.5530
+Nebraska,Dodge,0.7900
+Nebraska,Douglas,0.3530
+Nebraska,Dundy,0.3610
+Nebraska,Fillmore,0.8400
+Nebraska,Franklin,0.4520
+Nebraska,Frontier,0.3320
+Nebraska,Furnas,0.4940
+Nebraska,Gage,0.6090
+Nebraska,Garden,0.1260
+Nebraska,Garfield,0.0500
+Nebraska,Gosper,0.4500
+Nebraska,Grant,0.0010
+Nebraska,Greeley,0.2360
+Nebraska,Hall,0.6660
+Nebraska,Hamilton,0.8390
+Nebraska,Harlan,0.5000
+Nebraska,Hayes,0.3380
+Nebraska,Hitchcock,0.4410
+Nebraska,Holt,0.1780
+Nebraska,Hooker,0.0010
+Nebraska,Howard,0.3470
+Nebraska,Jefferson,0.5540
+Nebraska,Johnson,0.3270
+Nebraska,Kearney,0.8130
+Nebraska,Keith,0.3000
+Nebraska,Keya Paha,0.0610
+Nebraska,Kimball,0.4490
+Nebraska,Knox,0.2950
+Nebraska,Lancaster,0.5000
+Nebraska,Lincoln,0.2020
+Nebraska,Logan,0.0770
+Nebraska,Loup,0.0340
+Nebraska,Madison,0.7010
+Nebraska,McPherson,0.0130
+Nebraska,Merrick,0.6710
+Nebraska,Morrill,0.1910
+Nebraska,Nance,0.4540
+Nebraska,Nemaha,0.6310
+Nebraska,Nuckolls,0.5470
+Nebraska,Otoe,0.6210
+Nebraska,Pawnee,0.2880
+Nebraska,Perkins,0.7260
+Nebraska,Phelps,0.8000
+Nebraska,Pierce,0.6910
+Nebraska,Platte,0.7530
+Nebraska,Polk,0.7740
+Nebraska,Red Willow,0.4700
+Nebraska,Richardson,0.6060
+Nebraska,Rock,0.0640
+Nebraska,Saline,0.7030
+Nebraska,Sarpy,0.5390
+Nebraska,Saunders,0.7340
+Nebraska,Scotts Bluff,0.4550
+Nebraska,Seward,0.6990
+Nebraska,Sheridan,0.0820
+Nebraska,Sherman,0.2450
+Nebraska,Sioux,0.0400
+Nebraska,Stanton,0.5650
+Nebraska,Thayer,0.6670
+Nebraska,Thomas,0.0020
+Nebraska,Thurston,0.6560
+Nebraska,Valley,0.2680
+Nebraska,Washington,0.6850
+Nebraska,Wayne,0.7600
+Nebraska,Webster,0.4400
+Nebraska,Wheeler,0.1490
+Nebraska,York,0.8510
+Nevada,Carson City,0.0020
+Nevada,Churchill,0.0100
+Nevada,Clark,0.0010
+Nevada,Douglas,0.0080
+Nevada,Elko,0.0010
+Nevada,Esmeralda,0.0030
+Nevada,Eureka,0.0030
+Nevada,Humboldt,0.0060
+Nevada,Lander,0.0020
+Nevada,Lincoln,0.0000
+Nevada,Lyon,0.0330
+Nevada,Mineral,0.0010
+Nevada,Nye,0.0010
+Nevada,Pershing,0.0090
+Nevada,Storey,0.0010
+Nevada,Washoe,0.0010
+Nevada,White Pine,0.0010
+New Hampshire,Belknap,0.0110
+New Hampshire,Carroll,0.0080
+New Hampshire,Cheshire,0.0090
+New Hampshire,Coos,0.0130
+New Hampshire,Grafton,0.0160
+New Hampshire,Hillsborough,0.0080
+New Hampshire,Merrimack,0.0140
+New Hampshire,Rockingham,0.0110
+New Hampshire,Strafford,0.0100
+New Hampshire,Sullivan,0.0110
+New Jersey,Atlantic,0.1060
+New Jersey,Bergen,0.0080
+New Jersey,Burlington,0.1160
+New Jersey,Camden,0.1140
+New Jersey,Cape May,0.0690
+New Jersey,Cumberland,0.1930
+New Jersey,Essex,0.0050
+New Jersey,Gloucester,0.2650
+New Jersey,Hudson,0.0000
+New Jersey,Hunterdon,0.2860
+New Jersey,Mercer,0.1800
+New Jersey,Middlesex,0.1090
+New Jersey,Monmouth,0.1320
+New Jersey,Morris,0.0330
+New Jersey,Ocean,0.0640
+New Jersey,Passaic,0.0080
+New Jersey,Salem,0.3070
+New Jersey,Somerset,0.1640
+New Jersey,Sussex,0.1100
+New Jersey,Union,0.0140
+New Jersey,Warren,0.2060
+New Mexico,Bernalillo,0.0020
+New Mexico,Catron,0.0000
+New Mexico,Chaves,0.0140
+New Mexico,Cibola,0.0000
+New Mexico,Colfax,0.0060
+New Mexico,Curry,0.3420
+New Mexico,De Baca,0.0060
+New Mexico,Dona Ana,0.0380
+New Mexico,Eddy,0.0160
+New Mexico,Grant,0.0000
+New Mexico,Guadalupe,0.0010
+New Mexico,Harding,0.0020
+New Mexico,Hidalgo,0.0050
+New Mexico,Lea,0.0220
+New Mexico,Lincoln,0.0010
+New Mexico,Los Alamos,0.0000
+New Mexico,Luna,0.0180
+New Mexico,McKinley,0.0000
+New Mexico,Mora,0.0010
+New Mexico,Otero,0.0020
+New Mexico,Quay,0.0610
+New Mexico,Rio Arriba,0.0040
+New Mexico,Roosevelt,0.1780
+New Mexico,San Juan,0.0130
+New Mexico,San Miguel,0.0000
+New Mexico,Sandoval,0.0050
+New Mexico,Santa Fe,0.0100
+New Mexico,Sierra,0.0030
+New Mexico,Socorro,0.0060
+New Mexico,Taos,0.0020
+New Mexico,Torrance,0.0090
+New Mexico,Union,0.0270
+New Mexico,Valencia,0.0360
+New York,Albany,0.0590
+New York,Allegany,0.0630
+New York,Bronx,0.0000
+New York,Broome,0.0470
+New York,Cattaraugus,0.1000
+New York,Cayuga,0.2650
+New York,Chautauqua,0.1580
+New York,Chemung,0.0690
+New York,Chenango,0.0650
+New York,Clinton,0.0550
+New York,Columbia,0.0460
+New York,Cortland,0.1150
+New York,Delaware,0.0250
+New York,Dutchess,0.0190
+New York,Erie,0.1280
+New York,Essex,0.0180
+New York,Franklin,0.0220
+New York,Fulton,0.0310
+New York,Genesee,0.3140
+New York,Greene,0.0340
+New York,Hamilton,0.0000
+New York,Herkimer,0.0570
+New York,Jefferson,0.0890
+New York,Kings,0.0000
+New York,Lewis,0.0440
+New York,Livingston,0.2640
+New York,Madison,0.1590
+New York,Monroe,0.1700
+New York,Montgomery,0.2500
+New York,Nassau,0.0000
+New York,New York,0.0000
+New York,Niagara,0.2800
+New York,Oneida,0.0920
+New York,Onondaga,0.1430
+New York,Ontario,0.2240
+New York,Orange,0.1230
+New York,Orleans,0.3650
+New York,Oswego,0.0440
+New York,Otsego,0.0820
+New York,Putnam,0.0030
+New York,Queens,0.0000
+New York,Rensselaer,0.0380
+New York,Richmond,0.0440
+New York,Rockland,0.0070
+New York,Saratoga,0.0820
+New York,Schenectady,0.0470
+New York,Schoharie,0.0640
+New York,Schuyler,0.0850
+New York,Seneca,0.3020
+New York,St. Lawrence,0.0330
+New York,Steuben,0.1410
+New York,Suffolk,0.0440
+New York,Sullivan,0.0100
+New York,Tioga,0.0610
+New York,Tompkins,0.1320
+New York,Ulster,0.0410
+New York,Warren,0.0070
+New York,Washington,0.0790
+New York,Wayne,0.1810
+New York,Westchester,0.0020
+New York,Wyoming,0.2410
+New York,Yates,0.1750
+North Carolina,Alamance,0.0130
+North Carolina,Alexander,0.0060
+North Carolina,Alleghany,0.0040
+North Carolina,Anson,0.0210
+North Carolina,Ashe,0.0040
+North Carolina,Avery,0.0020
+North Carolina,Beaufort,0.2530
+North Carolina,Bertie,0.1970
+North Carolina,Bladen,0.1890
+North Carolina,Brunswick,0.0820
+North Carolina,Buncombe,0.0060
+North Carolina,Burke,0.0040
+North Carolina,Cabarrus,0.0090
+North Carolina,Caldwell,0.0040
+North Carolina,Camden,0.1850
+North Carolina,Carteret,0.1730
+North Carolina,Caswell,0.0120
+North Carolina,Catawba,0.0040
+North Carolina,Chatham,0.0090
+North Carolina,Cherokee,0.0030
+North Carolina,Chowan,0.3390
+North Carolina,Clay,0.0030
+North Carolina,Cleveland,0.0070
+North Carolina,Columbus,0.2280
+North Carolina,Craven,0.1580
+North Carolina,Cumberland,0.1520
+North Carolina,Currituck,0.2110
+North Carolina,Dare,0.0240
+North Carolina,Davidson,0.0080
+North Carolina,Davie,0.0090
+North Carolina,Duplin,0.3330
+North Carolina,Durham,0.0070
+North Carolina,Edgecombe,0.3550
+North Carolina,Forsyth,0.0050
+North Carolina,Franklin,0.0560
+North Carolina,Gaston,0.0040
+North Carolina,Gates,0.1690
+North Carolina,Graham,0.0010
+North Carolina,Granville,0.0180
+North Carolina,Greene,0.4200
+North Carolina,Guilford,0.0130
+North Carolina,Halifax,0.2340
+North Carolina,Harnett,0.1710
+North Carolina,Haywood,0.0060
+North Carolina,Henderson,0.0240
+North Carolina,Hertford,0.2170
+North Carolina,Hoke,0.1650
+North Carolina,Hyde,0.1570
+North Carolina,Iredell,0.0060
+North Carolina,Jackson,0.0010
+North Carolina,Johnston,0.2660
+North Carolina,Jones,0.1910
+North Carolina,Lee,0.0450
+North Carolina,Lenoir,0.3680
+North Carolina,Lincoln,0.0080
+North Carolina,Macon,0.0020
+North Carolina,Madison,0.0030
+North Carolina,Martin,0.3010
+North Carolina,McDowell,0.0040
+North Carolina,Mecklenburg,0.0020
+North Carolina,Mitchell,0.0010
+North Carolina,Montgomery,0.0210
+North Carolina,Moore,0.0490
+North Carolina,Nash,0.2360
+North Carolina,New Hanover,0.0440
+North Carolina,Northampton,0.2780
+North Carolina,Onslow,0.1370
+North Carolina,Orange,0.0100
+North Carolina,Pamlico,0.1710
+North Carolina,Pasquotank,0.2840
+North Carolina,Pender,0.1110
+North Carolina,Perquimans,0.3000
+North Carolina,Person,0.0180
+North Carolina,Pitt,0.3430
+North Carolina,Polk,0.0010
+North Carolina,Randolph,0.0090
+North Carolina,Richmond,0.0700
+North Carolina,Robeson,0.3430
+North Carolina,Rockingham,0.0120
+North Carolina,Rowan,0.0080
+North Carolina,Rutherford,0.0000
+North Carolina,Sampson,0.3530
+North Carolina,Scotland,0.2000
+North Carolina,Stanly,0.0150
+North Carolina,Stokes,0.0060
+North Carolina,Surry,0.0120
+North Carolina,Swain,0.0000
+North Carolina,Transylvania,0.0060
+North Carolina,Tyrrell,0.2120
+North Carolina,Union,0.0230
+North Carolina,Vance,0.0220
+North Carolina,Wake,0.0490
+North Carolina,Warren,0.0130
+North Carolina,Washington,0.3440
+North Carolina,Watauga,0.0020
+North Carolina,Wayne,0.3900
+North Carolina,Wilkes,0.0060
+North Carolina,Wilson,0.3520
+North Carolina,Yadkin,0.0120
+North Carolina,Yancey,0.0020
+North Dakota,Adams,0.3870
+North Dakota,Barnes,0.6590
+North Dakota,Benson,0.5180
+North Dakota,Billings,0.0990
+North Dakota,Bottineau,0.6040
+North Dakota,Bowman,0.3080
+North Dakota,Burke,0.5320
+North Dakota,Burleigh,0.2030
+North Dakota,Cass,0.8630
+North Dakota,Cavalier,0.7730
+North Dakota,Dickey,0.4110
+North Dakota,Divide,0.6200
+North Dakota,Dunn,0.2050
+North Dakota,Eddy,0.3530
+North Dakota,Emmons,0.2520
+North Dakota,Foster,0.6180
+North Dakota,Golden Valley,0.2570
+North Dakota,Grand Forks,0.8160
+North Dakota,Grant,0.2680
+North Dakota,Griggs,0.5010
+North Dakota,Hettinger,0.5760
+North Dakota,Kidder,0.1590
+North Dakota,LaMoure,0.5590
+North Dakota,Logan,0.2340
+North Dakota,McHenry,0.3120
+North Dakota,McIntosh,0.2790
+North Dakota,McKenzie,0.2150
+North Dakota,McLean,0.4670
+North Dakota,Mercer,0.2740
+North Dakota,Morton,0.2750
+North Dakota,Mountrail,0.4290
+North Dakota,Nelson,0.4710
+North Dakota,Oliver,0.3000
+North Dakota,Pembina,0.8230
+North Dakota,Pierce,0.4710
+North Dakota,Ramsey,0.5890
+North Dakota,Ransom,0.5120
+North Dakota,Renville,0.7300
+North Dakota,Richland,0.7450
+North Dakota,Rolette,0.4240
+North Dakota,Sargent,0.6060
+North Dakota,Sheridan,0.3310
+North Dakota,Sioux,0.1130
+North Dakota,Slope,0.3120
+North Dakota,Stark,0.4210
+North Dakota,Steele,0.7920
+North Dakota,Stutsman,0.4550
+North Dakota,Towner,0.7140
+North Dakota,Traill,0.9100
+North Dakota,Walsh,0.7000
+North Dakota,Ward,0.5990
+North Dakota,Wells,0.5930
+North Dakota,Williams,0.5860
+Ohio,Adams,0.0800
+Ohio,Allen,0.6720
+Ohio,Ashland,0.4080
+Ohio,Ashtabula,0.2510
+Ohio,Athens,0.0190
+Ohio,Auglaize,0.7570
+Ohio,Belmont,0.0600
+Ohio,Brown,0.3510
+Ohio,Butler,0.2130
+Ohio,Carroll,0.1400
+Ohio,Champaign,0.7260
+Ohio,Clark,0.6070
+Ohio,Clermont,0.1790
+Ohio,Clinton,0.7130
+Ohio,Columbiana,0.1900
+Ohio,Coshocton,0.1600
+Ohio,Crawford,0.7720
+Ohio,Cuyahoga,0.0040
+Ohio,Darke,0.8220
+Ohio,Defiance,0.7620
+Ohio,Delaware,0.4790
+Ohio,Erie,0.5530
+Ohio,Fairfield,0.4560
+Ohio,Fayette,0.8350
+Ohio,Franklin,0.2180
+Ohio,Fulton,0.8150
+Ohio,Gallia,0.0790
+Ohio,Geauga,0.1620
+Ohio,Greene,0.5500
+Ohio,Guernsey,0.0950
+Ohio,Hamilton,0.0480
+Ohio,Hancock,0.8020
+Ohio,Hardin,0.8000
+Ohio,Harrison,0.0780
+Ohio,Henry,0.8530
+Ohio,Highland,0.4310
+Ohio,Hocking,0.0320
+Ohio,Holmes,0.2710
+Ohio,Huron,0.6920
+Ohio,Jackson,0.0450
+Ohio,Jefferson,0.0720
+Ohio,Knox,0.3810
+Ohio,Lake,0.0770
+Ohio,Lawrence,0.0200
+Ohio,Licking,0.3320
+Ohio,Logan,0.6140
+Ohio,Lorain,0.3070
+Ohio,Lucas,0.3310
+Ohio,Madison,0.8340
+Ohio,Mahoning,0.1700
+Ohio,Marion,0.7860
+Ohio,Medina,0.2710
+Ohio,Meigs,0.0380
+Ohio,Mercer,0.7760
+Ohio,Miami,0.7140
+Ohio,Monroe,0.0400
+Ohio,Montgomery,0.3230
+Ohio,Morgan,0.0270
+Ohio,Morrow,0.5740
+Ohio,Muskingum,0.0790
+Ohio,Noble,0.0550
+Ohio,Ottawa,0.6070
+Ohio,Paulding,0.8580
+Ohio,Perry,0.1540
+Ohio,Pickaway,0.7420
+Ohio,Pike,0.1030
+Ohio,Portage,0.1760
+Ohio,Preble,0.6740
+Ohio,Putnam,0.8680
+Ohio,Richland,0.3730
+Ohio,Ross,0.2960
+Ohio,Sandusky,0.7470
+Ohio,Scioto,0.0800
+Ohio,Seneca,0.7960
+Ohio,Shelby,0.7280
+Ohio,Stark,0.2300
+Ohio,Summit,0.0290
+Ohio,Trumbull,0.2180
+Ohio,Tuscarawas,0.1500
+Ohio,Union,0.7520
+Ohio,Van Wert,0.8720
+Ohio,Vinton,0.0340
+Ohio,Warren,0.2520
+Ohio,Washington,0.0550
+Ohio,Wayne,0.5070
+Ohio,Williams,0.6020
+Ohio,Wood,0.7960
+Ohio,Wyandot,0.7610
+Oklahoma,Adair,0.0010
+Oklahoma,Alfalfa,0.5800
+Oklahoma,Atoka,0.0030
+Oklahoma,Beaver,0.1990
+Oklahoma,Beckham,0.1500
+Oklahoma,Blaine,0.4550
+Oklahoma,Bryan,0.0330
+Oklahoma,Caddo,0.3800
+Oklahoma,Canadian,0.4670
+Oklahoma,Carter,0.0480
+Oklahoma,Cherokee,0.0010
+Oklahoma,Choctaw,0.0130
+Oklahoma,Cimarron,0.2060
+Oklahoma,Cleveland,0.0610
+Oklahoma,Coal,0.0090
+Oklahoma,Comanche,0.1610
+Oklahoma,Cotton,0.4510
+Oklahoma,Craig,0.0410
+Oklahoma,Creek,0.0060
+Oklahoma,Custer,0.3800
+Oklahoma,Delaware,0.0070
+Oklahoma,Dewey,0.2280
+Oklahoma,Ellis,0.1040
+Oklahoma,Garfield,0.6040
+Oklahoma,Garvin,0.1240
+Oklahoma,Grady,0.2440
+Oklahoma,Grant,0.6370
+Oklahoma,Greer,0.2750
+Oklahoma,Harmon,0.2960
+Oklahoma,Harper,0.2120
+Oklahoma,Haskell,0.0050
+Oklahoma,Hughes,0.0280
+Oklahoma,Jackson,0.5240
+Oklahoma,Jefferson,0.1930
+Oklahoma,Johnston,0.0230
+Oklahoma,Kay,0.4760
+Oklahoma,Kingfisher,0.5720
+Oklahoma,Kiowa,0.4760
+Oklahoma,Latimer,0.0010
+Oklahoma,Le Flore,0.0090
+Oklahoma,Lincoln,0.0400
+Oklahoma,Logan,0.2080
+Oklahoma,Love,0.0800
+Oklahoma,Major,0.3730
+Oklahoma,Marshall,0.0430
+Oklahoma,Mayes,0.0300
+Oklahoma,McClain,0.1660
+Oklahoma,McCurtain,0.0170
+Oklahoma,McIntosh,0.0070
+Oklahoma,Murray,0.0400
+Oklahoma,Muskogee,0.0340
+Oklahoma,Noble,0.3210
+Oklahoma,Nowata,0.0250
+Oklahoma,Okfuskee,0.0250
+Oklahoma,Oklahoma,0.0730
+Oklahoma,Okmulgee,0.0220
+Oklahoma,Osage,0.0270
+Oklahoma,Ottawa,0.1270
+Oklahoma,Pawnee,0.0710
+Oklahoma,Payne,0.0850
+Oklahoma,Pittsburg,0.0050
+Oklahoma,Pontotoc,0.0230
+Oklahoma,Pottawatomie,0.0560
+Oklahoma,Pushmataha,0.0000
+Oklahoma,Roger Mills,0.0680
+Oklahoma,Rogers,0.0250
+Oklahoma,Seminole,0.0170
+Oklahoma,Sequoyah,0.0170
+Oklahoma,Stephens,0.1370
+Oklahoma,Texas,0.3500
+Oklahoma,Tillman,0.5950
+Oklahoma,Tulsa,0.0270
+Oklahoma,Wagoner,0.1100
+Oklahoma,Washington,0.0420
+Oklahoma,Washita,0.5680
+Oklahoma,Woods,0.2830
+Oklahoma,Woodward,0.1920
+Oregon,Baker,0.0550
+Oregon,Benton,0.0940
+Oregon,Clackamas,0.0490
+Oregon,Clatsop,0.0010
+Oregon,Columbia,0.0110
+Oregon,Coos,0.0030
+Oregon,Crook,0.0230
+Oregon,Curry,0.0020
+Oregon,Deschutes,0.0250
+Oregon,Douglas,0.0030
+Oregon,Gilliam,0.2010
+Oregon,Grant,0.0010
+Oregon,Harney,0.0050
+Oregon,Hood River,0.0650
+Oregon,Jackson,0.0160
+Oregon,Jefferson,0.0530
+Oregon,Josephine,0.0010
+Oregon,Klamath,0.0520
+Oregon,Lake,0.0180
+Oregon,Lane,0.0180
+Oregon,Lincoln,0.0000
+Oregon,Linn,0.0620
+Oregon,Malheur,0.0290
+Oregon,Marion,0.1680
+Oregon,Morrow,0.2600
+Oregon,Multnomah,0.0630
+Oregon,Polk,0.1380
+Oregon,Sherman,0.3280
+Oregon,Tillamook,0.0030
+Oregon,Umatilla,0.3080
+Oregon,Union,0.1300
+Oregon,Wallowa,0.0300
+Oregon,Wasco,0.0620
+Oregon,Washington,0.1530
+Oregon,Wheeler,0.0000
+Oregon,Yamhill,0.1740
+Pennsylvania,Adams,0.1850
+Pennsylvania,Allegheny,0.0200
+Pennsylvania,Armstrong,0.0750
+Pennsylvania,Beaver,0.0440
+Pennsylvania,Bedford,0.0740
+Pennsylvania,Berks,0.2020
+Pennsylvania,Blair,0.1020
+Pennsylvania,Bradford,0.1170
+Pennsylvania,Bucks,0.2110
+Pennsylvania,Butler,0.1330
+Pennsylvania,Cambria,0.0400
+Pennsylvania,Cameron,0.0010
+Pennsylvania,Carbon,0.0260
+Pennsylvania,Centre,0.0890
+Pennsylvania,Chester,0.1690
+Pennsylvania,Clarion,0.1220
+Pennsylvania,Clearfield,0.0170
+Pennsylvania,Clinton,0.0310
+Pennsylvania,Columbia,0.1300
+Pennsylvania,Crawford,0.1500
+Pennsylvania,Cumberland,0.2070
+Pennsylvania,Dauphin,0.0980
+Pennsylvania,Delaware,0.0890
+Pennsylvania,Elk,0.0060
+Pennsylvania,Erie,0.1700
+Pennsylvania,Fayette,0.0350
+Pennsylvania,Forest,0.0100
+Pennsylvania,Franklin,0.2390
+Pennsylvania,Fulton,0.0550
+Pennsylvania,Greene,0.0240
+Pennsylvania,Huntingdon,0.0640
+Pennsylvania,Indiana,0.0590
+Pennsylvania,Jefferson,0.0490
+Pennsylvania,Juniata,0.1160
+Pennsylvania,Lackawanna,0.0860
+Pennsylvania,Lancaster,0.1780
+Pennsylvania,Lawrence,0.1850
+Pennsylvania,Lebanon,0.2370
+Pennsylvania,Lehigh,0.2200
+Pennsylvania,Luzerne,0.0400
+Pennsylvania,Lycoming,0.0530
+Pennsylvania,McKean,0.0050
+Pennsylvania,Mercer,0.1930
+Pennsylvania,Mifflin,0.1310
+Pennsylvania,Monroe,0.0150
+Pennsylvania,Montgomery,0.1270
+Pennsylvania,Montour,0.2520
+Pennsylvania,Northampton,0.3710
+Pennsylvania,Northumberland,0.1830
+Pennsylvania,Perry,0.0810
+Pennsylvania,Philadelphia,0.0280
+Pennsylvania,Pike,0.0060
+Pennsylvania,Potter,0.0160
+Pennsylvania,Schuylkill,0.0570
+Pennsylvania,Snyder,0.1570
+Pennsylvania,Somerset,0.0530
+Pennsylvania,Sullivan,0.0440
+Pennsylvania,Susquehanna,0.1190
+Pennsylvania,Tioga,0.0770
+Pennsylvania,Union,0.1730
+Pennsylvania,Venango,0.0650
+Pennsylvania,Warren,0.0230
+Pennsylvania,Washington,0.0740
+Pennsylvania,Wayne,0.0140
+Pennsylvania,Westmoreland,0.0420
+Pennsylvania,Wyoming,0.1660
+Pennsylvania,York,0.2150
+Rhode Island,Bristol,0.0050
+Rhode Island,Kent,0.0060
+Rhode Island,Newport,0.0180
+Rhode Island,Providence,0.0070
+Rhode Island,Washington,0.0090
+South Carolina,Abbeville,0.0010
+South Carolina,Aiken,0.0860
+South Carolina,Allendale,0.1290
+South Carolina,Anderson,0.0020
+South Carolina,Bamberg,0.1340
+South Carolina,Barnwell,0.0990
+South Carolina,Beaufort,0.0230
+South Carolina,Berkeley,0.0220
+South Carolina,Calhoun,0.1920
+South Carolina,Charleston,0.0170
+South Carolina,Cherokee,0.0030
+South Carolina,Chester,0.0020
+South Carolina,Chesterfield,0.0990
+South Carolina,Clarendon,0.1730
+South Carolina,Colleton,0.0480
+South Carolina,Darlington,0.3290
+South Carolina,Dillon,0.2960
+South Carolina,Dorchester,0.0690
+South Carolina,Edgefield,0.0420
+South Carolina,Fairfield,0.0000
+South Carolina,Florence,0.2250
+South Carolina,Georgetown,0.0200
+South Carolina,Greenville,0.0010
+South Carolina,Greenwood,0.0000
+South Carolina,Hampton,0.1140
+South Carolina,Horry,0.1680
+South Carolina,Jasper,0.0280
+South Carolina,Kershaw,0.0580
+South Carolina,Lancaster,0.0060
+South Carolina,Laurens,0.0010
+South Carolina,Lee,0.3370
+South Carolina,Lexington,0.0920
+South Carolina,Marion,0.1620
+South Carolina,Marlboro,0.2390
+South Carolina,McCormick,0.0000
+South Carolina,Newberry,0.0000
+South Carolina,Oconee,0.0010
+South Carolina,Orangeburg,0.1620
+South Carolina,Pickens,0.0000
+South Carolina,Richland,0.0460
+South Carolina,Saluda,0.0120
+South Carolina,Spartanburg,0.0010
+South Carolina,Sumter,0.1650
+South Carolina,Union,0.0000
+South Carolina,Williamsburg,0.1230
+South Carolina,York,0.0040
+South Dakota,Aurora,0.3470
+South Dakota,Beadle,0.4190
+South Dakota,Bennett,0.1530
+South Dakota,Bon Homme,0.5400
+South Dakota,Brookings,0.5550
+South Dakota,Brown,0.4840
+South Dakota,Brule,0.3370
+South Dakota,Buffalo,0.1330
+South Dakota,Butte,0.0380
+South Dakota,Campbell,0.1690
+South Dakota,Charles Mix,0.4160
+South Dakota,Clark,0.4520
+South Dakota,Clay,0.7380
+South Dakota,Codington,0.4950
+South Dakota,Corson,0.1370
+South Dakota,Custer,0.0130
+South Dakota,Davison,0.5070
+South Dakota,Day,0.3930
+South Dakota,Deuel,0.4540
+South Dakota,Dewey,0.0710
+South Dakota,Douglas,0.5430
+South Dakota,Edmunds,0.2690
+South Dakota,Fall River,0.0300
+South Dakota,Faulk,0.3940
+South Dakota,Grant,0.5200
+South Dakota,Gregory,0.2130
+South Dakota,Haakon,0.1590
+South Dakota,Hamlin,0.6140
+South Dakota,Hand,0.3260
+South Dakota,Hanson,0.5920
+South Dakota,Harding,0.0570
+South Dakota,Hughes,0.3630
+South Dakota,Hutchinson,0.6500
+South Dakota,Hyde,0.2410
+South Dakota,Jackson,0.0640
+South Dakota,Jerauld,0.2330
+South Dakota,Jones,0.1350
+South Dakota,Kingsbury,0.5370
+South Dakota,Lake,0.6730
+South Dakota,Lawrence,0.0290
+South Dakota,Lincoln,0.7900
+South Dakota,Lyman,0.1920
+South Dakota,Marshall,0.3830
+South Dakota,McCook,0.6450
+South Dakota,McPherson,0.1460
+South Dakota,Meade,0.0770
+South Dakota,Mellette,0.0910
+South Dakota,Miner,0.4410
+South Dakota,Minnehaha,0.6060
+South Dakota,Moody,0.6790
+South Dakota,Pennington,0.0660
+South Dakota,Perkins,0.1220
+South Dakota,Potter,0.4380
+South Dakota,Roberts,0.4830
+South Dakota,Sanborn,0.3080
+South Dakota,Shannon,0.0370
+South Dakota,Spink,0.6130
+South Dakota,Stanley,0.1550
+South Dakota,Sully,0.5100
+South Dakota,Todd,0.0510
+South Dakota,Tripp,0.2730
+South Dakota,Turner,0.7320
+South Dakota,Union,0.7360
+South Dakota,Walworth,0.2370
+South Dakota,Yankton,0.5230
+South Dakota,Ziebach,0.0750
+Tennessee,Anderson,0.0020
+Tennessee,Bedford,0.0830
+Tennessee,Benton,0.0750
+Tennessee,Bledsoe,0.0320
+Tennessee,Blount,0.0150
+Tennessee,Bradley,0.0340
+Tennessee,Campbell,0.0010
+Tennessee,Cannon,0.0790
+Tennessee,Carroll,0.2420
+Tennessee,Carter,0.0030
+Tennessee,Cheatham,0.0290
+Tennessee,Chester,0.1570
+Tennessee,Claiborne,0.0010
+Tennessee,Clay,0.0230
+Tennessee,Cocke,0.0080
+Tennessee,Coffee,0.1400
+Tennessee,Crockett,0.7470
+Tennessee,Cumberland,0.0040
+Tennessee,Davidson,0.0130
+Tennessee,Decatur,0.0930
+Tennessee,DeKalb,0.0450
+Tennessee,Dickson,0.0130
+Tennessee,Dyer,0.6700
+Tennessee,Fayette,0.3040
+Tennessee,Fentress,0.0080
+Tennessee,Franklin,0.1220
+Tennessee,Gibson,0.6070
+Tennessee,Giles,0.0430
+Tennessee,Grainger,0.0020
+Tennessee,Greene,0.0310
+Tennessee,Grundy,0.0320
+Tennessee,Hamblen,0.0140
+Tennessee,Hamilton,0.0110
+Tennessee,Hancock,0.0000
+Tennessee,Hardeman,0.1320
+Tennessee,Hardin,0.1080
+Tennessee,Hawkins,0.0110
+Tennessee,Haywood,0.5710
+Tennessee,Henderson,0.1400
+Tennessee,Henry,0.2210
+Tennessee,Hickman,0.0190
+Tennessee,Houston,0.0170
+Tennessee,Humphreys,0.0470
+Tennessee,Jackson,0.0310
+Tennessee,Jefferson,0.0080
+Tennessee,Johnson,0.0040
+Tennessee,Knox,0.0070
+Tennessee,Lake,0.6010
+Tennessee,Lauderdale,0.4790
+Tennessee,Lawrence,0.0810
+Tennessee,Lewis,0.0160
+Tennessee,Lincoln,0.1020
+Tennessee,Loudon,0.0530
+Tennessee,Macon,0.0630
+Tennessee,Madison,0.3120
+Tennessee,Marion,0.0240
+Tennessee,Marshall,0.0390
+Tennessee,Maury,0.0420
+Tennessee,McMinn,0.0520
+Tennessee,McNairy,0.1320
+Tennessee,Meigs,0.0360
+Tennessee,Monroe,0.0420
+Tennessee,Montgomery,0.1240
+Tennessee,Moore,0.0270
+Tennessee,Morgan,0.0000
+Tennessee,Obion,0.5230
+Tennessee,Overton,0.1390
+Tennessee,Perry,0.0400
+Tennessee,Pickett,0.0580
+Tennessee,Polk,0.0160
+Tennessee,Putnam,0.1610
+Tennessee,Rhea,0.0330
+Tennessee,Roane,0.0110
+Tennessee,Robertson,0.2190
+Tennessee,Rutherford,0.0630
+Tennessee,Scott,0.0000
+Tennessee,Sequatchie,0.0160
+Tennessee,Sevier,0.0030
+Tennessee,Shelby,0.2020
+Tennessee,Smith,0.0380
+Tennessee,Stewart,0.0400
+Tennessee,Sullivan,0.0090
+Tennessee,Sumner,0.0610
+Tennessee,Tipton,0.5550
+Tennessee,Trousdale,0.0540
+Tennessee,Unicoi,0.0010
+Tennessee,Union,0.0020
+Tennessee,Van Buren,0.0140
+Tennessee,Warren,0.1030
+Tennessee,Washington,0.0300
+Tennessee,Wayne,0.0260
+Tennessee,Weakley,0.4190
+Tennessee,White,0.1080
+Tennessee,Williamson,0.0280
+Tennessee,Wilson,0.0350
+Texas,Anderson,0.0380
+Texas,Andrews,0.0460
+Texas,Angelina,0.0010
+Texas,Aransas,0.0170
+Texas,Archer,0.1230
+Texas,Armstrong,0.1490
+Texas,Atascosa,0.1110
+Texas,Austin,0.0730
+Texas,Bailey,0.4360
+Texas,Bandera,0.0020
+Texas,Bastrop,0.0390
+Texas,Baylor,0.2290
+Texas,Bee,0.1370
+Texas,Bell,0.1850
+Texas,Bexar,0.0560
+Texas,Blanco,0.0020
+Texas,Borden,0.0870
+Texas,Bosque,0.0210
+Texas,Bowie,0.0270
+Texas,Brazoria,0.1110
+Texas,Brazos,0.0740
+Texas,Brewster,0.0010
+Texas,Briscoe,0.1740
+Texas,Brooks,0.0100
+Texas,Brown,0.0500
+Texas,Burleson,0.1040
+Texas,Burnet,0.0020
+Texas,Caldwell,0.0550
+Texas,Calhoun,0.2090
+Texas,Callahan,0.0400
+Texas,Cameron,0.3850
+Texas,Camp,0.0190
+Texas,Carson,0.2520
+Texas,Cass,0.0010
+Texas,Castro,0.6350
+Texas,Chambers,0.1410
+Texas,Cherokee,0.0140
+Texas,Childress,0.2470
+Texas,Clay,0.1120
+Texas,Cochran,0.4040
+Texas,Coke,0.0170
+Texas,Coleman,0.0730
+Texas,Collin,0.1720
+Texas,Collingsworth,0.1770
+Texas,Colorado,0.1890
+Texas,Comal,0.0110
+Texas,Comanche,0.0840
+Texas,Concho,0.0870
+Texas,Cooke,0.1020
+Texas,Coryell,0.0390
+Texas,Cottle,0.1210
+Texas,Crane,0.0010
+Texas,Crockett,0.0000
+Texas,Crosby,0.5060
+Texas,Culberson,0.0020
+Texas,Dallam,0.3290
+Texas,Dallas,0.0350
+Texas,Dawson,0.6380
+Texas,Deaf Smith,0.4380
+Texas,Delta,0.1650
+Texas,Denton,0.1000
+Texas,DeWitt,0.0320
+Texas,Dickens,0.0760
+Texas,Dimmit,0.0170
+Texas,Donley,0.0700
+Texas,Duval,0.0530
+Texas,Eastland,0.0710
+Texas,Ector,0.0010
+Texas,Edwards,0.0000
+Texas,El Paso,0.0970
+Texas,Ellis,0.2170
+Texas,Erath,0.0430
+Texas,Falls,0.3050
+Texas,Fannin,0.1550
+Texas,Fayette,0.0420
+Texas,Fisher,0.3010
+Texas,Floyd,0.5560
+Texas,Foard,0.1950
+Texas,Fort Bend,0.2510
+Texas,Franklin,0.0450
+Texas,Freestone,0.0040
+Texas,Frio,0.1870
+Texas,Gaines,0.5340
+Texas,Galveston,0.0360
+Texas,Garza,0.0960
+Texas,Gillespie,0.0270
+Texas,Glasscock,0.1670
+Texas,Goliad,0.0280
+Texas,Gonzales,0.0470
+Texas,Gray,0.1280
+Texas,Grayson,0.1340
+Texas,Gregg,0.0040
+Texas,Grimes,0.0180
+Texas,Guadalupe,0.1340
+Texas,Hale,0.6710
+Texas,Hall,0.2270
+Texas,Hamilton,0.0250
+Texas,Hansford,0.4600
+Texas,Hardeman,0.2560
+Texas,Hardin,0.0000
+Texas,Harris,0.0290
+Texas,Harrison,0.0030
+Texas,Hartley,0.2500
+Texas,Haskell,0.4950
+Texas,Hays,0.0240
+Texas,Hemphill,0.0240
+Texas,Henderson,0.0410
+Texas,Hidalgo,0.3610
+Texas,Hill,0.2730
+Texas,Hockley,0.6020
+Texas,Hood,0.0160
+Texas,Hopkins,0.0840
+Texas,Houston,0.0500
+Texas,Howard,0.2740
+Texas,Hudspeth,0.0110
+Texas,Hunt,0.1120
+Texas,Hutchinson,0.1670
+Texas,Irion,0.0020
+Texas,Jack,0.0190
+Texas,Jackson,0.2970
+Texas,Jasper,0.0010
+Texas,Jeff Davis,0.0000
+Texas,Jefferson,0.1280
+Texas,Jim Hogg,0.0010
+Texas,Jim Wells,0.3290
+Texas,Johnson,0.0800
+Texas,Jones,0.4690
+Texas,Karnes,0.0610
+Texas,Kaufman,0.0770
+Texas,Kendall,0.0040
+Texas,Kenedy,0.0020
+Texas,Kent,0.0330
+Texas,Kerr,0.0020
+Texas,Kimble,0.0030
+Texas,King,0.0230
+Texas,Kinney,0.0010
+Texas,Kleberg,0.1760
+Texas,Knox,0.3610
+Texas,La Salle,0.0410
+Texas,Lamar,0.0830
+Texas,Lamb,0.5530
+Texas,Lampasas,0.0090
+Texas,Lavaca,0.0330
+Texas,Lee,0.0250
+Texas,Leon,0.0080
+Texas,Liberty,0.0700
+Texas,Limestone,0.0560
+Texas,Lipscomb,0.0980
+Texas,Live Oak,0.0740
+Texas,Llano,0.0020
+Texas,Loving,0.0000
+Texas,Lubbock,0.7010
+Texas,Lynn,0.6950
+Texas,Madison,0.0180
+Texas,Marion,0.0010
+Texas,Martin,0.3540
+Texas,Mason,0.0110
+Texas,Matagorda,0.2410
+Texas,Maverick,0.0210
+Texas,McCulloch,0.0740
+Texas,McLennan,0.1960
+Texas,McMullen,0.0330
+Texas,Medina,0.0990
+Texas,Menard,0.0040
+Texas,Midland,0.0680
+Texas,Milam,0.1570
+Texas,Mills,0.0130
+Texas,Mitchell,0.1210
+Texas,Montague,0.0420
+Texas,Montgomery,0.0010
+Texas,Moore,0.3450
+Texas,Morris,0.0180
+Texas,Motley,0.0780
+Texas,Nacogdoches,0.0020
+Texas,Navarro,0.0940
+Texas,Newton,0.0010
+Texas,Nolan,0.0830
+Texas,Nueces,0.6170
+Texas,Ochiltree,0.4890
+Texas,Oldham,0.0660
+Texas,Orange,0.0090
+Texas,Palo Pinto,0.0280
+Texas,Panola,0.0010
+Texas,Parker,0.0270
+Texas,Parmer,0.7180
+Texas,Pecos,0.0080
+Texas,Polk,0.0000
+Texas,Potter,0.0450
+Texas,Presidio,0.0010
+Texas,Rains,0.0500
+Texas,Randall,0.2680
+Texas,Reagan,0.0470
+Texas,Real,0.0000
+Texas,Red River,0.0260
+Texas,Reeves,0.0100
+Texas,Refugio,0.1850
+Texas,Roberts,0.0330
+Texas,Robertson,0.0960
+Texas,Rockwall,0.1540
+Texas,Runnels,0.1680
+Texas,Rusk,0.0040
+Texas,Sabine,0.0000
+Texas,San Augustine,0.0000
+Texas,San Jacinto,0.0020
+Texas,San Patricio,0.5620
+Texas,San Saba,0.0290
+Texas,Schleicher,0.0010
+Texas,Scurry,0.1830
+Texas,Shackelford,0.0380
+Texas,Shelby,0.0010
+Texas,Sherman,0.4370
+Texas,Smith,0.0180
+Texas,Somervell,0.0050
+Texas,Starr,0.0890
+Texas,Stephens,0.0230
+Texas,Sterling,0.0000
+Texas,Stonewall,0.0920
+Texas,Sutton,0.0000
+Texas,Swisher,0.4540
+Texas,Tarrant,0.0190
+Texas,Taylor,0.1060
+Texas,Terrell,0.0000
+Texas,Terry,0.6650
+Texas,Throckmorton,0.1150
+Texas,Titus,0.0290
+Texas,Tom Green,0.1160
+Texas,Travis,0.0640
+Texas,Trinity,0.0020
+Texas,Tyler,0.0000
+Texas,Upshur,0.0110
+Texas,Upton,0.0250
+Texas,Uvalde,0.0570
+Texas,Val Verde,0.0000
+Texas,Van Zandt,0.0580
+Texas,Victoria,0.1480
+Texas,Walker,0.0050
+Texas,Waller,0.0890
+Texas,Ward,0.0010
+Texas,Washington,0.0300
+Texas,Webb,0.0010
+Texas,Wharton,0.4920
+Texas,Wheeler,0.0690
+Texas,Wichita,0.3060
+Texas,Wilbarger,0.2970
+Texas,Willacy,0.4870
+Texas,Williamson,0.2080
+Texas,Wilson,0.0870
+Texas,Winkler,0.0010
+Texas,Wise,0.0440
+Texas,Wood,0.0250
+Texas,Yoakum,0.4480
+Texas,Young,0.1140
+Texas,Zapata,0.0030
+Texas,Zavala,0.0920
+Utah,Beaver,0.0030
+Utah,Box Elder,0.0280
+Utah,Cache,0.1050
+Utah,Carbon,0.0000
+Utah,Daggett,0.0000
+Utah,Davis,0.0240
+Utah,Duchesne,0.0010
+Utah,Emery,0.0010
+Utah,Garfield,0.0010
+Utah,Grand,0.0010
+Utah,Iron,0.0060
+Utah,Juab,0.0050
+Utah,Kane,0.0000
+Utah,Millard,0.0080
+Utah,Morgan,0.0040
+Utah,Piute,0.0050
+Utah,Rich,0.0000
+Utah,Salt Lake,0.0160
+Utah,San Juan,0.0100
+Utah,Sanpete,0.0250
+Utah,Sevier,0.0090
+Utah,Summit,0.0020
+Utah,Tooele,0.0010
+Utah,Uintah,0.0010
+Utah,Utah,0.0380
+Utah,Wasatch,0.0050
+Utah,Washington,0.0030
+Utah,Wayne,0.0010
+Utah,Weber,0.0310
+Vermont,Addison,0.1050
+Vermont,Bennington,0.0080
+Vermont,Caledonia,0.0540
+Vermont,Chittenden,0.0520
+Vermont,Essex,0.0140
+Vermont,Franklin,0.0910
+Vermont,Grand Isle,0.0690
+Vermont,Lamoille,0.0380
+Vermont,Orange,0.0580
+Vermont,Orleans,0.0630
+Vermont,Rutland,0.0220
+Vermont,Washington,0.0350
+Vermont,Windham,0.0100
+Vermont,Windsor,0.0150
+Virginia,Accomack,0.2220
+Virginia,Albemarle,0.0060
+Virginia,Alexandria,0.0060
+Virginia,Alleghany,0.0040
+Virginia,Amelia,0.0160
+Virginia,Amherst,0.0040
+Virginia,Appomattox,0.0100
+Virginia,Arlington,0.0060
+Virginia,Augusta,0.0290
+Virginia,Bath,0.0030
+Virginia,Bedford,0.0070
+Virginia,Bedford City,0.0010
+Virginia,Bland,0.0020
+Virginia,Botetourt,0.0050
+Virginia,Bristol,0.0020
+Virginia,Brunswick,0.0240
+Virginia,Buchanan,0.0000
+Virginia,Buckingham,0.0050
+Virginia,Buena Vista,0.0020
+Virginia,Campbell,0.0120
+Virginia,Caroline,0.0840
+Virginia,Carroll,0.0020
+Virginia,Charles City,0.0870
+Virginia,Charlotte,0.0110
+Virginia,Charlottesville,0.0020
+Virginia,Chesapeake,0.1350
+Virginia,Chesterfield,0.0300
+Virginia,Clarke,0.0280
+Virginia,Colonial Heights,0.0460
+Virginia,Covington,0.0050
+Virginia,Craig,0.0140
+Virginia,Culpeper,0.1020
+Virginia,Cumberland,0.0100
+Virginia,Danville,0.0030
+Virginia,Dickenson,0.0000
+Virginia,Dinwiddie,0.0760
+Virginia,Emporia,0.1240
+Virginia,Essex,0.1080
+Virginia,Fairfax,0.0550
+Virginia,Fairfax City,0.0330
+Virginia,Falls Church,0.0090
+Virginia,Fauquier,0.0680
+Virginia,Floyd,0.0040
+Virginia,Fluvanna,0.0040
+Virginia,Franklin,0.0040
+Virginia,Franklin City,0.1340
+Virginia,Frederick,0.0180
+Virginia,Fredericksburg,0.0560
+Virginia,Galax,0.0030
+Virginia,Giles,0.0060
+Virginia,Gloucester,0.0590
+Virginia,Goochland,0.0210
+Virginia,Grayson,0.0030
+Virginia,Greene,0.0130
+Virginia,Greensville,0.1580
+Virginia,Halifax,0.0120
+Virginia,Hampton,0.0700
+Virginia,Hanover,0.0880
+Virginia,Harrisonburg,0.0210
+Virginia,Henrico,0.0610
+Virginia,Henry,0.0020
+Virginia,Highland,0.0050
+Virginia,Hopewell,0.0610
+Virginia,Isle of Wight,0.2220
+Virginia,James City,0.0520
+Virginia,King and Queen,0.1110
+Virginia,King George,0.0960
+Virginia,King William,0.1090
+Virginia,Lancaster,0.0740
+Virginia,Lee,0.0010
+Virginia,Lexington,0.0020
+Virginia,Loudoun,0.0540
+Virginia,Louisa,0.0610
+Virginia,Lunenburg,0.0090
+Virginia,Lynchburg,0.0030
+Virginia,Madison,0.0300
+Virginia,Manassas,0.0370
+Virginia,Manassas Park,0.1080
+Virginia,Martinsville,0.0010
+Virginia,Mathews,0.0500
+Virginia,Mecklenburg,0.0130
+Virginia,Middlesex,0.0650
+Virginia,Montgomery,0.0130
+Virginia,Nelson,0.0040
+Virginia,New Kent,0.0680
+Virginia,Newport News,0.0210
+Virginia,Norfolk,0.0300
+Virginia,Northampton,0.3030
+Virginia,Northumberland,0.1080
+Virginia,Norton,0.0000
+Virginia,Nottoway,0.0120
+Virginia,Orange,0.0790
+Virginia,Page,0.0150
+Virginia,Patrick,0.0040
+Virginia,Petersburg,0.0730
+Virginia,Pittsylvania,0.0130
+Virginia,Poquoson,0.0360
+Virginia,Portsmouth,0.0540
+Virginia,Powhatan,0.0130
+Virginia,Prince Edward,0.0060
+Virginia,Prince George,0.1150
+Virginia,Prince William,0.0960
+Virginia,Pulaski,0.0080
+Virginia,Radford,0.0020
+Virginia,Rappahannock,0.0040
+Virginia,Richmond,0.1120
+Virginia,Richmond City,0.0190
+Virginia,Roanoke,0.0060
+Virginia,Roanoke City,0.0000
+Virginia,Rockbridge,0.0060
+Virginia,Rockingham,0.0390
+Virginia,Russell,0.0030
+Virginia,Salem,0.0020
+Virginia,Scott,0.0040
+Virginia,Shenandoah,0.0230
+Virginia,Smyth,0.0060
+Virginia,Southampton,0.2790
+Virginia,Spotsylvania,0.0820
+Virginia,Stafford,0.0840
+Virginia,Staunton,0.0090
+Virginia,Suffolk,0.1930
+Virginia,Surry,0.1500
+Virginia,Sussex,0.1550
+Virginia,Tazewell,0.0030
+Virginia,Virginia Beach,0.1310
+Virginia,Warren,0.0050
+Virginia,Washington,0.0080
+Virginia,Waynesboro,0.0190
+Virginia,Westmoreland,0.1000
+Virginia,Williamsburg,0.0350
+Virginia,Winchester,0.0040
+Virginia,Wise,0.0010
+Virginia,Wythe,0.0080
+Virginia,York,0.0410
+Washington,Adams,0.5870
+Washington,Asotin,0.1580
+Washington,Benton,0.3780
+Washington,Chelan,0.0040
+Washington,Clallam,0.0010
+Washington,Clark,0.0170
+Washington,Columbia,0.3400
+Washington,Cowlitz,0.0050
+Washington,Douglas,0.3370
+Washington,Ferry,0.0010
+Washington,Franklin,0.4900
+Washington,Garfield,0.3910
+Washington,Grant,0.4110
+Washington,Grays Harbor,0.0010
+Washington,Island,0.0090
+Washington,Jefferson,0.0000
+Washington,King,0.0010
+Washington,Kitsap,0.0000
+Washington,Kittitas,0.0410
+Washington,Klickitat,0.1100
+Washington,Lewis,0.0070
+Washington,Lincoln,0.5090
+Washington,Mason,0.0000
+Washington,Okanogan,0.0070
+Washington,Pacific,0.0000
+Washington,Pend Oreille,0.0070
+Washington,Pierce,0.0030
+Washington,San Juan,0.0030
+Washington,Skagit,0.0270
+Washington,Skamania,0.0020
+Washington,Snohomish,0.0070
+Washington,Spokane,0.2720
+Washington,Stevens,0.0180
+Washington,Thurston,0.0110
+Washington,Wahkiakum,0.0090
+Washington,Walla Walla,0.5930
+Washington,Whatcom,0.0180
+Washington,Whitman,0.7460
+Washington,Yakima,0.1240
+West Virginia,Barbour,0.0420
+West Virginia,Berkeley,0.0390
+West Virginia,Boone,0.0040
+West Virginia,Braxton,0.0140
+West Virginia,Brooke,0.0400
+West Virginia,Cabell,0.0120
+West Virginia,Calhoun,0.0040
+West Virginia,Clay,0.0060
+West Virginia,Doddridge,0.0190
+West Virginia,Fayette,0.0030
+West Virginia,Gilmer,0.0190
+West Virginia,Grant,0.0050
+West Virginia,Greenbrier,0.0080
+West Virginia,Hampshire,0.0020
+West Virginia,Hancock,0.0330
+West Virginia,Hardy,0.0070
+West Virginia,Harrison,0.0160
+West Virginia,Jackson,0.0200
+West Virginia,Jefferson,0.0660
+West Virginia,Kanawha,0.0020
+West Virginia,Lewis,0.0210
+West Virginia,Lincoln,0.0090
+West Virginia,Logan,0.0050
+West Virginia,Marion,0.0230
+West Virginia,Marshall,0.0130
+West Virginia,Mason,0.0550
+West Virginia,McDowell,0.0000
+West Virginia,Mercer,0.0020
+West Virginia,Mineral,0.0060
+West Virginia,Mingo,0.0040
+West Virginia,Monongalia,0.0270
+West Virginia,Monroe,0.0090
+West Virginia,Morgan,0.0110
+West Virginia,Nicholas,0.0160
+West Virginia,Ohio,0.0430
+West Virginia,Pendleton,0.0030
+West Virginia,Pleasants,0.0080
+West Virginia,Pocahontas,0.0110
+West Virginia,Preston,0.0420
+West Virginia,Putnam,0.0220
+West Virginia,Raleigh,0.0010
+West Virginia,Randolph,0.0130
+West Virginia,Ritchie,0.0120
+West Virginia,Roane,0.0080
+West Virginia,Summers,0.0060
+West Virginia,Taylor,0.0180
+West Virginia,Tucker,0.0060
+West Virginia,Tyler,0.0140
+West Virginia,Upshur,0.0390
+West Virginia,Wayne,0.0040
+West Virginia,Webster,0.0060
+West Virginia,Wetzel,0.0070
+West Virginia,Wirt,0.0080
+West Virginia,Wood,0.0180
+West Virginia,Wyoming,0.0000
+Wisconsin,Adams,0.2310
+Wisconsin,Ashland,0.0220
+Wisconsin,Barron,0.2480
+Wisconsin,Bayfield,0.0080
+Wisconsin,Brown,0.3300
+Wisconsin,Buffalo,0.2710
+Wisconsin,Burnett,0.0600
+Wisconsin,Calumet,0.4040
+Wisconsin,Chippewa,0.4090
+Wisconsin,Clark,0.4560
+Wisconsin,Columbia,0.4800
+Wisconsin,Crawford,0.2170
+Wisconsin,Dane,0.4550
+Wisconsin,Dodge,0.5090
+Wisconsin,Door,0.1310
+Wisconsin,Douglas,0.0060
+Wisconsin,Dunn,0.4210
+Wisconsin,Eau Claire,0.3020
+Wisconsin,Florence,0.0460
+Wisconsin,Fond du Lac,0.4730
+Wisconsin,Forest,0.0270
+Wisconsin,Grant,0.4230
+Wisconsin,Green,0.4220
+Wisconsin,Green Lake,0.4690
+Wisconsin,Iowa,0.3880
+Wisconsin,Iron,0.0170
+Wisconsin,Jackson,0.2010
+Wisconsin,Jefferson,0.4630
+Wisconsin,Juneau,0.2400
+Wisconsin,Kenosha,0.4640
+Wisconsin,Kewaunee,0.1960
+Wisconsin,La Crosse,0.2740
+Wisconsin,Lafayette,0.5550
+Wisconsin,Langlade,0.1480
+Wisconsin,Lincoln,0.1090
+Wisconsin,Manitowoc,0.2930
+Wisconsin,Marathon,0.4260
+Wisconsin,Marinette,0.1000
+Wisconsin,Marquette,0.3080
+Wisconsin,Menominee,0.0050
+Wisconsin,Milwaukee,0.0810
+Wisconsin,Monroe,0.2810
+Wisconsin,Oconto,0.2070
+Wisconsin,Oneida,0.0160
+Wisconsin,Outagamie,0.4850
+Wisconsin,Ozaukee,0.4290
+Wisconsin,Pepin,0.3600
+Wisconsin,Pierce,0.4860
+Wisconsin,Polk,0.1320
+Wisconsin,Portage,0.3940
+Wisconsin,Price,0.0550
+Wisconsin,Racine,0.4950
+Wisconsin,Richland,0.3030
+Wisconsin,Rock,0.6100
+Wisconsin,Rusk,0.1180
+Wisconsin,Sauk,0.3720
+Wisconsin,Sawyer,0.0210
+Wisconsin,Shawano,0.2710
+Wisconsin,Sheboygan,0.4360
+Wisconsin,St. Croix,0.3650
+Wisconsin,Taylor,0.2570
+Wisconsin,Trempealeau,0.3530
+Wisconsin,Vernon,0.3190
+Wisconsin,Vilas,0.0090
+Wisconsin,Walworth,0.5310
+Wisconsin,Washburn,0.0360
+Wisconsin,Washington,0.3810
+Wisconsin,Waukesha,0.2780
+Wisconsin,Waupaca,0.3290
+Wisconsin,Waushara,0.3870
+Wisconsin,Winnebago,0.4010
+Wisconsin,Wood,0.3390
+Wyoming,Albany,0.0000
+Wyoming,Big Horn,0.0320
+Wyoming,Campbell,0.0060
+Wyoming,Carbon,0.0000
+Wyoming,Converse,0.0070
+Wyoming,Crook,0.0030
+Wyoming,Fremont,0.0030
+Wyoming,Goshen,0.1830
+Wyoming,Hot Springs,0.0030
+Wyoming,Johnson,0.0030
+Wyoming,Laramie,0.1310
+Wyoming,Lincoln,0.0040
+Wyoming,Natrona,0.0010
+Wyoming,Niobrara,0.0270
+Wyoming,Park,0.0110
+Wyoming,Platte,0.0830
+Wyoming,Sheridan,0.0110
+Wyoming,Sublette,0.0000
+Wyoming,Sweetwater,0.0000
+Wyoming,Teton,0.0010
+Wyoming,Uinta,0.0000
+Wyoming,Washakie,0.0200
+Wyoming,Weston,0.0000

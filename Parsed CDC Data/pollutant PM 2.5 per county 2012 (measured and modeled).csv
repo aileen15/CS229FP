@@ -1,0 +1,3110 @@
+state,county,value
+Alabama,Autauga,10.8
+Alabama,Baldwin,9.6
+Alabama,Barbour,10.1
+Alabama,Bibb,10.5
+Alabama,Blount,11.3
+Alabama,Bullock,9.8
+Alabama,Butler,9.4
+Alabama,Calhoun,11.6
+Alabama,Chambers,10.4
+Alabama,Cherokee,10.8
+Alabama,Chilton,10.5
+Alabama,Choctaw,9.6
+Alabama,Clarke,9.6
+Alabama,Clay,9.9
+Alabama,Cleburne,10.3
+Alabama,Coffee,9.6
+Alabama,Colbert,10.2
+Alabama,Conecuh,9.1
+Alabama,Coosa,10.2
+Alabama,Covington,9.2
+Alabama,Crenshaw,9.5
+Alabama,Cullman,11.3
+Alabama,Dale,9.8
+Alabama,Dallas,10.1
+Alabama,DeKalb,10.7
+Alabama,Elmore,11.1
+Alabama,Escambia,9.1
+Alabama,Etowah,11.2
+Alabama,Fayette,10
+Alabama,Franklin,9.9
+Alabama,Geneva,9.3
+Alabama,Greene,9.6
+Alabama,Hale,9.9
+Alabama,Henry,9.7
+Alabama,Houston,9.5
+Alabama,Jackson,10.7
+Alabama,Jefferson,12.9
+Alabama,Lamar,9.7
+Alabama,Lauderdale,10.5
+Alabama,Lawrence,10.9
+Alabama,Lee,11.1
+Alabama,Limestone,11.7
+Alabama,Lowndes,10
+Alabama,Macon,10.6
+Alabama,Madison,11.6
+Alabama,Marengo,9.8
+Alabama,Marion,9.8
+Alabama,Marshall,11.3
+Alabama,Mobile,10
+Alabama,Monroe,9.3
+Alabama,Montgomery,11.2
+Alabama,Morgan,11.3
+Alabama,Perry,9.7
+Alabama,Pickens,9.9
+Alabama,Pike,9.7
+Alabama,Randolph,10.1
+Alabama,Russell,11.2
+Alabama,Shelby,11.4
+Alabama,St. Clair,11.8
+Alabama,Sumter,9.7
+Alabama,Talladega,11.4
+Alabama,Tallapoosa,10.4
+Alabama,Tuscaloosa,10.7
+Alabama,Walker,11.1
+Alabama,Washington,9.5
+Alabama,Wilcox,9.4
+Alabama,Winston,10.4
+Arizona,Apache,5.5
+Arizona,Cochise,6
+Arizona,Coconino,5.5
+Arizona,Gila,6.4
+Arizona,Graham,6.4
+Arizona,Greenlee,5.8
+Arizona,La Paz,6.2
+Arizona,Maricopa,10.3
+Arizona,Mohave,5.9
+Arizona,Navajo,5.7
+Arizona,Pima,7.2
+Arizona,Pinal,10.3
+Arizona,Santa Cruz,6
+Arizona,Yavapai,5.9
+Arizona,Yuma,7.3
+Arkansas,Arkansas,10.4
+Arkansas,Ashley,10
+Arkansas,Baxter,9.3
+Arkansas,Benton,10
+Arkansas,Boone,9.2
+Arkansas,Bradley,10
+Arkansas,Calhoun,10
+Arkansas,Carroll,9.2
+Arkansas,Chicot,10.1
+Arkansas,Clark,10.3
+Arkansas,Clay,10.3
+Arkansas,Cleburne,10
+Arkansas,Cleveland,10.1
+Arkansas,Columbia,10
+Arkansas,Conway,10.4
+Arkansas,Craighead,10.4
+Arkansas,Crawford,10
+Arkansas,Crittenden,10.4
+Arkansas,Cross,10.3
+Arkansas,Dallas,10.3
+Arkansas,Desha,10.2
+Arkansas,Drew,10
+Arkansas,Faulkner,10.8
+Arkansas,Franklin,9.7
+Arkansas,Fulton,9.3
+Arkansas,Garland,10.1
+Arkansas,Grant,10.4
+Arkansas,Greene,10.3
+Arkansas,Hempstead,10.1
+Arkansas,Hot Spring,10.5
+Arkansas,Howard,9.9
+Arkansas,Independence,10
+Arkansas,Izard,9.4
+Arkansas,Jackson,10.1
+Arkansas,Jefferson,10.9
+Arkansas,Johnson,9.7
+Arkansas,Lafayette,9.9
+Arkansas,Lawrence,10.1
+Arkansas,Lee,10.4
+Arkansas,Lincoln,10.3
+Arkansas,Little River,10.1
+Arkansas,Logan,9.8
+Arkansas,Lonoke,11.2
+Arkansas,Madison,9.1
+Arkansas,Marion,9.1
+Arkansas,Miller,10.1
+Arkansas,Mississippi,10.4
+Arkansas,Monroe,10.4
+Arkansas,Montgomery,9.5
+Arkansas,Nevada,10
+Arkansas,Newton,8.8
+Arkansas,Ouachita,10.2
+Arkansas,Perry,10.2
+Arkansas,Phillips,10.3
+Arkansas,Pike,9.8
+Arkansas,Poinsett,10.4
+Arkansas,Polk,9.3
+Arkansas,Pope,10
+Arkansas,Prairie,10.5
+Arkansas,Pulaski,12.2
+Arkansas,Randolph,9.8
+Arkansas,Saline,11.1
+Arkansas,Scott,9.2
+Arkansas,Searcy,9.1
+Arkansas,Sebastian,10.2
+Arkansas,Sevier,9.8
+Arkansas,Sharp,9.6
+Arkansas,St. Francis,10.4
+Arkansas,Stone,9.4
+Arkansas,Union,10.2
+Arkansas,Van Buren,9.9
+Arkansas,Washington,9.7
+Arkansas,White,10.8
+Arkansas,Woodruff,10.3
+Arkansas,Yell,10
+California,Alameda,9
+California,Alpine,4.9
+California,Amador,7.9
+California,Butte,8.1
+California,Calaveras,7.8
+California,Colusa,7.1
+California,Contra Costa,7.7
+California,Del Norte,5.8
+California,El Dorado,8.1
+California,Fresno,14.3
+California,Glenn,7.2
+California,Humboldt,6
+California,Imperial,10.3
+California,Inyo,5.8
+California,Kern,13.9
+California,Kings,13.5
+California,Lake,5.5
+California,Lassen,7.1
+California,Los Angeles,14.4
+California,Madera,11.8
+California,Marin,7.6
+California,Mariposa,8
+California,Mendocino,5.8
+California,Merced,10.4
+California,Modoc,6.2
+California,Mono,5.4
+California,Monterey,7.6
+California,Napa,7.5
+California,Nevada,6.7
+California,Orange,10.9
+California,Placer,8.7
+California,Plumas,8.8
+California,Riverside,15.4
+California,Sacramento,9.9
+California,San Benito,7.7
+California,San Bernardino,14.2
+California,San Diego,11.6
+California,San Francisco,8.2
+California,San Joaquin,9.7
+California,San Luis Obispo,8.7
+California,San Mateo,8.1
+California,Santa Barbara,8
+California,Santa Clara,8.8
+California,Santa Cruz,7.9
+California,Shasta,7.3
+California,Sierra,5.6
+California,Siskiyou,6.6
+California,Solano,8.5
+California,Sonoma,6.8
+California,Stanislaus,10
+California,Sutter,7.1
+California,Tehama,7.3
+California,Trinity,5.6
+California,Tulare,13.7
+California,Tuolumne,7.6
+California,Ventura,10.2
+California,Yolo,8.7
+California,Yuba,8
+Colorado,Adams,9.1
+Colorado,Alamosa,4.9
+Colorado,Arapahoe,8.1
+Colorado,Archuleta,5
+Colorado,Baca,6
+Colorado,Bent,5.9
+Colorado,Boulder,8
+Colorado,Broomfield,8.5
+Colorado,Chaffee,4.6
+Colorado,Cheyenne,6.3
+Colorado,Clear Creek,4.9
+Colorado,Conejos,4.6
+Colorado,Costilla,4.6
+Colorado,Crowley,5.8
+Colorado,Custer,4.6
+Colorado,Delta,5.2
+Colorado,Denver,8.6
+Colorado,Dolores,4.5
+Colorado,Douglas,7
+Colorado,Eagle,4.9
+Colorado,El Paso,6.7
+Colorado,Elbert,6.4
+Colorado,Fremont,5.5
+Colorado,Garfield,5.4
+Colorado,Gilpin,5
+Colorado,Grand,4.9
+Colorado,Gunnison,4.6
+Colorado,Hinsdale,4.2
+Colorado,Huerfano,4.9
+Colorado,Jackson,4.8
+Colorado,Jefferson,8.2
+Colorado,Kiowa,6.3
+Colorado,Kit Carson,6.7
+Colorado,La Plata,5.4
+Colorado,Lake,4.3
+Colorado,Larimer,7.8
+Colorado,Las Animas,5.3
+Colorado,Lincoln,6
+Colorado,Logan,7
+Colorado,Mesa,6
+Colorado,Mineral,4.4
+Colorado,Moffat,5.6
+Colorado,Montezuma,5.2
+Colorado,Montrose,5
+Colorado,Morgan,7.4
+Colorado,Otero,6.1
+Colorado,Ouray,4.4
+Colorado,Park,4.8
+Colorado,Phillips,7.1
+Colorado,Pitkin,4.6
+Colorado,Prowers,6.6
+Colorado,Pueblo,6.5
+Colorado,Rio Blanco,5.3
+Colorado,Rio Grande,4.8
+Colorado,Routt,5.3
+Colorado,Saguache,4.5
+Colorado,San Juan,4.2
+Colorado,San Miguel,4.7
+Colorado,Sedgwick,6.9
+Colorado,Summit,4.7
+Colorado,Teller,5.5
+Colorado,Washington,6.7
+Colorado,Weld,9.2
+Colorado,Yuma,6.9
+Connecticut,Fairfield,9.5
+Connecticut,Hartford,7.7
+Connecticut,Litchfield,7.3
+Connecticut,Middlesex,8.5
+Connecticut,New Haven,8.6
+Connecticut,New London,7.8
+Connecticut,Tolland,8.4
+Connecticut,Windham,8
+Delaware,Kent,9
+Delaware,New Castle,10.4
+Delaware,Sussex,8.8
+District of Columbia,District of Columbia,10.9
+Florida,Alachua,7.5
+Florida,Baker,7.6
+Florida,Bay,8.1
+Florida,Bradford,7.3
+Florida,Brevard,6.5
+Florida,Broward,7.4
+Florida,Calhoun,8.2
+Florida,Charlotte,6.7
+Florida,Citrus,7.1
+Florida,Clay,7.9
+Florida,Collier,6.8
+Florida,Columbia,7.8
+Florida,DeSoto,6.5
+Florida,Dixie,7
+Florida,Duval,8.5
+Florida,Escambia,8.9
+Florida,Flagler,6.5
+Florida,Franklin,7.1
+Florida,Gadsden,9.2
+Florida,Gilchrist,7.4
+Florida,Glades,6.3
+Florida,Gulf,7.2
+Florida,Hamilton,8
+Florida,Hardee,6.7
+Florida,Hendry,6.9
+Florida,Hernando,7.1
+Florida,Highlands,6.5
+Florida,Hillsborough,7
+Florida,Holmes,8.8
+Florida,Indian River,6.1
+Florida,Jackson,9.1
+Florida,Jefferson,8.6
+Florida,Lafayette,7.5
+Florida,Lake,7.4
+Florida,Lee,6.9
+Florida,Leon,9.1
+Florida,Levy,7.4
+Florida,Liberty,7.6
+Florida,Madison,8.2
+Florida,Manatee,7.3
+Florida,Marion,7.7
+Florida,Martin,6.5
+Florida,Miami-Dade,7.9
+Florida,Monroe,6.5
+Florida,Nassau,8
+Florida,Okaloosa,8.6
+Florida,Okeechobee,6.2
+Florida,Orange,6.5
+Florida,Osceola,7.3
+Florida,Palm Beach,6
+Florida,Pasco,7.4
+Florida,Pinellas,6.9
+Florida,Polk,7.5
+Florida,Putnam,7.2
+Florida,Santa Rosa,9
+Florida,Sarasota,7
+Florida,Seminole,7.3
+Florida,St. Johns,7.6
+Florida,St. Lucie,6.3
+Florida,Sumter,7.4
+Florida,Suwannee,7.9
+Florida,Taylor,7.6
+Florida,Union,7.4
+Florida,Volusia,6.8
+Florida,Wakulla,7.9
+Florida,Walton,8.6
+Florida,Washington,8.6
+Georgia,Appling,9.2
+Georgia,Atkinson,9.3
+Georgia,Bacon,9.1
+Georgia,Baker,9.8
+Georgia,Baldwin,10.6
+Georgia,Banks,10.1
+Georgia,Barrow,10.5
+Georgia,Bartow,10.7
+Georgia,Ben Hill,9.7
+Georgia,Berrien,9.7
+Georgia,Bibb,11.3
+Georgia,Bleckley,10.1
+Georgia,Brantley,7.9
+Georgia,Brooks,9.6
+Georgia,Bryan,9
+Georgia,Bulloch,9.6
+Georgia,Burke,10.4
+Georgia,Butts,10.5
+Georgia,Calhoun,9.7
+Georgia,Camden,7.7
+Georgia,Candler,9.6
+Georgia,Carroll,10.2
+Georgia,Catoosa,10.7
+Georgia,Charlton,7.6
+Georgia,Chatham,9.3
+Georgia,Chattahoochee,10.6
+Georgia,Chattooga,10.5
+Georgia,Cherokee,10.5
+Georgia,Clarke,10.2
+Georgia,Clay,9.4
+Georgia,Clayton,10.7
+Georgia,Clinch,8.2
+Georgia,Cobb,10.2
+Georgia,Coffee,9.6
+Georgia,Colquitt,10.2
+Georgia,Columbia,10.9
+Georgia,Cook,9.7
+Georgia,Coweta,10.4
+Georgia,Crawford,10.6
+Georgia,Crisp,10.3
+Georgia,Dade,10.1
+Georgia,Dawson,9.5
+Georgia,Decatur,9.8
+Georgia,DeKalb,10.6
+Georgia,Dodge,10
+Georgia,Dooly,10.4
+Georgia,Dougherty,10.4
+Georgia,Douglas,10.5
+Georgia,Early,9.7
+Georgia,Echols,8.1
+Georgia,Effingham,9.3
+Georgia,Elbert,10.1
+Georgia,Emanuel,9.8
+Georgia,Evans,9.2
+Georgia,Fannin,9
+Georgia,Fayette,10.5
+Georgia,Floyd,10.6
+Georgia,Forsyth,10.4
+Georgia,Franklin,10.2
+Georgia,Fulton,10.8
+Georgia,Gilmer,9.4
+Georgia,Glascock,9.9
+Georgia,Glynn,7.7
+Georgia,Gordon,10.6
+Georgia,Grady,10.2
+Georgia,Greene,10.3
+Georgia,Gwinnett,10.8
+Georgia,Habersham,9.4
+Georgia,Hall,10
+Georgia,Hancock,10.1
+Georgia,Haralson,9.9
+Georgia,Harris,10.5
+Georgia,Hart,10.3
+Georgia,Heard,9.9
+Georgia,Henry,10.8
+Georgia,Houston,10.5
+Georgia,Irwin,9.8
+Georgia,Jackson,10.5
+Georgia,Jasper,10.6
+Georgia,Jeff Davis,9.4
+Georgia,Jefferson,10.2
+Georgia,Jenkins,9.7
+Georgia,Johnson,9.9
+Georgia,Jones,11
+Georgia,Lamar,10.5
+Georgia,Lanier,8.8
+Georgia,Laurens,10.3
+Georgia,Lee,10.4
+Georgia,Liberty,8.8
+Georgia,Lincoln,9.9
+Georgia,Long,8.8
+Georgia,Lowndes,9.1
+Georgia,Lumpkin,9.2
+Georgia,Macon,10.6
+Georgia,Madison,10.3
+Georgia,Marion,10.1
+Georgia,McDuffie,10.3
+Georgia,McIntosh,7.9
+Georgia,Meriwether,10.2
+Georgia,Miller,9.6
+Georgia,Mitchell,10.2
+Georgia,Monroe,10.8
+Georgia,Montgomery,9.5
+Georgia,Morgan,10.5
+Georgia,Murray,10.1
+Georgia,Muscogee,11.1
+Georgia,Newton,10.7
+Georgia,Oconee,10.4
+Georgia,Oglethorpe,10.1
+Georgia,Paulding,9.9
+Georgia,Peach,10.8
+Georgia,Pickens,9.7
+Georgia,Pierce,8.6
+Georgia,Pike,10.3
+Georgia,Polk,10.2
+Georgia,Pulaski,10.1
+Georgia,Putnam,10.6
+Georgia,Quitman,9.7
+Georgia,Rabun,8.5
+Georgia,Randolph,9.8
+Georgia,Richmond,11.2
+Georgia,Rockdale,10.7
+Georgia,Schley,10.2
+Georgia,Screven,9.6
+Georgia,Seminole,9.3
+Georgia,Spalding,10.5
+Georgia,Stephens,9.5
+Georgia,Stewart,10
+Georgia,Sumter,10.5
+Georgia,Talbot,10.2
+Georgia,Taliaferro,9.7
+Georgia,Tattnall,9.4
+Georgia,Taylor,10.4
+Georgia,Telfair,9.5
+Georgia,Terrell,10.2
+Georgia,Thomas,10.5
+Georgia,Tift,10.1
+Georgia,Toombs,9.5
+Georgia,Towns,8.4
+Georgia,Treutlen,9.6
+Georgia,Troup,10.3
+Georgia,Turner,10
+Georgia,Twiggs,10.5
+Georgia,Union,8.7
+Georgia,Upson,10.4
+Georgia,Walker,10.7
+Georgia,Walton,10.6
+Georgia,Ware,8.8
+Georgia,Warren,10
+Georgia,Washington,10.1
+Georgia,Wayne,8.7
+Georgia,Webster,10
+Georgia,Wheeler,9.4
+Georgia,White,9.1
+Georgia,Whitfield,10.6
+Georgia,Wilcox,9.9
+Georgia,Wilkes,9.9
+Georgia,Wilkinson,10.8
+Georgia,Worth,10.4
+Idaho,Ada,9.7
+Idaho,Adams,6.2
+Idaho,Bannock,7.3
+Idaho,Bear Lake,6.4
+Idaho,Benewah,6.8
+Idaho,Bingham,7.8
+Idaho,Blaine,6.5
+Idaho,Boise,6.1
+Idaho,Bonner,6.5
+Idaho,Bonneville,8
+Idaho,Boundary,5.1
+Idaho,Butte,6.1
+Idaho,Camas,5.9
+Idaho,Canyon,10.1
+Idaho,Caribou,6.7
+Idaho,Cassia,6.9
+Idaho,Clark,6.2
+Idaho,Clearwater,7.7
+Idaho,Custer,5.9
+Idaho,Elmore,7.8
+Idaho,Franklin,6.8
+Idaho,Fremont,7
+Idaho,Gem,9
+Idaho,Gooding,7.5
+Idaho,Idaho,8.8
+Idaho,Jefferson,7.9
+Idaho,Jerome,7.6
+Idaho,Kootenai,7.7
+Idaho,Latah,7.3
+Idaho,Lemhi,8.3
+Idaho,Lewis,7.2
+Idaho,Lincoln,6.7
+Idaho,Madison,7.6
+Idaho,Minidoka,7.3
+Idaho,Nez Perce,7.6
+Idaho,Oneida,6.5
+Idaho,Owyhee,7.5
+Idaho,Payette,8.8
+Idaho,Power,6.8
+Idaho,Shoshone,6.6
+Idaho,Teton,6.2
+Idaho,Twin Falls,7.4
+Idaho,Valley,6.3
+Idaho,Washington,7.2
+Illinois,Adams,10.1
+Illinois,Alexander,10.4
+Illinois,Bond,10.4
+Illinois,Boone,10.6
+Illinois,Brown,9.8
+Illinois,Bureau,10.7
+Illinois,Calhoun,10.6
+Illinois,Carroll,10.4
+Illinois,Cass,10.2
+Illinois,Champaign,10.6
+Illinois,Christian,10.5
+Illinois,Clark,10.5
+Illinois,Clay,10.3
+Illinois,Clinton,10.7
+Illinois,Coles,10.4
+Illinois,Cook,14
+Illinois,Crawford,10.7
+Illinois,Cumberland,10.4
+Illinois,De Witt,10.4
+Illinois,DeKalb,11.1
+Illinois,Douglas,10.5
+Illinois,DuPage,12.2
+Illinois,Edgar,10.5
+Illinois,Edwards,10.4
+Illinois,Effingham,10.4
+Illinois,Fayette,10.3
+Illinois,Ford,10.6
+Illinois,Franklin,10.3
+Illinois,Fulton,10.5
+Illinois,Gallatin,10.1
+Illinois,Greene,10.2
+Illinois,Grundy,11.1
+Illinois,Hamilton,10
+Illinois,Hancock,10.4
+Illinois,Hardin,9.8
+Illinois,Henderson,10.4
+Illinois,Henry,10.9
+Illinois,Iroquois,10.9
+Illinois,Jackson,10.3
+Illinois,Jasper,10.4
+Illinois,Jefferson,10.4
+Illinois,Jersey,10.7
+Illinois,Jo Daviess,10.2
+Illinois,Johnson,10
+Illinois,Kane,11.7
+Illinois,Kankakee,11.2
+Illinois,Kendall,11.5
+Illinois,Knox,10.6
+Illinois,La Salle,11.1
+Illinois,Lake,11.7
+Illinois,Lawrence,10.7
+Illinois,Lee,10.7
+Illinois,Livingston,10.7
+Illinois,Logan,10.5
+Illinois,Macon,10.6
+Illinois,Macoupin,10.7
+Illinois,Madison,13.2
+Illinois,Marion,10.4
+Illinois,Marshall,10.6
+Illinois,Mason,10.5
+Illinois,Massac,10.1
+Illinois,McDonough,10.3
+Illinois,McHenry,11
+Illinois,McLean,10.5
+Illinois,Menard,10.3
+Illinois,Mercer,10.6
+Illinois,Monroe,11.3
+Illinois,Montgomery,10.4
+Illinois,Morgan,10.3
+Illinois,Moultrie,10.3
+Illinois,Ogle,10.7
+Illinois,Peoria,10.8
+Illinois,Perry,10.3
+Illinois,Piatt,10.5
+Illinois,Pike,10.2
+Illinois,Pope,9.9
+Illinois,Pulaski,10.1
+Illinois,Putnam,10.4
+Illinois,Randolph,10.3
+Illinois,Richland,10.4
+Illinois,Rock Island,10.9
+Illinois,Saline,10.1
+Illinois,Sangamon,10.5
+Illinois,Schuyler,10
+Illinois,Scott,10
+Illinois,Shelby,10.4
+Illinois,St. Clair,11.8
+Illinois,Stark,10.4
+Illinois,Stephenson,10.3
+Illinois,Tazewell,11
+Illinois,Union,10.2
+Illinois,Vermilion,10.8
+Illinois,Wabash,10.7
+Illinois,Warren,10.4
+Illinois,Washington,10.4
+Illinois,Wayne,10.3
+Illinois,White,10.4
+Illinois,Whiteside,10.8
+Illinois,Will,12.3
+Illinois,Williamson,10.3
+Illinois,Winnebago,10.5
+Illinois,Woodford,10.8
+Indiana,Adams,11.4
+Indiana,Allen,11.3
+Indiana,Bartholomew,11.2
+Indiana,Benton,10.8
+Indiana,Blackford,11
+Indiana,Boone,11.5
+Indiana,Brown,10.8
+Indiana,Carroll,11.4
+Indiana,Cass,11.4
+Indiana,Clark,11.8
+Indiana,Clay,10.7
+Indiana,Clinton,11.3
+Indiana,Crawford,10.3
+Indiana,Daviess,11
+Indiana,Dearborn,11.4
+Indiana,Decatur,11.1
+Indiana,DeKalb,11
+Indiana,Delaware,11
+Indiana,Dubois,11
+Indiana,Elkhart,11.2
+Indiana,Fayette,11
+Indiana,Floyd,11
+Indiana,Fountain,10.7
+Indiana,Franklin,11.1
+Indiana,Fulton,11.1
+Indiana,Gibson,11.1
+Indiana,Grant,11.2
+Indiana,Greene,10.6
+Indiana,Hamilton,11.8
+Indiana,Hancock,11.6
+Indiana,Harrison,10.6
+Indiana,Hendricks,11.5
+Indiana,Henry,10.7
+Indiana,Howard,11.3
+Indiana,Huntington,11.2
+Indiana,Jackson,10.9
+Indiana,Jasper,11.4
+Indiana,Jay,11.2
+Indiana,Jefferson,10.7
+Indiana,Jennings,10.9
+Indiana,Johnson,11.6
+Indiana,Knox,11
+Indiana,Kosciusko,11.3
+Indiana,LaGrange,11.1
+Indiana,Lake,13.1
+Indiana,LaPorte,11.1
+Indiana,Lawrence,10.6
+Indiana,Madison,11.1
+Indiana,Marion,12.3
+Indiana,Marshall,11.2
+Indiana,Martin,10.7
+Indiana,Miami,11.3
+Indiana,Monroe,10.4
+Indiana,Montgomery,10.9
+Indiana,Morgan,11.3
+Indiana,Newton,11.1
+Indiana,Noble,11.1
+Indiana,Ohio,10.9
+Indiana,Orange,10.5
+Indiana,Owen,10.6
+Indiana,Parke,10.6
+Indiana,Perry,10.7
+Indiana,Pike,11
+Indiana,Porter,11.4
+Indiana,Posey,11
+Indiana,Pulaski,11.1
+Indiana,Putnam,10.8
+Indiana,Randolph,11.2
+Indiana,Ripley,11
+Indiana,Rush,11.1
+Indiana,Scott,10.7
+Indiana,Shelby,11.5
+Indiana,Spencer,10.9
+Indiana,St. Joseph,11
+Indiana,Starke,11.3
+Indiana,Steuben,10.7
+Indiana,Sullivan,10.8
+Indiana,Switzerland,10.8
+Indiana,Tippecanoe,11
+Indiana,Tipton,11.3
+Indiana,Union,11
+Indiana,Vanderburgh,11.3
+Indiana,Vermillion,10.7
+Indiana,Vigo,10.8
+Indiana,Wabash,11.2
+Indiana,Warren,10.6
+Indiana,Warrick,11.3
+Indiana,Washington,10.6
+Indiana,Wayne,11.2
+Indiana,Wells,11.2
+Indiana,White,11.3
+Indiana,Whitley,10.9
+Iowa,Adair,9.1
+Iowa,Adams,9.1
+Iowa,Allamakee,9.4
+Iowa,Appanoose,9.2
+Iowa,Audubon,9.3
+Iowa,Benton,10.1
+Iowa,Black Hawk,10
+Iowa,Boone,9.7
+Iowa,Bremer,9.9
+Iowa,Buchanan,9.9
+Iowa,Buena Vista,9.4
+Iowa,Butler,9.9
+Iowa,Calhoun,9.4
+Iowa,Carroll,9.4
+Iowa,Cass,9.3
+Iowa,Cedar,10.5
+Iowa,Cerro Gordo,9.7
+Iowa,Cherokee,9.4
+Iowa,Chickasaw,9.6
+Iowa,Clarke,9
+Iowa,Clay,9.3
+Iowa,Clayton,9.7
+Iowa,Clinton,10.9
+Iowa,Crawford,9.5
+Iowa,Dallas,9.6
+Iowa,Davis,9.4
+Iowa,Decatur,8.9
+Iowa,Delaware,9.6
+Iowa,Des Moines,10.5
+Iowa,Dickinson,9.3
+Iowa,Dubuque,10.2
+Iowa,Emmet,9.4
+Iowa,Fayette,9.8
+Iowa,Floyd,9.6
+Iowa,Franklin,9.7
+Iowa,Fremont,9.6
+Iowa,Greene,9.4
+Iowa,Grundy,9.8
+Iowa,Guthrie,9.3
+Iowa,Hamilton,9.7
+Iowa,Hancock,9.6
+Iowa,Hardin,9.8
+Iowa,Harrison,9.8
+Iowa,Henry,10.2
+Iowa,Howard,9.4
+Iowa,Humboldt,9.5
+Iowa,Ida,9.3
+Iowa,Iowa,10
+Iowa,Jackson,10.3
+Iowa,Jasper,9.8
+Iowa,Jefferson,9.9
+Iowa,Johnson,9.7
+Iowa,Jones,10.1
+Iowa,Keokuk,9.9
+Iowa,Kossuth,9.6
+Iowa,Lee,10.5
+Iowa,Linn,9.5
+Iowa,Louisa,10.4
+Iowa,Lucas,9.1
+Iowa,Lyon,9.4
+Iowa,Madison,9.1
+Iowa,Mahaska,9.8
+Iowa,Marion,9.6
+Iowa,Marshall,9.8
+Iowa,Mills,9.9
+Iowa,Mitchell,9.5
+Iowa,Monona,9.6
+Iowa,Monroe,9.4
+Iowa,Montgomery,9.2
+Iowa,Muscatine,11.5
+Iowa,O'Brien,9.4
+Iowa,Osceola,9.3
+Iowa,Page,9.5
+Iowa,Palo Alto,9.2
+Iowa,Plymouth,9.7
+Iowa,Pocahontas,9.3
+Iowa,Polk,9.3
+Iowa,Pottawattamie,10.5
+Iowa,Poweshiek,9.8
+Iowa,Ringgold,8.9
+Iowa,Sac,9.4
+Iowa,Scott,10.8
+Iowa,Shelby,9.4
+Iowa,Sioux,9.6
+Iowa,Story,9.9
+Iowa,Tama,9.8
+Iowa,Taylor,9.1
+Iowa,Union,9
+Iowa,Van Buren,9.4
+Iowa,Wapello,9.7
+Iowa,Warren,9.5
+Iowa,Washington,10.3
+Iowa,Wayne,9
+Iowa,Webster,9.6
+Iowa,Winnebago,9.6
+Iowa,Winneshiek,9.4
+Iowa,Woodbury,9.8
+Iowa,Worth,9.6
+Iowa,Wright,9.7
+Kansas,Allen,9.1
+Kansas,Anderson,9
+Kansas,Atchison,9.5
+Kansas,Barber,8
+Kansas,Barton,8.2
+Kansas,Bourbon,9.2
+Kansas,Brown,9.3
+Kansas,Butler,9.3
+Kansas,Chase,8.4
+Kansas,Chautauqua,8.5
+Kansas,Cherokee,9.8
+Kansas,Cheyenne,6.8
+Kansas,Clark,7.3
+Kansas,Clay,8.8
+Kansas,Cloud,8.8
+Kansas,Coffey,8.9
+Kansas,Comanche,7.4
+Kansas,Cowley,8.9
+Kansas,Crawford,9.6
+Kansas,Decatur,7.3
+Kansas,Dickinson,9
+Kansas,Doniphan,9.6
+Kansas,Douglas,9.8
+Kansas,Edwards,7.7
+Kansas,Elk,8.4
+Kansas,Ellis,7.9
+Kansas,Ellsworth,8.3
+Kansas,Finney,7.9
+Kansas,Ford,7.8
+Kansas,Franklin,9.3
+Kansas,Geary,8.9
+Kansas,Gove,7.4
+Kansas,Graham,7.4
+Kansas,Grant,7.5
+Kansas,Gray,7.7
+Kansas,Greeley,6.9
+Kansas,Greenwood,8.4
+Kansas,Hamilton,6.9
+Kansas,Harper,8.7
+Kansas,Harvey,9.2
+Kansas,Haskell,7.7
+Kansas,Hodgeman,7.5
+Kansas,Jackson,9.2
+Kansas,Jefferson,9.6
+Kansas,Jewell,8.4
+Kansas,Johnson,10.2
+Kansas,Kearny,7.4
+Kansas,Kingman,8.7
+Kansas,Kiowa,7.5
+Kansas,Labette,9.6
+Kansas,Lane,7.4
+Kansas,Leavenworth,10.1
+Kansas,Lincoln,8.2
+Kansas,Linn,9.1
+Kansas,Logan,7.1
+Kansas,Lyon,8.8
+Kansas,Marion,8.9
+Kansas,Marshall,9.1
+Kansas,McPherson,9.1
+Kansas,Meade,7.4
+Kansas,Miami,9.7
+Kansas,Mitchell,8.5
+Kansas,Montgomery,9.6
+Kansas,Morris,8.5
+Kansas,Morton,6.8
+Kansas,Nemaha,9.2
+Kansas,Neosho,9.3
+Kansas,Ness,7.5
+Kansas,Norton,7.4
+Kansas,Osage,9.2
+Kansas,Osborne,7.9
+Kansas,Ottawa,8.8
+Kansas,Pawnee,7.9
+Kansas,Phillips,7.8
+Kansas,Pottawatomie,9.2
+Kansas,Pratt,8.1
+Kansas,Rawlins,7
+Kansas,Reno,9
+Kansas,Republic,8.8
+Kansas,Rice,8.5
+Kansas,Riley,9.1
+Kansas,Rooks,7.7
+Kansas,Rush,7.8
+Kansas,Russell,7.9
+Kansas,Saline,9
+Kansas,Scott,7.4
+Kansas,Sedgwick,9.9
+Kansas,Seward,7.5
+Kansas,Shawnee,9.6
+Kansas,Sheridan,7.3
+Kansas,Sherman,6.9
+Kansas,Smith,8
+Kansas,Stafford,8.1
+Kansas,Stanton,6.9
+Kansas,Stevens,7.3
+Kansas,Sumner,9.1
+Kansas,Thomas,7.2
+Kansas,Trego,7.4
+Kansas,Wabaunsee,8.8
+Kansas,Wallace,6.8
+Kansas,Washington,8.9
+Kansas,Wichita,7.2
+Kansas,Wilson,9.2
+Kansas,Woodson,8.8
+Kansas,Wyandotte,10.8
+Kentucky,Adair,9.7
+Kentucky,Allen,10.1
+Kentucky,Anderson,10.1
+Kentucky,Ballard,10.1
+Kentucky,Barren,10.1
+Kentucky,Bath,9.6
+Kentucky,Bell,9.7
+Kentucky,Boone,11.4
+Kentucky,Bourbon,10.1
+Kentucky,Boyd,10.6
+Kentucky,Boyle,9.8
+Kentucky,Bracken,10.1
+Kentucky,Breathitt,9.4
+Kentucky,Breckinridge,10.3
+Kentucky,Bullitt,10.7
+Kentucky,Butler,10.2
+Kentucky,Caldwell,9.9
+Kentucky,Calloway,9.8
+Kentucky,Campbell,11.2
+Kentucky,Carlisle,10.1
+Kentucky,Carroll,10.4
+Kentucky,Carter,9.4
+Kentucky,Casey,9.8
+Kentucky,Christian,10.1
+Kentucky,Clark,10.1
+Kentucky,Clay,9.5
+Kentucky,Clinton,9.4
+Kentucky,Crittenden,9.9
+Kentucky,Cumberland,9.4
+Kentucky,Daviess,11
+Kentucky,Edmonson,10
+Kentucky,Elliott,9.3
+Kentucky,Estill,9.5
+Kentucky,Fayette,10.5
+Kentucky,Fleming,9.7
+Kentucky,Floyd,9.7
+Kentucky,Franklin,10.2
+Kentucky,Fulton,10
+Kentucky,Gallatin,10.4
+Kentucky,Garrard,9.9
+Kentucky,Grant,10.3
+Kentucky,Graves,10.1
+Kentucky,Grayson,10.1
+Kentucky,Green,9.8
+Kentucky,Greenup,10.8
+Kentucky,Hancock,10.7
+Kentucky,Hardin,10.4
+Kentucky,Harlan,9.3
+Kentucky,Harrison,10.1
+Kentucky,Hart,10
+Kentucky,Henderson,10.9
+Kentucky,Henry,10.3
+Kentucky,Hickman,9.9
+Kentucky,Hopkins,10.4
+Kentucky,Jackson,9.5
+Kentucky,Jefferson,11.3
+Kentucky,Jessamine,10.3
+Kentucky,Johnson,9.6
+Kentucky,Kenton,11.6
+Kentucky,Knott,9.4
+Kentucky,Knox,9.7
+Kentucky,Larue,10
+Kentucky,Laurel,9.8
+Kentucky,Lawrence,9.8
+Kentucky,Lee,9.3
+Kentucky,Leslie,9.1
+Kentucky,Letcher,9.2
+Kentucky,Lewis,9.9
+Kentucky,Lincoln,9.8
+Kentucky,Livingston,10
+Kentucky,Logan,10.4
+Kentucky,Lyon,9.8
+Kentucky,Madison,9.8
+Kentucky,Magoffin,9.4
+Kentucky,Marion,9.9
+Kentucky,Marshall,10.1
+Kentucky,Martin,9.6
+Kentucky,Mason,10
+Kentucky,McCracken,10.1
+Kentucky,McCreary,9.5
+Kentucky,McLean,10.6
+Kentucky,Meade,10.4
+Kentucky,Menifee,9.2
+Kentucky,Mercer,10
+Kentucky,Metcalfe,9.7
+Kentucky,Monroe,9.7
+Kentucky,Montgomery,9.7
+Kentucky,Morgan,9.3
+Kentucky,Muhlenberg,10.3
+Kentucky,Nelson,10.2
+Kentucky,Nicholas,9.7
+Kentucky,Ohio,10.4
+Kentucky,Oldham,10.9
+Kentucky,Owen,10.2
+Kentucky,Owsley,9.2
+Kentucky,Pendleton,10.2
+Kentucky,Perry,9.4
+Kentucky,Pike,9.7
+Kentucky,Powell,9.4
+Kentucky,Pulaski,9.9
+Kentucky,Robertson,9.7
+Kentucky,Rockcastle,9.7
+Kentucky,Rowan,9.4
+Kentucky,Russell,9.7
+Kentucky,Scott,10.4
+Kentucky,Shelby,10.4
+Kentucky,Simpson,10.3
+Kentucky,Spencer,10.2
+Kentucky,Taylor,9.7
+Kentucky,Todd,10.2
+Kentucky,Trigg,9.7
+Kentucky,Trimble,10.4
+Kentucky,Union,10.4
+Kentucky,Warren,10.2
+Kentucky,Washington,9.8
+Kentucky,Wayne,9.5
+Kentucky,Webster,10.4
+Kentucky,Whitley,9.8
+Kentucky,Wolfe,9.2
+Kentucky,Woodford,10.3
+Louisiana,Acadia,9.5
+Louisiana,Allen,9
+Louisiana,Ascension,10.7
+Louisiana,Assumption,10
+Louisiana,Avoyelles,9.2
+Louisiana,Beauregard,9.4
+Louisiana,Bienville,10.1
+Louisiana,Bossier,10.9
+Louisiana,Caddo,11.2
+Louisiana,Calcasieu,9.9
+Louisiana,Caldwell,9.2
+Louisiana,Cameron,8.3
+Louisiana,Catahoula,8.9
+Louisiana,Claiborne,10
+Louisiana,Concordia,8.8
+Louisiana,De Soto,10
+Louisiana,East Baton Rouge,9.8
+Louisiana,East Carroll,9.8
+Louisiana,East Feliciana,9.5
+Louisiana,Evangeline,9.2
+Louisiana,Franklin,9.3
+Louisiana,Grant,9.4
+Louisiana,Iberia,9.8
+Louisiana,Iberville,10.5
+Louisiana,Jackson,9.7
+Louisiana,Jefferson,8.7
+Louisiana,Jefferson Davis,9
+Louisiana,La Salle,9
+Louisiana,Lafayette,9.8
+Louisiana,Lafourche,9.7
+Louisiana,Lincoln,10.1
+Louisiana,Livingston,10
+Louisiana,Madison,9.4
+Louisiana,Morehouse,10.1
+Louisiana,Natchitoches,9.6
+Louisiana,Orleans,9.5
+Louisiana,Ouachita,9.9
+Louisiana,Plaquemines,8.9
+Louisiana,Pointe Coupee,9.6
+Louisiana,Rapides,9.2
+Louisiana,Red River,9.6
+Louisiana,Richland,9.8
+Louisiana,Sabine,9.3
+Louisiana,St. Bernard,9.1
+Louisiana,St. Charles,9.5
+Louisiana,St. Helena,8.8
+Louisiana,St. James,10.2
+Louisiana,St. John the Baptist,9.8
+Louisiana,St. Landry,9.7
+Louisiana,St. Martin,10.1
+Louisiana,St. Mary,9
+Louisiana,St. Tammany,9.1
+Louisiana,Tangipahoa,9
+Louisiana,Tensas,8.9
+Louisiana,Terrebonne,8.9
+Louisiana,Union,10.2
+Louisiana,Vermilion,9.5
+Louisiana,Vernon,9.2
+Louisiana,Washington,9
+Louisiana,Webster,10.3
+Louisiana,West Baton Rouge,10
+Louisiana,West Carroll,9.9
+Louisiana,West Feliciana,9.1
+Louisiana,Winn,9.3
+Maine,Androscoggin,8
+Maine,Aroostook,6.8
+Maine,Cumberland,8.6
+Maine,Franklin,7.2
+Maine,Hancock,6.7
+Maine,Kennebec,7.8
+Maine,Knox,7.4
+Maine,Lincoln,7.7
+Maine,Oxford,7.6
+Maine,Penobscot,7.3
+Maine,Piscataquis,6.6
+Maine,Sagadahoc,8
+Maine,Somerset,7.4
+Maine,Waldo,7.4
+Maine,Washington,6.5
+Maine,York,8.6
+Maryland,Allegany,9.5
+Maryland,Anne Arundel,10.5
+Maryland,Baltimore,11.1
+Maryland,Baltimore City,10.3
+Maryland,Calvert,8.9
+Maryland,Caroline,9.1
+Maryland,Carroll,11.1
+Maryland,Cecil,10.7
+Maryland,Charles,9.2
+Maryland,Dorchester,8.8
+Maryland,Frederick,11
+Maryland,Garrett,9.2
+Maryland,Harford,10.9
+Maryland,Howard,10.7
+Maryland,Kent,9.5
+Maryland,Montgomery,10.9
+Maryland,Prince George's,9.9
+Maryland,Queen Anne's,9.4
+Maryland,Somerset,8.3
+Maryland,St. Mary's,8.5
+Maryland,Talbot,8.9
+Maryland,Washington,11
+Maryland,Wicomico,8.7
+Maryland,Worcester,8.4
+Massachusetts,Barnstable,7.4
+Massachusetts,Berkshire,7.9
+Massachusetts,Bristol,8.2
+Massachusetts,Dukes,6.8
+Massachusetts,Essex,9.4
+Massachusetts,Franklin,8.1
+Massachusetts,Hampden,8.8
+Massachusetts,Hampshire,8.5
+Massachusetts,Middlesex,9.6
+Massachusetts,Nantucket,6.5
+Massachusetts,Norfolk,9.5
+Massachusetts,Plymouth,8.7
+Massachusetts,Suffolk,10
+Massachusetts,Worcester,9
+Michigan,Alcona,7.9
+Michigan,Alger,7
+Michigan,Allegan,10
+Michigan,Alpena,7.7
+Michigan,Antrim,7.9
+Michigan,Arenac,8.6
+Michigan,Baraga,6.8
+Michigan,Barry,10.3
+Michigan,Bay,9.4
+Michigan,Benzie,7.7
+Michigan,Berrien,10.4
+Michigan,Branch,10.6
+Michigan,Calhoun,10.5
+Michigan,Cass,10.9
+Michigan,Charlevoix,7.8
+Michigan,Cheboygan,7.5
+Michigan,Chippewa,7.3
+Michigan,Clare,8.6
+Michigan,Clinton,10.1
+Michigan,Crawford,7.9
+Michigan,Delta,7.7
+Michigan,Dickinson,7.7
+Michigan,Eaton,10.2
+Michigan,Emmet,7.6
+Michigan,Genesee,9.8
+Michigan,Gladwin,8.7
+Michigan,Gogebic,7.3
+Michigan,Grand Traverse,8
+Michigan,Gratiot,9.6
+Michigan,Hillsdale,10.5
+Michigan,Houghton,7
+Michigan,Huron,9
+Michigan,Ingham,10.1
+Michigan,Ionia,10.1
+Michigan,Iosco,8.2
+Michigan,Iron,7.3
+Michigan,Isabella,9.2
+Michigan,Jackson,10.3
+Michigan,Kalamazoo,10.5
+Michigan,Kalkaska,7.9
+Michigan,Kent,10.7
+Michigan,Keweenaw,6.3
+Michigan,Lake,8.4
+Michigan,Lapeer,9.8
+Michigan,Leelanau,7.7
+Michigan,Lenawee,10.3
+Michigan,Livingston,10.2
+Michigan,Luce,6.8
+Michigan,Mackinac,7.4
+Michigan,Macomb,10.2
+Michigan,Manistee,7.9
+Michigan,Marquette,7.2
+Michigan,Mason,8.4
+Michigan,Mecosta,8.9
+Michigan,Menominee,8.4
+Michigan,Midland,9.4
+Michigan,Missaukee,7.8
+Michigan,Monroe,10.6
+Michigan,Montcalm,9.7
+Michigan,Montmorency,7.7
+Michigan,Muskegon,9.7
+Michigan,Newaygo,9.5
+Michigan,Oakland,10.6
+Michigan,Oceana,8.9
+Michigan,Ogemaw,8.3
+Michigan,Ontonagon,6.8
+Michigan,Osceola,8.5
+Michigan,Oscoda,7.9
+Michigan,Otsego,7.7
+Michigan,Ottawa,10.2
+Michigan,Presque Isle,7.5
+Michigan,Roscommon,8
+Michigan,Saginaw,9.9
+Michigan,Sanilac,9.5
+Michigan,Schoolcraft,7.1
+Michigan,Shiawassee,9.9
+Michigan,St. Clair,10.3
+Michigan,St. Joseph,10.9
+Michigan,Tuscola,9.6
+Michigan,Van Buren,10.4
+Michigan,Washtenaw,10.5
+Michigan,Wayne,11.5
+Michigan,Wexford,8.1
+Minnesota,Aitkin,8.5
+Minnesota,Anoka,10.9
+Minnesota,Becker,8.8
+Minnesota,Beltrami,8.7
+Minnesota,Benton,9.8
+Minnesota,Big Stone,8.8
+Minnesota,Blue Earth,10.1
+Minnesota,Brown,9.7
+Minnesota,Carlton,8.5
+Minnesota,Carver,10.8
+Minnesota,Cass,9
+Minnesota,Chippewa,9.3
+Minnesota,Chisago,9.6
+Minnesota,Clay,9.1
+Minnesota,Clearwater,8.1
+Minnesota,Cook,6.4
+Minnesota,Cottonwood,9.3
+Minnesota,Crow Wing,9.3
+Minnesota,Dakota,11.2
+Minnesota,Dodge,9.9
+Minnesota,Douglas,8.9
+Minnesota,Faribault,9.8
+Minnesota,Fillmore,9.7
+Minnesota,Freeborn,9.8
+Minnesota,Goodhue,10.3
+Minnesota,Grant,8.7
+Minnesota,Hennepin,11.7
+Minnesota,Houston,9.5
+Minnesota,Hubbard,8.6
+Minnesota,Isanti,9.6
+Minnesota,Itasca,8.3
+Minnesota,Jackson,9.4
+Minnesota,Kanabec,8.7
+Minnesota,Kandiyohi,9.5
+Minnesota,Kittson,8
+Minnesota,Koochiching,7.6
+Minnesota,Lac qui Parle,9
+Minnesota,Lake,7.1
+Minnesota,Lake of the Woods,7.7
+Minnesota,Le Sueur,10.1
+Minnesota,Lincoln,8.9
+Minnesota,Lyon,9.2
+Minnesota,Mahnomen,8.1
+Minnesota,Marshall,8.4
+Minnesota,Martin,9.6
+Minnesota,McLeod,9.8
+Minnesota,Meeker,9.6
+Minnesota,Mille Lacs,9.4
+Minnesota,Morrison,9.3
+Minnesota,Mower,9.8
+Minnesota,Murray,9.1
+Minnesota,Nicollet,10.1
+Minnesota,Nobles,9.3
+Minnesota,Norman,8.5
+Minnesota,Olmsted,10.2
+Minnesota,Otter Tail,9.1
+Minnesota,Pennington,8.2
+Minnesota,Pine,8.7
+Minnesota,Pipestone,9.1
+Minnesota,Polk,8.9
+Minnesota,Pope,9
+Minnesota,Ramsey,11.7
+Minnesota,Red Lake,8.1
+Minnesota,Redwood,9.4
+Minnesota,Renville,9.6
+Minnesota,Rice,10.3
+Minnesota,Rock,9.2
+Minnesota,Roseau,8.1
+Minnesota,Scott,10.7
+Minnesota,Sherburne,10.4
+Minnesota,Sibley,9.8
+Minnesota,St. Louis,8.7
+Minnesota,Stearns,10.1
+Minnesota,Steele,10
+Minnesota,Stevens,8.9
+Minnesota,Swift,9.2
+Minnesota,Todd,9.1
+Minnesota,Traverse,8.7
+Minnesota,Wabasha,9.9
+Minnesota,Wadena,8.7
+Minnesota,Waseca,9.9
+Minnesota,Washington,10.9
+Minnesota,Watonwan,9.5
+Minnesota,Wilkin,8.8
+Minnesota,Winona,9.7
+Minnesota,Wright,10.6
+Minnesota,Yellow Medicine,9.2
+Mississippi,Adams,8.7
+Mississippi,Alcorn,9.4
+Mississippi,Amite,8.7
+Mississippi,Attala,9.3
+Mississippi,Benton,9.2
+Mississippi,Bolivar,10.3
+Mississippi,Calhoun,9.4
+Mississippi,Carroll,9.2
+Mississippi,Chickasaw,9.7
+Mississippi,Choctaw,9.4
+Mississippi,Claiborne,8.6
+Mississippi,Clarke,9.5
+Mississippi,Clay,9.9
+Mississippi,Coahoma,10.4
+Mississippi,Copiah,9.2
+Mississippi,Covington,9.6
+Mississippi,DeSoto,10.1
+Mississippi,Forrest,9.7
+Mississippi,Franklin,8.6
+Mississippi,George,9.3
+Mississippi,Greene,9
+Mississippi,Grenada,9.3
+Mississippi,Hancock,8.8
+Mississippi,Harrison,9.3
+Mississippi,Hinds,10
+Mississippi,Holmes,9.6
+Mississippi,Humphreys,9.7
+Mississippi,Issaquena,9.4
+Mississippi,Itawamba,9.6
+Mississippi,Jackson,9.1
+Mississippi,Jasper,9.7
+Mississippi,Jefferson,8.4
+Mississippi,Jefferson Davis,9.3
+Mississippi,Jones,9.8
+Mississippi,Kemper,9.5
+Mississippi,Lafayette,9.5
+Mississippi,Lamar,9.6
+Mississippi,Lauderdale,9.8
+Mississippi,Lawrence,9.1
+Mississippi,Leake,9.5
+Mississippi,Lee,9.8
+Mississippi,Leflore,9.9
+Mississippi,Lincoln,9
+Mississippi,Lowndes,10
+Mississippi,Madison,10.2
+Mississippi,Marion,9.1
+Mississippi,Marshall,9.5
+Mississippi,Monroe,9.9
+Mississippi,Montgomery,9.2
+Mississippi,Neshoba,9.7
+Mississippi,Newton,9.8
+Mississippi,Noxubee,9.5
+Mississippi,Oktibbeha,9.7
+Mississippi,Panola,9.8
+Mississippi,Pearl River,9.1
+Mississippi,Perry,9.2
+Mississippi,Pike,8.9
+Mississippi,Pontotoc,9.7
+Mississippi,Prentiss,9.5
+Mississippi,Quitman,10
+Mississippi,Rankin,10.1
+Mississippi,Scott,9.7
+Mississippi,Sharkey,9.6
+Mississippi,Simpson,9.5
+Mississippi,Smith,9.8
+Mississippi,Stone,9.1
+Mississippi,Sunflower,10.3
+Mississippi,Tallahatchie,9.9
+Mississippi,Tate,9.9
+Mississippi,Tippah,9.3
+Mississippi,Tishomingo,9.3
+Mississippi,Tunica,10
+Mississippi,Union,9.6
+Mississippi,Walthall,8.8
+Mississippi,Warren,9.5
+Mississippi,Washington,10.2
+Mississippi,Wayne,9.4
+Mississippi,Webster,9.3
+Mississippi,Wilkinson,8.6
+Mississippi,Winston,9.5
+Mississippi,Yalobusha,9.4
+Mississippi,Yazoo,9.6
+Missouri,Adair,9.3
+Missouri,Andrew,9.6
+Missouri,Atchison,9.4
+Missouri,Audrain,9.9
+Missouri,Barry,9.5
+Missouri,Barton,9.4
+Missouri,Bates,9.3
+Missouri,Benton,9.2
+Missouri,Bollinger,9.9
+Missouri,Boone,10
+Missouri,Buchanan,9.9
+Missouri,Butler,10.3
+Missouri,Caldwell,9.3
+Missouri,Callaway,9.9
+Missouri,Camden,9.5
+Missouri,Cape Girardeau,10.6
+Missouri,Carroll,9.4
+Missouri,Carter,9.1
+Missouri,Cass,10.1
+Missouri,Cedar,9.1
+Missouri,Chariton,9.4
+Missouri,Christian,9.9
+Missouri,Clark,9.9
+Missouri,Clay,10.7
+Missouri,Clinton,9.7
+Missouri,Cole,9.9
+Missouri,Cooper,9.5
+Missouri,Crawford,9.5
+Missouri,Dade,9.2
+Missouri,Dallas,9.3
+Missouri,Daviess,9.2
+Missouri,DeKalb,9.3
+Missouri,Dent,9
+Missouri,Douglas,9.2
+Missouri,Dunklin,10.6
+Missouri,Franklin,10.7
+Missouri,Gasconade,9.7
+Missouri,Gentry,9.2
+Missouri,Greene,10
+Missouri,Grundy,9.1
+Missouri,Harrison,9
+Missouri,Henry,9.3
+Missouri,Hickory,9
+Missouri,Holt,9.4
+Missouri,Howard,9.4
+Missouri,Howell,9.4
+Missouri,Iron,9.3
+Missouri,Jackson,10.9
+Missouri,Jasper,9.9
+Missouri,Jefferson,11.4
+Missouri,Johnson,9.6
+Missouri,Knox,9.4
+Missouri,Laclede,9.3
+Missouri,Lafayette,9.8
+Missouri,Lawrence,9.6
+Missouri,Lewis,10
+Missouri,Lincoln,10.7
+Missouri,Linn,9.3
+Missouri,Livingston,9.2
+Missouri,Macon,9.5
+Missouri,Madison,9.4
+Missouri,Maries,9.4
+Missouri,Marion,10.1
+Missouri,McDonald,9.6
+Missouri,Mercer,8.9
+Missouri,Miller,9.5
+Missouri,Mississippi,10.4
+Missouri,Moniteau,9.6
+Missouri,Monroe,9.6
+Missouri,Montgomery,9.9
+Missouri,Morgan,9.4
+Missouri,New Madrid,10.6
+Missouri,Newton,9.8
+Missouri,Nodaway,9.4
+Missouri,Oregon,9.3
+Missouri,Osage,9.6
+Missouri,Ozark,9.1
+Missouri,Pemiscot,10.3
+Missouri,Perry,10.2
+Missouri,Pettis,9.4
+Missouri,Phelps,9.4
+Missouri,Pike,10.2
+Missouri,Platte,10.5
+Missouri,Polk,9.4
+Missouri,Pulaski,9.3
+Missouri,Putnam,9
+Missouri,Ralls,9.9
+Missouri,Randolph,9.5
+Missouri,Ray,9.7
+Missouri,Reynolds,9
+Missouri,Ripley,9.8
+Missouri,Saline,9.5
+Missouri,Schuyler,9.2
+Missouri,Scotland,9.4
+Missouri,Scott,10.8
+Missouri,Shannon,8.9
+Missouri,Shelby,9.6
+Missouri,St. Charles,11.7
+Missouri,St. Clair,9.1
+Missouri,St. Francois,9.8
+Missouri,St. Louis,12.3
+Missouri,St. Louis City,10.5
+Missouri,Ste. Genevieve,10.2
+Missouri,Stoddard,10.7
+Missouri,Stone,9.7
+Missouri,Sullivan,9.1
+Missouri,Taney,9.6
+Missouri,Texas,9.2
+Missouri,Vernon,9.4
+Missouri,Warren,10.4
+Missouri,Washington,9.6
+Missouri,Wayne,9.5
+Missouri,Webster,9.5
+Missouri,Worth,8.9
+Missouri,Wright,9.2
+Montana,Beaverhead,6.4
+Montana,Big Horn,7.1
+Montana,Blaine,6.5
+Montana,Broadwater,5.8
+Montana,Carbon,6.2
+Montana,Carter,5.9
+Montana,Cascade,6.6
+Montana,Chouteau,6.1
+Montana,Custer,6.3
+Montana,Daniels,6.5
+Montana,Dawson,6.3
+Montana,Deer Lodge,6.4
+Montana,Fallon,6
+Montana,Fergus,5.6
+Montana,Flathead,6.2
+Montana,Gallatin,6.8
+Montana,Garfield,5.9
+Montana,Glacier,6
+Montana,Golden Valley,5.5
+Montana,Granite,6.3
+Montana,Hill,6.5
+Montana,Jefferson,6.4
+Montana,Judith Basin,5.2
+Montana,Lake,6.4
+Montana,Lewis and Clark,7
+Montana,Liberty,6.1
+Montana,Lincoln,5.4
+Montana,Madison,6.1
+Montana,McCone,6
+Montana,Meagher,5.3
+Montana,Mineral,6.3
+Montana,Missoula,7.6
+Montana,Musselshell,5.9
+Montana,Park,6
+Montana,Petroleum,5.7
+Montana,Phillips,6.1
+Montana,Pondera,5.9
+Montana,Powder River,6.4
+Montana,Powell,6.4
+Montana,Prairie,6
+Montana,Ravalli,9
+Montana,Richland,6.7
+Montana,Roosevelt,6.8
+Montana,Rosebud,7.4
+Montana,Sanders,6
+Montana,Sheridan,6.9
+Montana,Silver Bow,6.5
+Montana,Stillwater,6.2
+Montana,Sweet Grass,5.6
+Montana,Teton,6.2
+Montana,Toole,6.3
+Montana,Treasure,6.2
+Montana,Valley,6.4
+Montana,Wheatland,5.4
+Montana,Wibaux,6.1
+Montana,Yellowstone,7.1
+Nebraska,Adams,8.7
+Nebraska,Antelope,8.2
+Nebraska,Arthur,6.4
+Nebraska,Banner,6.1
+Nebraska,Blaine,6.6
+Nebraska,Boone,8.3
+Nebraska,Box Butte,6.6
+Nebraska,Boyd,7.3
+Nebraska,Brown,6.5
+Nebraska,Buffalo,8.4
+Nebraska,Burt,9.6
+Nebraska,Butler,9.2
+Nebraska,Cass,10.2
+Nebraska,Cedar,8.8
+Nebraska,Chase,7.1
+Nebraska,Cherry,6.3
+Nebraska,Cheyenne,6.6
+Nebraska,Clay,8.7
+Nebraska,Colfax,9.3
+Nebraska,Cuming,9.3
+Nebraska,Custer,7.6
+Nebraska,Dakota,9.6
+Nebraska,Dawes,6.3
+Nebraska,Dawson,7.8
+Nebraska,Deuel,6.9
+Nebraska,Dixon,9.1
+Nebraska,Dodge,9.9
+Nebraska,Douglas,10.9
+Nebraska,Dundy,6.9
+Nebraska,Fillmore,8.9
+Nebraska,Franklin,8
+Nebraska,Frontier,7.2
+Nebraska,Furnas,7.5
+Nebraska,Gage,9.2
+Nebraska,Garden,6.4
+Nebraska,Garfield,7.2
+Nebraska,Gosper,7.6
+Nebraska,Grant,6.2
+Nebraska,Greeley,7.8
+Nebraska,Hall,8.6
+Nebraska,Hamilton,8.8
+Nebraska,Harlan,7.7
+Nebraska,Hayes,7
+Nebraska,Hitchcock,7.1
+Nebraska,Holt,7.5
+Nebraska,Hooker,6.2
+Nebraska,Howard,8.2
+Nebraska,Jefferson,9
+Nebraska,Johnson,9.2
+Nebraska,Kearney,8.2
+Nebraska,Keith,7.2
+Nebraska,Keya Paha,6.7
+Nebraska,Kimball,6.2
+Nebraska,Knox,8.5
+Nebraska,Lancaster,9.7
+Nebraska,Lincoln,7.4
+Nebraska,Logan,6.6
+Nebraska,Loup,6.9
+Nebraska,Madison,8.9
+Nebraska,McPherson,6.5
+Nebraska,Merrick,8.7
+Nebraska,Morrill,6.6
+Nebraska,Nance,8.4
+Nebraska,Nemaha,9.3
+Nebraska,Nuckolls,8.5
+Nebraska,Otoe,9.7
+Nebraska,Pawnee,9
+Nebraska,Perkins,7.2
+Nebraska,Phelps,8
+Nebraska,Pierce,8.6
+Nebraska,Platte,9.2
+Nebraska,Polk,8.9
+Nebraska,Red Willow,7.4
+Nebraska,Richardson,9.3
+Nebraska,Rock,6.8
+Nebraska,Saline,9.3
+Nebraska,Sarpy,10.7
+Nebraska,Saunders,10
+Nebraska,Scotts Bluff,6.8
+Nebraska,Seward,9.3
+Nebraska,Sheridan,6.4
+Nebraska,Sherman,7.8
+Nebraska,Sioux,6.1
+Nebraska,Stanton,8.9
+Nebraska,Thayer,8.8
+Nebraska,Thomas,6.4
+Nebraska,Thurston,9.3
+Nebraska,Valley,7.7
+Nebraska,Washington,9.8
+Nebraska,Wayne,8.9
+Nebraska,Webster,8.2
+Nebraska,Wheeler,7.5
+Nebraska,York,9
+Nevada,Carson City,6.1
+Nevada,Churchill,6.1
+Nevada,Clark,8.9
+Nevada,Douglas,6
+Nevada,Elko,6.4
+Nevada,Esmeralda,4.7
+Nevada,Eureka,4.6
+Nevada,Humboldt,5.9
+Nevada,Lander,4.7
+Nevada,Lincoln,4.8
+Nevada,Lyon,6.5
+Nevada,Mineral,4.9
+Nevada,Nye,5.8
+Nevada,Pershing,5.5
+Nevada,Storey,6.3
+Nevada,Washoe,7
+Nevada,White Pine,4.7
+New Hampshire,Belknap,7.6
+New Hampshire,Carroll,7.5
+New Hampshire,Cheshire,7.9
+New Hampshire,Coos,6.8
+New Hampshire,Grafton,7.6
+New Hampshire,Hillsborough,8.3
+New Hampshire,Merrimack,8.8
+New Hampshire,Rockingham,8.7
+New Hampshire,Strafford,8.5
+New Hampshire,Sullivan,7.5
+New Jersey,Atlantic,8.8
+New Jersey,Bergen,10
+New Jersey,Burlington,10.5
+New Jersey,Camden,10.6
+New Jersey,Cape May,8.3
+New Jersey,Cumberland,9.2
+New Jersey,Essex,10
+New Jersey,Gloucester,10.3
+New Jersey,Hudson,10.2
+New Jersey,Hunterdon,10.1
+New Jersey,Mercer,8.9
+New Jersey,Middlesex,9.6
+New Jersey,Monmouth,9.5
+New Jersey,Morris,9.3
+New Jersey,Ocean,7.9
+New Jersey,Passaic,9.8
+New Jersey,Salem,10.2
+New Jersey,Somerset,9.8
+New Jersey,Sussex,8.6
+New Jersey,Union,10.7
+New Jersey,Warren,9
+New Mexico,Bernalillo,8.5
+New Mexico,Catron,5
+New Mexico,Chaves,7.8
+New Mexico,Cibola,5.6
+New Mexico,Colfax,5.1
+New Mexico,Curry,7.4
+New Mexico,De Baca,5.9
+New Mexico,Dona Ana,14.6
+New Mexico,Eddy,7.6
+New Mexico,Grant,6.7
+New Mexico,Guadalupe,5.6
+New Mexico,Harding,5.4
+New Mexico,Hidalgo,6.1
+New Mexico,Lea,8
+New Mexico,Lincoln,6
+New Mexico,Los Alamos,5.6
+New Mexico,Luna,7.6
+New Mexico,McKinley,6.6
+New Mexico,Mora,4.7
+New Mexico,Otero,7.4
+New Mexico,Quay,6.1
+New Mexico,Rio Arriba,6.2
+New Mexico,Roosevelt,7.2
+New Mexico,San Juan,7
+New Mexico,San Miguel,5.7
+New Mexico,Sandoval,7.8
+New Mexico,Santa Fe,6.5
+New Mexico,Sierra,6.4
+New Mexico,Socorro,5.9
+New Mexico,Taos,5.3
+New Mexico,Torrance,6.6
+New Mexico,Union,5.4
+New Mexico,Valencia,7.3
+New York,Albany,8.6
+New York,Allegany,8.5
+New York,Bronx,10.5
+New York,Broome,8.6
+New York,Cattaraugus,9
+New York,Cayuga,9
+New York,Chautauqua,9
+New York,Chemung,8.6
+New York,Chenango,8.1
+New York,Clinton,8.3
+New York,Columbia,8
+New York,Cortland,8.4
+New York,Delaware,7.4
+New York,Dutchess,8.6
+New York,Erie,10.6
+New York,Essex,7.1
+New York,Franklin,8.4
+New York,Fulton,7.7
+New York,Genesee,9.7
+New York,Greene,7.7
+New York,Hamilton,6.6
+New York,Herkimer,7.9
+New York,Jefferson,8.3
+New York,Kings,10.2
+New York,Lewis,7.4
+New York,Livingston,9.3
+New York,Madison,8.5
+New York,Monroe,9.7
+New York,Montgomery,8
+New York,Nassau,9.6
+New York,New York,11.1
+New York,Niagara,10.6
+New York,Oneida,8.4
+New York,Onondaga,8.8
+New York,Ontario,9.3
+New York,Orange,8.5
+New York,Orleans,9.6
+New York,Oswego,8.8
+New York,Otsego,7.6
+New York,Putnam,8.6
+New York,Queens,8.6
+New York,Rensselaer,8.5
+New York,Richmond,10
+New York,Rockland,9.4
+New York,Saratoga,8.7
+New York,Schenectady,8.5
+New York,Schoharie,7.3
+New York,Schuyler,8.5
+New York,Seneca,9
+New York,St. Lawrence,8.7
+New York,Steuben,8.4
+New York,Suffolk,8.6
+New York,Sullivan,7.8
+New York,Tioga,8.7
+New York,Tompkins,8.7
+New York,Ulster,8.3
+New York,Warren,8
+New York,Washington,8.3
+New York,Wayne,9.3
+New York,Westchester,10.1
+New York,Wyoming,9.2
+New York,Yates,8.6
+North Carolina,Alamance,9.3
+North Carolina,Alexander,9.6
+North Carolina,Alleghany,8.3
+North Carolina,Anson,9.5
+North Carolina,Ashe,8.2
+North Carolina,Avery,8.3
+North Carolina,Beaufort,8.6
+North Carolina,Bertie,8.4
+North Carolina,Bladen,9.1
+North Carolina,Brunswick,8.7
+North Carolina,Buncombe,8.9
+North Carolina,Burke,9.6
+North Carolina,Cabarrus,10.4
+North Carolina,Caldwell,9.5
+North Carolina,Camden,8.1
+North Carolina,Carteret,7.9
+North Carolina,Caswell,9
+North Carolina,Catawba,10
+North Carolina,Chatham,9
+North Carolina,Cherokee,8.7
+North Carolina,Chowan,8.1
+North Carolina,Clay,8.3
+North Carolina,Cleveland,10.2
+North Carolina,Columbus,9.1
+North Carolina,Craven,8.8
+North Carolina,Cumberland,9.5
+North Carolina,Currituck,8
+North Carolina,Dare,7.4
+North Carolina,Davidson,10.2
+North Carolina,Davie,9.9
+North Carolina,Duplin,9.1
+North Carolina,Durham,9.4
+North Carolina,Edgecombe,8.9
+North Carolina,Forsyth,9.1
+North Carolina,Franklin,9.2
+North Carolina,Gaston,10.3
+North Carolina,Gates,8.2
+North Carolina,Graham,8.2
+North Carolina,Granville,9.3
+North Carolina,Greene,9.2
+North Carolina,Guilford,9.6
+North Carolina,Halifax,8.9
+North Carolina,Harnett,9.6
+North Carolina,Haywood,8.6
+North Carolina,Henderson,9
+North Carolina,Hertford,8.4
+North Carolina,Hoke,9.4
+North Carolina,Hyde,7.2
+North Carolina,Iredell,10.4
+North Carolina,Jackson,8.3
+North Carolina,Johnston,9.3
+North Carolina,Jones,8.7
+North Carolina,Lee,9.2
+North Carolina,Lenoir,8.9
+North Carolina,Lincoln,10.2
+North Carolina,Macon,8.4
+North Carolina,Madison,8.7
+North Carolina,Martin,8.4
+North Carolina,McDowell,9
+North Carolina,Mecklenburg,10.7
+North Carolina,Mitchell,8.4
+North Carolina,Montgomery,9.1
+North Carolina,Moore,9.3
+North Carolina,Nash,9.2
+North Carolina,New Hanover,8
+North Carolina,Northampton,8.8
+North Carolina,Onslow,8.7
+North Carolina,Orange,9.4
+North Carolina,Pamlico,8.1
+North Carolina,Pasquotank,8.1
+North Carolina,Pender,8.8
+North Carolina,Perquimans,8
+North Carolina,Person,9
+North Carolina,Pitt,8.9
+North Carolina,Polk,9.4
+North Carolina,Randolph,9.8
+North Carolina,Richmond,9.3
+North Carolina,Robeson,9.4
+North Carolina,Rockingham,9.3
+North Carolina,Rowan,10
+North Carolina,Rutherford,9.8
+North Carolina,Sampson,9.5
+North Carolina,Scotland,9.4
+North Carolina,Stanly,10
+North Carolina,Stokes,9.2
+North Carolina,Surry,9.2
+North Carolina,Swain,8.3
+North Carolina,Transylvania,8.5
+North Carolina,Tyrrell,7.4
+North Carolina,Union,10.4
+North Carolina,Vance,8.9
+North Carolina,Wake,9.8
+North Carolina,Warren,8.7
+North Carolina,Washington,8.1
+North Carolina,Watauga,8.1
+North Carolina,Wayne,9.6
+North Carolina,Wilkes,9.2
+North Carolina,Wilson,9.4
+North Carolina,Yadkin,9.5
+North Carolina,Yancey,8.4
+North Dakota,Adams,6.3
+North Dakota,Barnes,8.2
+North Dakota,Benson,7.8
+North Dakota,Billings,6
+North Dakota,Bottineau,7.7
+North Dakota,Bowman,6.1
+North Dakota,Burke,7.2
+North Dakota,Burleigh,7.5
+North Dakota,Cass,9
+North Dakota,Cavalier,7.7
+North Dakota,Dickey,8.1
+North Dakota,Divide,7
+North Dakota,Dunn,6.5
+North Dakota,Eddy,7.5
+North Dakota,Emmons,7
+North Dakota,Foster,7.6
+North Dakota,Golden Valley,6.1
+North Dakota,Grand Forks,8.7
+North Dakota,Grant,6.5
+North Dakota,Griggs,7.8
+North Dakota,Hettinger,6.5
+North Dakota,Kidder,7.1
+North Dakota,LaMoure,7.9
+North Dakota,Logan,7.1
+North Dakota,McHenry,7.5
+North Dakota,McIntosh,7.2
+North Dakota,McKenzie,7
+North Dakota,McLean,7.5
+North Dakota,Mercer,7.4
+North Dakota,Morton,7.5
+North Dakota,Mountrail,7.3
+North Dakota,Nelson,7.7
+North Dakota,Oliver,7.2
+North Dakota,Pembina,8.3
+North Dakota,Pierce,7.5
+North Dakota,Ramsey,7.8
+North Dakota,Ransom,8.4
+North Dakota,Renville,7.3
+North Dakota,Richland,9
+North Dakota,Rolette,7.6
+North Dakota,Sargent,8.2
+North Dakota,Sheridan,7.1
+North Dakota,Sioux,6.8
+North Dakota,Slope,6
+North Dakota,Stark,6.7
+North Dakota,Steele,8
+North Dakota,Stutsman,7.7
+North Dakota,Towner,7.6
+North Dakota,Traill,8.6
+North Dakota,Walsh,8.3
+North Dakota,Ward,7.7
+North Dakota,Wells,7.4
+North Dakota,Williams,7.2
+Ohio,Adams,10.5
+Ohio,Allen,11.4
+Ohio,Ashland,11.4
+Ohio,Ashtabula,10.6
+Ohio,Athens,10.7
+Ohio,Auglaize,11.7
+Ohio,Belmont,11.2
+Ohio,Brown,11
+Ohio,Butler,13
+Ohio,Carroll,11.6
+Ohio,Champaign,11.5
+Ohio,Clark,11.5
+Ohio,Clermont,11.7
+Ohio,Clinton,11.2
+Ohio,Columbiana,12
+Ohio,Coshocton,11.4
+Ohio,Crawford,11.3
+Ohio,Cuyahoga,12.9
+Ohio,Darke,11.7
+Ohio,Defiance,11.2
+Ohio,Delaware,11.9
+Ohio,Erie,10.9
+Ohio,Fairfield,11.7
+Ohio,Fayette,11.2
+Ohio,Franklin,12.3
+Ohio,Fulton,11.1
+Ohio,Gallia,10.9
+Ohio,Geauga,11.4
+Ohio,Greene,11.3
+Ohio,Guernsey,11.1
+Ohio,Hamilton,12.5
+Ohio,Hancock,11.2
+Ohio,Hardin,11.2
+Ohio,Harrison,11.1
+Ohio,Henry,11.2
+Ohio,Highland,10.9
+Ohio,Hocking,10.9
+Ohio,Holmes,11.8
+Ohio,Huron,11.2
+Ohio,Jackson,10.9
+Ohio,Jefferson,11.2
+Ohio,Knox,11.2
+Ohio,Lake,10.7
+Ohio,Lawrence,11
+Ohio,Licking,11.7
+Ohio,Logan,11.3
+Ohio,Lorain,11.3
+Ohio,Lucas,11.4
+Ohio,Madison,11.7
+Ohio,Mahoning,11.7
+Ohio,Marion,11.5
+Ohio,Medina,11.7
+Ohio,Meigs,11
+Ohio,Mercer,11.7
+Ohio,Miami,11.8
+Ohio,Monroe,10.8
+Ohio,Montgomery,11.9
+Ohio,Morgan,11
+Ohio,Morrow,11.2
+Ohio,Muskingum,11.3
+Ohio,Noble,11.1
+Ohio,Ottawa,10.9
+Ohio,Paulding,11.2
+Ohio,Perry,11.1
+Ohio,Pickaway,11.6
+Ohio,Pike,10.7
+Ohio,Portage,11.4
+Ohio,Preble,11.2
+Ohio,Putnam,11.3
+Ohio,Richland,11.2
+Ohio,Ross,11.1
+Ohio,Sandusky,11.2
+Ohio,Scioto,10.6
+Ohio,Seneca,11.3
+Ohio,Shelby,11.7
+Ohio,Stark,12
+Ohio,Summit,12.3
+Ohio,Trumbull,11.3
+Ohio,Tuscarawas,11.8
+Ohio,Union,11.7
+Ohio,Van Wert,11.4
+Ohio,Vinton,10.8
+Ohio,Warren,12.1
+Ohio,Washington,11.2
+Ohio,Wayne,12.2
+Ohio,Williams,10.9
+Ohio,Wood,11.4
+Ohio,Wyandot,11.3
+Oklahoma,Adair,9.7
+Oklahoma,Alfalfa,8.4
+Oklahoma,Atoka,9.2
+Oklahoma,Beaver,7.2
+Oklahoma,Beckham,7.6
+Oklahoma,Blaine,8.3
+Oklahoma,Bryan,9.5
+Oklahoma,Caddo,8.7
+Oklahoma,Canadian,9.8
+Oklahoma,Carter,9.3
+Oklahoma,Cherokee,9.9
+Oklahoma,Choctaw,9.3
+Oklahoma,Cimarron,6.1
+Oklahoma,Cleveland,10
+Oklahoma,Coal,9.1
+Oklahoma,Comanche,8.7
+Oklahoma,Cotton,8.3
+Oklahoma,Craig,9.7
+Oklahoma,Creek,10
+Oklahoma,Custer,8
+Oklahoma,Delaware,9.9
+Oklahoma,Dewey,7.7
+Oklahoma,Ellis,7.3
+Oklahoma,Garfield,9
+Oklahoma,Garvin,9.3
+Oklahoma,Grady,9.5
+Oklahoma,Grant,8.8
+Oklahoma,Greer,7.4
+Oklahoma,Harmon,7.2
+Oklahoma,Harper,7.3
+Oklahoma,Haskell,9.7
+Oklahoma,Hughes,9.2
+Oklahoma,Jackson,7.7
+Oklahoma,Jefferson,8.6
+Oklahoma,Johnston,9.2
+Oklahoma,Kay,9.1
+Oklahoma,Kingfisher,9
+Oklahoma,Kiowa,7.9
+Oklahoma,Latimer,9.2
+Oklahoma,Le Flore,10.2
+Oklahoma,Lincoln,9.4
+Oklahoma,Logan,9.5
+Oklahoma,Love,9.2
+Oklahoma,Major,8.3
+Oklahoma,Marshall,9.4
+Oklahoma,Mayes,10.1
+Oklahoma,McClain,9.7
+Oklahoma,McCurtain,9.8
+Oklahoma,McIntosh,9.6
+Oklahoma,Murray,9
+Oklahoma,Muskogee,10.1
+Oklahoma,Noble,9
+Oklahoma,Nowata,9.6
+Oklahoma,Okfuskee,9.2
+Oklahoma,Oklahoma,10.2
+Oklahoma,Okmulgee,9.6
+Oklahoma,Osage,10.1
+Oklahoma,Ottawa,9.8
+Oklahoma,Pawnee,9.2
+Oklahoma,Payne,9.3
+Oklahoma,Pittsburg,9.4
+Oklahoma,Pontotoc,9.2
+Oklahoma,Pottawatomie,9.5
+Oklahoma,Pushmataha,9.1
+Oklahoma,Roger Mills,7.2
+Oklahoma,Rogers,10.5
+Oklahoma,Seminole,9.3
+Oklahoma,Sequoyah,10.1
+Oklahoma,Stephens,8.8
+Oklahoma,Texas,7.4
+Oklahoma,Tillman,8
+Oklahoma,Tulsa,9.7
+Oklahoma,Wagoner,10.5
+Oklahoma,Washington,9.7
+Oklahoma,Washita,8
+Oklahoma,Woods,8
+Oklahoma,Woodward,7.6
+Oregon,Baker,6.2
+Oregon,Benton,7.6
+Oregon,Clackamas,9.6
+Oregon,Clatsop,5.3
+Oregon,Columbia,7.5
+Oregon,Coos,6.1
+Oregon,Crook,7
+Oregon,Curry,5.6
+Oregon,Deschutes,8.1
+Oregon,Douglas,7.2
+Oregon,Gilliam,5.9
+Oregon,Grant,5.3
+Oregon,Harney,5.9
+Oregon,Hood River,5.9
+Oregon,Jackson,7.6
+Oregon,Jefferson,7.2
+Oregon,Josephine,7
+Oregon,Klamath,7.4
+Oregon,Lake,6.5
+Oregon,Lane,8.5
+Oregon,Lincoln,5.5
+Oregon,Linn,8.1
+Oregon,Malheur,8.3
+Oregon,Marion,8.8
+Oregon,Morrow,6.8
+Oregon,Multnomah,9.6
+Oregon,Polk,8
+Oregon,Sherman,5.9
+Oregon,Tillamook,5.3
+Oregon,Umatilla,7.6
+Oregon,Union,6
+Oregon,Wallowa,6
+Oregon,Wasco,6.3
+Oregon,Washington,9.3
+Oregon,Wheeler,5.2
+Oregon,Yamhill,8.5
+Pennsylvania,Adams,11.6
+Pennsylvania,Allegheny,14.7
+Pennsylvania,Armstrong,11.2
+Pennsylvania,Beaver,12.3
+Pennsylvania,Bedford,10.2
+Pennsylvania,Berks,11.3
+Pennsylvania,Blair,10.4
+Pennsylvania,Bradford,8.8
+Pennsylvania,Bucks,10.7
+Pennsylvania,Butler,11.8
+Pennsylvania,Cambria,10.5
+Pennsylvania,Cameron,8.4
+Pennsylvania,Carbon,9.7
+Pennsylvania,Centre,9.9
+Pennsylvania,Chester,11.4
+Pennsylvania,Clarion,10.1
+Pennsylvania,Clearfield,9.9
+Pennsylvania,Clinton,9.4
+Pennsylvania,Columbia,9.8
+Pennsylvania,Crawford,10.5
+Pennsylvania,Cumberland,10.9
+Pennsylvania,Dauphin,11.7
+Pennsylvania,Delaware,11.2
+Pennsylvania,Elk,9.1
+Pennsylvania,Erie,10
+Pennsylvania,Fayette,11
+Pennsylvania,Forest,9.1
+Pennsylvania,Franklin,11.1
+Pennsylvania,Fulton,10.1
+Pennsylvania,Greene,10.5
+Pennsylvania,Huntingdon,10.5
+Pennsylvania,Indiana,10.8
+Pennsylvania,Jefferson,9.9
+Pennsylvania,Juniata,10.7
+Pennsylvania,Lackawanna,8.8
+Pennsylvania,Lancaster,12.8
+Pennsylvania,Lawrence,11.8
+Pennsylvania,Lebanon,12.5
+Pennsylvania,Lehigh,11.4
+Pennsylvania,Luzerne,9.4
+Pennsylvania,Lycoming,9.7
+Pennsylvania,McKean,8.7
+Pennsylvania,Mercer,10.8
+Pennsylvania,Mifflin,10.3
+Pennsylvania,Monroe,9.5
+Pennsylvania,Montgomery,10
+Pennsylvania,Montour,10.1
+Pennsylvania,Northampton,11.8
+Pennsylvania,Northumberland,10.7
+Pennsylvania,Perry,11.4
+Pennsylvania,Philadelphia,11.2
+Pennsylvania,Pike,8.2
+Pennsylvania,Potter,8.3
+Pennsylvania,Schuylkill,10.9
+Pennsylvania,Snyder,10.7
+Pennsylvania,Somerset,10.2
+Pennsylvania,Sullivan,8.3
+Pennsylvania,Susquehanna,8.5
+Pennsylvania,Tioga,8.5
+Pennsylvania,Union,10.4
+Pennsylvania,Venango,10.2
+Pennsylvania,Warren,9.1
+Pennsylvania,Washington,10.7
+Pennsylvania,Wayne,8.3
+Pennsylvania,Westmoreland,11.7
+Pennsylvania,Wyoming,8.7
+Pennsylvania,York,12.2
+Rhode Island,Bristol,7.8
+Rhode Island,Kent,7.6
+Rhode Island,Newport,7.5
+Rhode Island,Providence,8.3
+Rhode Island,Washington,7.6
+South Carolina,Abbeville,10
+South Carolina,Aiken,11.3
+South Carolina,Allendale,9.3
+South Carolina,Anderson,10.7
+South Carolina,Bamberg,9.4
+South Carolina,Barnwell,9.7
+South Carolina,Beaufort,8.8
+South Carolina,Berkeley,9.2
+South Carolina,Calhoun,9.6
+South Carolina,Charleston,9
+South Carolina,Cherokee,10.2
+South Carolina,Chester,9.9
+South Carolina,Chesterfield,9.4
+South Carolina,Clarendon,9.4
+South Carolina,Colleton,9
+South Carolina,Darlington,9.7
+South Carolina,Dillon,9.4
+South Carolina,Dorchester,9.2
+South Carolina,Edgefield,10.2
+South Carolina,Fairfield,9.7
+South Carolina,Florence,9.5
+South Carolina,Georgetown,8.6
+South Carolina,Greenville,10.2
+South Carolina,Greenwood,10
+South Carolina,Hampton,9.2
+South Carolina,Horry,9.1
+South Carolina,Jasper,9
+South Carolina,Kershaw,9.8
+South Carolina,Lancaster,10.3
+South Carolina,Laurens,10.4
+South Carolina,Lee,9.5
+South Carolina,Lexington,10
+South Carolina,Marion,9.2
+South Carolina,Marlboro,9.5
+South Carolina,McCormick,10
+South Carolina,Newberry,10
+South Carolina,Oconee,10
+South Carolina,Orangeburg,9.8
+South Carolina,Pickens,10.3
+South Carolina,Richland,9.8
+South Carolina,Saluda,9.9
+South Carolina,Spartanburg,9.9
+South Carolina,Sumter,9.7
+South Carolina,Union,10
+South Carolina,Williamsburg,9.1
+South Carolina,York,10.6
+South Dakota,Aurora,7.7
+South Dakota,Beadle,8.4
+South Dakota,Bennett,6.3
+South Dakota,Bon Homme,8.4
+South Dakota,Brookings,8.9
+South Dakota,Brown,8.2
+South Dakota,Brule,7.4
+South Dakota,Buffalo,7.3
+South Dakota,Butte,6.3
+South Dakota,Campbell,7
+South Dakota,Charles Mix,8
+South Dakota,Clark,8.2
+South Dakota,Clay,9.1
+South Dakota,Codington,8.5
+South Dakota,Corson,6.9
+South Dakota,Custer,6
+South Dakota,Davison,8.4
+South Dakota,Day,8.2
+South Dakota,Deuel,8.5
+South Dakota,Dewey,6.6
+South Dakota,Douglas,7.9
+South Dakota,Edmunds,7.7
+South Dakota,Fall River,6.3
+South Dakota,Faulk,7.5
+South Dakota,Grant,8.5
+South Dakota,Gregory,7.1
+South Dakota,Haakon,6.3
+South Dakota,Hamlin,8.6
+South Dakota,Hand,7.6
+South Dakota,Hanson,8.4
+South Dakota,Harding,5.8
+South Dakota,Hughes,7.2
+South Dakota,Hutchinson,8.6
+South Dakota,Hyde,7.3
+South Dakota,Jackson,6.4
+South Dakota,Jerauld,7.7
+South Dakota,Jones,6.6
+South Dakota,Kingsbury,8.6
+South Dakota,Lake,8.8
+South Dakota,Lawrence,6.3
+South Dakota,Lincoln,9.4
+South Dakota,Lyman,7.1
+South Dakota,Marshall,8
+South Dakota,McCook,8.7
+South Dakota,McPherson,7.3
+South Dakota,Meade,6.7
+South Dakota,Mellette,6.4
+South Dakota,Miner,8.4
+South Dakota,Minnehaha,9.4
+South Dakota,Moody,8.9
+South Dakota,Pennington,6.7
+South Dakota,Perkins,6.1
+South Dakota,Potter,7.1
+South Dakota,Roberts,8.6
+South Dakota,Sanborn,8.2
+South Dakota,Shannon,6.5
+South Dakota,Spink,8.3
+South Dakota,Stanley,6.6
+South Dakota,Sully,7.1
+South Dakota,Todd,6.5
+South Dakota,Tripp,6.8
+South Dakota,Turner,8.9
+South Dakota,Union,9.5
+South Dakota,Walworth,7.1
+South Dakota,Yankton,8.8
+South Dakota,Ziebach,6.3
+Tennessee,Anderson,10.7
+Tennessee,Bedford,10
+Tennessee,Benton,9.2
+Tennessee,Bledsoe,9.3
+Tennessee,Blount,10.1
+Tennessee,Bradley,10.5
+Tennessee,Campbell,10
+Tennessee,Cannon,9.4
+Tennessee,Carroll,9.6
+Tennessee,Carter,9.2
+Tennessee,Cheatham,10.1
+Tennessee,Chester,9.2
+Tennessee,Claiborne,10.1
+Tennessee,Clay,9.5
+Tennessee,Cocke,9.6
+Tennessee,Coffee,9.7
+Tennessee,Crockett,9.7
+Tennessee,Cumberland,9.6
+Tennessee,Davidson,10.5
+Tennessee,Decatur,9
+Tennessee,DeKalb,9.4
+Tennessee,Dickson,9.5
+Tennessee,Dyer,9.7
+Tennessee,Fayette,9.6
+Tennessee,Fentress,9.2
+Tennessee,Franklin,9.8
+Tennessee,Gibson,9.9
+Tennessee,Giles,10.3
+Tennessee,Grainger,10.4
+Tennessee,Greene,10.1
+Tennessee,Grundy,9.2
+Tennessee,Hamblen,10.5
+Tennessee,Hamilton,10.8
+Tennessee,Hancock,9.7
+Tennessee,Hardeman,9.3
+Tennessee,Hardin,9.2
+Tennessee,Hawkins,10.5
+Tennessee,Haywood,9.6
+Tennessee,Henderson,9.3
+Tennessee,Henry,9.6
+Tennessee,Hickman,9.2
+Tennessee,Houston,9.2
+Tennessee,Humphreys,9.2
+Tennessee,Jackson,9.5
+Tennessee,Jefferson,10.5
+Tennessee,Johnson,8.4
+Tennessee,Knox,11.4
+Tennessee,Lake,10
+Tennessee,Lauderdale,9.9
+Tennessee,Lawrence,9.5
+Tennessee,Lewis,8.8
+Tennessee,Lincoln,10.4
+Tennessee,Loudon,10.7
+Tennessee,Macon,9.8
+Tennessee,Madison,9.7
+Tennessee,Marion,9.9
+Tennessee,Marshall,9.9
+Tennessee,Maury,9.5
+Tennessee,McMinn,10.1
+Tennessee,McNairy,9.3
+Tennessee,Meigs,10.2
+Tennessee,Monroe,10.5
+Tennessee,Montgomery,9.5
+Tennessee,Moore,9.8
+Tennessee,Morgan,9.9
+Tennessee,Obion,10
+Tennessee,Overton,9.3
+Tennessee,Perry,8.7
+Tennessee,Pickett,9
+Tennessee,Polk,9.4
+Tennessee,Putnam,9.3
+Tennessee,Rhea,9.9
+Tennessee,Roane,10.3
+Tennessee,Robertson,10.5
+Tennessee,Rutherford,10.4
+Tennessee,Scott,9.4
+Tennessee,Sequatchie,9.4
+Tennessee,Sevier,10.2
+Tennessee,Shelby,9.8
+Tennessee,Smith,9.6
+Tennessee,Stewart,9.5
+Tennessee,Sullivan,10.1
+Tennessee,Sumner,10.4
+Tennessee,Tipton,10
+Tennessee,Trousdale,9.7
+Tennessee,Unicoi,8.7
+Tennessee,Union,10.3
+Tennessee,Van Buren,9
+Tennessee,Warren,9.3
+Tennessee,Washington,9.9
+Tennessee,Wayne,9.1
+Tennessee,Weakley,9.8
+Tennessee,White,9.3
+Tennessee,Williamson,10.2
+Tennessee,Wilson,10.5
+Texas,Anderson,9.2
+Texas,Andrews,7.2
+Texas,Angelina,9.3
+Texas,Aransas,7.7
+Texas,Archer,8
+Texas,Armstrong,6.8
+Texas,Atascosa,8.8
+Texas,Austin,9.3
+Texas,Bailey,7
+Texas,Bandera,8.2
+Texas,Bastrop,9.2
+Texas,Baylor,7.2
+Texas,Bee,8.2
+Texas,Bell,9.3
+Texas,Bexar,9.9
+Texas,Blanco,8.2
+Texas,Borden,6.9
+Texas,Bosque,8.8
+Texas,Bowie,10.1
+Texas,Brazoria,11.2
+Texas,Brazos,9.2
+Texas,Brewster,6.3
+Texas,Briscoe,6.8
+Texas,Brooks,7.6
+Texas,Brown,7.6
+Texas,Burleson,8.8
+Texas,Burnet,8.4
+Texas,Caldwell,9.1
+Texas,Calhoun,7.8
+Texas,Callahan,7.3
+Texas,Cameron,8.6
+Texas,Camp,9.7
+Texas,Carson,7.1
+Texas,Cass,10
+Texas,Castro,7.4
+Texas,Chambers,9.9
+Texas,Cherokee,9.5
+Texas,Childress,7.1
+Texas,Clay,8.2
+Texas,Cochran,6.9
+Texas,Coke,7
+Texas,Coleman,7.1
+Texas,Collin,10.8
+Texas,Collingsworth,7
+Texas,Colorado,8.7
+Texas,Comal,9.6
+Texas,Comanche,7.7
+Texas,Concho,6.7
+Texas,Cooke,9.7
+Texas,Coryell,8.7
+Texas,Cottle,6.8
+Texas,Crane,6.9
+Texas,Crockett,6.6
+Texas,Crosby,7.4
+Texas,Culberson,6
+Texas,Dallam,6.5
+Texas,Dallas,10.1
+Texas,Dawson,7.3
+Texas,Deaf Smith,7.2
+Texas,Delta,9.3
+Texas,Denton,10.9
+Texas,DeWitt,8.2
+Texas,Dickens,6.8
+Texas,Dimmit,7
+Texas,Donley,6.9
+Texas,Duval,7.5
+Texas,Eastland,7.6
+Texas,Ector,7.6
+Texas,Edwards,6.4
+Texas,El Paso,11.6
+Texas,Ellis,10.2
+Texas,Erath,8
+Texas,Falls,9.1
+Texas,Fannin,9.6
+Texas,Fayette,8.5
+Texas,Fisher,7.1
+Texas,Floyd,7.1
+Texas,Foard,7
+Texas,Fort Bend,11.4
+Texas,Franklin,9.6
+Texas,Freestone,9.2
+Texas,Frio,7.5
+Texas,Gaines,7.6
+Texas,Galveston,10.7
+Texas,Garza,6.9
+Texas,Gillespie,7.7
+Texas,Glasscock,6.9
+Texas,Goliad,7.9
+Texas,Gonzales,8.4
+Texas,Gray,7
+Texas,Grayson,10
+Texas,Gregg,10
+Texas,Grimes,9.6
+Texas,Guadalupe,9.7
+Texas,Hale,7.7
+Texas,Hall,6.8
+Texas,Hamilton,7.8
+Texas,Hansford,7.1
+Texas,Hardeman,7.2
+Texas,Hardin,9.6
+Texas,Harris,12
+Texas,Harrison,10.1
+Texas,Hartley,6.3
+Texas,Haskell,7.2
+Texas,Hays,9.5
+Texas,Hemphill,6.9
+Texas,Henderson,9.7
+Texas,Hidalgo,8.9
+Texas,Hill,9.4
+Texas,Hockley,7.7
+Texas,Hood,9
+Texas,Hopkins,9.6
+Texas,Houston,9.2
+Texas,Howard,7.3
+Texas,Hudspeth,6.5
+Texas,Hunt,9.9
+Texas,Hutchinson,7.1
+Texas,Irion,6.6
+Texas,Jack,8.1
+Texas,Jackson,8.2
+Texas,Jasper,9.2
+Texas,Jeff Davis,5.8
+Texas,Jefferson,10
+Texas,Jim Hogg,7.2
+Texas,Jim Wells,8.1
+Texas,Johnson,10.2
+Texas,Jones,7.5
+Texas,Karnes,8
+Texas,Kaufman,10.2
+Texas,Kendall,8.6
+Texas,Kenedy,7.3
+Texas,Kent,6.8
+Texas,Kerr,7.7
+Texas,Kimble,6.6
+Texas,King,6.8
+Texas,Kinney,6.6
+Texas,Kleberg,8.1
+Texas,Knox,7.2
+Texas,La Salle,6.9
+Texas,Lamar,9.5
+Texas,Lamb,7.6
+Texas,Lampasas,8.2
+Texas,Lavaca,8.3
+Texas,Lee,8.6
+Texas,Leon,9
+Texas,Liberty,10.5
+Texas,Limestone,9.1
+Texas,Lipscomb,7.1
+Texas,Live Oak,8.1
+Texas,Llano,8
+Texas,Loving,6.6
+Texas,Lubbock,8.2
+Texas,Lynn,7.4
+Texas,Madison,9.1
+Texas,Marion,9.9
+Texas,Martin,7.3
+Texas,Mason,7
+Texas,Matagorda,8.7
+Texas,Maverick,7.2
+Texas,McCulloch,7
+Texas,McLennan,9.6
+Texas,McMullen,7.2
+Texas,Medina,8.8
+Texas,Menard,6.6
+Texas,Midland,7.7
+Texas,Milam,8.9
+Texas,Mills,7.4
+Texas,Mitchell,7
+Texas,Montague,8.8
+Texas,Montgomery,11.4
+Texas,Moore,7
+Texas,Morris,9.7
+Texas,Motley,6.7
+Texas,Nacogdoches,9.5
+Texas,Navarro,9.4
+Texas,Newton,9.3
+Texas,Nolan,7.1
+Texas,Nueces,9.1
+Texas,Ochiltree,7.1
+Texas,Oldham,6.4
+Texas,Orange,9.8
+Texas,Palo Pinto,8.5
+Texas,Panola,9.8
+Texas,Parker,9.8
+Texas,Parmer,7.2
+Texas,Pecos,6.7
+Texas,Polk,9.4
+Texas,Potter,7.6
+Texas,Presidio,5.9
+Texas,Rains,9.4
+Texas,Randall,7.6
+Texas,Reagan,6.7
+Texas,Real,6.6
+Texas,Red River,9.5
+Texas,Reeves,6.6
+Texas,Refugio,7.7
+Texas,Roberts,6.8
+Texas,Robertson,9
+Texas,Rockwall,10.2
+Texas,Runnels,7.1
+Texas,Rusk,9.9
+Texas,Sabine,8.8
+Texas,San Augustine,8.9
+Texas,San Jacinto,9.7
+Texas,San Patricio,8.7
+Texas,San Saba,7.3
+Texas,Schleicher,6.6
+Texas,Scurry,7.1
+Texas,Shackelford,7.1
+Texas,Shelby,9.4
+Texas,Sherman,6.8
+Texas,Smith,9.9
+Texas,Somervell,8.4
+Texas,Starr,8
+Texas,Stephens,7.3
+Texas,Sterling,6.7
+Texas,Stonewall,6.9
+Texas,Sutton,6.5
+Texas,Swisher,7.3
+Texas,Tarrant,10.9
+Texas,Taylor,7.6
+Texas,Terrell,6.8
+Texas,Terry,7.4
+Texas,Throckmorton,7.1
+Texas,Titus,9.9
+Texas,Tom Green,7.2
+Texas,Travis,10
+Texas,Trinity,9.2
+Texas,Tyler,9
+Texas,Upshur,9.8
+Texas,Upton,6.9
+Texas,Uvalde,7.2
+Texas,Val Verde,7.2
+Texas,Van Zandt,9.7
+Texas,Victoria,8.4
+Texas,Walker,9.7
+Texas,Waller,10.3
+Texas,Ward,7
+Texas,Washington,9
+Texas,Webb,7.4
+Texas,Wharton,9
+Texas,Wheeler,7.1
+Texas,Wichita,8.5
+Texas,Wilbarger,7.5
+Texas,Willacy,8.1
+Texas,Williamson,9.8
+Texas,Wilson,9
+Texas,Winkler,6.9
+Texas,Wise,9.9
+Texas,Wood,9.7
+Texas,Yoakum,7.5
+Texas,Young,7.7
+Texas,Zapata,7.2
+Texas,Zavala,7.1
+Utah,Beaver,4.9
+Utah,Box Elder,7.9
+Utah,Cache,7.6
+Utah,Carbon,6.3
+Utah,Daggett,5.4
+Utah,Davis,8.7
+Utah,Duchesne,6.5
+Utah,Emery,5.9
+Utah,Garfield,4.7
+Utah,Grand,5.2
+Utah,Iron,5.1
+Utah,Juab,6.1
+Utah,Kane,4.8
+Utah,Millard,5.7
+Utah,Morgan,7.4
+Utah,Piute,4.7
+Utah,Rich,6.3
+Utah,Salt Lake,9.6
+Utah,San Juan,5.2
+Utah,Sanpete,6
+Utah,Sevier,5.2
+Utah,Summit,7.5
+Utah,Tooele,7
+Utah,Uintah,6.5
+Utah,Utah,8.7
+Utah,Wasatch,7.1
+Utah,Washington,5.8
+Utah,Wayne,4.7
+Utah,Weber,9
+Vermont,Addison,7.5
+Vermont,Bennington,7.1
+Vermont,Caledonia,7.1
+Vermont,Chittenden,8
+Vermont,Essex,6.8
+Vermont,Franklin,8.3
+Vermont,Grand Isle,8.2
+Vermont,Lamoille,7.2
+Vermont,Orange,7.5
+Vermont,Orleans,7.4
+Vermont,Rutland,7.9
+Vermont,Washington,7.4
+Vermont,Windham,7.6
+Vermont,Windsor,7.7
+Virginia,Accomack,8.1
+Virginia,Albemarle,8.6
+Virginia,Alexandria,10
+Virginia,Alleghany,8.7
+Virginia,Amelia,8.5
+Virginia,Amherst,8.8
+Virginia,Appomattox,8.5
+Virginia,Arlington,10.1
+Virginia,Augusta,9
+Virginia,Bath,7.9
+Virginia,Bedford,9.3
+Virginia,Bedford City,8.8
+Virginia,Bland,8.4
+Virginia,Botetourt,9.1
+Virginia,Bristol,9.3
+Virginia,Brunswick,8.6
+Virginia,Buchanan,9.3
+Virginia,Buckingham,8.4
+Virginia,Buena Vista,8.4
+Virginia,Campbell,9.1
+Virginia,Caroline,8.8
+Virginia,Carroll,8.6
+Virginia,Charles City,8.6
+Virginia,Charlotte,8.6
+Virginia,Charlottesville,8.7
+Virginia,Chesapeake,8.8
+Virginia,Chesterfield,9.3
+Virginia,Clarke,9.6
+Virginia,Colonial Heights,9
+Virginia,Covington,8.5
+Virginia,Craig,8.3
+Virginia,Culpeper,8.8
+Virginia,Cumberland,8.3
+Virginia,Danville,9.1
+Virginia,Dickenson,9.2
+Virginia,Dinwiddie,8.9
+Virginia,Emporia,8.5
+Virginia,Essex,8.3
+Virginia,Fairfax,8.8
+Virginia,Fairfax City,9.9
+Virginia,Falls Church,10.1
+Virginia,Fauquier,9.3
+Virginia,Floyd,8.5
+Virginia,Fluvanna,8.5
+Virginia,Franklin,9.1
+Virginia,Franklin City,8.2
+Virginia,Frederick,9.7
+Virginia,Fredericksburg,8.7
+Virginia,Galax,8.3
+Virginia,Giles,8.6
+Virginia,Gloucester,8.3
+Virginia,Goochland,8.9
+Virginia,Grayson,8.4
+Virginia,Greene,8.6
+Virginia,Greensville,8.6
+Virginia,Halifax,9
+Virginia,Hampton,8.4
+Virginia,Hanover,9.3
+Virginia,Harrisonburg,9.1
+Virginia,Henrico,8.8
+Virginia,Henry,9.1
+Virginia,Highland,7.7
+Virginia,Hopewell,9
+Virginia,Isle of Wight,8.6
+Virginia,James City,8.4
+Virginia,King and Queen,8.3
+Virginia,King George,8.5
+Virginia,King William,8.7
+Virginia,Lancaster,8
+Virginia,Lee,9.6
+Virginia,Lexington,8.4
+Virginia,Loudoun,10
+Virginia,Louisa,8.7
+Virginia,Lunenburg,8.5
+Virginia,Lynchburg,8.8
+Virginia,Madison,8.5
+Virginia,Manassas,9.5
+Virginia,Manassas Park,9.5
+Virginia,Martinsville,8.9
+Virginia,Mathews,8
+Virginia,Mecklenburg,8.9
+Virginia,Middlesex,8.2
+Virginia,Montgomery,8.9
+Virginia,Nelson,8.4
+Virginia,New Kent,8.7
+Virginia,Newport News,8.6
+Virginia,Norfolk,8.6
+Virginia,Northampton,7.8
+Virginia,Northumberland,8
+Virginia,Norton,8.9
+Virginia,Nottoway,8.5
+Virginia,Orange,8.8
+Virginia,Page,8.7
+Virginia,Patrick,8.6
+Virginia,Petersburg,8.9
+Virginia,Pittsylvania,9.3
+Virginia,Poquoson,8.3
+Virginia,Portsmouth,8.7
+Virginia,Powhatan,8.7
+Virginia,Prince Edward,8.4
+Virginia,Prince George,9
+Virginia,Prince William,9.7
+Virginia,Pulaski,8.8
+Virginia,Radford,8.7
+Virginia,Rappahannock,8.5
+Virginia,Richmond,8.1
+Virginia,Richmond City,9.4
+Virginia,Roanoke,9.2
+Virginia,Roanoke City,9
+Virginia,Rockbridge,8.6
+Virginia,Rockingham,9.1
+Virginia,Russell,9.2
+Virginia,Salem,9
+Virginia,Scott,10
+Virginia,Shenandoah,9.1
+Virginia,Smyth,8.6
+Virginia,Southampton,8.5
+Virginia,Spotsylvania,8.9
+Virginia,Stafford,9
+Virginia,Staunton,8.7
+Virginia,Suffolk,8.7
+Virginia,Surry,8.2
+Virginia,Sussex,8.6
+Virginia,Tazewell,8.8
+Virginia,Virginia Beach,8.3
+Virginia,Warren,9.1
+Virginia,Washington,9.4
+Virginia,Waynesboro,8.7
+Virginia,Westmoreland,8.3
+Virginia,Williamsburg,8.2
+Virginia,Winchester,9.6
+Virginia,Wise,9.3
+Virginia,Wythe,8.6
+Virginia,York,8.5
+Washington,Adams,7.2
+Washington,Asotin,7.2
+Washington,Benton,7.8
+Washington,Chelan,6.8
+Washington,Clallam,5.6
+Washington,Clark,8.6
+Washington,Columbia,6.1
+Washington,Cowlitz,7
+Washington,Douglas,6.8
+Washington,Ferry,5.2
+Washington,Franklin,7.8
+Washington,Garfield,6.2
+Washington,Grant,7.5
+Washington,Grays Harbor,5.6
+Washington,Island,7.9
+Washington,Jefferson,6.4
+Washington,King,8.8
+Washington,Kitsap,8.2
+Washington,Kittitas,6.8
+Washington,Klickitat,6.1
+Washington,Lewis,6.7
+Washington,Lincoln,6.6
+Washington,Mason,6.4
+Washington,Okanogan,5.6
+Washington,Pacific,5.2
+Washington,Pend Oreille,6.3
+Washington,Pierce,7.6
+Washington,San Juan,7.3
+Washington,Skagit,7.7
+Washington,Skamania,6.3
+Washington,Snohomish,9.1
+Washington,Spokane,8
+Washington,Stevens,6.7
+Washington,Thurston,7.3
+Washington,Wahkiakum,5.4
+Washington,Walla Walla,7.2
+Washington,Whatcom,8.9
+Washington,Whitman,7.3
+Washington,Yakima,7.5
+West Virginia,Barbour,8.7
+West Virginia,Berkeley,10.7
+West Virginia,Boone,9.6
+West Virginia,Braxton,8.9
+West Virginia,Brooke,11.4
+West Virginia,Cabell,10.7
+West Virginia,Calhoun,9.3
+West Virginia,Clay,9.1
+West Virginia,Doddridge,9.5
+West Virginia,Fayette,9.3
+West Virginia,Gilmer,9.1
+West Virginia,Grant,8.4
+West Virginia,Greenbrier,8.6
+West Virginia,Hampshire,9.1
+West Virginia,Hancock,11.1
+West Virginia,Hardy,8.6
+West Virginia,Harrison,9.6
+West Virginia,Jackson,10.4
+West Virginia,Jefferson,10.5
+West Virginia,Kanawha,10.6
+West Virginia,Lewis,9.1
+West Virginia,Lincoln,10
+West Virginia,Logan,9.5
+West Virginia,Marion,9.9
+West Virginia,Marshall,11
+West Virginia,Mason,10.9
+West Virginia,McDowell,9.1
+West Virginia,Mercer,8.6
+West Virginia,Mineral,9.3
+West Virginia,Mingo,9.6
+West Virginia,Monongalia,9.6
+West Virginia,Monroe,8.5
+West Virginia,Morgan,9.8
+West Virginia,Nicholas,8.9
+West Virginia,Ohio,10.7
+West Virginia,Pendleton,8.1
+West Virginia,Pleasants,10.1
+West Virginia,Pocahontas,8
+West Virginia,Preston,9.2
+West Virginia,Putnam,10.6
+West Virginia,Raleigh,8.8
+West Virginia,Randolph,8.3
+West Virginia,Ritchie,9.7
+West Virginia,Roane,9.7
+West Virginia,Summers,8.5
+West Virginia,Taylor,9.3
+West Virginia,Tucker,8.3
+West Virginia,Tyler,10.2
+West Virginia,Upshur,8.7
+West Virginia,Wayne,10.7
+West Virginia,Webster,8.2
+West Virginia,Wetzel,10.3
+West Virginia,Wirt,9.7
+West Virginia,Wood,10.7
+West Virginia,Wyoming,9
+Wisconsin,Adams,9.3
+Wisconsin,Ashland,7.4
+Wisconsin,Barron,8.8
+Wisconsin,Bayfield,7.4
+Wisconsin,Brown,8.8
+Wisconsin,Buffalo,9.6
+Wisconsin,Burnett,8.6
+Wisconsin,Calumet,9.6
+Wisconsin,Chippewa,9.2
+Wisconsin,Clark,8.8
+Wisconsin,Columbia,9.9
+Wisconsin,Crawford,9.6
+Wisconsin,Dane,9.5
+Wisconsin,Dodge,9.8
+Wisconsin,Door,8.4
+Wisconsin,Douglas,8.3
+Wisconsin,Dunn,9.4
+Wisconsin,Eau Claire,9.3
+Wisconsin,Florence,7.3
+Wisconsin,Fond du Lac,9.7
+Wisconsin,Forest,7.4
+Wisconsin,Grant,9.9
+Wisconsin,Green,10.2
+Wisconsin,Green Lake,9.4
+Wisconsin,Iowa,9.7
+Wisconsin,Iron,7.3
+Wisconsin,Jackson,9.2
+Wisconsin,Jefferson,10.5
+Wisconsin,Juneau,9.3
+Wisconsin,Kenosha,10.6
+Wisconsin,Kewaunee,8.7
+Wisconsin,La Crosse,9.4
+Wisconsin,Lafayette,10
+Wisconsin,Langlade,8.1
+Wisconsin,Lincoln,8.2
+Wisconsin,Manitowoc,9.4
+Wisconsin,Marathon,8.9
+Wisconsin,Marinette,8.5
+Wisconsin,Marquette,9.4
+Wisconsin,Menominee,8.3
+Wisconsin,Milwaukee,10.7
+Wisconsin,Monroe,9.2
+Wisconsin,Oconto,8.7
+Wisconsin,Oneida,7.7
+Wisconsin,Outagamie,8.9
+Wisconsin,Ozaukee,9.8
+Wisconsin,Pepin,9.5
+Wisconsin,Pierce,10.1
+Wisconsin,Polk,9.3
+Wisconsin,Portage,9.1
+Wisconsin,Price,7.7
+Wisconsin,Racine,11
+Wisconsin,Richland,9.3
+Wisconsin,Rock,10.7
+Wisconsin,Rusk,8.3
+Wisconsin,Sauk,9.5
+Wisconsin,Sawyer,7.9
+Wisconsin,Shawano,8.9
+Wisconsin,Sheboygan,9.6
+Wisconsin,St. Croix,10.1
+Wisconsin,Taylor,8.4
+Wisconsin,Trempealeau,9.5
+Wisconsin,Vernon,9.4
+Wisconsin,Vilas,7.2
+Wisconsin,Walworth,10.9
+Wisconsin,Washburn,8.2
+Wisconsin,Washington,10.1
+Wisconsin,Waukesha,10.7
+Wisconsin,Waupaca,9.2
+Wisconsin,Waushara,9.2
+Wisconsin,Winnebago,9.7
+Wisconsin,Wood,9.1
+Wyoming,Albany,5.8
+Wyoming,Big Horn,6.4
+Wyoming,Campbell,7.9
+Wyoming,Carbon,5.7
+Wyoming,Converse,6.7
+Wyoming,Crook,6.5
+Wyoming,Fremont,7.5
+Wyoming,Goshen,7
+Wyoming,Hot Springs,5.9
+Wyoming,Johnson,6.1
+Wyoming,Laramie,6.7
+Wyoming,Lincoln,6.9
+Wyoming,Natrona,6.4
+Wyoming,Niobrara,6
+Wyoming,Park,6.3
+Wyoming,Platte,6.3
+Wyoming,Sheridan,7.4
+Wyoming,Sublette,6.5
+Wyoming,Sweetwater,7.1
+Wyoming,Teton,6.3
+Wyoming,Uinta,6.7
+Wyoming,Washakie,6.4
+Wyoming,Weston,6.7
